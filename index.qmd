@@ -1,0 +1,14 @@
+---
+title: "Topics in Economics"
+listing:
+  id: sample-listings
+  type: table
+  sort-ui: false
+  filter-ui: false
+  contents: 
+    - session_0/index.qmd
+    - session_1/index.qmd
+  sort: date
+  fields: [date, title]
+---
+

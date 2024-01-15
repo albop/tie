@@ -1,0 +1,17 @@
+project:
+  type: website
+
+website:
+  title: "Topics in Economics"
+  search: false
+  sidebar:
+      style: "docked"
+      contents:
+      - session_0/index.qmd
+      - session_1/index.qmd
+
+format:
+  html:
+    theme: default
+    css: styles.css
+    toc: true
