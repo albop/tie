@@ -1,0 +1,529 @@
+[
+  {
+    "objectID": "session_1/index.html#how-do-you-see-the-future-of-ai",
+    "href": "session_1/index.html#how-do-you-see-the-future-of-ai",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "How do you see the future of AI ?",
+    "text": "How do you see the future of AI ?\n\n\n\n\n\nScience Fiction has explored many issues associated with AI.\n\nwhat happens to individuals, markets, firms, government?\nwho wins, who looses?\n\nVery often economic future is bleak…\nWhy is that so?"
+  },
+  {
+    "objectID": "session_1/index.html#what-is-ai-1",
+    "href": "session_1/index.html#what-is-ai-1",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "What is AI",
+    "text": "What is AI\n\nAI can be:\n\na field\na set of technologies including\n\nmachine learning\ndeep learning\nreinforcement learning\n\na philosophical concept\n\nUsual definition of AI:\n\nmimic human intelligence:\n\nproblem solving: achieve goal without being explicitly told how\nlearning: gets better over time\n\nwithout emotions"
+  },
+  {
+    "objectID": "session_1/index.html#how-to-make-the-difference-between-a-robot-and-a",
+    "href": "session_1/index.html#how-to-make-the-difference-between-a-robot-and-a",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "How to make the difference between a robot and a ?",
+    "text": "How to make the difference between a robot and a ?\n\nCheck whether it thinks like a human being\nTuring test:\n\na machine discussing with a human must be recognized as a 7 years old human 50% of the time\ncan machines emulate human behaviour?\n\nChinese Room thought experiment:\n\nhow to differentiate somebody who speaks chinese and somebody who follows rules to speak?\nturing test cannot determine whether machines think\n\nWhat do you think of these tests?"
+  },
+  {
+    "objectID": "session_1/index.html#impress-me",
+    "href": "session_1/index.html#impress-me",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "Impress me?",
+    "text": "Impress me?\n\nSo, what can machines do that is really intelligent?\n\nspeech recognition, language translation\ndrive a car\nplay chess better than a human\nplay go, better than a humman, without being a specialist, by learning on its own\ncreate, imagine\nhave empathy\ntalk"
+  },
+  {
+    "objectID": "session_1/index.html#ai-effect",
+    "href": "session_1/index.html#ai-effect",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "AI effect",
+    "text": "AI effect\n\npeople have a way to discount achievments of AI as “not AI”\n\nbecause not impressive enough\nbecause humans do it in “a different way”\n\nLarry Tesler theorem: “AI is whatever hasn’t been done yet”\nNick Bostrom: “once something becomes useful enough and common enough it’s not labeled AI anymore”\nkeep human special\n\ninterestingly that didn’t seem to be a concern before the 70s"
+  },
+  {
+    "objectID": "session_1/index.html#this-time-its-different-or-same-old-same-old",
+    "href": "session_1/index.html#this-time-its-different-or-same-old-same-old",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "“This Time it’s Different” or “Same old, same old…”?",
+    "text": "“This Time it’s Different” or “Same old, same old…”?"
+  },
+  {
+    "objectID": "session_1/index.html#the-neoclassical-production-function",
+    "href": "session_1/index.html#the-neoclassical-production-function",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "The (neo)classical production function",
+    "text": "The (neo)classical production function\nWhat are its main properties?\n\nproduction takes several factors as inputs\n\ncapital\nlabour\n… (natural resources, land, …)\n\neach factor has a market price\nmarginal returns w.r.t. each factor are decreasing\nfactors are paid according to their marginal productivity\nthe technology is the particular process through which inputs are combined"
+  },
+  {
+    "objectID": "session_1/index.html#ai-and-the-neoclassical-production-function",
+    "href": "session_1/index.html#ai-and-the-neoclassical-production-function",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "AI and the (neo)classical production function",
+    "text": "AI and the (neo)classical production function\n\n\nthe precise description depends on the problem under consideration\nwhat could you change to take into account the effect of AI?\n\ndata, technological change ?"
+  },
+  {
+    "objectID": "session_1/index.html#three-hypotheses-about-the-economic-nature-of-ai",
+    "href": "session_1/index.html#three-hypotheses-about-the-economic-nature-of-ai",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "Three hypotheses about the economic nature of AI",
+    "text": "Three hypotheses about the economic nature of AI\n\nA technological change\nA new kind of factor: Data\nYet another kind of factor: Robots\nSomething else Completely"
+  },
+  {
+    "objectID": "session_1/index.html#section",
+    "href": "session_1/index.html#section",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "",
+    "text": "Ajy Agrawal, Joshua Gans and Avi Goldfarb: Prediction Machines: The Simple Economics of Artificial Intelligence 2018"
+  },
+  {
+    "objectID": "session_1/index.html#prediction-machines",
+    "href": "session_1/index.html#prediction-machines",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "Prediction Machines",
+    "text": "Prediction Machines\n\n\nmany production tasks can be formulated as prediction problems\nexemples:\n\nregression, classification: predict Y as a function of X\nstudent -&gt; pass or fail ?\nshould I invest in A or B ?\neven chatbot: what is the appropriate continuation for an ongoing conversation?"
+  },
+  {
+    "objectID": "session_1/index.html#will-i-loose-my-job",
+    "href": "session_1/index.html#will-i-loose-my-job",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "Will I loose my job ?",
+    "text": "Will I loose my job ?\n\nAI is a decrease in the cost of predictions\nThe demand for all prediction-intensive tasks will rise (law of demand)\nThe salary of workers with prediction-intensive tasks will rise (market price)\nValue of other tasks will fall (general equilibrium effect)\nMore precisely:\n\ndemand for tasks that are substitute to predictions will be low\ndemand for tasks that are complement to predictions will be high"
+  },
+  {
+    "objectID": "session_1/index.html#data-is-a-factor-not-a-technology",
+    "href": "session_1/index.html#data-is-a-factor-not-a-technology",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "Data is a factor not a technology",
+    "text": "Data is a factor not a technology\n\nData is a factor, not a technology\n\nCan you explain it ?\n\nThe difference between an idea and a factor? Exemples:\n\nidea: use machine learning to build self driving cars\nfactor: each car-maker gathering his own data to train cars\n\nData (even anonymous) improves quality of existing products"
+  },
+  {
+    "objectID": "session_1/index.html#what-kind-of-good-is-data",
+    "href": "session_1/index.html#what-kind-of-good-is-data",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "What kind of good is data ?",
+    "text": "What kind of good is data ?\n\n\nRemember the classification of goods?\n\nnonrival: can be used with leftovers\nexcludable: use can be limited to paying customers\ndata is a: club good\n\nNonrivality implies increasing returns to scale\nmarginal value of new data increases more than proportionnally"
+  },
+  {
+    "objectID": "session_1/index.html#ai-adds-data-to-the-production-function-consequences",
+    "href": "session_1/index.html#ai-adds-data-to-the-production-function-consequences",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "AI: adds data to the production function (consequences)",
+    "text": "AI: adds data to the production function (consequences)\n\n\nincreasing returns to scale implies natural monopoly\n\n-&gt;GAFAMs\nincreasing suboptimal monopoly rents (already a problem before existence of AI…)\nshould you regulate a monopoly?\n\nit depends what is the barrier to entry: data-gathering or data-processing\n\n\nother relevant questions\n\nwhere are the markets? (empirically it seems “undertraded”)\nwho owns the data ? Consumer, producer."
+  },
+  {
+    "objectID": "session_1/index.html#how-do-you-regulate-a-data-monopoly",
+    "href": "session_1/index.html#how-do-you-regulate-a-data-monopoly",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "How do you regulate a Data-monopoly ?",
+    "text": "How do you regulate a Data-monopoly ?\n\n\nsolutions:\n\nsplit the monopolies (if deadweight loss is too big)\noutlaw data gathering (big productivity loss)\nforce data-sharing: make it a public good\nlet the consumer be free to decide whether to rent his data (remove externalitiess)"
+  },
+  {
+    "objectID": "session_1/index.html#economic-singularity",
+    "href": "session_1/index.html#economic-singularity",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "Economic singularity",
+    "text": "Economic singularity\n\n\nIn the very long run, could technology be bad?\nRecall the neoclassical world\n\nmarket economy\ntechnological progress reduces production cost\nalways good for consumers. Increase (real) total income.\nbecomes an inequality problem\n\nBut\n\nwhether technology reduces salaries depends on whether growth is labour augmenting or capital augmenting\nif AI is a close enough substitute, salaries of “humans” as a whole are at risk\nthe is an economic singularity when salary of humans arrives below the subsistance level"
+  },
+  {
+    "objectID": "session_1/index.html#some-very-long-run-scenarios",
+    "href": "session_1/index.html#some-very-long-run-scenarios",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "Some very long run scenarios",
+    "text": "Some very long run scenarios\n\n\nAnalysis taken from Gilles Saint Paul\nMain hypothesis: all humans can be replaced by more productive robots\nComparative advantage logic:\n\nhumans specialize in work where their comparative disadvantage is lowest (services, art, crafting…)"
+  },
+  {
+    "objectID": "session_1/index.html#scenario-1-society-redistributes-income-from-robots",
+    "href": "session_1/index.html#scenario-1-society-redistributes-income-from-robots",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "Scenario 1: society redistributes income from robots",
+    "text": "Scenario 1: society redistributes income from robots\nFour political subscenarios:\n\n\n \nWelfare state\n\nrobot-owners are taxed, income is redistributed\nfor instance as universal income\nsome productivity losses\nwhat about international competitivity?\n\n  Rentiers society\n\nrobot owners invest the rent over many generations\ncapital concentration increases\n\n\n   \nNeo fordism\n\nfirms pay huge salaries for essentially useless jobs (powerpoint presentations, 😉 …)\nuseful to sustain demand\n\n \nNew roman empire\n\nrobot owners: patricians (top 2%)\nrest of population: plebeians\n\nsurvive thanks to clientelism\n\nrobots: slaves"
+  },
+  {
+    "objectID": "session_1/index.html#scenario-2-wars-starvation-epidemic",
+    "href": "session_1/index.html#scenario-2-wars-starvation-epidemic",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "Scenario 2: wars, starvation, epidemic",
+    "text": "Scenario 2: wars, starvation, epidemic\n\n\n\n  \n\nhuman income (marginal productivity) falls below subsistance levels\nmalthusian effect: population growth decreases\nnot unheard of (Leontieff): consider population of draft horses"
+  },
+  {
+    "objectID": "session_1/index.html#scenario-3-the-matrix",
+    "href": "session_1/index.html#scenario-3-the-matrix",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "Scenario 3: the Matrix",
+    "text": "Scenario 3: the Matrix\n\n\nhuman wage decrease\nsubsistance level decrease dramatically too"
+  },
+  {
+    "objectID": "session_1/index.html#conclusion",
+    "href": "session_1/index.html#conclusion",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "Conclusion",
+    "text": "Conclusion\n\nResearch on AI is very speculative: especially about the long run\nBut concepts from classical economics still help\nFor next time:\n\nmake sure you understand all concepts in bold"
+  },
+  {
+    "objectID": "session_1/index.html#more-readings",
+    "href": "session_1/index.html#more-readings",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "More Readings",
+    "text": "More Readings\n\nChad Jones and Christopher Tonetti: Nonrivalry and the Economics of Data, American Economic Review\nAvi GoldFarb: Prediction Machines: The Simple Economics of Artificial Intelligence 2018\nGilles Saint Paul: Robots Vers la fin du travail ?\nAnton Korinek, Joseph E. Stiglitz: Artificial Intelligence and Its Implications for Income Distribution and Unemployment, chapter in Artificial Intelligence and Its Implications …, NBER\n\nalso on coursera"
+  },
+  {
+    "objectID": "session_1/index_handout.html",
+    "href": "session_1/index_handout.html",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "",
+    "text": "Will only appear in HTML.\n\n\n. . .\n\n. . .\n\nScience Fiction has explored many issues associated with AI.\n\nwhat happens to individuals, markets, firms, government?\nwho wins, who looses?\n\nVery often economic future is bleak…\nWhy is that so?",
+    "crumbs": [
+      "The Rise of Artificial Intelligence"
+    ]
+  },
+  {
+    "objectID": "session_1/index_handout.html#how-do-you-see-the-future-of-ai",
+    "href": "session_1/index_handout.html#how-do-you-see-the-future-of-ai",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "",
+    "text": ". . .\n\n. . .\n\nScience Fiction has explored many issues associated with AI.\n\nwhat happens to individuals, markets, firms, government?\nwho wins, who looses?\n\nVery often economic future is bleak…\nWhy is that so?",
+    "crumbs": [
+      "The Rise of Artificial Intelligence"
+    ]
+  },
+  {
+    "objectID": "session_1/index_handout.html#what-is-ai-1",
+    "href": "session_1/index_handout.html#what-is-ai-1",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "What is AI",
+    "text": "What is AI\n\nAI can be:\n\na field\na set of technologies including\n\nmachine learning\ndeep learning\nreinforcement learning\n\na philosophical concept\n\nUsual definition of AI:\n\nmimic human intelligence:\n\nproblem solving: achieve goal without being explicitly told how\nlearning: gets better over time\n\nwithout emotions",
+    "crumbs": [
+      "The Rise of Artificial Intelligence"
+    ]
+  },
+  {
+    "objectID": "session_1/index_handout.html#how-to-make-the-difference-between-a-robot-and-a",
+    "href": "session_1/index_handout.html#how-to-make-the-difference-between-a-robot-and-a",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "How to make the difference between a robot and a ?",
+    "text": "How to make the difference between a robot and a ?\n\nCheck whether it thinks like a human being\nTuring test:\n\na machine discussing with a human must be recognized as a 7 years old human 50% of the time\ncan machines emulate human behaviour?\n\nChinese Room thought experiment:\n\nhow to differentiate somebody who speaks chinese and somebody who follows rules to speak?\nturing test cannot determine whether machines think\n\nWhat do you think of these tests?",
+    "crumbs": [
+      "The Rise of Artificial Intelligence"
+    ]
+  },
+  {
+    "objectID": "session_1/index_handout.html#impress-me",
+    "href": "session_1/index_handout.html#impress-me",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "Impress me?",
+    "text": "Impress me?\n\nSo, what can machines do that is really intelligent?\n\nspeech recognition, language translation\ndrive a car\nplay chess better than a human\nplay go, better than a humman, without being a specialist, by learning on its own\ncreate, imagine\nhave empathy\ntalk",
+    "crumbs": [
+      "The Rise of Artificial Intelligence"
+    ]
+  },
+  {
+    "objectID": "session_1/index_handout.html#ai-effect",
+    "href": "session_1/index_handout.html#ai-effect",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "AI effect",
+    "text": "AI effect\n\npeople have a way to discount achievments of AI as “not AI”\n\nbecause not impressive enough\nbecause humans do it in “a different way”\n\nLarry Tesler theorem: “AI is whatever hasn’t been done yet”\nNick Bostrom: “once something becomes useful enough and common enough it’s not labeled AI anymore”\nkeep human special\n\ninterestingly that didn’t seem to be a concern before the 70s",
+    "crumbs": [
+      "The Rise of Artificial Intelligence"
+    ]
+  },
+  {
+    "objectID": "session_1/index_handout.html#this-time-its-different-or-same-old-same-old",
+    "href": "session_1/index_handout.html#this-time-its-different-or-same-old-same-old",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "“This Time it’s Different” or “Same old, same old…”?",
+    "text": "“This Time it’s Different” or “Same old, same old…”?",
+    "crumbs": [
+      "The Rise of Artificial Intelligence"
+    ]
+  },
+  {
+    "objectID": "session_1/index_handout.html#the-neoclassical-production-function",
+    "href": "session_1/index_handout.html#the-neoclassical-production-function",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "The (neo)classical production function",
+    "text": "The (neo)classical production function\nWhat are its main properties?\n\nproduction takes several factors as inputs\n\ncapital\nlabour\n… (natural resources, land, …)\n\neach factor has a market price\nmarginal returns w.r.t. each factor are decreasing\nfactors are paid according to their marginal productivity\nthe technology is the particular process through which inputs are combined",
+    "crumbs": [
+      "The Rise of Artificial Intelligence"
+    ]
+  },
+  {
+    "objectID": "session_1/index_handout.html#ai-and-the-neoclassical-production-function",
+    "href": "session_1/index_handout.html#ai-and-the-neoclassical-production-function",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "AI and the (neo)classical production function",
+    "text": "AI and the (neo)classical production function\n\n\nthe precise description depends on the problem under consideration\nwhat could you change to take into account the effect of AI?\n\ndata, technological change ?",
+    "crumbs": [
+      "The Rise of Artificial Intelligence"
+    ]
+  },
+  {
+    "objectID": "session_1/index_handout.html#three-hypotheses-about-the-economic-nature-of-ai",
+    "href": "session_1/index_handout.html#three-hypotheses-about-the-economic-nature-of-ai",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "Three hypotheses about the economic nature of AI",
+    "text": "Three hypotheses about the economic nature of AI\n\nA technological change\nA new kind of factor: Data\nYet another kind of factor: Robots\nSomething else Completely",
+    "crumbs": [
+      "The Rise of Artificial Intelligence"
+    ]
+  },
+  {
+    "objectID": "session_1/index_handout.html#section",
+    "href": "session_1/index_handout.html#section",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "",
+    "text": "Ajy Agrawal, Joshua Gans and Avi Goldfarb: Prediction Machines: The Simple Economics of Artificial Intelligence 2018",
+    "crumbs": [
+      "The Rise of Artificial Intelligence"
+    ]
+  },
+  {
+    "objectID": "session_1/index_handout.html#prediction-machines",
+    "href": "session_1/index_handout.html#prediction-machines",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "Prediction Machines",
+    "text": "Prediction Machines\n\n\nmany production tasks can be formulated as prediction problems\nexemples:\n\nregression, classification: predict Y as a function of X\nstudent -&gt; pass or fail ?\nshould I invest in A or B ?\neven chatbot: what is the appropriate continuation for an ongoing conversation?",
+    "crumbs": [
+      "The Rise of Artificial Intelligence"
+    ]
+  },
+  {
+    "objectID": "session_1/index_handout.html#will-i-loose-my-job",
+    "href": "session_1/index_handout.html#will-i-loose-my-job",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "Will I loose my job ?",
+    "text": "Will I loose my job ?\n\nAI is a decrease in the cost of predictions\nThe demand for all prediction-intensive tasks will rise (law of demand)\nThe salary of workers with prediction-intensive tasks will rise (market price)\nValue of other tasks will fall (general equilibrium effect)\nMore precisely:\n\ndemand for tasks that are substitute to predictions will be low\ndemand for tasks that are complement to predictions will be high",
+    "crumbs": [
+      "The Rise of Artificial Intelligence"
+    ]
+  },
+  {
+    "objectID": "session_1/index_handout.html#data-is-a-factor-not-a-technology",
+    "href": "session_1/index_handout.html#data-is-a-factor-not-a-technology",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "Data is a factor not a technology",
+    "text": "Data is a factor not a technology\n\nData is a factor, not a technology\n\nCan you explain it ?\n\nThe difference between an idea and a factor? Exemples:\n\nidea: use machine learning to build self driving cars\nfactor: each car-maker gathering his own data to train cars\n\nData (even anonymous) improves quality of existing products",
+    "crumbs": [
+      "The Rise of Artificial Intelligence"
+    ]
+  },
+  {
+    "objectID": "session_1/index_handout.html#what-kind-of-good-is-data",
+    "href": "session_1/index_handout.html#what-kind-of-good-is-data",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "What kind of good is data ?",
+    "text": "What kind of good is data ?\n\n\nRemember the classification of goods?\n\nnonrival: can be used with leftovers\nexcludable: use can be limited to paying customers\ndata is a: club good\n\nNonrivality implies increasing returns to scale\nmarginal value of new data increases more than proportionnally",
+    "crumbs": [
+      "The Rise of Artificial Intelligence"
+    ]
+  },
+  {
+    "objectID": "session_1/index_handout.html#ai-adds-data-to-the-production-function-consequences",
+    "href": "session_1/index_handout.html#ai-adds-data-to-the-production-function-consequences",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "AI: adds data to the production function (consequences)",
+    "text": "AI: adds data to the production function (consequences)\n\n\nincreasing returns to scale implies natural monopoly\n\n-&gt;GAFAMs\nincreasing suboptimal monopoly rents (already a problem before existence of AI…)\nshould you regulate a monopoly?\n\nit depends what is the barrier to entry: data-gathering or data-processing\n\n\nother relevant questions\n\nwhere are the markets? (empirically it seems “undertraded”)\nwho owns the data ? Consumer, producer.",
+    "crumbs": [
+      "The Rise of Artificial Intelligence"
+    ]
+  },
+  {
+    "objectID": "session_1/index_handout.html#how-do-you-regulate-a-data-monopoly",
+    "href": "session_1/index_handout.html#how-do-you-regulate-a-data-monopoly",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "How do you regulate a Data-monopoly ?",
+    "text": "How do you regulate a Data-monopoly ?\n\n\nsolutions:\n\nsplit the monopolies (if deadweight loss is too big)\noutlaw data gathering (big productivity loss)\nforce data-sharing: make it a public good\nlet the consumer be free to decide whether to rent his data (remove externalitiess)",
+    "crumbs": [
+      "The Rise of Artificial Intelligence"
+    ]
+  },
+  {
+    "objectID": "session_1/index_handout.html#economic-singularity",
+    "href": "session_1/index_handout.html#economic-singularity",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "Economic singularity",
+    "text": "Economic singularity\n\n\nIn the very long run, could technology be bad?\nRecall the neoclassical world\n\nmarket economy\ntechnological progress reduces production cost\nalways good for consumers. Increase (real) total income.\nbecomes an inequality problem\n\nBut\n\nwhether technology reduces salaries depends on whether growth is labour augmenting or capital augmenting\nif AI is a close enough substitute, salaries of “humans” as a whole are at risk\nthe is an economic singularity when salary of humans arrives below the subsistance level\n\n\n\n\n  \n\nTwo sets of authors reach very similar conclusions\n\nAnton Korinek and Joseph Stiglitz (left): more complete/technical\nGilles Saint Paul (right): more political economy",
+    "crumbs": [
+      "The Rise of Artificial Intelligence"
+    ]
+  },
+  {
+    "objectID": "session_1/index_handout.html#some-very-long-run-scenarios",
+    "href": "session_1/index_handout.html#some-very-long-run-scenarios",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "Some very long run scenarios",
+    "text": "Some very long run scenarios\n\n\nAnalysis taken from Gilles Saint Paul\nMain hypothesis: all humans can be replaced by more productive robots\nComparative advantage logic:\n\nhumans specialize in work where their comparative disadvantage is lowest (services, art, crafting…)",
+    "crumbs": [
+      "The Rise of Artificial Intelligence"
+    ]
+  },
+  {
+    "objectID": "session_1/index_handout.html#scenario-1-society-redistributes-income-from-robots",
+    "href": "session_1/index_handout.html#scenario-1-society-redistributes-income-from-robots",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "Scenario 1: society redistributes income from robots",
+    "text": "Scenario 1: society redistributes income from robots\nFour political subscenarios:\n\n\n \nWelfare state\n\nrobot-owners are taxed, income is redistributed\nfor instance as universal income\nsome productivity losses\nwhat about international competitivity?\n\n  Rentiers society\n\nrobot owners invest the rent over many generations\ncapital concentration increases\n\n\n   \nNeo fordism\n\nfirms pay huge salaries for essentially useless jobs (powerpoint presentations, 😉 …)\nuseful to sustain demand\n\n \nNew roman empire\n\nrobot owners: patricians (top 2%)\nrest of population: plebeians\n\nsurvive thanks to clientelism\n\nrobots: slaves",
+    "crumbs": [
+      "The Rise of Artificial Intelligence"
+    ]
+  },
+  {
+    "objectID": "session_1/index_handout.html#scenario-2-wars-starvation-epidemic",
+    "href": "session_1/index_handout.html#scenario-2-wars-starvation-epidemic",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "Scenario 2: wars, starvation, epidemic",
+    "text": "Scenario 2: wars, starvation, epidemic\n\n\n\n  \n\nhuman income (marginal productivity) falls below subsistance levels\nmalthusian effect: population growth decreases\nnot unheard of (Leontieff): consider population of draft horses",
+    "crumbs": [
+      "The Rise of Artificial Intelligence"
+    ]
+  },
+  {
+    "objectID": "session_1/index_handout.html#scenario-3-the-matrix",
+    "href": "session_1/index_handout.html#scenario-3-the-matrix",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "Scenario 3: the Matrix",
+    "text": "Scenario 3: the Matrix\n\n\nhuman wage decrease\nsubsistance level decrease dramatically too",
+    "crumbs": [
+      "The Rise of Artificial Intelligence"
+    ]
+  },
+  {
+    "objectID": "session_1/index_handout.html#conclusion",
+    "href": "session_1/index_handout.html#conclusion",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "Conclusion",
+    "text": "Conclusion\n\nResearch on AI is very speculative: especially about the long run\nBut concepts from classical economics still help\nFor next time:\n\nmake sure you understand all concepts in bold",
+    "crumbs": [
+      "The Rise of Artificial Intelligence"
+    ]
+  },
+  {
+    "objectID": "session_1/index_handout.html#more-readings",
+    "href": "session_1/index_handout.html#more-readings",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "More Readings",
+    "text": "More Readings\n\nChad Jones and Christopher Tonetti: Nonrivalry and the Economics of Data, American Economic Review\nAvi GoldFarb: Prediction Machines: The Simple Economics of Artificial Intelligence 2018\nGilles Saint Paul: Robots Vers la fin du travail ?\nAnton Korinek, Joseph E. Stiglitz: Artificial Intelligence and Its Implications for Income Distribution and Unemployment, chapter in Artificial Intelligence and Its Implications …, NBER\n\nalso on coursera",
+    "crumbs": [
+      "The Rise of Artificial Intelligence"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "session_0/index_handout.html",
+    "href": "session_0/index_handout.html",
+    "title": "General Introduction",
+    "section": "",
+    "text": "Pablo Winant\n\n\n\n\nProfessional experience\n\nIMF\nBank of England\n\nTeaching\n\nESCP Business School\nEcole Polytechnique\n\nResearch\n\ninequalities\ninternational finance\nmonetary policy\ncomputational economics\nartificial intelligence\n\n\n\n\n\n\n\n\nStart with hot topics\n\ne.g. ChatGPT, job market, ecological transition, …\n\nConnect with economic fields and theories\n\nthey appear in bold\nmake sure you understand their meaning\n\nTry to think outside of the box\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWikipedia\n\n\n\nEconomics is a social science that studies the production, distribution, and consumption of goods and services.\n\n\n. . .\n\n\n\n\n\n\nAmerican Economic Association\n\n\n\nAmerican Economic Association: It can be defined in different ways. It’s the study of scarcity, the study of how people use resources and respond to incentives, or the study of decision-making. It often involves topics like wealth and finance, but it’s not all about money.\n\n\n. . .\n\n\n\n\n\n\nRedux\n\n\n\nEconomics studies people’s decisions and interactions, usually through markets but not always\n\n\n. . .\nCheck AEA website and research highlights for many examples of economic applications.\n\n\n\nIMHO, what makes economic special is economic reasoning\nTODO\n\n\n\n\nEvaluation\n\ngroup work (40%)\n\nrecord a 5 min video developing one particular point of the course\n\nfinal exam (in-class) (60%)\n\nmcq on econ concepts\nvery short essay based on documents\n\nongoing (up to 20% bonus/malus)\n\nparticipation & behaviour\nmini-tasks\n\n\n\n\n\n\n\nLet’s go",
+    "crumbs": [
+      "General Introduction"
+    ]
+  },
+  {
+    "objectID": "session_0/index_handout.html#about-myself",
+    "href": "session_0/index_handout.html#about-myself",
+    "title": "General Introduction",
+    "section": "",
+    "text": "Pablo Winant\n\n\n\n\nProfessional experience\n\nIMF\nBank of England\n\nTeaching\n\nESCP Business School\nEcole Polytechnique\n\nResearch\n\ninequalities\ninternational finance\nmonetary policy\ncomputational economics\nartificial intelligence",
+    "crumbs": [
+      "General Introduction"
+    ]
+  },
+  {
+    "objectID": "session_0/index_handout.html#this-course",
+    "href": "session_0/index_handout.html#this-course",
+    "title": "General Introduction",
+    "section": "",
+    "text": "Start with hot topics\n\ne.g. ChatGPT, job market, ecological transition, …\n\nConnect with economic fields and theories\n\nthey appear in bold\nmake sure you understand their meaning\n\nTry to think outside of the box",
+    "crumbs": [
+      "General Introduction"
+    ]
+  },
+  {
+    "objectID": "session_0/index_handout.html#how-do-you-define-economics",
+    "href": "session_0/index_handout.html#how-do-you-define-economics",
+    "title": "General Introduction",
+    "section": "",
+    "text": "Wikipedia\n\n\n\nEconomics is a social science that studies the production, distribution, and consumption of goods and services.\n\n\n. . .\n\n\n\n\n\n\nAmerican Economic Association\n\n\n\nAmerican Economic Association: It can be defined in different ways. It’s the study of scarcity, the study of how people use resources and respond to incentives, or the study of decision-making. It often involves topics like wealth and finance, but it’s not all about money.\n\n\n. . .\n\n\n\n\n\n\nRedux\n\n\n\nEconomics studies people’s decisions and interactions, usually through markets but not always\n\n\n. . .\nCheck AEA website and research highlights for many examples of economic applications.",
+    "crumbs": [
+      "General Introduction"
+    ]
+  },
+  {
+    "objectID": "session_0/index_handout.html#an-example-of-economic-reasoning",
+    "href": "session_0/index_handout.html#an-example-of-economic-reasoning",
+    "title": "General Introduction",
+    "section": "",
+    "text": "IMHO, what makes economic special is economic reasoning\nTODO",
+    "crumbs": [
+      "General Introduction"
+    ]
+  },
+  {
+    "objectID": "session_0/index_handout.html#logistics",
+    "href": "session_0/index_handout.html#logistics",
+    "title": "General Introduction",
+    "section": "",
+    "text": "Evaluation\n\ngroup work (40%)\n\nrecord a 5 min video developing one particular point of the course\n\nfinal exam (in-class) (60%)\n\nmcq on econ concepts\nvery short essay based on documents\n\nongoing (up to 20% bonus/malus)\n\nparticipation & behaviour\nmini-tasks",
+    "crumbs": [
+      "General Introduction"
+    ]
+  },
+  {
+    "objectID": "session_0/index_handout.html#section-1",
+    "href": "session_0/index_handout.html#section-1",
+    "title": "General Introduction",
+    "section": "",
+    "text": "Let’s go",
+    "crumbs": [
+      "General Introduction"
+    ]
+  },
+  {
+    "objectID": "session_0/index.html#about-myself",
+    "href": "session_0/index.html#about-myself",
+    "title": "General Introduction",
+    "section": "About myself",
+    "text": "About myself\n\n\n\n\n\nPablo Winant\n\n\n\n\nProfessional experience\n\nIMF\nBank of England\n\nTeaching\n\nESCP Business School\nEcole Polytechnique\n\nResearch\n\ninequalities\ninternational finance\nmonetary policy\ncomputational economics\nartificial intelligence"
+  },
+  {
+    "objectID": "session_0/index.html#this-course",
+    "href": "session_0/index.html#this-course",
+    "title": "General Introduction",
+    "section": "This course",
+    "text": "This course\n\nStart with hot topics\n\ne.g. ChatGPT, job market, ecological transition, …\n\nConnect with economic fields and theories\n\nthey appear in bold\nmake sure you understand their meaning\n\nTry to think outside of the box"
+  },
+  {
+    "objectID": "session_0/index.html#how-do-you-define-economics",
+    "href": "session_0/index.html#how-do-you-define-economics",
+    "title": "General Introduction",
+    "section": "How do you define “Economics” ?",
+    "text": "How do you define “Economics” ?\n\n\n\n\n\n\n\nWikipedia\n\n\nEconomics is a social science that studies the production, distribution, and consumption of goods and services.\n\n\n\n\n\n\n\n\n\n\n\n\nAmerican Economic Association\n\n\nAmerican Economic Association: It can be defined in different ways. It’s the study of scarcity, the study of how people use resources and respond to incentives, or the study of decision-making. It often involves topics like wealth and finance, but it’s not all about money.\n\n\n\n\n\n\n\n\n\n\n\n\n\nRedux\n\n\nEconomics studies people’s decisions and interactions, usually through markets but not always\n\n\n\n\n\n\nCheck AEA website and research highlights for many examples of economic applications."
+  },
+  {
+    "objectID": "session_0/index.html#an-example-of-economic-reasoning",
+    "href": "session_0/index.html#an-example-of-economic-reasoning",
+    "title": "General Introduction",
+    "section": "An example of economic reasoning?",
+    "text": "An example of economic reasoning?\nIMHO, what makes economic special is economic reasoning\nTODO"
+  },
+  {
+    "objectID": "session_0/index.html#logistics",
+    "href": "session_0/index.html#logistics",
+    "title": "General Introduction",
+    "section": "Logistics",
+    "text": "Logistics\n\nEvaluation\n\ngroup work (40%)\n\nrecord a 5 min video developing one particular point of the course\n\nfinal exam (in-class) (60%)\n\nmcq on econ concepts\nvery short essay based on documents\n\nongoing (up to 20% bonus/malus)\n\nparticipation & behaviour\nmini-tasks"
+  },
+  {
+    "objectID": "session_0/index.html#section-1",
+    "href": "session_0/index.html#section-1",
+    "title": "General Introduction",
+    "section": "",
+    "text": "Let’s go"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Topics in Economics",
+    "section": "",
+    "text": "Date\n\n\nTitle\n\n\n\n\n\n\nJan 15, 2024\n\n\nGeneral Introduction\n\n\n\n\nJan 15, 2024\n\n\nThe Rise of Artificial Intelligence\n\n\n\n\n\nNo matching items"
+  }
+]
