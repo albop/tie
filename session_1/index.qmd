@@ -74,13 +74,15 @@ Will only appear in HTML.
   - speech recognition, language translation
   - drive a car
   - play chess better than a human
-  - play go, better than a humman, without being a specialist, by learning on its own
+  - play go, better than a human, without being a specialist, by learning on its own
   - [create](https://thispersondoesnotexist.com/), [imagine](http://www.yaronhadad.com/deep-learning-most-amazing-applications/)
   - have [empathy](https://replika.ai/)
   - talk
+  - reason
+  - ... create movies
   
 
-## AI effect
+<!-- ## AI effect
 
 - people have a way to discount achievments of AI as "not AI"
   - because not impressive enough
@@ -89,7 +91,7 @@ Will only appear in HTML.
 - Nick Bostrom: "once something becomes useful enough and common enough it's not labeled AI anymore"
 - keep human special
   - interestingly that didn't seem to be a concern before the 70s
-
+ -->
 
 
 # The Classical View
@@ -99,6 +101,10 @@ Will only appear in HTML.
 
 ![David Ricardo](Ricardo.jpg){width=33%}
 ![Adam Smith](smith.webp){width=33%}
+
+. . . 
+
+Do you remember the neoclassical production function?
 
   
 ##  The (neo)classical production function

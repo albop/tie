@@ -8,7 +8,9 @@ listing:
   contents: 
     - session_0/index.qmd
     - session_1/index.qmd
+    - session_2/index.qmd
   sort: date
   fields: [date, title]
 ---
+
 
