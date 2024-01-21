@@ -1,0 +1,32 @@
+---
+title: "AI and the Labour Market"
+date: 2024/01/22
+subtitle: Topics in Economics, ESCP, 2023-2024
+author: Pablo Winant
+format:
+  revealjs:
+    width: 1920
+    height: 1080
+    menu:
+      side: left
+      width: normal
+  html:
+    output-file: index_handout.html
+
+---
+
+![](cnn.webp){width=40%}
+
+. . . 
+
+From CNN: *‘Jobs may disappear’: Nearly 40% of global employment could be disrupted by AI, IMF says*
+
+. . . 
+
+🤔 How do they know that?
+
+---
+
+![](wip.png)
+
+Come back next week.
