@@ -158,307 +158,707 @@
     "href": "session_1/index_handout.html",
     "title": "The Rise of Artificial Intelligence",
     "section": "",
-    "text": "Will only appear in HTML.\n\n\n. . .\n\n. . .\n\nScience Fiction has explored many issues associated with AI.\n\nwhat happens to individuals, markets, firms, government?\nwho wins, who looses?\n\nVery often economic future is bleak…\nWhy is that so?",
-    "crumbs": [
-      "The Rise of Artificial Intelligence"
-    ]
+    "text": "Will only appear in HTML.\n\n\n. . .\n\n. . .\n\nScience Fiction has explored many issues associated with AI.\n\nwhat happens to individuals, markets, firms, government?\nwho wins, who looses?\n\nVery often economic future is bleak…\nWhy is that so?"
   },
   {
     "objectID": "session_1/index_handout.html#how-do-you-see-the-future-of-ai",
     "href": "session_1/index_handout.html#how-do-you-see-the-future-of-ai",
     "title": "The Rise of Artificial Intelligence",
     "section": "",
-    "text": ". . .\n\n. . .\n\nScience Fiction has explored many issues associated with AI.\n\nwhat happens to individuals, markets, firms, government?\nwho wins, who looses?\n\nVery often economic future is bleak…\nWhy is that so?",
-    "crumbs": [
-      "The Rise of Artificial Intelligence"
-    ]
+    "text": ". . .\n\n. . .\n\nScience Fiction has explored many issues associated with AI.\n\nwhat happens to individuals, markets, firms, government?\nwho wins, who looses?\n\nVery often economic future is bleak…\nWhy is that so?"
   },
   {
     "objectID": "session_1/index_handout.html#what-is-ai-1",
     "href": "session_1/index_handout.html#what-is-ai-1",
     "title": "The Rise of Artificial Intelligence",
     "section": "What is AI",
-    "text": "What is AI\n\nAI can be:\n\na field\na set of technologies including\n\nmachine learning\ndeep learning\nreinforcement learning\n\na philosophical concept\n\nUsual definition of AI:\n\nmimic human intelligence:\n\nproblem solving: achieve goal without being explicitly told how\nlearning: gets better over time\n\nwithout emotions",
-    "crumbs": [
-      "The Rise of Artificial Intelligence"
-    ]
+    "text": "What is AI\n\nAI can be:\n\na field\na set of technologies including\n\nmachine learning\ndeep learning\nreinforcement learning\n\na philosophical concept\n\nUsual definition of AI:\n\nmimic human intelligence:\n\nproblem solving: achieve goal without being explicitly told how\nlearning: gets better over time\n\nwithout emotions"
   },
   {
     "objectID": "session_1/index_handout.html#how-to-make-the-difference-between-a-robot-and-a",
     "href": "session_1/index_handout.html#how-to-make-the-difference-between-a-robot-and-a",
     "title": "The Rise of Artificial Intelligence",
     "section": "How to make the difference between a robot and a ?",
-    "text": "How to make the difference between a robot and a ?\n\nCheck whether it thinks like a human being\nTuring test:\n\na machine discussing with a human must be recognized as a 7 years old human 50% of the time\ncan machines emulate human behaviour?\n\nChinese Room thought experiment:\n\nhow to differentiate somebody who speaks chinese and somebody who follows rules to speak?\nturing test cannot determine whether machines think\n\nWhat do you think of these tests?",
-    "crumbs": [
-      "The Rise of Artificial Intelligence"
-    ]
+    "text": "How to make the difference between a robot and a ?\n\nCheck whether it thinks like a human being\nTuring test:\n\na machine discussing with a human must be recognized as a 7 years old human 50% of the time\ncan machines emulate human behaviour?\n\nChinese Room thought experiment:\n\nhow to differentiate somebody who speaks chinese and somebody who follows rules to speak?\nturing test cannot determine whether machines think\n\nWhat do you think of these tests?"
   },
   {
     "objectID": "session_1/index_handout.html#impress-me",
     "href": "session_1/index_handout.html#impress-me",
     "title": "The Rise of Artificial Intelligence",
     "section": "Impress me?",
-    "text": "Impress me?\n\nSo, what can machines do that is really intelligent?\n\nspeech recognition, language translation\ndrive a car\nplay chess better than a human\nplay go, better than a human, without being a specialist, by learning on its own\ncreate, imagine\nhave empathy\ntalk\nreason\n… create movies",
-    "crumbs": [
-      "The Rise of Artificial Intelligence"
-    ]
+    "text": "Impress me?\n\nSo, what can machines do that is really intelligent?\n\nspeech recognition, language translation\ndrive a car\nplay chess better than a human\nplay go, better than a human, without being a specialist, by learning on its own\ncreate, imagine\nhave empathy\ntalk\nreason\n… create movies"
   },
   {
     "objectID": "session_1/index_handout.html#this-time-its-different-or-same-old-same-old",
     "href": "session_1/index_handout.html#this-time-its-different-or-same-old-same-old",
     "title": "The Rise of Artificial Intelligence",
     "section": "“This Time it’s Different” or “Same old, same old…”?",
-    "text": "“This Time it’s Different” or “Same old, same old…”?\n \n. . .\nDo you remember the neoclassical production function?",
-    "crumbs": [
-      "The Rise of Artificial Intelligence"
-    ]
+    "text": "“This Time it’s Different” or “Same old, same old…”?\n \n. . .\nDo you remember the neoclassical production function?"
   },
   {
     "objectID": "session_1/index_handout.html#the-neoclassical-production-function",
     "href": "session_1/index_handout.html#the-neoclassical-production-function",
     "title": "The Rise of Artificial Intelligence",
     "section": "The (neo)classical production function",
-    "text": "The (neo)classical production function\nWhat are its main properties?\n\nproduction takes several factors as inputs\n\ncapital\nlabour\n… (natural resources, land, …)\n\neach factor has a market price\nmarginal returns w.r.t. each factor are decreasing\nfactors are paid according to their marginal productivity\nthe technology is the particular process through which inputs are combined",
-    "crumbs": [
-      "The Rise of Artificial Intelligence"
-    ]
+    "text": "The (neo)classical production function\nWhat are its main properties?\n\nproduction takes several factors as inputs\n\ncapital\nlabour\n… (natural resources, land, …)\n\neach factor has a market price\nmarginal returns w.r.t. each factor are decreasing\nfactors are paid according to their marginal productivity\nthe technology is the particular process through which inputs are combined"
   },
   {
     "objectID": "session_1/index_handout.html#ai-and-the-neoclassical-production-function",
     "href": "session_1/index_handout.html#ai-and-the-neoclassical-production-function",
     "title": "The Rise of Artificial Intelligence",
     "section": "AI and the (neo)classical production function",
-    "text": "AI and the (neo)classical production function\n\n\nthe precise description depends on the problem under consideration\nwhat could you change to take into account the effect of AI?\n\ndata, technological change ?",
-    "crumbs": [
-      "The Rise of Artificial Intelligence"
-    ]
+    "text": "AI and the (neo)classical production function\n\n\nthe precise description depends on the problem under consideration\nwhat could you change to take into account the effect of AI?\n\ndata, technological change ?"
   },
   {
     "objectID": "session_1/index_handout.html#three-hypotheses-about-the-economic-nature-of-ai",
     "href": "session_1/index_handout.html#three-hypotheses-about-the-economic-nature-of-ai",
     "title": "The Rise of Artificial Intelligence",
     "section": "Three hypotheses about the economic nature of AI",
-    "text": "Three hypotheses about the economic nature of AI\n\nA technological change\nA new kind of factor: Data\nYet another kind of factor: Robots\nSomething else Completely",
-    "crumbs": [
-      "The Rise of Artificial Intelligence"
-    ]
+    "text": "Three hypotheses about the economic nature of AI\n\nA technological change\nA new kind of factor: Data\nYet another kind of factor: Robots\nSomething else Completely"
   },
   {
     "objectID": "session_1/index_handout.html#section",
     "href": "session_1/index_handout.html#section",
     "title": "The Rise of Artificial Intelligence",
     "section": "",
-    "text": "Ajy Agrawal, Joshua Gans and Avi Goldfarb: Prediction Machines: The Simple Economics of Artificial Intelligence 2018",
-    "crumbs": [
-      "The Rise of Artificial Intelligence"
-    ]
+    "text": "Ajy Agrawal, Joshua Gans and Avi Goldfarb: Prediction Machines: The Simple Economics of Artificial Intelligence 2018"
   },
   {
     "objectID": "session_1/index_handout.html#prediction-machines",
     "href": "session_1/index_handout.html#prediction-machines",
     "title": "The Rise of Artificial Intelligence",
     "section": "Prediction Machines",
-    "text": "Prediction Machines\n\n\nmany production tasks can be formulated as prediction problems\nexemples:\n\nregression, classification: predict Y as a function of X\nstudent -&gt; pass or fail ?\nshould I invest in A or B ?\neven chatbot: what is the appropriate continuation for an ongoing conversation?",
-    "crumbs": [
-      "The Rise of Artificial Intelligence"
-    ]
+    "text": "Prediction Machines\n\n\nmany production tasks can be formulated as prediction problems\nexemples:\n\nregression, classification: predict Y as a function of X\nstudent -&gt; pass or fail ?\nshould I invest in A or B ?\neven chatbot: what is the appropriate continuation for an ongoing conversation?"
   },
   {
     "objectID": "session_1/index_handout.html#will-i-loose-my-job",
     "href": "session_1/index_handout.html#will-i-loose-my-job",
     "title": "The Rise of Artificial Intelligence",
     "section": "Will I loose my job ?",
-    "text": "Will I loose my job ?\n\nAI is a decrease in the cost of predictions\nThe demand for all prediction-intensive tasks will rise (law of demand)\nThe salary of workers with prediction-intensive tasks will rise (market price)\nValue of other tasks will fall (general equilibrium effect)\nMore precisely:\n\ndemand for tasks that are substitute to predictions will be low\ndemand for tasks that are complement to predictions will be high",
-    "crumbs": [
-      "The Rise of Artificial Intelligence"
-    ]
+    "text": "Will I loose my job ?\n\nAI is a decrease in the cost of predictions\nThe demand for all prediction-intensive tasks will rise (law of demand)\nThe salary of workers with prediction-intensive tasks will rise (market price)\nValue of other tasks will fall (general equilibrium effect)\nMore precisely:\n\ndemand for tasks that are substitute to predictions will be low\ndemand for tasks that are complement to predictions will be high"
   },
   {
     "objectID": "session_1/index_handout.html#data-is-a-factor-not-a-technology",
     "href": "session_1/index_handout.html#data-is-a-factor-not-a-technology",
     "title": "The Rise of Artificial Intelligence",
     "section": "Data is a factor not a technology",
-    "text": "Data is a factor not a technology\n\nData is a factor, not a technology\n\nCan you explain it ?\n\nThe difference between an idea and a factor? Exemples:\n\nidea: use machine learning to build self driving cars\nfactor: each car-maker gathering his own data to train cars\n\nData (even anonymous) improves quality of existing products",
-    "crumbs": [
-      "The Rise of Artificial Intelligence"
-    ]
+    "text": "Data is a factor not a technology\n\nData is a factor, not a technology\n\nCan you explain it ?\n\nThe difference between an idea and a factor? Exemples:\n\nidea: use machine learning to build self driving cars\nfactor: each car-maker gathering his own data to train cars\n\nData (even anonymous) improves quality of existing products"
   },
   {
     "objectID": "session_1/index_handout.html#what-kind-of-good-is-data",
     "href": "session_1/index_handout.html#what-kind-of-good-is-data",
     "title": "The Rise of Artificial Intelligence",
     "section": "What kind of good is data ?",
-    "text": "What kind of good is data ?\n\n\nRemember the classification of goods?\n\nnonrival: can be used with leftovers\nexcludable: use can be limited to paying customers\ndata is a: club good\n\nNonrivality implies increasing returns to scale\nmarginal value of new data increases more than proportionnally",
-    "crumbs": [
-      "The Rise of Artificial Intelligence"
-    ]
+    "text": "What kind of good is data ?\n\n\nRemember the classification of goods?\n\nnonrival: can be used with leftovers\nexcludable: use can be limited to paying customers\ndata is a: club good\n\nNonrivality implies increasing returns to scale\nmarginal value of new data increases more than proportionnally"
   },
   {
     "objectID": "session_1/index_handout.html#ai-adds-data-to-the-production-function-consequences",
     "href": "session_1/index_handout.html#ai-adds-data-to-the-production-function-consequences",
     "title": "The Rise of Artificial Intelligence",
     "section": "AI: adds data to the production function (consequences)",
-    "text": "AI: adds data to the production function (consequences)\n\n\nincreasing returns to scale implies natural monopoly\n\n-&gt;GAFAMs\nincreasing suboptimal monopoly rents (already a problem before existence of AI…)\nshould you regulate a monopoly?\n\nit depends what is the barrier to entry: data-gathering or data-processing\n\n\nother relevant questions\n\nwhere are the markets? (empirically it seems “undertraded”)\nwho owns the data ? Consumer, producer.",
-    "crumbs": [
-      "The Rise of Artificial Intelligence"
-    ]
+    "text": "AI: adds data to the production function (consequences)\n\n\nincreasing returns to scale implies natural monopoly\n\n-&gt;GAFAMs\nincreasing suboptimal monopoly rents (already a problem before existence of AI…)\nshould you regulate a monopoly?\n\nit depends what is the barrier to entry: data-gathering or data-processing\n\n\nother relevant questions\n\nwhere are the markets? (empirically it seems “undertraded”)\nwho owns the data ? Consumer, producer."
   },
   {
     "objectID": "session_1/index_handout.html#how-do-you-regulate-a-data-monopoly",
     "href": "session_1/index_handout.html#how-do-you-regulate-a-data-monopoly",
     "title": "The Rise of Artificial Intelligence",
     "section": "How do you regulate a Data-monopoly ?",
-    "text": "How do you regulate a Data-monopoly ?\n\n\nsolutions:\n\nsplit the monopolies (if deadweight loss is too big)\noutlaw data gathering (big productivity loss)\nforce data-sharing: make it a public good\nlet the consumer be free to decide whether to rent his data (remove externalitiess)",
-    "crumbs": [
-      "The Rise of Artificial Intelligence"
-    ]
+    "text": "How do you regulate a Data-monopoly ?\n\n\nsolutions:\n\nsplit the monopolies (if deadweight loss is too big)\noutlaw data gathering (big productivity loss)\nforce data-sharing: make it a public good\nlet the consumer be free to decide whether to rent his data (remove externalitiess)"
   },
   {
     "objectID": "session_1/index_handout.html#economic-singularity",
     "href": "session_1/index_handout.html#economic-singularity",
     "title": "The Rise of Artificial Intelligence",
     "section": "Economic singularity",
-    "text": "Economic singularity\n\n\nIn the very long run, could technology be bad?\nRecall the neoclassical world\n\nmarket economy\ntechnological progress reduces production cost\nalways good for consumers. Increase (real) total income.\nbecomes an inequality problem\n\nBut\n\nwhether technology reduces salaries depends on whether growth is labour augmenting or capital augmenting\nif AI is a close enough substitute, salaries of “humans” as a whole are at risk\nthe is an economic singularity when salary of humans arrives below the subsistance level\n\n\n\n\n  \n\nTwo sets of authors reach very similar conclusions\n\nAnton Korinek and Joseph Stiglitz (left): more complete/technical\nGilles Saint Paul (right): more political economy",
-    "crumbs": [
-      "The Rise of Artificial Intelligence"
-    ]
+    "text": "Economic singularity\n\n\nIn the very long run, could technology be bad?\nRecall the neoclassical world\n\nmarket economy\ntechnological progress reduces production cost\nalways good for consumers. Increase (real) total income.\nbecomes an inequality problem\n\nBut\n\nwhether technology reduces salaries depends on whether growth is labour augmenting or capital augmenting\nif AI is a close enough substitute, salaries of “humans” as a whole are at risk\nthe is an economic singularity when salary of humans arrives below the subsistance level\n\n\n\n\n  \n\nTwo sets of authors reach very similar conclusions\n\nAnton Korinek and Joseph Stiglitz (left): more complete/technical\nGilles Saint Paul (right): more political economy"
   },
   {
     "objectID": "session_1/index_handout.html#some-very-long-run-scenarios",
     "href": "session_1/index_handout.html#some-very-long-run-scenarios",
     "title": "The Rise of Artificial Intelligence",
     "section": "Some very long run scenarios",
-    "text": "Some very long run scenarios\n\n\nAnalysis taken from Gilles Saint Paul\nMain hypothesis: all humans can be replaced by more productive robots\nComparative advantage logic:\n\nhumans specialize in work where their comparative disadvantage is lowest (services, art, crafting…)",
-    "crumbs": [
-      "The Rise of Artificial Intelligence"
-    ]
+    "text": "Some very long run scenarios\n\n\nAnalysis taken from Gilles Saint Paul\nMain hypothesis: all humans can be replaced by more productive robots\nComparative advantage logic:\n\nhumans specialize in work where their comparative disadvantage is lowest (services, art, crafting…)"
   },
   {
     "objectID": "session_1/index_handout.html#scenario-1-society-redistributes-income-from-robots",
     "href": "session_1/index_handout.html#scenario-1-society-redistributes-income-from-robots",
     "title": "The Rise of Artificial Intelligence",
     "section": "Scenario 1: society redistributes income from robots",
-    "text": "Scenario 1: society redistributes income from robots\nFour political subscenarios:\n\n\n \nWelfare state\n\nrobot-owners are taxed, income is redistributed\nfor instance as universal income\nsome productivity losses\nwhat about international competitivity?\n\n  Rentiers society\n\nrobot owners invest the rent over many generations\ncapital concentration increases\n\n\n   \nNeo fordism\n\nfirms pay huge salaries for essentially useless jobs (powerpoint presentations, 😉 …)\nuseful to sustain demand\n\n \nNew roman empire\n\nrobot owners: patricians (top 2%)\nrest of population: plebeians\n\nsurvive thanks to clientelism\n\nrobots: slaves",
-    "crumbs": [
-      "The Rise of Artificial Intelligence"
-    ]
+    "text": "Scenario 1: society redistributes income from robots\nFour political subscenarios:\n\n\n \nWelfare state\n\nrobot-owners are taxed, income is redistributed\nfor instance as universal income\nsome productivity losses\nwhat about international competitivity?\n\n  Rentiers society\n\nrobot owners invest the rent over many generations\ncapital concentration increases\n\n\n   \nNeo fordism\n\nfirms pay huge salaries for essentially useless jobs (powerpoint presentations, 😉 …)\nuseful to sustain demand\n\n \nNew roman empire\n\nrobot owners: patricians (top 2%)\nrest of population: plebeians\n\nsurvive thanks to clientelism\n\nrobots: slaves"
   },
   {
     "objectID": "session_1/index_handout.html#scenario-2-wars-starvation-epidemic",
     "href": "session_1/index_handout.html#scenario-2-wars-starvation-epidemic",
     "title": "The Rise of Artificial Intelligence",
     "section": "Scenario 2: wars, starvation, epidemic",
-    "text": "Scenario 2: wars, starvation, epidemic\n\n\n\n  \n\nhuman income (marginal productivity) falls below subsistance levels\nmalthusian effect: population growth decreases\nnot unheard of (Leontieff): consider population of draft horses",
-    "crumbs": [
-      "The Rise of Artificial Intelligence"
-    ]
+    "text": "Scenario 2: wars, starvation, epidemic\n\n\n\n  \n\nhuman income (marginal productivity) falls below subsistance levels\nmalthusian effect: population growth decreases\nnot unheard of (Leontieff): consider population of draft horses"
   },
   {
     "objectID": "session_1/index_handout.html#scenario-3-the-matrix",
     "href": "session_1/index_handout.html#scenario-3-the-matrix",
     "title": "The Rise of Artificial Intelligence",
     "section": "Scenario 3: the Matrix",
-    "text": "Scenario 3: the Matrix\n\n\nhuman wage decrease\nsubsistance level decrease dramatically too",
-    "crumbs": [
-      "The Rise of Artificial Intelligence"
-    ]
+    "text": "Scenario 3: the Matrix\n\n\nhuman wage decrease\nsubsistance level decrease dramatically too"
   },
   {
     "objectID": "session_1/index_handout.html#conclusion",
     "href": "session_1/index_handout.html#conclusion",
     "title": "The Rise of Artificial Intelligence",
     "section": "Conclusion",
-    "text": "Conclusion\n\nResearch on AI is very speculative: especially about the long run\nBut concepts from classical economics still help\nFor next time:\n\nmake sure you understand all concepts in bold",
-    "crumbs": [
-      "The Rise of Artificial Intelligence"
-    ]
+    "text": "Conclusion\n\nResearch on AI is very speculative: especially about the long run\nBut concepts from classical economics still help\nFor next time:\n\nmake sure you understand all concepts in bold"
   },
   {
     "objectID": "session_1/index_handout.html#more-readings",
     "href": "session_1/index_handout.html#more-readings",
     "title": "The Rise of Artificial Intelligence",
     "section": "More Readings",
-    "text": "More Readings\n\nChad Jones and Christopher Tonetti: Nonrivalry and the Economics of Data, American Economic Review\nAvi GoldFarb: Prediction Machines: The Simple Economics of Artificial Intelligence 2018\nGilles Saint Paul: Robots Vers la fin du travail ?\nAnton Korinek, Joseph E. Stiglitz: Artificial Intelligence and Its Implications for Income Distribution and Unemployment, chapter in Artificial Intelligence and Its Implications …, NBER\n\nalso on coursera",
-    "crumbs": [
-      "The Rise of Artificial Intelligence"
-    ]
+    "text": "More Readings\n\nChad Jones and Christopher Tonetti: Nonrivalry and the Economics of Data, American Economic Review\nAvi GoldFarb: Prediction Machines: The Simple Economics of Artificial Intelligence 2018\nGilles Saint Paul: Robots Vers la fin du travail ?\nAnton Korinek, Joseph E. Stiglitz: Artificial Intelligence and Its Implications for Income Distribution and Unemployment, chapter in Artificial Intelligence and Its Implications …, NBER\n\nalso on coursera"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
+    "objectID": "session_carbon/index.html#dont-worry-too-much",
+    "href": "session_carbon/index.html#dont-worry-too-much",
+    "title": "The Price of Carbon",
+    "section": "Don’t worry too much…",
+    "text": "Don’t worry too much…\n\n\nThe concept of global warning was created by and for the Chinese, in order to make U.S. manufacturing non competitive.\n\n\n\nDonald Trump\n\n\n   \n\n⚠ Disclaimer: I was being sarcastic…\n\nAnd yet, economists working in american universities devised the consensus on the best way to fight climate change."
   },
   {
-    "objectID": "session_2/index_handout.html",
-    "href": "session_2/index_handout.html",
-    "title": "AI and the Labour Market",
+    "objectID": "session_carbon/index.html#section",
+    "href": "session_carbon/index.html#section",
+    "title": "The Price of Carbon",
     "section": "",
-    "text": ". . .\nFrom CNN: ‘Jobs may disappear’: Nearly 40% of global employment could be disrupted by AI, IMF says\n. . .\n🤔 How do they know that?\n\n\nCome back next week.",
-    "crumbs": [
-      "AI and the Labour Market"
-    ]
+    "text": "William Nordhaus2018: William Nordhaus received the nobel prize for his contributions for integrating climate change into long-run macroeconomic analysis."
   },
   {
-    "objectID": "session_0/index_handout.html",
-    "href": "session_0/index_handout.html",
-    "title": "General Introduction",
+    "objectID": "session_carbon/index.html#section-1",
+    "href": "session_carbon/index.html#section-1",
+    "title": "The Price of Carbon",
     "section": "",
-    "text": "Pablo Winant\n\n\n\n\nProfessional experience\n\nIMF\nBank of England\n\nTeaching\n\nESCP Business School\nEcole Polytechnique\n\nResearch\n\ninequalities\ninternational finance\nmonetary policy\ncomputational economics\nartificial intelligence\n\n\n\n\n\n\n\n\nStart with hot topics\n\ne.g. ChatGPT, job market, ecological transition, …\n\nConnect with economic theories and concepts\n\nthey appear in bold\nmake sure you understand their meaning\n\nTry to think outside of the box\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWikipedia\n\n\n\nEconomics is a social science that studies the production, distribution, and consumption of goods and services.\n\n\n. . .\n\n\n\n\n\n\nAmerican Economic Association\n\n\n\nAmerican Economic Association: It can be defined in different ways. It’s the study of scarcity, the study of how people use resources and respond to incentives, or the study of decision-making. It often involves topics like wealth and finance, but it’s not all about money.\n\n\n. . .\n\n\n\n\n\n\nRedux\n\n\n\nEconomics studies people’s decisions and interactions, usually through markets but not always\n\n\n. . .\nCheck AEA website and research highlights for many examples of economic applications.\n\n\n\n\nEvaluation\n\ngroup work (40%)\n\nrecord a 5 min video developing one particular point of the course\n\nfinal exam (in-class) (60%)\n\nmcq on econ concepts\nvery short essay based on documents\n\nongoing (up to 20% bonus/malus)\n\nparticipation & behaviour\nmini-tasks if any\n\n\n\n\n\n\n\nLet’s go",
-    "crumbs": [
-      "General Introduction"
-    ]
+    "text": "William Nordhaus\n\n\nHis work setup the consensus among economists about the most efficient way to fight climate change…\n\n…at least in theory\n\n\n\nFor those interested in the history of climate change economics, I recommend the work / teaching of Beatrice Cherrier"
   },
   {
-    "objectID": "session_0/index_handout.html#about-myself",
-    "href": "session_0/index_handout.html#about-myself",
-    "title": "General Introduction",
-    "section": "",
-    "text": "Pablo Winant\n\n\n\n\nProfessional experience\n\nIMF\nBank of England\n\nTeaching\n\nESCP Business School\nEcole Polytechnique\n\nResearch\n\ninequalities\ninternational finance\nmonetary policy\ncomputational economics\nartificial intelligence",
-    "crumbs": [
-      "General Introduction"
-    ]
+    "objectID": "session_carbon/index.html#global-warming",
+    "href": "session_carbon/index.html#global-warming",
+    "title": "The Price of Carbon",
+    "section": "Global Warming",
+    "text": "Global Warming\n\nTemperature Projection (ICCP)Temperature is measured as difference to preindustrial level.\nNo action scenario: &gt;+4 compared to preindustrial levels"
   },
   {
-    "objectID": "session_0/index_handout.html#this-course",
-    "href": "session_0/index_handout.html#this-course",
-    "title": "General Introduction",
-    "section": "",
-    "text": "Start with hot topics\n\ne.g. ChatGPT, job market, ecological transition, …\n\nConnect with economic theories and concepts\n\nthey appear in bold\nmake sure you understand their meaning\n\nTry to think outside of the box",
-    "crumbs": [
-      "General Introduction"
-    ]
+    "objectID": "session_carbon/index.html#global-warming-1",
+    "href": "session_carbon/index.html#global-warming-1",
+    "title": "The Price of Carbon",
+    "section": "Global Warming",
+    "text": "Global Warming\nHow much is too much?\n\n\n\n\n4 was glaciation. What about &gt;+4?\ncheckout (ICCP 2022)\n\n\n\n\n\nPast temperatures (from CO2 trapped in ice cores)"
   },
   {
-    "objectID": "session_0/index_handout.html#how-do-you-define-economics",
-    "href": "session_0/index_handout.html#how-do-you-define-economics",
-    "title": "General Introduction",
-    "section": "",
-    "text": "Wikipedia\n\n\n\nEconomics is a social science that studies the production, distribution, and consumption of goods and services.\n\n\n. . .\n\n\n\n\n\n\nAmerican Economic Association\n\n\n\nAmerican Economic Association: It can be defined in different ways. It’s the study of scarcity, the study of how people use resources and respond to incentives, or the study of decision-making. It often involves topics like wealth and finance, but it’s not all about money.\n\n\n. . .\n\n\n\n\n\n\nRedux\n\n\n\nEconomics studies people’s decisions and interactions, usually through markets but not always\n\n\n. . .\nCheck AEA website and research highlights for many examples of economic applications.",
-    "crumbs": [
-      "General Introduction"
-    ]
+    "objectID": "session_carbon/index.html#main-cause-of-global-warming",
+    "href": "session_carbon/index.html#main-cause-of-global-warming",
+    "title": "The Price of Carbon",
+    "section": "Main Cause of Global Warming",
+    "text": "Main Cause of Global Warming\nConsensus from Earth Science\n\n\nburning of fossil fuels (oil, gas, ) -&gt; emission Carbon Dioxyde CO2\n\non of the main Greenhouse gases\n\nGHG accumulate in the atomosphere\nwarms land and oceans\nmore evaporation -&gt; feedback effects"
   },
   {
-    "objectID": "session_0/index_handout.html#logistics",
-    "href": "session_0/index_handout.html#logistics",
-    "title": "General Introduction",
-    "section": "",
-    "text": "Evaluation\n\ngroup work (40%)\n\nrecord a 5 min video developing one particular point of the course\n\nfinal exam (in-class) (60%)\n\nmcq on econ concepts\nvery short essay based on documents\n\nongoing (up to 20% bonus/malus)\n\nparticipation & behaviour\nmini-tasks if any",
-    "crumbs": [
-      "General Introduction"
-    ]
+    "objectID": "session_carbon/index.html#carbon-budget",
+    "href": "session_carbon/index.html#carbon-budget",
+    "title": "The Price of Carbon",
+    "section": "Carbon Budget",
+    "text": "Carbon Budget\n\nGlobal Temperature and Carbon Dioxide (from globalchange.gov)"
   },
   {
-    "objectID": "session_0/index_handout.html#section-1",
-    "href": "session_0/index_handout.html#section-1",
-    "title": "General Introduction",
+    "objectID": "session_carbon/index.html#carbon-budget-1",
+    "href": "session_carbon/index.html#carbon-budget-1",
+    "title": "The Price of Carbon",
+    "section": "Carbon Budget",
+    "text": "Carbon Budget\n\nGlobal Temperature and Carbon Dioxide (from globalchange.gov)There is an approximately linear relationship between:\n\ncumulative emissions of CO₂ in the atmosphere\nglobal temperature (with some lag)\n\nImmediate conclusion:\n\nover the long-run, the world needs to target zero-emission"
+  },
+  {
+    "objectID": "session_carbon/index.html#climate-clock",
+    "href": "session_carbon/index.html#climate-clock",
+    "title": "The Price of Carbon",
+    "section": "Climate Clock",
+    "text": "Climate Clock\nWe can associate a maximum amount of cumulative emissions to each maximum change in temperature.\nThis is the global carbon budget:\n\n\n\n\\(\\Delta T\\)\nGlobal Carbon Budget\n\n\n\n\n1.5\n420 Gt\n\n\n2\n1170 Gt\n\n\n\nIn 2018, emissions amounted to 42.1Gt.\nAt this rate we have &lt;10 years left!\n\nWe should aim to reach carbon neutrality by 2030."
+  },
+  {
+    "objectID": "session_carbon/index.html#what-are-the-options",
+    "href": "session_carbon/index.html#what-are-the-options",
+    "title": "The Price of Carbon",
+    "section": "What are the options?",
+    "text": "What are the options?\n\nYoichi KayaThe Kaya identity:\n\\[F = P \\frac{G}{P} \\frac{E}{G} \\frac{F}{E}\\]\n\nF: global CO₂ emissions\nP: global population\nG: world GDP\nE: global energy consumption"
+  },
+  {
+    "objectID": "session_carbon/index.html#what-are-the-options-1",
+    "href": "session_carbon/index.html#what-are-the-options-1",
+    "title": "The Price of Carbon",
+    "section": "What are the options?",
+    "text": "What are the options?\nThe Kaya identity:\n\\[F = P \\frac{G}{P} \\frac{E}{G} \\frac{F}{E}\\]\n\n\\(\\frac{G}{P}\\): GDP per capita\n\\(\\frac{E}{G}\\): energy intensity of GDP\n\\(\\frac{F}{E}\\): emission intensity of energy"
+  },
+  {
+    "objectID": "session_carbon/index.html#what-are-the-options-2",
+    "href": "session_carbon/index.html#what-are-the-options-2",
+    "title": "The Price of Carbon",
+    "section": "What are the options?",
+    "text": "What are the options?\nThe Kaya identity works in logs:\n\\[\\Delta^{\\%} F =\\Delta^{\\%} P + \\Delta^{\\%} \\left( \\frac{G}{P}\\right) + \\Delta^{\\%}\\left(\\frac{E}{G}\\right) + \\Delta^{\\%}\\left(\\frac{F}{E}\\right)\\]\n\n\\(\\frac{G}{P}\\): GDP per capita\n\\(\\frac{E}{G}\\): energy intensity of GDP\n\\(\\frac{F}{E}\\): emission intensity of energy"
+  },
+  {
+    "objectID": "session_carbon/index.html#what-are-the-solutions",
+    "href": "session_carbon/index.html#what-are-the-solutions",
+    "title": "The Price of Carbon",
+    "section": "What are the solutions?",
+    "text": "What are the solutions?\n\n\n\n\n↘ population (growth)\n\na solution for developing countries\ndelicate issue…\n\n↘ production (growth)\n\narguable for developed countries\nquite unpopular so far\nuse alternative welfare metric?\n\n\n\n\n\n\n↘ energy intensity (growth)\n\nproduction must use less energy\nnew supply chains (circular economy, recycling)\nchange consumption patterns\n\n↘ carbon content of energy"
+  },
+  {
+    "objectID": "session_carbon/index.html#who-must-take-the-decision",
+    "href": "session_carbon/index.html#who-must-take-the-decision",
+    "title": "The Price of Carbon",
+    "section": "Who must take the decision?",
+    "text": "Who must take the decision?\n\n\nthe state\n\nex: by 2035, all new cars sold in EU will be carbon neutral\nex: french state will construct new nuclear power plants\n\nthe society\n\nex: social norms could deconsider meat-eating\nex: we stop taking the plane (our cars) to go on holidays\n\nthe market\n\nconsumption and production are private decisions consistent with market equilibrium\n\n\n\n\nWe focus today on market solutions"
+  },
+  {
+    "objectID": "session_carbon/index.html#section-4",
+    "href": "session_carbon/index.html#section-4",
+    "title": "The Price of Carbon",
     "section": "",
-    "text": "Let’s go",
-    "crumbs": [
-      "General Introduction"
-    ]
+    "text": "A stable global climate is a global public good1\n\n  \nCarbon emissions can be thought of as a global public bad:\n\nnon-excludable: not possible to exclude a country from its effects\nnon-rivalrous: once emitted everybody bears its consequences\n\n\nOn can also think of the 420Gt stock of remaining carbon emissions as a common good which is then subject to the tragedy of commons"
+  },
+  {
+    "objectID": "session_carbon/index.html#the-core-incentive-issue-12",
+    "href": "session_carbon/index.html#the-core-incentive-issue-12",
+    "title": "The Price of Carbon",
+    "section": "The core incentive issue (1/2)",
+    "text": "The core incentive issue (1/2)\nExternality and free-riding\n\nall agents (producers/consumers) benefit from stable climate\nall agents don’t receive any marginal benefit when emitting less CO₂\n-&gt;Generalized temptation to free ride"
+  },
+  {
+    "objectID": "session_carbon/index.html#the-core-incentive-issue-22",
+    "href": "session_carbon/index.html#the-core-incentive-issue-22",
+    "title": "The Price of Carbon",
+    "section": "The core incentive issue (2/2)",
+    "text": "The core incentive issue (2/2)\nThe problem exists at all scales:\n\nwithin a country\nbetween countries:\n\nall countries benefit from policies against global warming\nno country has a personal interest in implementing (costly) abattement policies"
+  },
+  {
+    "objectID": "session_carbon/index.html#externalities",
+    "href": "session_carbon/index.html#externalities",
+    "title": "The Price of Carbon",
+    "section": "Externalities",
+    "text": "Externalities\n\n\n\n\n\n\nExternality\n\n\nAn externality is an indirect cost or benefit to an uninvolved third party that arises as an effect of another party’s activity.\n\n\n\nWhen agents (firms, consumers) maximize their objective they ignore the negative effect."
+  },
+  {
+    "objectID": "session_carbon/index.html#externalities-1",
+    "href": "session_carbon/index.html#externalities-1",
+    "title": "The Price of Carbon",
+    "section": "Externalities",
+    "text": "Externalities\n\n\n\n\n\n\nExamples of Externality\n\n\n\nsmoking in public\na firm training workers\nlaptops in class\n\n\n\n\nIf their objective is modified such as to account for the negative effects, we say that the objective has been internalized.\nHow can you make the authors of the above externalities internalize them?"
+  },
+  {
+    "objectID": "session_carbon/index.html#externality-and-prices",
+    "href": "session_carbon/index.html#externality-and-prices",
+    "title": "The Price of Carbon",
+    "section": "Externality and prices",
+    "text": "Externality and prices\nIn the context of market interactions, externalities imply that prices of goods don’t reflect their true cost.\nThis leads to the notion of Pigouvian Taxation:\n\nif the price of a good is incorrect it must be modified…\n… with a tax meant to incorporate its true social cost\n\nTheoretically, it can be shown (under very mild assumptions) that there exists an optimal Pigou tax."
+  },
+  {
+    "objectID": "session_carbon/index.html#the-carbon-tax",
+    "href": "session_carbon/index.html#the-carbon-tax",
+    "title": "The Price of Carbon",
+    "section": "The Carbon Tax",
+    "text": "The Carbon Tax\nIn principle, a carbon tax is the first best solution\n\nit gives a price to a good (carbon emission) which is overconsumed\nthis provides all the right1 incentives for producers and consumers…\n… to reduce carbon production in the most efficient way\n… to change consumption in a way that favours less carbon production\n\nnondistortive incentives"
+  },
+  {
+    "objectID": "session_carbon/index.html#the-carbon-tax-1",
+    "href": "session_carbon/index.html#the-carbon-tax-1",
+    "title": "The Price of Carbon",
+    "section": "The Carbon Tax",
+    "text": "The Carbon Tax\nIt is also easy to implement:\n\njust tax the production of energy instead of all steps of the production process"
+  },
+  {
+    "objectID": "session_carbon/index.html#problems-of-the-carbon-tax",
+    "href": "session_carbon/index.html#problems-of-the-carbon-tax",
+    "title": "The Price of Carbon",
+    "section": "Problems of the Carbon Tax",
+    "text": "Problems of the Carbon Tax\nThere are other market imperfections which the carbon tax doesn’t solve\n\n\nR&D: is it fostering R&D in clean technology or just reducing consumption?\nRebound effect: money saved by energy efficiency can be spent on more consumption\nLeakages:\n\nit can lead to more imports of carbon-intensive goods\nit must be complemented by a border carbon tax"
+  },
+  {
+    "objectID": "session_carbon/index.html#problems-of-the-carbon-tax-1",
+    "href": "session_carbon/index.html#problems-of-the-carbon-tax-1",
+    "title": "The Price of Carbon",
+    "section": "Problems of the Carbon Tax",
+    "text": "Problems of the Carbon Tax\nThere are other market imperfections which the carbon tax doesn’t solve\nBut most importantly:\n\npublic opinion is very averse to it."
+  },
+  {
+    "objectID": "session_carbon/index.html#the-french-experiment",
+    "href": "session_carbon/index.html#the-french-experiment",
+    "title": "The Price of Carbon",
+    "section": "The french experiment",
+    "text": "The french experiment\nA carbon tax was introduced in 2015: the “Climate-Energy Contribution”\n\na tax on CO₂ content of energies\ninitially very low rate\nincreased over time to \\(44.6E/ T CO₂\\)\n\n\n\n\n\nYellow vests\n\n\n=&gt; The yellow vests movement forced the government to back down."
+  },
+  {
+    "objectID": "session_carbon/index.html#the-french-experiment-2",
+    "href": "session_carbon/index.html#the-french-experiment-2",
+    "title": "The Price of Carbon",
+    "section": "The french experiment (2)",
+    "text": "The french experiment (2)\nCitizen’s convention for the climate: try to build consensus\n\nOcober 2019: 150 citizens drawn at random\nMandate: define series of measures to achieve 40% reduction in GHG by 2030\n7 sessions of 3 days"
+  },
+  {
+    "objectID": "session_carbon/index.html#the-french-experiment-3",
+    "href": "session_carbon/index.html#the-french-experiment-3",
+    "title": "The Price of Carbon",
+    "section": "The french experiment (3)",
+    "text": "The french experiment (3)\nResults:\n\neverything except carbon tax!!\nprice incentives: VAT reduction on train tickets\nregulatory constraints: ban polluting vehicles, mandatory house renovation, on peri-urban shoping areas\npublic green investment: train, housing, infrastructure"
+  },
+  {
+    "objectID": "session_carbon/index.html#point-of-view-from-most-economists",
+    "href": "session_carbon/index.html#point-of-view-from-most-economists",
+    "title": "The Price of Carbon",
+    "section": "Point of view from most economists",
+    "text": "Point of view from most economists\nDoesn’t matter with which policy, a price must be put on carbon emissions:\nIt is the only way to\n\nleave the market efficiently reallocate efforts across sectors\nencourage good investments over time\n\nThere is a wide consensus among economists (from Nordhaus, Stern, Aglietta…)"
+  },
+  {
+    "objectID": "session_carbon/index.html#tote-bags-vs-plastic-bags",
+    "href": "session_carbon/index.html#tote-bags-vs-plastic-bags",
+    "title": "The Price of Carbon",
+    "section": "Tote Bags vs Plastic Bags",
+    "text": "Tote Bags vs Plastic Bags\n\n\n\n\n\n\n\n\n\n\n\n(a) A super nice plastic bag\n\n\n\n\n\n\n\n\n\n\n\n(b) A dark and boring cotton tote bag\n\n\n\n\n\n\n\nFigure 1: Which one do you use?\n\n\n\n\nLet’s compare CO2 content:\n\ntote bag: 270Kg of CO2e\n\nmostly production of cotton\n\none-use plastic bag: 1.36Kg of CO2e\n\nThat means that you would need to use the tote bag 172 times for it to be less carbon intensive"
+  },
+  {
+    "objectID": "session_carbon/index.html#more-dilemmas",
+    "href": "session_carbon/index.html#more-dilemmas",
+    "title": "The Price of Carbon",
+    "section": "More dilemmas",
+    "text": "More dilemmas\nShould you:\n\n\nplant grass or vegetables in you garden?\ntake shower or bath?\nuse liquid or solid soap?\nbuy an electric car?\n…\n\n\n\nHow can you know ? Other examples at co2everything\n\n\nIt is much easier if information is incorporated in the price."
+  },
+  {
+    "objectID": "session_carbon/index.html#price-signal",
+    "href": "session_carbon/index.html#price-signal",
+    "title": "The Price of Carbon",
+    "section": "Price signal",
+    "text": "Price signal\nWe need a price signal for production, consumption, investment\nMarket failure:\n\n\nmarkets don’t determine the right price for CO2 emission.\nbecause of the common bad tragedy\n\n\n\nThe government(s) could intervene to set the price\n\n\n  \n\nBut which price should be fixed?"
+  },
+  {
+    "objectID": "session_carbon/index.html#integrated-assessment-models",
+    "href": "session_carbon/index.html#integrated-assessment-models",
+    "title": "The Price of Carbon",
+    "section": "Integrated Assessment Models",
+    "text": "Integrated Assessment Models\nNordhaus was rewarded for his work on the DICE model\n\nDICE: Dynamic Integrated model of Climate and the Economy\nseveral variants"
+  },
+  {
+    "objectID": "session_carbon/index.html#integrated-assessment-models-1",
+    "href": "session_carbon/index.html#integrated-assessment-models-1",
+    "title": "The Price of Carbon",
+    "section": "Integrated Assessment Models",
+    "text": "Integrated Assessment Models\nCost-Benefit Analysis\n\ncost: reduced economic activity\nbenefit: damage avoided\n\n\nResult is a so-called Integrated Assessment Model\nIt is multidisciplinary:\n\neconomic models reused for the modelisation of costs\nresults from earth science incorporated to measure damage"
+  },
+  {
+    "objectID": "session_carbon/index.html#damages",
+    "href": "session_carbon/index.html#damages",
+    "title": "The Price of Carbon",
+    "section": "Damages",
+    "text": "Damages\nDamage function \\(D(T)\\) is estimated with engineers/earth scientists\nIt evaluates the effect of global warming on many systems:\n\nnatural quantitites\n\nex: water temperature, probability of storms…\n\nproduction functions\n\nex: crops become less productive\n\n\n\nTipping points create sudden/irreversible damage\n\n\\(D(T)\\) is highly nonlinear"
+  },
+  {
+    "objectID": "session_carbon/index.html#the-damage-functions",
+    "href": "session_carbon/index.html#the-damage-functions",
+    "title": "The Price of Carbon",
+    "section": "The Damage Functions",
+    "text": "The Damage Functions\n\n\nResults from damage estimation exercises:\n\nimpacts are nonlinear and cumulative\nearly studies: 1 or 2 degrees innocuous\nmore recent ones: (ex 2018 IPCC report on 1.5)\n\neven 2 degrees highly disruptive\n\n\nIn the DICE model damages are market and non-market\n\nconverted in consumption equivalent\n2% of permanent consumption at 3 degrees\n8% at 6\n\n\n\n\n\nMeta-Analysis\n\n\nHoward and Sterner: meta analysis\n\ndamages 3 times higher"
+  },
+  {
+    "objectID": "session_carbon/index.html#the-dice-model",
+    "href": "session_carbon/index.html#the-dice-model",
+    "title": "The Price of Carbon",
+    "section": "The DICE Model",
+    "text": "The DICE Model\n\\[\\max_{c_t} W = \\max _{c_t} \\int_0^{\\infty} U[c(t)] e^{-\\rho t} dt\\] s.t. \\(c(t) = M(y(t), z(t); α, ε(t))\\)\n\nmaximize welfare made of\n\nutility \\(U()\\) of world consumption \\(c(t)\\) overtime\nwith a time discount \\(\\rho\\)\n\nsubject to many complicated constraints\n\nabout 20 independent equations"
+  },
+  {
+    "objectID": "session_carbon/index.html#the-dice-model-1",
+    "href": "session_carbon/index.html#the-dice-model-1",
+    "title": "The Price of Carbon",
+    "section": "The DICE Model",
+    "text": "The DICE Model\n\\[\\max_{c_t} W = \\max _{c_t} \\int_0^{\\infty} U[c(t)] e^{-\\rho t} dt\\] s.t. \\(c(t) = M(y(t), z(t); α, ε(t))\\)\nThis is known as a Ramsey problem, a variant of neoclassical growth problem\n\nthere is a social planner maximizing welfare\nnot the same as “planification”: planner takes into account reaction of free markets"
+  },
+  {
+    "objectID": "session_carbon/index.html#iam-theoretical-finding-12",
+    "href": "session_carbon/index.html#iam-theoretical-finding-12",
+    "title": "The Price of Carbon",
+    "section": "IAM: theoretical finding (1/2)",
+    "text": "IAM: theoretical finding (1/2)\nThe problem just described produces two kinds of outputs:\n\nthe optimal path for policies (for instance carbon taxes)\nthe social price of carbon"
+  },
+  {
+    "objectID": "session_carbon/index.html#iam-theoretical-finding-22",
+    "href": "session_carbon/index.html#iam-theoretical-finding-22",
+    "title": "The Price of Carbon",
+    "section": "IAM: theoretical finding (2/2)",
+    "text": "IAM: theoretical finding (2/2)\nThe social price of carbon is the shadow price (or lagrange multiplier) associated to the carbon budget constraint:\n\nby how much welfare would be increased if the carbon budget was slightly higher\nit is the value of leaving carbon in the ground 1\nor the price that should be given as a compensation to a firm for not using carbon\n\nit is similar to Tobin’s q."
+  },
+  {
+    "objectID": "session_carbon/index.html#section-5",
+    "href": "session_carbon/index.html#section-5",
+    "title": "The Price of Carbon",
+    "section": "",
+    "text": "Circular Flow"
+  },
+  {
+    "objectID": "session_carbon/index.html#section-6",
+    "href": "session_carbon/index.html#section-6",
+    "title": "The Price of Carbon",
+    "section": "",
+    "text": "Simplified (!) model"
+  },
+  {
+    "objectID": "session_carbon/index.html#concretely",
+    "href": "session_carbon/index.html#concretely",
+    "title": "The Price of Carbon",
+    "section": "Concretely",
+    "text": "Concretely\nDICE 2016 in GAMS\nLook at the endogenous variables and exogenous parameters\n\ndescription of the economy is very crude\n\nPlay with an interactive version based on DICE 2010\n\n \nConclusions?\n\n\n\n\nGAMS is a modeling language that is often used for general computional equilibrium modeling models, including many trade models."
+  },
+  {
+    "objectID": "session_carbon/index.html#results-from-the-actual-2018-model",
+    "href": "session_carbon/index.html#results-from-the-actual-2018-model",
+    "title": "The Price of Carbon",
+    "section": "Results from the actual 2018 model",
+    "text": "Results from the actual 2018 model\nThree scenarios\n\nBusiness as usual (minimal policies)\nCost-benefit optimum (two damage functions)\nLimit temperature increase (to 1½ , 2, 2½ °C) with hard cap\nLimit temperature increase (to 1½ , 2, 2½ °C) over 100-year or 200-year averaging period"
+  },
+  {
+    "objectID": "session_carbon/index.html#main-results",
+    "href": "session_carbon/index.html#main-results",
+    "title": "The Price of Carbon",
+    "section": "Main Results",
+    "text": "Main Results\n\ncompare with baby-model\n\nDICE: 1.5 infeasible\n\nresult of cost-benefit: 3 degrees in 2100\nslow emissions as soon as possible\nuniformity of prices\n\nequalize marginal cost of reducing emissions everywhere\ncarbon price should be equal everywhere\n\nsocial cost of carbon rising over time\npolicy ramp up over time"
+  },
+  {
+    "objectID": "session_carbon/index.html#controversies-around-the-dice-model",
+    "href": "session_carbon/index.html#controversies-around-the-dice-model",
+    "title": "The Price of Carbon",
+    "section": "Controversies around the DICE model",
+    "text": "Controversies around the DICE model\n\n\ndiscount factor\n\nin the formula \\(\\max _{c_t} \\int_0^{\\infty} U[c(t)] e^{-\\rho t} dt\\) there is discount factor \\(\\rho&gt;0\\) for future generations.\nthis discount is priced by the market and probably reflects our current preferences\nbut is it ethical to discount the future when trying to save the planet?\nother economists (famously Nick Stern) have advocated using discount \\(\\rho=0\\)"
+  },
+  {
+    "objectID": "session_carbon/index.html#controversies-around-the-dice-model-1",
+    "href": "session_carbon/index.html#controversies-around-the-dice-model-1",
+    "title": "The Price of Carbon",
+    "section": "Controversies around the DICE model",
+    "text": "Controversies around the DICE model\n\n\nit monetizes all activities\n\ncan you associate a value to a lost island, to house damaged by hurricane\ntraditional answer: we need a metric to do cost-benefit analysis1\n\ndamage function does not correctly account for tail events (cf Weitzman)\n\n\nKeynes: better to be vaguely right than precisely wrong"
+  },
+  {
+    "objectID": "session_carbon/index.html#social-cost-of-carbon",
+    "href": "session_carbon/index.html#social-cost-of-carbon",
+    "title": "The Price of Carbon",
+    "section": "Social cost of carbon",
+    "text": "Social cost of carbon\nDespite raising some legitimate doubts about optimal carbon policy IAM models yield estimates for the price of carbon which are used as a basis for policy discussions."
+  },
+  {
+    "objectID": "session_carbon/index.html#more-integrated-assessment-models-1",
+    "href": "session_carbon/index.html#more-integrated-assessment-models-1",
+    "title": "The Price of Carbon",
+    "section": "More Integrated Assessment Models (1)",
+    "text": "More Integrated Assessment Models (1)\nNowadays, the IAM approach is followed with a variety of models\nIn the DICE model, the macro part is an extension of the neoclassical growth theory\n\nproductivity growth is taken as exogenous"
+  },
+  {
+    "objectID": "session_carbon/index.html#more-integrated-assessment-models-2",
+    "href": "session_carbon/index.html#more-integrated-assessment-models-2",
+    "title": "The Price of Carbon",
+    "section": "More Integrated Assessment Models (2)",
+    "text": "More Integrated Assessment Models (2)\nThere are several variants:\n\nendogenous growth1\nendogenous participation / coalition building\n\nPaul Romer obtained the Nobel price on the same year as William Nordhaus for his contributions on growth theory."
+  },
+  {
+    "objectID": "session_carbon/index.html#green-macro-models-12",
+    "href": "session_carbon/index.html#green-macro-models-12",
+    "title": "The Price of Carbon",
+    "section": "Green macro models (1/2)",
+    "text": "Green macro models (1/2)\nAs the decision horizon is getting closer several models from traditional modeling and get their climate extension\n\nComputational General Equilibrium (CGE) models\n\nmany sectors\nused to inform trade policy and calibrate subsidies\nex: rhomolo from European Commision"
+  },
+  {
+    "objectID": "session_carbon/index.html#green-macro-models-22",
+    "href": "session_carbon/index.html#green-macro-models-22",
+    "title": "The Price of Carbon",
+    "section": "Green macro models (2/2)",
+    "text": "Green macro models (2/2)\n\nDSGE models\n\nnominal rigidities → tradeoff with on inflation/unemployment\n\nex: IMF’s GMMET model = GIMF + Climate\n\noverlapping generations → study intergenerational equity and long term interest rate"
+  },
+  {
+    "objectID": "session_carbon/index.html#basic-macro-tradeoff",
+    "href": "session_carbon/index.html#basic-macro-tradeoff",
+    "title": "The Price of Carbon",
+    "section": "Basic macro tradeoff",
+    "text": "Basic macro tradeoff\n\nincreasing carbon price acts like a cost-push shock (similar to rise in oil price)\nbut the state perceives a revenue, which can be used to reduce costs…\n\ndouble dividend: damage reduction, costs reduction\n\n… by funding green investments (renewable energies, housing renovation, carbon sinks)\nwhich creates a positive demand shock\nWhat is the ultimate effect?\n\ndepends on the multiplier effect on green investment\n\n\nIn all cases, it is inflationary"
+  },
+  {
+    "objectID": "session_carbon/index.html#example-from-gmmet",
+    "href": "session_carbon/index.html#example-from-gmmet",
+    "title": "The Price of Carbon",
+    "section": "Example from GMMET",
+    "text": "Example from GMMET\n\nWEO/GMMETOverall, all models share the basic non-controversial conclusions as the nordhaus model\n\nearly action\nfocus on the carbon price"
+  },
+  {
+    "objectID": "session_carbon/index.html#conclusion",
+    "href": "session_carbon/index.html#conclusion",
+    "title": "The Price of Carbon",
+    "section": "Conclusion",
+    "text": "Conclusion\nIntegrated Assessment Models are not perfect\nYet:\n\nthey provide a clean conceptual framework\nnatural, actionable, policy recommendations\nfirst best is a carbon tax\nand a measure of carbon price which is increasingly used in negotiations\n\n\nNow, there are many ways to raise the carbon price…"
+  },
+  {
+    "objectID": "session_ai_labour/document.html",
+    "href": "session_ai_labour/document.html",
+    "title": "IMF Blog Post",
+    "section": "",
+    "text": "IMF Blog Post"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Topics in Economics",
+    "section": "",
+    "text": "TODO:\n\nby Jan 29th, read the last IMF report on AI (either blog entry or associated paper)\n\n  \nProvisional Schedule\n\n\n\n\n\nDate\n\n\nTitle\n\n\n\n\n\n\nJan 15, 2024\n\n\nGeneral Introduction\n\n\n\n\nJan 15, 2024\n\n\nThe Rise of Artificial Intelligence\n\n\n\n\nJan 22, 2024\n\n\nThe Price of Carbon\n\n\n\n\nJan 29, 2024\n\n\nGen-AI and the Labour Market\n\n\n\n\nFeb 5, 2024\n\n\nGreen Nudges\n\n\n\n\nFeb 12, 2024\n\n\nInequalities (TBC)\n\n\n\n\nFeb 26, 2024\n\n\nShould we Fear the Return of the Big, Bad, Inflation?\n\n\n\n\nMar 4, 2024\n\n\nCountries Pulling Appart: Geoeconomic Fragmentation.\n\n\n\n\nMar 11, 2024\n\n\nFinal Exam ☠\n\n\n\n\n\nNo matching items\n\n\nPracticalities\n\nEvaluation\n\ngroup work (40%)\n\nrecord a 5 min video developing one particular point of the course\n4 students max per group\nmore detailed instructions upcoming\n\nfinal exam (in-class) (60%)\n\nmcq on econ concepts\nvery short essay based on documents\n\nongoing (up to 20% bonus/malus)\n\nparticipation & behaviour\nmini-tasks if any"
+  },
+  {
+    "objectID": "prep_6/index_handout.html",
+    "href": "prep_6/index_handout.html",
+    "title": "Final Exam ☠",
+    "section": "",
+    "text": "Come back later!."
+  },
+  {
+    "objectID": "prep_5/index_handout.html",
+    "href": "prep_5/index_handout.html",
+    "title": "Countries Pulling Appart: Geoeconomic Fragmentation.",
+    "section": "",
+    "text": "Come back later!."
+  },
+  {
+    "objectID": "prep_4/index_handout.html",
+    "href": "prep_4/index_handout.html",
+    "title": "Should we Fear the Return of the Big, Bad, Inflation?",
+    "section": "",
+    "text": "Come back later!."
+  },
+  {
+    "objectID": "tmp/proto2.html#section",
+    "href": "tmp/proto2.html#section",
+    "title": "Gen-AI and the Labour Market",
+    "section": "",
+    "text": "Task\n\n\nFind some context about the study and the various authors implicated.\nWhy is IMF interested in AI?"
+  },
+  {
+    "objectID": "tmp/proto2.html#some-context",
+    "href": "tmp/proto2.html#some-context",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Some Context",
+    "text": "Some Context\nBlog Post. written by Kristalina Goeorgieva Head of IMF\nStaff Discussion Note: by X, Y, Z, validated by Pierre-Olivier Gourinchas, Head of Research\nIMF Working Paper: by …"
+  },
+  {
+    "objectID": "tmp/proto2.html#blog-post-more-references",
+    "href": "tmp/proto2.html#blog-post-more-references",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Blog post: more references",
+    "text": "Blog post: more references\nPoints to:\nIMF F&D December\nGenerative AI at Work"
+  },
+  {
+    "objectID": "tmp/proto2.html#how-research-is-done-at-imf",
+    "href": "tmp/proto2.html#how-research-is-done-at-imf",
+    "title": "Gen-AI and the Labour Market",
+    "section": "How Research is done at IMF",
+    "text": "How Research is done at IMF\n\n\n\n\nflowchart LR\n  A{Staff} --&gt;  A1[Academic Paper]\n  A1 --&gt; X[Peer Reviewed Publications]\n  A1 --&gt; B[IMF Working Paper]\n  A --&gt; C[IMF Staff Discussion Paper]\n  B --&gt; C\n  C --&gt; D[Board Official Position]\n  E{Member States} ==&gt; D\n\n\n\n\n\nHow does it impact what you read?"
+  },
+  {
+    "objectID": "tmp/proto2.html#research-in-big-institutions",
+    "href": "tmp/proto2.html#research-in-big-institutions",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Research in Big Institutions",
+    "text": "Research in Big Institutions\nThe publication ofresearch papers in big institutions has several goals:\n\ndisseminate research\n\nusually from researchers that are closest from policy circles\n\nbuild a common narrative that countries can build on to negociate with the same language\n(usually not) state an official position of the institution"
+  },
+  {
+    "objectID": "tmp/proto2.html#section-1",
+    "href": "tmp/proto2.html#section-1",
+    "title": "Gen-AI and the Labour Market",
+    "section": "",
+    "text": "AE advantage: which ones are most at risk?"
+  },
+  {
+    "objectID": "tmp/proto2.html#section-2",
+    "href": "tmp/proto2.html#section-2",
+    "title": "Gen-AI and the Labour Market",
+    "section": "",
+    "text": "About the IMF\n\n\nThe IMF is a global organization that works to achieve sustainable growth and prosperity for all of its 190 member countries. It does so by supporting economic policies that promote financial stability and monetary cooperation, which are essential to increase productivity, job creation, and economic well-being. The IMF is governed by and accountable to its member countries.\n\n\n\n. . . Then why is it interested in AI?"
+  },
+  {
+    "objectID": "tmp/proto2.html#why-is-imf-why-is-it-interested-in-ai",
+    "href": "tmp/proto2.html#why-is-imf-why-is-it-interested-in-ai",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Why is IMF why is it interested in AI?",
+    "text": "Why is IMF why is it interested in AI?\n\nCheck out the webpage\n\n\nIMF lends in times of crisis\n\n\nit is useful to know what might cause the next one (CoVid2, AI, food shortage, global warning…)\n\n\nIt pushes for structural reforms (but which ones?)\n\n\nso that countries can reimburse loans\n\n\nIt sometimes act as a last-resort multilateral institution\n\n\nwhere do all finance ministers sit down to discuss …?"
+  },
+  {
+    "objectID": "tmp/proto2.html#section-3",
+    "href": "tmp/proto2.html#section-3",
+    "title": "Gen-AI and the Labour Market",
+    "section": "",
+    "text": "Task\n\n\nRead the blog post and think about the following questions.\nAnswer the short online"
+  },
+  {
+    "objectID": "tmp/index_handout.html",
+    "href": "tmp/index_handout.html",
+    "title": "Gen-AI and the Labour Market",
+    "section": "",
+    "text": ". . .\nFrom CNN: ‘Jobs may disappear’: Nearly 40% of global employment could be disrupted by AI, IMF says\n. . .\n🤔 How do they know that?"
+  },
+  {
+    "objectID": "tmp/index_handout.html#section",
+    "href": "tmp/index_handout.html#section",
+    "title": "Gen-AI and the Labour Market",
+    "section": "",
+    "text": "Task\n\n\n\nFind some context about the study and the various authors implicated.\nWhy is IMF interested in AI?"
+  },
+  {
+    "objectID": "tmp/index_handout.html#some-context",
+    "href": "tmp/index_handout.html#some-context",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Some Context",
+    "text": "Some Context\nBlog Post. written by Kristalina Goeorgieva Head of IMF\nStaff Discussion Note: by X, Y, Z, validated by Pierre-Olivier Gourinchas, Head of Research\nIMF Working Paper: by …"
+  },
+  {
+    "objectID": "tmp/index_handout.html#blog-post-more-references",
+    "href": "tmp/index_handout.html#blog-post-more-references",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Blog post: more references",
+    "text": "Blog post: more references\nPoints to:\nIMF F&D December\nGenerative AI at Work"
+  },
+  {
+    "objectID": "tmp/index_handout.html#how-research-is-done-at-imf",
+    "href": "tmp/index_handout.html#how-research-is-done-at-imf",
+    "title": "Gen-AI and the Labour Market",
+    "section": "How Research is done at IMF",
+    "text": "How Research is done at IMF\n\n\n\n\nflowchart LR\n  A{Staff} --&gt;  A1[Academic Paper]\n  A1 --&gt; X[Peer Reviewed Publications]\n  A1 --&gt; B[IMF Working Paper]\n  A --&gt; C[IMF Staff Discussion Paper]\n  B --&gt; C\n  C --&gt; D[Board Official Position]\n  E{Member States} ==&gt; D\n\n\n\n\n\nHow does it impact what you read?"
+  },
+  {
+    "objectID": "tmp/index_handout.html#research-in-big-institutions",
+    "href": "tmp/index_handout.html#research-in-big-institutions",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Research in Big Institutions",
+    "text": "Research in Big Institutions\nThe publication ofresearch papers in big institutions has several goals:\n\ndisseminate research\n\nusually from researchers that are closest from policy circles\n\nbuild a common narrative that countries can build on to negociate with the same language\n(usually not) state an official position of the institution"
+  },
+  {
+    "objectID": "tmp/index_handout.html#section-1",
+    "href": "tmp/index_handout.html#section-1",
+    "title": "Gen-AI and the Labour Market",
+    "section": "",
+    "text": "AE advantage: which ones are most at risk?"
+  },
+  {
+    "objectID": "tmp/index_handout.html#section-2",
+    "href": "tmp/index_handout.html#section-2",
+    "title": "Gen-AI and the Labour Market",
+    "section": "",
+    "text": "About the IMF\n\n\n\nThe IMF is a global organization that works to achieve sustainable growth and prosperity for all of its 190 member countries. It does so by supporting economic policies that promote financial stability and monetary cooperation, which are essential to increase productivity, job creation, and economic well-being. The IMF is governed by and accountable to its member countries.\n\n\n. . . Then why is it interested in AI?"
+  },
+  {
+    "objectID": "tmp/index_handout.html#why-is-imf-why-is-it-interested-in-ai",
+    "href": "tmp/index_handout.html#why-is-imf-why-is-it-interested-in-ai",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Why is IMF why is it interested in AI?",
+    "text": "Why is IMF why is it interested in AI?\n. . .\nCheck out the webpage\n\n\nIMF lends in times of crisis\n\n\nit is useful to know what might cause the next one (CoVid2, AI, food shortage, global warning…)\n\n\nIt pushes for structural reforms (but which ones?)\n\n\nso that countries can reimburse loans\n\n\nIt sometimes act as a last-resort multilateral institution\n\n\nwhere do all finance ministers sit down to discuss …?"
+  },
+  {
+    "objectID": "tmp/index_handout.html#section-3",
+    "href": "tmp/index_handout.html#section-3",
+    "title": "Gen-AI and the Labour Market",
+    "section": "",
+    "text": "Task\n\n\n\nRead the blog post and think about the following questions.\nAnswer the short online"
   },
   {
     "objectID": "session_0/index.html#about-myself",
@@ -475,11 +875,18 @@
     "text": "This course\n\nStart with hot topics\n\ne.g. ChatGPT, job market, ecological transition, …\n\nConnect with economic theories and concepts\n\nthey appear in bold\nmake sure you understand their meaning\n\nTry to think outside of the box"
   },
   {
+    "objectID": "session_0/index.html#pressing-topics",
+    "href": "session_0/index.html#pressing-topics",
+    "title": "General Introduction",
+    "section": "Pressing Topics…",
+    "text": "Pressing Topics…"
+  },
+  {
     "objectID": "session_0/index.html#how-do-you-define-economics",
     "href": "session_0/index.html#how-do-you-define-economics",
     "title": "General Introduction",
     "section": "How do you define “Economics” ?",
-    "text": "How do you define “Economics” ?\n\n\n\n\n\n\n\nWikipedia\n\n\nEconomics is a social science that studies the production, distribution, and consumption of goods and services.\n\n\n\n\n\n\n\n\n\n\n\n\nAmerican Economic Association\n\n\nAmerican Economic Association: It can be defined in different ways. It’s the study of scarcity, the study of how people use resources and respond to incentives, or the study of decision-making. It often involves topics like wealth and finance, but it’s not all about money.\n\n\n\n\n\n\n\n\n\n\n\n\n\nRedux\n\n\nEconomics studies people’s decisions and interactions, usually through markets but not always\n\n\n\n\n\n\nCheck AEA website and research highlights for many examples of economic applications."
+    "text": "How do you define “Economics” ?\n\n\n\n\n\n\n\nWikipedia\n\n\nEconomics is a social science that studies the production, distribution, and consumption of goods and services.\n\n\n\n\n\n\n\n\n\n\n\n\nAmerican Economic Association\n\n\nIt can be defined in different ways. It’s the study of scarcity, the study of how people use resources and respond to incentives, or the study of decision-making. It often involves topics like wealth and finance, but it’s not all about money.\n\n\n\n\n\n\n\n\n\n\n\n\n\nRedux\n\n\nEconomics studies people’s decisions and interactions, usually through markets but not always\n\n\n\n\n\n\nCheck AEA website and research highlights for many examples of economic applications."
   },
   {
     "objectID": "session_0/index.html#logistics",
@@ -489,17 +896,556 @@
     "text": "Logistics\n\nEvaluation\n\ngroup work (40%)\n\nrecord a 5 min video developing one particular point of the course\n\nfinal exam (in-class) (60%)\n\nmcq on econ concepts\nvery short essay based on documents\n\nongoing (up to 20% bonus/malus)\n\nparticipation & behaviour\nmini-tasks if any"
   },
   {
-    "objectID": "session_0/index.html#section-1",
-    "href": "session_0/index.html#section-1",
+    "objectID": "session_0/index.html#section",
+    "href": "session_0/index.html#section",
     "title": "General Introduction",
     "section": "",
     "text": "Let’s go"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Topics in Economics",
+    "objectID": "session_0/index_handout.html",
+    "href": "session_0/index_handout.html",
+    "title": "General Introduction",
     "section": "",
-    "text": "Date\n\n\nTitle\n\n\n\n\n\n\nJan 15, 2024\n\n\nGeneral Introduction\n\n\n\n\nJan 15, 2024\n\n\nThe Rise of Artificial Intelligence\n\n\n\n\nJan 22, 2024\n\n\nAI and the Labour Market\n\n\n\n\n\nNo matching items"
+    "text": "Pablo Winant\n\n\n\n\nProfessional experience\n\nIMF\nBank of England\n\nTeaching\n\nESCP Business School\nEcole Polytechnique\n\nResearch\n\ninequalities\ninternational finance\nmonetary policy\ncomputational economics\nartificial intelligence\n\n\n\n\n\n\n\n\nStart with hot topics\n\ne.g. ChatGPT, job market, ecological transition, …\n\nConnect with economic theories and concepts\n\nthey appear in bold\nmake sure you understand their meaning\n\nTry to think outside of the box\n\n\n\n\n \n\n\n\n\n\n\n\n\n\nWikipedia\n\n\n\nEconomics is a social science that studies the production, distribution, and consumption of goods and services.\n\n\n. . .\n\n\n\n\n\n\nAmerican Economic Association\n\n\n\nIt can be defined in different ways. It’s the study of scarcity, the study of how people use resources and respond to incentives, or the study of decision-making. It often involves topics like wealth and finance, but it’s not all about money.\n\n\n. . .\n\n\n\n\n\n\nRedux\n\n\n\nEconomics studies people’s decisions and interactions, usually through markets but not always\n\n\n. . .\nCheck AEA website and research highlights for many examples of economic applications.\n\n\n\n\nEvaluation\n\ngroup work (40%)\n\nrecord a 5 min video developing one particular point of the course\n\nfinal exam (in-class) (60%)\n\nmcq on econ concepts\nvery short essay based on documents\n\nongoing (up to 20% bonus/malus)\n\nparticipation & behaviour\nmini-tasks if any\n\n\n\n\n\n\n\nLet’s go"
+  },
+  {
+    "objectID": "session_0/index_handout.html#about-myself",
+    "href": "session_0/index_handout.html#about-myself",
+    "title": "General Introduction",
+    "section": "",
+    "text": "Pablo Winant\n\n\n\n\nProfessional experience\n\nIMF\nBank of England\n\nTeaching\n\nESCP Business School\nEcole Polytechnique\n\nResearch\n\ninequalities\ninternational finance\nmonetary policy\ncomputational economics\nartificial intelligence"
+  },
+  {
+    "objectID": "session_0/index_handout.html#this-course",
+    "href": "session_0/index_handout.html#this-course",
+    "title": "General Introduction",
+    "section": "",
+    "text": "Start with hot topics\n\ne.g. ChatGPT, job market, ecological transition, …\n\nConnect with economic theories and concepts\n\nthey appear in bold\nmake sure you understand their meaning\n\nTry to think outside of the box"
+  },
+  {
+    "objectID": "session_0/index_handout.html#how-do-you-define-economics",
+    "href": "session_0/index_handout.html#how-do-you-define-economics",
+    "title": "General Introduction",
+    "section": "",
+    "text": "Wikipedia\n\n\n\nEconomics is a social science that studies the production, distribution, and consumption of goods and services.\n\n\n. . .\n\n\n\n\n\n\nAmerican Economic Association\n\n\n\nIt can be defined in different ways. It’s the study of scarcity, the study of how people use resources and respond to incentives, or the study of decision-making. It often involves topics like wealth and finance, but it’s not all about money.\n\n\n. . .\n\n\n\n\n\n\nRedux\n\n\n\nEconomics studies people’s decisions and interactions, usually through markets but not always\n\n\n. . .\nCheck AEA website and research highlights for many examples of economic applications."
+  },
+  {
+    "objectID": "session_0/index_handout.html#logistics",
+    "href": "session_0/index_handout.html#logistics",
+    "title": "General Introduction",
+    "section": "",
+    "text": "Evaluation\n\ngroup work (40%)\n\nrecord a 5 min video developing one particular point of the course\n\nfinal exam (in-class) (60%)\n\nmcq on econ concepts\nvery short essay based on documents\n\nongoing (up to 20% bonus/malus)\n\nparticipation & behaviour\nmini-tasks if any"
+  },
+  {
+    "objectID": "session_0/index_handout.html#section",
+    "href": "session_0/index_handout.html#section",
+    "title": "General Introduction",
+    "section": "",
+    "text": "Let’s go"
+  },
+  {
+    "objectID": "session_0/slides.html#the-context",
+    "href": "session_0/slides.html#the-context",
+    "title": "AI and the Labour Market (proto)",
+    "section": "The context…",
+    "text": "The context…"
+  },
+  {
+    "objectID": "session_0/slides.html#the-report",
+    "href": "session_0/slides.html#the-report",
+    "title": "AI and the Labour Market (proto)",
+    "section": "The report",
+    "text": "The report\nAuthors\nResearch Papers\nOfficial Blog post\nOlivier Gourinchas Gita Gopinath Kristalina Goeorgieva"
+  },
+  {
+    "objectID": "session_0/slides.html#how-research-is-done-at-imf",
+    "href": "session_0/slides.html#how-research-is-done-at-imf",
+    "title": "AI and the Labour Market (proto)",
+    "section": "How Research is done at IMF",
+    "text": "How Research is done at IMF\n\n\n\n\nflowchart LR\n  A{Staff} --&gt;  A1[Academic Paper]\n  A1 --&gt; X[Peer Reviewed Publications]\n  A1 --&gt; B[IMF Working Paper]\n  A --&gt; C[IMF Staff Discussion Paper]\n  B --&gt; C\n  C --&gt; D[Board Official Position]\n  E{Member States} ==&gt; D\n\n\n\n\n\nWhat do you conclude from that?"
+  },
+  {
+    "objectID": "session_0/slides.html#imf-blog",
+    "href": "session_0/slides.html#imf-blog",
+    "title": "AI and the Labour Market (proto)",
+    "section": "IMF Blog",
+    "text": "IMF Blog\nPoints to:\nIMF F&D December\nGenerative AI at Work"
+  },
+  {
+    "objectID": "session_0/slides.html#section",
+    "href": "session_0/slides.html#section",
+    "title": "AI and the Labour Market (proto)",
+    "section": "",
+    "text": "AE advantage: which ones are most at risk?"
+  },
+  {
+    "objectID": "session_0/slides.html#shape-the-narrative",
+    "href": "session_0/slides.html#shape-the-narrative",
+    "title": "AI and the Labour Market (proto)",
+    "section": "Shape the narrative…",
+    "text": "Shape the narrative…\nThe Marradona policy…\nGDP growth forecasts…"
+  },
+  {
+    "objectID": "session_0/slides.html#excec-summary",
+    "href": "session_0/slides.html#excec-summary",
+    "title": "AI and the Labour Market (proto)",
+    "section": "Excec Summary",
+    "text": "Excec Summary\n\nindustrial revolution: productivity shock, replace some workers, complement others\n40% of employment at risk\n\nmore in advanced countries than emerging than developing (60/40/26)\nbut advanced countries more ready\n\neffect on income / wealth inequality\n\nwhole population is affected by ai risk\nbut high income more likely to be positive complement\nmodel simulation-&gt; beneficial to top earners\n\npositive effect on income for all woekers\ncollege-educated workers more prepared to move from jobs\nAI preparedness index\n\nadvanced: invest in AI innovation and rgulation\nless developped: infrastructure and digital traning\nall social safety nets"
+  },
+  {
+    "objectID": "session_0/slides.html#ai-exposure-and-complementarity",
+    "href": "session_0/slides.html#ai-exposure-and-complementarity",
+    "title": "AI and the Labour Market (proto)",
+    "section": "AI Exposure and Complementarity",
+    "text": "AI Exposure and Complementarity\nO*NET: - job - occupation - ability\n(what is importance?, prevalence?)\n(example with a graph)\n(problem: O*NET is only for the US)\nLabor Market Exposure to AI: Cross-country Differences and Distributional Implicationss\nCountries: UK/US + Brazil, Columbia, India, South Africa\nGo beyond tasks by adding social and physical context\nSubjectivity of social point of view.\nGiven the high degree of uncertainty over the future of this fast-pacing and broadly applicable technology, the concept of exposure is purposely framed as agnostic on the likelihood of AI complementing or replacing labor in the performance of a given task or occupation.\nIdea: provide specific tables /graphs to students\nData: ILO for all countries microdata for some\nProblem: concept of complementarity, not the same\nOccupational transitions:\n\nconcept of social mobility\nmarkov chain\n\nWhat prevents transition?\ncf paper\nWhy are older workers less willing to switch? (many reality checks in the paper).\n\nWho is mostly helped with AI?*\nyoung college-educated On the other hand, AI may enable young college-educated workers to become experienced more quickly as they leverage their familiarity with new technologies to enhance their productivity. With the introduction of generative AI, the use of AI has itself become much easier. A recent study shows that the productivity impact of an AI-based conversational assistant was greatest for less experienced and low-skilled customer support workers; the effect on experienced and highly skilled workers was minimal (Brynjolfsson, Danielle, and Raymond 2023).\n\nSame with Code Assistant"
+  },
+  {
+    "objectID": "session_0/slides.html#ai-productivity-inequality",
+    "href": "session_0/slides.html#ai-productivity-inequality",
+    "title": "AI and the Labour Market (proto)",
+    "section": "AI Productivity, Inequality",
+    "text": "AI Productivity, Inequality\nModel-based\ncopmlementarity effect vs displacement effect"
+  },
+  {
+    "objectID": "session_0/slides.html#ai-preparedness",
+    "href": "session_0/slides.html#ai-preparedness",
+    "title": "AI and the Labour Market (proto)",
+    "section": "AI Preparedness",
+    "text": "AI Preparedness"
+  },
+  {
+    "objectID": "session_0/proto.html",
+    "href": "session_0/proto.html",
+    "title": "AI and the Labour Market (proto)",
+    "section": "",
+    "text": "How research is done?\n\n\n\n\n\nAuthors\nResearch Papers\nOfficial Blog post\nOlivier Gourinchas Gita Gopinath Kristalina Goeorgieva\n\n\n\n\n\n\n\nflowchart LR\n  A{Staff} --&gt;  A1[Academic Paper]\n  A1 --&gt; X[Peer Reviewed Publications]\n  A1 --&gt; B[IMF Working Paper]\n  A --&gt; C[IMF Staff Discussion Paper]\n  B --&gt; C\n  C --&gt; D[Board Official Position]\n  E{Member States} ==&gt; D\n\n\n\n\n\nWhat do you conclude from that?\n\n\n\nPoints to:\nIMF F&D December\nGenerative AI at Work\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAE advantage: which ones are most at risk?\n\n\n\n\n\n\nThe Marradona policy…\nGDP growth forecasts…"
+  },
+  {
+    "objectID": "session_0/proto.html#the-report",
+    "href": "session_0/proto.html#the-report",
+    "title": "AI and the Labour Market (proto)",
+    "section": "",
+    "text": "Authors\nResearch Papers\nOfficial Blog post\nOlivier Gourinchas Gita Gopinath Kristalina Goeorgieva"
+  },
+  {
+    "objectID": "session_0/proto.html#how-research-is-done-at-imf",
+    "href": "session_0/proto.html#how-research-is-done-at-imf",
+    "title": "AI and the Labour Market (proto)",
+    "section": "",
+    "text": "flowchart LR\n  A{Staff} --&gt;  A1[Academic Paper]\n  A1 --&gt; X[Peer Reviewed Publications]\n  A1 --&gt; B[IMF Working Paper]\n  A --&gt; C[IMF Staff Discussion Paper]\n  B --&gt; C\n  C --&gt; D[Board Official Position]\n  E{Member States} ==&gt; D\n\n\n\n\n\nWhat do you conclude from that?"
+  },
+  {
+    "objectID": "session_0/proto.html#imf-blog",
+    "href": "session_0/proto.html#imf-blog",
+    "title": "AI and the Labour Market (proto)",
+    "section": "",
+    "text": "Points to:\nIMF F&D December\nGenerative AI at Work"
+  },
+  {
+    "objectID": "session_0/proto.html#section",
+    "href": "session_0/proto.html#section",
+    "title": "AI and the Labour Market (proto)",
+    "section": "",
+    "text": "AE advantage: which ones are most at risk?"
+  },
+  {
+    "objectID": "session_0/proto.html#shape-the-narrative",
+    "href": "session_0/proto.html#shape-the-narrative",
+    "title": "AI and the Labour Market (proto)",
+    "section": "",
+    "text": "The Marradona policy…\nGDP growth forecasts…"
+  },
+  {
+    "objectID": "session_0/proto.html#excec-summary",
+    "href": "session_0/proto.html#excec-summary",
+    "title": "AI and the Labour Market (proto)",
+    "section": "Excec Summary",
+    "text": "Excec Summary\n\nindustrial revolution: productivity shock, replace some workers, complement others\n40% of employment at risk\n\nmore in advanced countries than emerging than developing (60/40/26)\nbut advanced countries more ready\n\neffect on income / wealth inequality\n\nwhole population is affected by ai risk\nbut high income more likely to be positive complement\nmodel simulation-&gt; beneficial to top earners\n\npositive effect on income for all woekers\ncollege-educated workers more prepared to move from jobs\nAI preparedness index\n\nadvanced: invest in AI innovation and rgulation\nless developped: infrastructure and digital traning\nall social safety nets"
+  },
+  {
+    "objectID": "session_0/proto.html#ai-exposure-and-complementarity",
+    "href": "session_0/proto.html#ai-exposure-and-complementarity",
+    "title": "AI and the Labour Market (proto)",
+    "section": "AI Exposure and Complementarity",
+    "text": "AI Exposure and Complementarity\nO*NET: - job - occupation - ability\n(what is importance?, prevalence?)\n(example with a graph)\n(problem: O*NET is only for the US)\nLabor Market Exposure to AI: Cross-country Differences and Distributional Implicationss\nCountries: UK/US + Brazil, Columbia, India, South Africa\nGo beyond tasks by adding social and physical context\nSubjectivity of social point of view.\nGiven the high degree of uncertainty over the future of this fast-pacing and broadly applicable technology, the concept of exposure is purposely framed as agnostic on the likelihood of AI complementing or replacing labor in the performance of a given task or occupation.\nIdea: provide specific tables /graphs to students\nData: ILO for all countries microdata for some\nProblem: concept of complementarity, not the same\nOccupational transitions:\n\nconcept of social mobility\nmarkov chain\n\nWhat prevents transition?\ncf paper\nWhy are older workers less willing to switch? (many reality checks in the paper).\n\nWho is mostly helped with AI?*\nyoung college-educated On the other hand, AI may enable young college-educated workers to become experienced more quickly as they leverage their familiarity with new technologies to enhance their productivity. With the introduction of generative AI, the use of AI has itself become much easier. A recent study shows that the productivity impact of an AI-based conversational assistant was greatest for less experienced and low-skilled customer support workers; the effect on experienced and highly skilled workers was minimal (Brynjolfsson, Danielle, and Raymond 2023).\n\nSame with Code Assistant"
+  },
+  {
+    "objectID": "session_0/proto.html#ai-productivity-inequality",
+    "href": "session_0/proto.html#ai-productivity-inequality",
+    "title": "AI and the Labour Market (proto)",
+    "section": "AI Productivity, Inequality",
+    "text": "AI Productivity, Inequality\nModel-based\ncopmlementarity effect vs displacement effect"
+  },
+  {
+    "objectID": "session_0/proto.html#ai-preparedness",
+    "href": "session_0/proto.html#ai-preparedness",
+    "title": "AI and the Labour Market (proto)",
+    "section": "AI Preparedness",
+    "text": "AI Preparedness"
+  },
+  {
+    "objectID": "tmp/slides.html#the-context",
+    "href": "tmp/slides.html#the-context",
+    "title": "AI and the Labour Market (proto)",
+    "section": "The context…",
+    "text": "The context…"
+  },
+  {
+    "objectID": "tmp/slides.html#the-report",
+    "href": "tmp/slides.html#the-report",
+    "title": "AI and the Labour Market (proto)",
+    "section": "The report",
+    "text": "The report\nAuthors\nResearch Papers\nOfficial Blog post\nOlivier Gourinchas Gita Gopinath Kristalina Goeorgieva"
+  },
+  {
+    "objectID": "tmp/slides.html#how-research-is-done-at-imf",
+    "href": "tmp/slides.html#how-research-is-done-at-imf",
+    "title": "AI and the Labour Market (proto)",
+    "section": "How Research is done at IMF",
+    "text": "How Research is done at IMF\n\n\n\n\nflowchart LR\n  A{Staff} --&gt;  A1[Academic Paper]\n  A1 --&gt; X[Peer Reviewed Publications]\n  A1 --&gt; B[IMF Working Paper]\n  A --&gt; C[IMF Staff Discussion Paper]\n  B --&gt; C\n  C --&gt; D[Board Official Position]\n  E{Member States} ==&gt; D\n\n\n\n\n\nWhat do you conclude from that?"
+  },
+  {
+    "objectID": "tmp/slides.html#imf-blog",
+    "href": "tmp/slides.html#imf-blog",
+    "title": "AI and the Labour Market (proto)",
+    "section": "IMF Blog",
+    "text": "IMF Blog\nPoints to:\nIMF F&D December\nGenerative AI at Work"
+  },
+  {
+    "objectID": "tmp/slides.html#section",
+    "href": "tmp/slides.html#section",
+    "title": "AI and the Labour Market (proto)",
+    "section": "",
+    "text": "AE advantage: which ones are most at risk?"
+  },
+  {
+    "objectID": "tmp/slides.html#shape-the-narrative",
+    "href": "tmp/slides.html#shape-the-narrative",
+    "title": "AI and the Labour Market (proto)",
+    "section": "Shape the narrative…",
+    "text": "Shape the narrative…\nThe Marradona policy…\nGDP growth forecasts…"
+  },
+  {
+    "objectID": "tmp/slides.html#excec-summary",
+    "href": "tmp/slides.html#excec-summary",
+    "title": "AI and the Labour Market (proto)",
+    "section": "Excec Summary",
+    "text": "Excec Summary\n\nindustrial revolution: productivity shock, replace some workers, complement others\n40% of employment at risk\n\nmore in advanced countries than emerging than developing (60/40/26)\nbut advanced countries more ready\n\neffect on income / wealth inequality\n\nwhole population is affected by ai risk\nbut high income more likely to be positive complement\nmodel simulation-&gt; beneficial to top earners\n\npositive effect on income for all woekers\ncollege-educated workers more prepared to move from jobs\nAI preparedness index\n\nadvanced: invest in AI innovation and rgulation\nless developped: infrastructure and digital traning\nall social safety nets"
+  },
+  {
+    "objectID": "tmp/slides.html#ai-exposure-and-complementarity",
+    "href": "tmp/slides.html#ai-exposure-and-complementarity",
+    "title": "AI and the Labour Market (proto)",
+    "section": "AI Exposure and Complementarity",
+    "text": "AI Exposure and Complementarity\nO*NET: - job - occupation - ability\n(what is importance?, prevalence?)\n(example with a graph)\n(problem: O*NET is only for the US)\nLabor Market Exposure to AI: Cross-country Differences and Distributional Implicationss\nCountries: UK/US + Brazil, Columbia, India, South Africa\nGo beyond tasks by adding social and physical context\nSubjectivity of social point of view.\nGiven the high degree of uncertainty over the future of this fast-pacing and broadly applicable technology, the concept of exposure is purposely framed as agnostic on the likelihood of AI complementing or replacing labor in the performance of a given task or occupation.\nIdea: provide specific tables /graphs to students\nData: ILO for all countries microdata for some\nProblem: concept of complementarity, not the same\nOccupational transitions:\n\nconcept of social mobility\nmarkov chain\n\nWhat prevents transition?\ncf paper\nWhy are older workers less willing to switch? (many reality checks in the paper).\n\nWho is mostly helped with AI?*\nyoung college-educated On the other hand, AI may enable young college-educated workers to become experienced more quickly as they leverage their familiarity with new technologies to enhance their productivity. With the introduction of generative AI, the use of AI has itself become much easier. A recent study shows that the productivity impact of an AI-based conversational assistant was greatest for less experienced and low-skilled customer support workers; the effect on experienced and highly skilled workers was minimal (Brynjolfsson, Danielle, and Raymond 2023).\n\nSame with Code Assistant"
+  },
+  {
+    "objectID": "tmp/slides.html#ai-productivity-inequality",
+    "href": "tmp/slides.html#ai-productivity-inequality",
+    "title": "AI and the Labour Market (proto)",
+    "section": "AI Productivity, Inequality",
+    "text": "AI Productivity, Inequality\nModel-based\ncopmlementarity effect vs displacement effect"
+  },
+  {
+    "objectID": "tmp/slides.html#ai-preparedness",
+    "href": "tmp/slides.html#ai-preparedness",
+    "title": "AI and the Labour Market (proto)",
+    "section": "AI Preparedness",
+    "text": "AI Preparedness"
+  },
+  {
+    "objectID": "tmp/proto.html",
+    "href": "tmp/proto.html",
+    "title": "AI and the Labour Market (proto)",
+    "section": "",
+    "text": "How research is done?\n\n\n\n\n\nAuthors\nResearch Papers\nOfficial Blog post\nOlivier Gourinchas Gita Gopinath Kristalina Goeorgieva\n\n\n\n\n\n\n\nflowchart LR\n  A{Staff} --&gt;  A1[Academic Paper]\n  A1 --&gt; X[Peer Reviewed Publications]\n  A1 --&gt; B[IMF Working Paper]\n  A --&gt; C[IMF Staff Discussion Paper]\n  B --&gt; C\n  C --&gt; D[Board Official Position]\n  E{Member States} ==&gt; D\n\n\n\n\n\nWhat do you conclude from that?\n\n\n\nPoints to:\nIMF F&D December\nGenerative AI at Work\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAE advantage: which ones are most at risk?\n\n\n\n\n\n\nThe Marradona policy…\nGDP growth forecasts…"
+  },
+  {
+    "objectID": "tmp/proto.html#the-report",
+    "href": "tmp/proto.html#the-report",
+    "title": "AI and the Labour Market (proto)",
+    "section": "",
+    "text": "Authors\nResearch Papers\nOfficial Blog post\nOlivier Gourinchas Gita Gopinath Kristalina Goeorgieva"
+  },
+  {
+    "objectID": "tmp/proto.html#how-research-is-done-at-imf",
+    "href": "tmp/proto.html#how-research-is-done-at-imf",
+    "title": "AI and the Labour Market (proto)",
+    "section": "",
+    "text": "flowchart LR\n  A{Staff} --&gt;  A1[Academic Paper]\n  A1 --&gt; X[Peer Reviewed Publications]\n  A1 --&gt; B[IMF Working Paper]\n  A --&gt; C[IMF Staff Discussion Paper]\n  B --&gt; C\n  C --&gt; D[Board Official Position]\n  E{Member States} ==&gt; D\n\n\n\n\n\nWhat do you conclude from that?"
+  },
+  {
+    "objectID": "tmp/proto.html#imf-blog",
+    "href": "tmp/proto.html#imf-blog",
+    "title": "AI and the Labour Market (proto)",
+    "section": "",
+    "text": "Points to:\nIMF F&D December\nGenerative AI at Work"
+  },
+  {
+    "objectID": "tmp/proto.html#section",
+    "href": "tmp/proto.html#section",
+    "title": "AI and the Labour Market (proto)",
+    "section": "",
+    "text": "AE advantage: which ones are most at risk?"
+  },
+  {
+    "objectID": "tmp/proto.html#shape-the-narrative",
+    "href": "tmp/proto.html#shape-the-narrative",
+    "title": "AI and the Labour Market (proto)",
+    "section": "",
+    "text": "The Marradona policy…\nGDP growth forecasts…"
+  },
+  {
+    "objectID": "tmp/proto.html#excec-summary",
+    "href": "tmp/proto.html#excec-summary",
+    "title": "AI and the Labour Market (proto)",
+    "section": "Excec Summary",
+    "text": "Excec Summary\n\nindustrial revolution: productivity shock, replace some workers, complement others\n40% of employment at risk\n\nmore in advanced countries than emerging than developing (60/40/26)\nbut advanced countries more ready\n\neffect on income / wealth inequality\n\nwhole population is affected by ai risk\nbut high income more likely to be positive complement\nmodel simulation-&gt; beneficial to top earners\n\npositive effect on income for all woekers\ncollege-educated workers more prepared to move from jobs\nAI preparedness index\n\nadvanced: invest in AI innovation and rgulation\nless developped: infrastructure and digital traning\nall social safety nets"
+  },
+  {
+    "objectID": "tmp/proto.html#ai-exposure-and-complementarity",
+    "href": "tmp/proto.html#ai-exposure-and-complementarity",
+    "title": "AI and the Labour Market (proto)",
+    "section": "AI Exposure and Complementarity",
+    "text": "AI Exposure and Complementarity\nO*NET: - job - occupation - ability\n(what is importance?, prevalence?)\n(example with a graph)\n(problem: O*NET is only for the US)\nLabor Market Exposure to AI: Cross-country Differences and Distributional Implicationss\nCountries: UK/US + Brazil, Columbia, India, South Africa\nGo beyond tasks by adding social and physical context\nSubjectivity of social point of view.\nGiven the high degree of uncertainty over the future of this fast-pacing and broadly applicable technology, the concept of exposure is purposely framed as agnostic on the likelihood of AI complementing or replacing labor in the performance of a given task or occupation.\nIdea: provide specific tables /graphs to students\nData: ILO for all countries microdata for some\nProblem: concept of complementarity, not the same\nOccupational transitions:\n\nconcept of social mobility\nmarkov chain\n\nWhat prevents transition?\ncf paper\nWhy are older workers less willing to switch? (many reality checks in the paper).\n\nWho is mostly helped with AI?*\nyoung college-educated On the other hand, AI may enable young college-educated workers to become experienced more quickly as they leverage their familiarity with new technologies to enhance their productivity. With the introduction of generative AI, the use of AI has itself become much easier. A recent study shows that the productivity impact of an AI-based conversational assistant was greatest for less experienced and low-skilled customer support workers; the effect on experienced and highly skilled workers was minimal (Brynjolfsson, Danielle, and Raymond 2023).\n\nSame with Code Assistant"
+  },
+  {
+    "objectID": "tmp/proto.html#ai-productivity-inequality",
+    "href": "tmp/proto.html#ai-productivity-inequality",
+    "title": "AI and the Labour Market (proto)",
+    "section": "AI Productivity, Inequality",
+    "text": "AI Productivity, Inequality\nModel-based\ncopmlementarity effect vs displacement effect"
+  },
+  {
+    "objectID": "tmp/proto.html#ai-preparedness",
+    "href": "tmp/proto.html#ai-preparedness",
+    "title": "AI and the Labour Market (proto)",
+    "section": "AI Preparedness",
+    "text": "AI Preparedness"
+  },
+  {
+    "objectID": "prep_nudges/index_handout.html",
+    "href": "prep_nudges/index_handout.html",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Come back later!."
+  },
+  {
+    "objectID": "prep_3/index_handout.html",
+    "href": "prep_3/index_handout.html",
+    "title": "Inequalities (TBC)",
+    "section": "",
+    "text": "Come back later!."
+  },
+  {
+    "objectID": "session_ai_labour/index_handout.html",
+    "href": "session_ai_labour/index_handout.html",
+    "title": "Gen-AI and the Labour Market",
+    "section": "",
+    "text": ". . .\nFrom CNN: ‘Jobs may disappear’: Nearly 40% of global employment could be disrupted by AI, IMF says\n. . .\n🤔 How do they know that?"
+  },
+  {
+    "objectID": "session_carbon/ideas.html",
+    "href": "session_carbon/ideas.html",
+    "title": "CEPII briefing",
+    "section": "",
+    "text": "Who are the most important economists: - pigou - nordhaus - weitzman - stern\nWhat policies are currently in place\nWhy a price to carbon is a good thing? - incentives - signal\nHow is it measured?\ndamage\ncost\nCap and trade vs carbon tax\ncountries implementing carbon taxes: - ARgentina - Canada - UK - EU - Sweden - Japan\ntrading gives companies higher incentives to cut emissions\ncap and trade: which companies must pay? - government distributes allowances across industries\nIt worked for sulfur dioxide pollution : acid rains\n2017: China: nationa carbon market\nReaching such a target for a global good (the climate) with minimal distortions would a priori require imposing a common price for carbon worldwide. There are many reasons why this may not be feasible. In particular, rich countries have accumulated a stock of emissions over the past centuries and should support a stronger effort, while poor countries need to catch up in terms of income in order to reach the technical level they need to efficiently cap their missions.\ncarbon leakage: - the direct leakage problem - sectors under constraint displace their production in regions where the constraint is less binding - indirect leakage problem is related to energy markets - by reducing their demand in fossil energy, regulating countries depress its price, which leads indirectly to higher emissions by nonconstrained countries\nCurrent policies: - energy intensive manufacturing: ETS system - free allowances to high-emitting industries - member states: - carbon taxation systems for services and non-tradable goods (housing, transport) - no measure at the border"
+  },
+  {
+    "objectID": "session_carbon/ideas.html#the-climate-clock",
+    "href": "session_carbon/ideas.html#the-climate-clock",
+    "title": "CEPII briefing",
+    "section": "the climate clock",
+    "text": "the climate clock\n\\(\\Delta T\\) ~ \\(\\Delta S\\) (stock of GHG)"
+  },
+  {
+    "objectID": "session_carbon/ideas.html#options-1",
+    "href": "session_carbon/ideas.html#options-1",
+    "title": "CEPII briefing",
+    "section": "Options (1)",
+    "text": "Options (1)\nidentity of Kaya\n\npopulation growth\neconomic growth\nenergy intensity\ncarbon content of energy"
+  },
+  {
+    "objectID": "session_carbon/ideas.html#economic-growth",
+    "href": "session_carbon/ideas.html#economic-growth",
+    "title": "CEPII briefing",
+    "section": "economic growth",
+    "text": "economic growth\ndecrease or change behaviour ?"
+  },
+  {
+    "objectID": "session_carbon/ideas.html#decarbonisation-of-energy",
+    "href": "session_carbon/ideas.html#decarbonisation-of-energy",
+    "title": "CEPII briefing",
+    "section": "decarbonisation of energy",
+    "text": "decarbonisation of energy\nfact : fossil fuels are not rare\nproblem: some stay underground - coal and oil\nstranded assets\nexploration / investment continues - why ? (lack of credibility) - myopia / free riding"
+  },
+  {
+    "objectID": "session_carbon/ideas.html#gas",
+    "href": "session_carbon/ideas.html#gas",
+    "title": "CEPII briefing",
+    "section": "gas",
+    "text": "gas\nless polluting technological lock-in"
+  },
+  {
+    "objectID": "session_carbon/ideas.html#renewable",
+    "href": "session_carbon/ideas.html#renewable",
+    "title": "CEPII briefing",
+    "section": "renewable",
+    "text": "renewable\nnow cost- efficient\nproblem: not controllable"
+  },
+  {
+    "objectID": "session_carbon/ideas.html#negative-emissions",
+    "href": "session_carbon/ideas.html#negative-emissions",
+    "title": "CEPII briefing",
+    "section": "negative emissions:",
+    "text": "negative emissions:\nreforestation bioenergy\ngeoengineering"
+  },
+  {
+    "objectID": "session_carbon/ideas.html#climate-policy",
+    "href": "session_carbon/ideas.html#climate-policy",
+    "title": "CEPII briefing",
+    "section": "Climate policy",
+    "text": "Climate policy\nPigou 1921: Carbon tax is efficient\nprice to a good that would be overconsumed\ncarbon tax has weaknesses: - not enough for green R&D - - behavioural bias - netweork externatlities - ..\nother instruments …"
+  },
+  {
+    "objectID": "session_carbon/ideas.html#carbon-tax-very-impopular.-why",
+    "href": "session_carbon/ideas.html#carbon-tax-very-impopular.-why",
+    "title": "CEPII briefing",
+    "section": "Carbon tax very impopular. Why",
+    "text": "Carbon tax very impopular. Why\nit is regressive\ncompensate for regressive effects\ntarget transfers\nNB: standards and regulations just as regressive"
+  },
+  {
+    "objectID": "session_carbon/ideas.html#climate-policy-1",
+    "href": "session_carbon/ideas.html#climate-policy-1",
+    "title": "CEPII briefing",
+    "section": "Climate policy",
+    "text": "Climate policy\nnew risks\n\nParis agreement"
+  },
+  {
+    "objectID": "session_carbon/ideas.html#types-of-risk",
+    "href": "session_carbon/ideas.html#types-of-risk",
+    "title": "CEPII briefing",
+    "section": "Types of risk",
+    "text": "Types of risk\ntransition risk: from stranded assets"
+  },
+  {
+    "objectID": "session_carbon/ideas.html#integrated-assessment-model",
+    "href": "session_carbon/ideas.html#integrated-assessment-model",
+    "title": "CEPII briefing",
+    "section": "Integrated-assessment model",
+    "text": "Integrated-assessment model\n\nnordhaus 75-77: energy/climate model\nnordhaus 83: static with damage\nnordhaus 90:\nNordhaus 92-94-2016: Dynamic Integrrated model of Climate and the Economy\ncv evolution in Nordhaus 2018a\n\nvariants: RICE, PRICE, R&DICE (innovation), C-DICE (coalition)\nstructure of DICE: circular flow\n\n\n\nDICE Circular Flow"
+  },
+  {
+    "objectID": "session_carbon/ideas.html#mathematical-optimization",
+    "href": "session_carbon/ideas.html#mathematical-optimization",
+    "title": "CEPII briefing",
+    "section": "Mathematical Optimization",
+    "text": "Mathematical Optimization\n\\[\\max_{c_t} W = \\max _{c_t} \\int_0^{\\infty} U[c(t)] e^{-\\rho t} dt\\] s.t. \\[c(t) = M(y(t), z(t); α, ε(t))\\]\nMost complicated part: modelisation of the contraints.\nCurrently: about 20 equations to model the constraints.\nEarth science: - burning of fossil fuel -&gt; Carbon Dioxyde - - GHG accumulate in the atomosphere - warms land and oceans - feedback effects\nAt the same pace: concentration in 20110 will includece +3/5 degrees in 2100.\nHigher than any past temperature"
+  },
+  {
+    "objectID": "session_carbon/ideas.html#solutions-to-slow-dowsn-climate-change",
+    "href": "session_carbon/ideas.html#solutions-to-slow-dowsn-climate-change",
+    "title": "CEPII briefing",
+    "section": "Solutions to slow dowsn climate change",
+    "text": "Solutions to slow dowsn climate change\nA. abatement, i.e. reduce emissions of CO2, by reducing use of carbon fuels B. carbon removal: remove CO2 from emissions or from the atmosphere C. geoengineering (solar radiation-management: change reflectivity of the earth)\nC. make earth more reflective. little mirrors. ex: add sulfate aerosols in the stratosphere - no effect on ocean carbonization - uneven effects - complicated international cooperation - salvage therapy B. not feasible for now A. abatement - average across several studies (cf Gillingham et al.) - cost for 50% emissions (0.5-&gt;3) - cost for 100% emissions (2-&gt;6) - assume different policies, and participation rates\nIs the cost measure realistic ?"
+  },
+  {
+    "objectID": "session_carbon/ideas.html#damages",
+    "href": "session_carbon/ideas.html#damages",
+    "title": "CEPII briefing",
+    "section": "Damages",
+    "text": "Damages\ndamages to different sectors: - managed - unmanaged (provide examples: high income, low income)\ntipping points: -&gt; sudden/irreversible damage - makes systems effectively unmanageable\nimpacts: nonlinear and cumulative early studies: 1 or 2 degrees innocuous mor erecent ones: (ex 2018 IPCC report on 1.5) even 2 degrees highly disruptive\nDICE: damages are market and non-market - 2% at 3 degrees of permanent consumption - 8% at 6 Howard and Sterner: even more *3.5 times higher\ndamages: - include catastrophic events - do not allow for fat tails (contentious)\nCriticism: it monetizes all activities - can you value lost island, house damaged by hurricane - traditional answer: we need a metric\nKeynes: better to be vaguely right than precisely wrong"
+  },
+  {
+    "objectID": "session_carbon/ideas.html#iam-main-finding",
+    "href": "session_carbon/ideas.html#iam-main-finding",
+    "title": "CEPII briefing",
+    "section": "IAM: main finding",
+    "text": "IAM: main finding\nsocial cost of carbon\nthe shadow price of optimization what would be the benefit of relaxing the constraint by a little amount ?"
+  },
+  {
+    "objectID": "session_carbon/ideas.html#objective",
+    "href": "session_carbon/ideas.html#objective",
+    "title": "CEPII briefing",
+    "section": "objective",
+    "text": "objective\nsetting up a target:\ncost of attaining the target?\ncost-benefit analysis"
+  },
+  {
+    "objectID": "session_carbon/ideas.html#major-findings",
+    "href": "session_carbon/ideas.html#major-findings",
+    "title": "CEPII briefing",
+    "section": "major findings",
+    "text": "major findings\n\nslow emissions as soon as possible\nuniformity of prices\n\nequalize marginal cost of reducing emissions everywhere\ncarbon price should be equal everywhere\n\nhigh participation\npolicy ramp up over time\n\nDisagreement is about the kind of policy"
+  },
+  {
+    "objectID": "session_carbon/ideas.html#findings",
+    "href": "session_carbon/ideas.html#findings",
+    "title": "CEPII briefing",
+    "section": "findings",
+    "text": "findings\nDICE: 135 infeasible cost-benefit: 3 degrees in 2100"
+  },
+  {
+    "objectID": "session_carbon/ideas.html#carbon-pricing",
+    "href": "session_carbon/ideas.html#carbon-pricing",
+    "title": "CEPII briefing",
+    "section": "Carbon-pricing",
+    "text": "Carbon-pricing\nmust raise price of CO2\ntwo options: - cap maximum emissions and trade - levy tax on carbon\nconsequences: signal for conusmers, producers, investors + information"
+  },
+  {
+    "objectID": "session_carbon/ideas.html#the-social-cost-of-carbon",
+    "href": "session_carbon/ideas.html#the-social-cost-of-carbon",
+    "title": "CEPII briefing",
+    "section": "The social Cost of carbon:",
+    "text": "The social Cost of carbon:\n\nrising over time"
+  },
+  {
+    "objectID": "session_carbon/ideas.html#issues-of-discounting",
+    "href": "session_carbon/ideas.html#issues-of-discounting",
+    "title": "CEPII briefing",
+    "section": "Issues of discounting",
+    "text": "Issues of discounting\nRamsey-problem"
+  },
+  {
+    "objectID": "session_carbon/ideas.html#national-to-international",
+    "href": "session_carbon/ideas.html#national-to-international",
+    "title": "CEPII briefing",
+    "section": "National to International",
+    "text": "National to International"
+  },
+  {
+    "objectID": "session_carbon/ideas.html#free-riding",
+    "href": "session_carbon/ideas.html#free-riding",
+    "title": "CEPII briefing",
+    "section": "Free-riding",
+    "text": "Free-riding\nfree-riding and double free-riding\nThe concept of global warning was created by and for the Chinese, in order to make U.s. manufacturing non competitive."
+  },
+  {
+    "objectID": "session_carbon/ideas.html#climate-agreements",
+    "href": "session_carbon/ideas.html#climate-agreements",
+    "title": "CEPII briefing",
+    "section": "CLimate agreements",
+    "text": "CLimate agreements\n1994: United Nations Frameowrk Convention on Climate Change\nThe ulitmate objective is to achieve stabilization of greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic interferences with the climate system.\n1997: Kyoto protocol - high income emission: below 1990 fro 2008-2012 - international cap-and-trade system\nUS out : mostly because india and china not subjected\nemissions grew faster in non-participating countries\nwas aiming two cover 2/3 of global emissions but ended up covering 1/3 only\nParis 2015: target 2% above preindustrial levels\nChina announced target: - reduce intensity until 2030 Us: 26-28 by 2025 Biden: cute emissions 50% below 2005 levels by 2030"
+  },
+  {
+    "objectID": "session_carbon/ideas.html#results",
+    "href": "session_carbon/ideas.html#results",
+    "title": "CEPII briefing",
+    "section": "Results",
+    "text": "Results\nGlobal carbon itensity as declined at 1.6% per year … since the 60s…\nHigher rate since 90s… mostly from China\nCommitements are very modest"
+  },
+  {
+    "objectID": "session_carbon/ideas.html#climate-clubs",
+    "href": "session_carbon/ideas.html#climate-clubs",
+    "title": "CEPII briefing",
+    "section": "Climate Clubs",
+    "text": "Climate Clubs\nmembership: implement global price of carbon penalise free riding\neasier to negociate: dimensionality of negociation modern version of ken arrow theorem"
+  },
+  {
+    "objectID": "extra_prep_genz/index_handout.html",
+    "href": "extra_prep_genz/index_handout.html",
+    "title": "Gen-Z and the Labour Market (TBC)",
+    "section": "",
+    "text": "Come back later!."
   }
 ]
