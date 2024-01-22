@@ -1,0 +1,18 @@
+---
+title: "Gen-Z and the Labour Market (TBC)"
+date: 2024/05/02
+subtitle: Topics in Economics, ESCP, 2023-2024
+author: Pablo Winant
+format:
+  revealjs:
+    menu:
+      side: left
+      width: normal
+  html:
+    output-file: index_handout.html
+
+---
+
+![](wip.png)
+
+Come back later!.

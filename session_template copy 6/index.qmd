@@ -1,0 +1,18 @@
+---
+title: "Final Exam ☠"
+date: 2024/05/06
+subtitle: Topics in Economics, ESCP, 2023-2024
+author: Pablo Winant
+format:
+  revealjs:
+    menu:
+      side: left
+      width: normal
+  html:
+    output-file: index_handout.html
+
+---
+
+![](wip.png)
+
+Come back later!.
