@@ -6,14 +6,16 @@ listing:
   sort-ui: false
   filter-ui: false
   contents: 
-    - session_0/index.qmd
-    - session_1/index.qmd
-    - session_2/index.qmd
-    - session_3/index.qmd
-    - session_template*/index.qmd
+    - session_*/index.qmd
+    
+    - prep*/index.qmd
   sort: date
   fields: [date, title]
 ---
+
+<mark>TODO</mark>: 
+
+- by Jan 29th, read the last IMF report on AI (either [blog entry](https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity) or associated paper)
 
 \ \ 
 
@@ -26,9 +28,11 @@ __Provisional Schedule__
 __Practicalities__
 
 - Evaluation
-  - group work (40%)
+  - group work (<mark>40%</mark>)
     - record a 5 min video developing one particular point of the course
-  - final exam (in-class) (60%)
+    - 4 students max per group
+    - more detailed instructions upcoming
+  - final exam (in-class) (<mark>60%</mark>)
     - mcq on __econ concepts__
     - very short essay based on documents
   - ongoing (up to 20% bonus/malus)

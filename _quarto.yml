@@ -4,14 +4,6 @@ project:
 website:
   title: "Topics in Economics"
   search: false
-  sidebar:
-      style: "docked"
-      contents:
-      - session_0/index.qmd
-      - session_1/index.qmd
-      - session_2/index.qmd
-      - session_2/proto.qmd
-      - session_3/index.qmd
 
 format:
   html:
