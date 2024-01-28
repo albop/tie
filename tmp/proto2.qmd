@@ -1,0 +1,151 @@
+---
+title: "Gen-AI and the Labour Market"
+date: 2024/01/22
+subtitle: Topics in Economics, ESCP, 2023-2024
+author: Pablo Winant
+format:
+  revealjs:
+    menu:
+      side: left
+      width: normal
+    toc: true
+    toc-depth: 1
+    toc-title: Plan
+  html:
+    output-file: index_handout.html
+
+---
+
+![](cnn.webp){width=40%}
+
+. . . 
+
+From CNN: *‘Jobs may disappear’: Nearly 40% of global employment could be disrupted by AI, IMF says*
+
+. . . 
+
+🤔 How do they know that?
+
+
+## 
+
+::: {.callout-note icon=false}
+
+## Task
+
+Find some context about the study and the various authors implicated.
+
+Why is IMF interested in AI?
+
+:::
+
+
+## Some Context
+
+*Blog Post*. written by Kristalina Goeorgieva Head of IMF
+
+*Staff Discussion Note*: by X, Y, Z, validated by Pierre-Olivier Gourinchas, Head of Research
+
+*IMF Working Paper*: by ...
+
+## Blog post: more references
+
+Points to:
+
+[IMF F&D December](https://www.imf.org/en/Publications/fandd/issues)
+
+[Generative AI at Work](https://www.nber.org/papers/w31161)
+
+## How Research is done at IMF
+
+```{mermaid}
+flowchart LR
+  A{Staff} -->  A1[Academic Paper]
+  A1 --> X[Peer Reviewed Publications]
+  A1 --> B[IMF Working Paper]
+  A --> C[IMF Staff Discussion Paper]
+  B --> C
+  C --> D[Board Official Position]
+  E{Member States} ==> D
+```
+
+How does it impact what you read?
+
+## Research in Big Institutions
+
+The *publication* ofresearch papers in big institutions has several goals:
+
+- disseminate research
+  - usually from researchers that are closest from policy circles
+
+- build a common narrative that countries can build on to negociate with the same language
+
+- (usually not) state an official position of the institution
+
+
+##
+
+::: {layout-ncol=2}
+
+![](ai_exposure.png)
+
+![](ae_advantage.png)
+
+:::
+
+AE advantage: which ones are most at risk?
+
+
+## 
+
+::: {.callout-note icon=false}
+
+## About the IMF
+
+The IMF is a global organization that works to achieve sustainable growth and prosperity for all of its 190 member countries. It does so by supporting economic policies that promote financial stability and monetary cooperation, which are essential to increase productivity, job creation, and economic well-being. The IMF is governed by and accountable to its member countries.
+
+:::
+
+. . . Then why is it interested in AI?
+
+
+## Why is IMF why is it interested in AI?
+
+. . . 
+
+Check out [the webpage](https://www.imf.org/en/About/Factsheets/IMF-Lending)
+
+::: {.incremental}
+
+1. IMF lends in times of crisis
+
+  - it is useful to know what might cause the next one (CoVid2, AI, food shortage, global warning...)
+
+2. It pushes for structural reforms (but which ones?)
+
+  - so that countries can reimburse loans
+
+3. It sometimes act as a last-resort multilateral institution
+
+  - where do all finance ministers sit down to discuss ...?
+
+:::
+
+
+## 
+
+::: {.callout-note icon=false}
+
+## Task
+
+Read the blog post and think about the following questions.
+
+Answer the short online
+
+:::
+
+# Part 1
+
+# Part 2
+
+# Part 3

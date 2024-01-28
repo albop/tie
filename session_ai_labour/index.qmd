@@ -1,0 +1,24 @@
+---
+title: "Gen-AI and the Labour Market"
+date: 2024/01/29
+subtitle: Topics in Economics, ESCP, 2023-2024
+author: Pablo Winant
+format:
+  revealjs:
+    menu:
+      side: left
+      width: normal
+  html:
+    output-file: index_handout.html
+
+---
+
+![](cnn.png){width=40%}
+
+. . . 
+
+From CNN: *‘Jobs may disappear’: Nearly 40% of global employment could be disrupted by AI, IMF says*
+
+. . . 
+
+🤔 How do they know that?
