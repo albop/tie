@@ -912,7 +912,7 @@ To belong to the club:
 
 - commit to set domestically the carbon price at an agreed amount, through any available policy (carbon tax, emission systems, regulations) -->
 
-# Conclusions
+<!-- # Conclusions
 
 ##  More Integrated Assessment Models (1)
 
@@ -967,7 +967,9 @@ In all cases, it is __inflationary__
 Overall, all models share the basic non-controversial conclusions as the nordhaus model
 
 - early action
-- focus on the carbon price
+- focus on the carbon price -->
+
+# Conclusion
 
 ## Conclusion
 
