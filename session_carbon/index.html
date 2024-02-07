@@ -8,7 +8,7 @@
 <link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.4.487">
+  <meta name="generator" content="quarto-1.4.549">
 
   <meta name="author" content="Pablo Winant">
   <meta name="dcterms.date" content="2024-01-22">
@@ -346,7 +346,7 @@ Pablo Winant
 <li><a href="#/global-warming-and-the-carbon-budget" id="/toc-global-warming-and-the-carbon-budget">Global Warming and the Carbon Budget</a></li>
 <li><a href="#/the-price-of-carbon" id="/toc-the-price-of-carbon">The Price of Carbon</a></li>
 <li><a href="#/estimating-the-price-of-carbon" id="/toc-estimating-the-price-of-carbon">Estimating the price of carbon</a></li>
-<li><a href="#/conclusions" id="/toc-conclusions">Conclusions</a></li>
+<li><a href="#/conclusion" id="/toc-conclusion">Conclusion</a></li>
 </ul>
 </nav>
 </section>
@@ -831,26 +831,26 @@ __Nuclear Energy__
 <div id="fig-elephants" class="quarto-layout-panel">
 <figure class="quarto-float quarto-float-fig">
 <div aria-describedby="fig-elephants-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-layout-cell-subref quarto-layout-cell" data-ref-parent="fig-elephants" style="flex-basis: 50.0%;justify-content: center;">
-<div id="fig-plastic" class="quarto-figure quarto-figure-center">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell-subref quarto-layout-cell" data-ref-parent="fig-elephants" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div id="fig-plastic" class="quarto-figure quarto-figure-center quarto-float">
 <figure class="quarto-float quarto-subfloat-fig">
 <div aria-describedby="fig-plastic-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <img data-src="assets/plasticbag.png" data-ref-parent="fig-elephants">
 </div>
-<figcaption class="figure quarto-subfloat-caption quarto-subfloat-fig" id="fig-plastic-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<figcaption class="quarto-float-caption-bottom quarto-subfloat-caption quarto-subfloat-fig" id="fig-plastic-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 (a) A super nice plastic bag
 </figcaption>
 </figure>
 </div>
 </div>
-<div class="quarto-layout-cell-subref quarto-layout-cell" data-ref-parent="fig-elephants" style="flex-basis: 50.0%;justify-content: center;">
-<div id="fig-tote" class="quarto-figure quarto-figure-center">
+<div class="quarto-layout-cell-subref quarto-layout-cell" data-ref-parent="fig-elephants" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div id="fig-tote" class="quarto-figure quarto-figure-center quarto-float">
 <figure class="quarto-float quarto-subfloat-fig">
 <div aria-describedby="fig-tote-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <img data-src="assets/totebag.jpg" data-ref-parent="fig-elephants">
 </div>
-<figcaption class="figure quarto-subfloat-caption quarto-subfloat-fig" id="fig-tote-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<figcaption class="quarto-float-caption-bottom quarto-subfloat-caption quarto-subfloat-fig" id="fig-tote-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 (b) A dark and boring cotton tote bag
 </figcaption>
 </figure>
@@ -858,7 +858,7 @@ __Nuclear Energy__
 </div>
 </div>
 </div>
-<figcaption class="figure quarto-float-caption quarto-float-fig" id="fig-elephants-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-elephants-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Figure&nbsp;1: Which one do you use?
 </figcaption>
 </figure>
@@ -1287,80 +1287,69 @@ A possible solution suggested by Nordhaus
 To belong to the club:
 
 - commit to set domestically the carbon price at an agreed amount, through any available policy (carbon tax, emission systems, regulations) -->
+<!-- # Conclusions
+
+##  More Integrated Assessment Models (1)
+
+Nowadays, the IAM approach is followed with a variety of models
+
+In the  DICE model, the macro part is an extension of the neoclassical growth theory
+
+- productivity growth is taken as exogenous
+
+##  More Integrated Assessment Models (2)
+
+There are several variants:
+
+- endogenous growth[^romer]
+- endogenous participation / coalition building
+
+[^romer]: Paul Romer obtained the Nobel price on the same year as William Nordhaus for his contributions on growth theory.
+
+##  Green macro models (1/2)
+
+As the decision horizon is getting closer several models from traditional modeling and get their climate extension
+
+- Computational General Equilibrium (CGE) models
+    - many sectors
+    - used to inform trade policy and calibrate subsidies
+    - ex: [rhomolo](https://joint-research-centre.ec.europa.eu/system/files/2020-05/jrc113322.pdf) from European Commision
+
+##  Green macro models (2/2)
+
+- DSGE models
+    - nominal rigidities → tradeoff with on inflation/unemployment
+        - ex: [IMF's GMMET model]() = GIMF + Climate
+    - overlapping generations → study intergenerational equity and long term interest rate
+
+## Basic macro tradeoff
+
+- increasing carbon price acts like a cost-push shock (similar to rise in oil price)
+- but the state perceives a revenue, which can be used to reduce costs...
+    - double dividend: damage reduction, costs reduction
+- ... by funding green investments (renewable energies, housing renovation, carbon sinks)
+- which creates a positive demand shock
+- What is the ultimate effect?
+    - depends on the multiplier effect on green investment
+
+In all cases, it is __inflationary__
+
+
+## Example from GMMET
+
+![WEO/GMMET](assets/weo-ch3-chart-2.png)
+
+Overall, all models share the basic non-controversial conclusions as the nordhaus model
+
+- early action
+- focus on the carbon price -->
 <img data-src="assets/social_cost_of_carbon.png" class="r-stretch"></section></section>
 <section>
-<section id="conclusions" class="title-slide slide level1 center">
-<h1>Conclusions</h1>
+<section id="conclusion" class="title-slide slide level1 center">
+<h1>Conclusion</h1>
 
 </section>
-<section id="more-integrated-assessment-models-1" class="slide level2">
-<h2>More Integrated Assessment Models (1)</h2>
-<p>Nowadays, the IAM approach is followed with a variety of models</p>
-<p>In the DICE model, the macro part is an extension of the neoclassical growth theory</p>
-<ul>
-<li>productivity growth is taken as exogenous</li>
-</ul>
-</section>
-<section id="more-integrated-assessment-models-2" class="slide level2">
-<h2>More Integrated Assessment Models (2)</h2>
-<p>There are several variants:</p>
-<ul>
-<li>endogenous growth<sup>1</sup></li>
-<li>endogenous participation / coalition building</li>
-</ul>
-<aside><ol class="aside-footnotes"><li id="fn5"><p>Paul Romer obtained the Nobel price on the same year as William Nordhaus for his contributions on growth theory.</p></li></ol></aside></section>
-<section id="green-macro-models-12" class="slide level2">
-<h2>Green macro models (1/2)</h2>
-<p>As the decision horizon is getting closer several models from traditional modeling and get their climate extension</p>
-<ul>
-<li>Computational General Equilibrium (CGE) models
-<ul>
-<li>many sectors</li>
-<li>used to inform trade policy and calibrate subsidies</li>
-<li>ex: <a href="https://joint-research-centre.ec.europa.eu/system/files/2020-05/jrc113322.pdf">rhomolo</a> from European Commision</li>
-</ul></li>
-</ul>
-</section>
-<section id="green-macro-models-22" class="slide level2">
-<h2>Green macro models (2/2)</h2>
-<ul>
-<li>DSGE models
-<ul>
-<li>nominal rigidities → tradeoff with on inflation/unemployment
-<ul>
-<li>ex: <a href="">IMF’s GMMET model</a> = GIMF + Climate</li>
-</ul></li>
-<li>overlapping generations → study intergenerational equity and long term interest rate</li>
-</ul></li>
-</ul>
-</section>
-<section id="basic-macro-tradeoff" class="slide level2">
-<h2>Basic macro tradeoff</h2>
-<ul>
-<li>increasing carbon price acts like a cost-push shock (similar to rise in oil price)</li>
-<li>but the state perceives a revenue, which can be used to reduce costs…
-<ul>
-<li>double dividend: damage reduction, costs reduction</li>
-</ul></li>
-<li>… by funding green investments (renewable energies, housing renovation, carbon sinks)</li>
-<li>which creates a positive demand shock</li>
-<li>What is the ultimate effect?
-<ul>
-<li>depends on the multiplier effect on green investment</li>
-</ul></li>
-</ul>
-<p>In all cases, it is <strong>inflationary</strong></p>
-</section>
-<section id="example-from-gmmet" class="slide level2">
-<h2>Example from GMMET</h2>
-
-<img data-src="assets/weo-ch3-chart-2.png" class="r-stretch quarto-figure-center"><p class="caption">WEO/GMMET</p><p>Overall, all models share the basic non-controversial conclusions as the nordhaus model</p>
-<ul>
-<li>early action</li>
-<li>focus on the carbon price</li>
-</ul>
-</section>
-<section id="conclusion" class="slide level2">
+<section id="conclusion-1" class="slide level2">
 <h2>Conclusion</h2>
 <p>Integrated Assessment Models are not perfect</p>
 <p>Yet:</p>
@@ -1373,8 +1362,10 @@ To belong to the club:
 <div class="fragment">
 <p>Now, there are many ways to raise the carbon price…</p>
 
+<div class="quarto-auto-generated-content">
 <div class="footer footer-default">
 
+</div>
 </div>
 </div>
 </section></section>

@@ -644,522 +644,592 @@
     "text": "Social cost of carbon\nDespite raising some legitimate doubts about optimal carbon policy IAM models yield estimates for the price of carbon which are used as a basis for policy discussions."
   },
   {
-    "objectID": "session_carbon/index.html#more-integrated-assessment-models-1",
-    "href": "session_carbon/index.html#more-integrated-assessment-models-1",
-    "title": "The Price of Carbon",
-    "section": "More Integrated Assessment Models (1)",
-    "text": "More Integrated Assessment Models (1)\nNowadays, the IAM approach is followed with a variety of models\nIn the DICE model, the macro part is an extension of the neoclassical growth theory\n\nproductivity growth is taken as exogenous"
-  },
-  {
-    "objectID": "session_carbon/index.html#more-integrated-assessment-models-2",
-    "href": "session_carbon/index.html#more-integrated-assessment-models-2",
-    "title": "The Price of Carbon",
-    "section": "More Integrated Assessment Models (2)",
-    "text": "More Integrated Assessment Models (2)\nThere are several variants:\n\nendogenous growth1\nendogenous participation / coalition building\n\nPaul Romer obtained the Nobel price on the same year as William Nordhaus for his contributions on growth theory."
-  },
-  {
-    "objectID": "session_carbon/index.html#green-macro-models-12",
-    "href": "session_carbon/index.html#green-macro-models-12",
-    "title": "The Price of Carbon",
-    "section": "Green macro models (1/2)",
-    "text": "Green macro models (1/2)\nAs the decision horizon is getting closer several models from traditional modeling and get their climate extension\n\nComputational General Equilibrium (CGE) models\n\nmany sectors\nused to inform trade policy and calibrate subsidies\nex: rhomolo from European Commision"
-  },
-  {
-    "objectID": "session_carbon/index.html#green-macro-models-22",
-    "href": "session_carbon/index.html#green-macro-models-22",
-    "title": "The Price of Carbon",
-    "section": "Green macro models (2/2)",
-    "text": "Green macro models (2/2)\n\nDSGE models\n\nnominal rigidities → tradeoff with on inflation/unemployment\n\nex: IMF’s GMMET model = GIMF + Climate\n\noverlapping generations → study intergenerational equity and long term interest rate"
-  },
-  {
-    "objectID": "session_carbon/index.html#basic-macro-tradeoff",
-    "href": "session_carbon/index.html#basic-macro-tradeoff",
-    "title": "The Price of Carbon",
-    "section": "Basic macro tradeoff",
-    "text": "Basic macro tradeoff\n\nincreasing carbon price acts like a cost-push shock (similar to rise in oil price)\nbut the state perceives a revenue, which can be used to reduce costs…\n\ndouble dividend: damage reduction, costs reduction\n\n… by funding green investments (renewable energies, housing renovation, carbon sinks)\nwhich creates a positive demand shock\nWhat is the ultimate effect?\n\ndepends on the multiplier effect on green investment\n\n\nIn all cases, it is inflationary"
-  },
-  {
-    "objectID": "session_carbon/index.html#example-from-gmmet",
-    "href": "session_carbon/index.html#example-from-gmmet",
-    "title": "The Price of Carbon",
-    "section": "Example from GMMET",
-    "text": "Example from GMMET\n\nWEO/GMMETOverall, all models share the basic non-controversial conclusions as the nordhaus model\n\nearly action\nfocus on the carbon price"
-  },
-  {
-    "objectID": "session_carbon/index.html#conclusion",
-    "href": "session_carbon/index.html#conclusion",
+    "objectID": "session_carbon/index.html#conclusion-1",
+    "href": "session_carbon/index.html#conclusion-1",
     "title": "The Price of Carbon",
     "section": "Conclusion",
     "text": "Conclusion\nIntegrated Assessment Models are not perfect\nYet:\n\nthey provide a clean conceptual framework\nnatural, actionable, policy recommendations\nfirst best is a carbon tax\nand a measure of carbon price which is increasingly used in negotiations\n\n\nNow, there are many ways to raise the carbon price…"
   },
   {
-    "objectID": "session_ai_labour/document.html",
-    "href": "session_ai_labour/document.html",
-    "title": "IMF Blog Post",
-    "section": "",
-    "text": "IMF Blog Post"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "session_ai_labour/wip.html",
+    "href": "session_ai_labour/wip.html",
     "title": "Topics in Economics",
     "section": "",
-    "text": "TODO:\n\nby Jan 29th, read the last IMF report on AI (either blog entry or associated paper)\n\n  \nProvisional Schedule\n\n\n\n\n\nDate\n\n\nTitle\n\n\n\n\n\n\nJan 15, 2024\n\n\nGeneral Introduction\n\n\n\n\nJan 15, 2024\n\n\nThe Rise of Artificial Intelligence\n\n\n\n\nJan 22, 2024\n\n\nThe Price of Carbon\n\n\n\n\nJan 29, 2024\n\n\nGen-AI and the Labour Market\n\n\n\n\nFeb 5, 2024\n\n\nGreen Nudges\n\n\n\n\nFeb 12, 2024\n\n\nInequalities (TBC)\n\n\n\n\nFeb 26, 2024\n\n\nShould we Fear the Return of the Big, Bad, Inflation?\n\n\n\n\nMar 4, 2024\n\n\nCountries Pulling Appart: Geoeconomic Fragmentation.\n\n\n\n\nMar 11, 2024\n\n\nFinal Exam ☠\n\n\n\n\n\nNo matching items\n\n\nPracticalities\n\nEvaluation\n\ngroup work (40%)\n\nrecord a 5 min video developing one particular point of the course\n4 students max per group\nmore detailed instructions upcoming\n\nfinal exam (in-class) (60%)\n\nmcq on econ concepts\nvery short essay based on documents\n\nongoing (up to 20% bonus/malus)\n\nparticipation & behaviour\nmini-tasks if any"
+    "text": "What Can Machines Learn and What Does It Mean for Occupations and the Economy?, 2018 Erik Brynjolfsson, Tom Mitchell, and Daniel Rock\n\nfrom O*NET database (occupational information)\n\n964 occupations\ndecomposed 18,156 tasks\nmade of 2,069 work activities\n\nex: sort information, show empathy"
   },
   {
-    "objectID": "prep_6/index_handout.html",
-    "href": "prep_6/index_handout.html",
-    "title": "Final Exam ☠",
+    "objectID": "session_ai_labour/wip.html#example",
+    "href": "session_ai_labour/wip.html#example",
+    "title": "Topics in Economics",
     "section": "",
-    "text": "Come back later!."
+    "text": "What Can Machines Learn and What Does It Mean for Occupations and the Economy?, 2018 Erik Brynjolfsson, Tom Mitchell, and Daniel Rock\n\nfrom O*NET database (occupational information)\n\n964 occupations\ndecomposed 18,156 tasks\nmade of 2,069 work activities\n\nex: sort information, show empathy"
   },
   {
-    "objectID": "prep_5/index_handout.html",
-    "href": "prep_5/index_handout.html",
-    "title": "Countries Pulling Appart: Geoeconomic Fragmentation.",
+    "objectID": "session_ai_labour/wip.html#example-2",
+    "href": "session_ai_labour/wip.html#example-2",
+    "title": "Topics in Economics",
+    "section": "Example (2)",
+    "text": "Example (2)\n\nCrowdflower: evaluate work activities by answering\n\n23 distinct statements to be evaluated on a 5-point scale varying from “strongly disagree” to “strongly agree.”\nexample: is repetitive, requires data, requires physical action"
+  },
+  {
+    "objectID": "session_ai_labour/wip.html#example-2-1",
+    "href": "session_ai_labour/wip.html#example-2-1",
+    "title": "Topics in Economics",
+    "section": "Example (2)",
+    "text": "Example (2)\n\n. . .\nAlmost no\n\nfully replaceable occupation\nfully ML immune occupation"
+  },
+  {
+    "objectID": "session_ai_labour/wip.html#who-is-going-to-be-replaced-3-results",
+    "href": "session_ai_labour/wip.html#who-is-going-to-be-replaced-3-results",
+    "title": "Topics in Economics",
+    "section": "Who is going to be replaced? (3) Results",
+    "text": "Who is going to be replaced? (3) Results\n\n\neverybody is at risk\nvery different from effect of automation in the 90s\n\npolarization effect on the work force: disappearance of intermediary jobs\neffect might work in reverse"
+  },
+  {
+    "objectID": "session_ai_labour/wip.html#which-jobs-can-be-replaced",
+    "href": "session_ai_labour/wip.html#which-jobs-can-be-replaced",
+    "title": "Topics in Economics",
+    "section": "Which jobs can be replaced?",
+    "text": "Which jobs can be replaced?\nSimplified view:\n\nautomation: all routine jobs\nmachine learning: anything that is a process\ngen AI: ???\n\nWhy are ML/AI so good? - they don’t require much formalism - Polanyi’s paradox: we know more than we can tell - ML/AI is good in Polanyi’s situations."
+  },
+  {
+    "objectID": "session_ai_labour/wip.html#shortcomings",
+    "href": "session_ai_labour/wip.html#shortcomings",
+    "title": "Topics in Economics",
+    "section": "Shortcomings",
+    "text": "Shortcomings\n\nMany studies have found similar results.\n\ncheck out all “future of work”, post 2018\neach paper focus on different element of content\n\nShortcomings:\n\nonly “displacement” effect\n\nno complementarity\n\nstatic view: it ignores\n\ncretion of new jobs and job mobility\nredifinition of job content"
+  },
+  {
+    "objectID": "session_ai_labour/wip.html#mobility-other-studies-measuring-complementarity",
+    "href": "session_ai_labour/wip.html#mobility-other-studies-measuring-complementarity",
+    "title": "Topics in Economics",
+    "section": "Mobility## Other studies measuring complementarity?",
+    "text": "Mobility## Other studies measuring complementarity?\n…\nWho can easily switch job ?"
+  },
+  {
+    "objectID": "session_ai_labour/wip.html#equilibrium-effects",
+    "href": "session_ai_labour/wip.html#equilibrium-effects",
+    "title": "Topics in Economics",
+    "section": "Equilibrium Effects",
+    "text": "Equilibrium Effects\nEffect of new technology: - on tasks / on jobs\n\ncomplement (worker stays in place)\nsubstitute (worker loose jobs)\n\ntask-substitution == displacement effect (Acemoglu and Restrepo ARTIFICIAL INTELLIGENCE, AUTOMATION AND WORK)\nCounter-balancing effects: - productivity-effect - capital accumulation - deepening of automation\nReinstatement Effect\nOutcomes: - Creation of new jobs that are more complement / non-substitutable"
+  },
+  {
+    "objectID": "session_ai_labour/wip.html#simplified-view",
+    "href": "session_ai_labour/wip.html#simplified-view",
+    "title": "Topics in Economics",
+    "section": "Simplified View",
+    "text": "Simplified View\n(after Acemolu and Loebbing)\n\nautomation: routine tasks\n\nmiddle class\n\neasy to replace\nnot too cheap to invest\n\n\nmachine learning: anything that is a process\n\nprediction?\n\ngen AI:\n\n???"
+  },
+  {
+    "objectID": "session_ai_labour/wip.html#preliminary-effects-of-ml-adoption",
+    "href": "session_ai_labour/wip.html#preliminary-effects-of-ml-adoption",
+    "title": "Topics in Economics",
+    "section": "Preliminary effects of ML adoption",
+    "text": "Preliminary effects of ML adoption\n… cf last year exam"
+  },
+  {
+    "objectID": "session_ai_labour/index.html#section",
+    "href": "session_ai_labour/index.html#section",
+    "title": "Gen-AI and the Labour Market",
     "section": "",
-    "text": "Come back later!."
+    "text": "News\n\n\n\n\nFrom CNN: ‘Jobs may disappear’: Nearly 40% of global employment could be disrupted by AI, IMF says\n\n\n🤔 How do they know that?\n\n\nCheck out the documents"
   },
   {
-    "objectID": "prep_4/index_handout.html",
-    "href": "prep_4/index_handout.html",
-    "title": "Should we Fear the Return of the Big, Bad, Inflation?",
-    "section": "",
-    "text": "Come back later!."
-  },
-  {
-    "objectID": "tmp/proto2.html#section",
-    "href": "tmp/proto2.html#section",
+    "objectID": "session_ai_labour/index.html#section-1",
+    "href": "session_ai_labour/index.html#section-1",
     "title": "Gen-AI and the Labour Market",
     "section": "",
     "text": "Task\n\n\nFind some context about the study and the various authors implicated.\nWhy is IMF interested in AI?"
   },
   {
-    "objectID": "tmp/proto2.html#some-context",
-    "href": "tmp/proto2.html#some-context",
+    "objectID": "session_ai_labour/index.html#imf-ai-a-recent-stream-of-activity",
+    "href": "session_ai_labour/index.html#imf-ai-a-recent-stream-of-activity",
     "title": "Gen-AI and the Labour Market",
-    "section": "Some Context",
-    "text": "Some Context\nBlog Post. written by Kristalina Goeorgieva Head of IMF\nStaff Discussion Note: by X, Y, Z, validated by Pierre-Olivier Gourinchas, Head of Research\nIMF Working Paper: by …"
+    "section": "IMF & AI: a recent stream of activity",
+    "text": "IMF & AI: a recent stream of activity\n\n\nBlog Post. written by Kristalina Goeorgieva Head of IMF\nStaff Discussion Note: by Cazzaniga et al. validated by Pierre-Olivier Gourinchas, Head of Research\nIMF Working Paper: Labor Market Exposure to AI: Cross-country Differences and Distributional Implications by Pizzinelli et al. \n\n\n\nBlog also points to:\n\nIMF F&D December\nGenerative AI at Work\n\nMany other referencs in the SDN."
   },
   {
-    "objectID": "tmp/proto2.html#blog-post-more-references",
-    "href": "tmp/proto2.html#blog-post-more-references",
-    "title": "Gen-AI and the Labour Market",
-    "section": "Blog post: more references",
-    "text": "Blog post: more references\nPoints to:\nIMF F&D December\nGenerative AI at Work"
-  },
-  {
-    "objectID": "tmp/proto2.html#how-research-is-done-at-imf",
-    "href": "tmp/proto2.html#how-research-is-done-at-imf",
+    "objectID": "session_ai_labour/index.html#how-research-is-done-at-imf",
+    "href": "session_ai_labour/index.html#how-research-is-done-at-imf",
     "title": "Gen-AI and the Labour Market",
     "section": "How Research is done at IMF",
-    "text": "How Research is done at IMF\n\n\n\n\nflowchart LR\n  A{Staff} --&gt;  A1[Academic Paper]\n  A1 --&gt; X[Peer Reviewed Publications]\n  A1 --&gt; B[IMF Working Paper]\n  A --&gt; C[IMF Staff Discussion Paper]\n  B --&gt; C\n  C --&gt; D[Board Official Position]\n  E{Member States} ==&gt; D\n\n\n\n\n\nHow does it impact what you read?"
+    "text": "How Research is done at IMF\n\n\n\n\n\nflowchart LR\n  A{Staff} --&gt;  A1[Academic Paper]\n  A1 --&gt; X[Peer Reviewed Publications]\n  A1 --&gt; B[IMF Working Paper]\n  A --&gt; C[IMF Staff Discussion Paper]\n  B --&gt; C\n  C --&gt; D[Board Official Position]\n  E{Member States} ==&gt; D\n\n\n\n\n\n\nHow does it impact what you read?"
   },
   {
-    "objectID": "tmp/proto2.html#research-in-big-institutions",
-    "href": "tmp/proto2.html#research-in-big-institutions",
+    "objectID": "session_ai_labour/index.html#research-in-big-institutions",
+    "href": "session_ai_labour/index.html#research-in-big-institutions",
     "title": "Gen-AI and the Labour Market",
     "section": "Research in Big Institutions",
-    "text": "Research in Big Institutions\nThe publication ofresearch papers in big institutions has several goals:\n\ndisseminate research\n\nusually from researchers that are closest from policy circles\n\nbuild a common narrative that countries can build on to negociate with the same language\n(usually not) state an official position of the institution"
+    "text": "Research in Big Institutions\nThe publication of research papers in big international institutions has several goals:\n\n\ndisseminate research\n\nusually from researchers that are closest to policy circles\n\nbuild a common narrative that countries can build on to negociate with the same language\n\nprovide a discussion forum when there isn’t one\n\n(usually not) state an official position of the institution"
   },
   {
-    "objectID": "tmp/proto2.html#section-1",
-    "href": "tmp/proto2.html#section-1",
+    "objectID": "session_ai_labour/index.html#example-of-shaping-the-narrative",
+    "href": "session_ai_labour/index.html#example-of-shaping-the-narrative",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Example of Shaping the Narrative",
+    "text": "Example of Shaping the Narrative\nBank of England, communicates on forward guidance:\n\ndelphic vs odyssean forward guidance\n\n\nAndy Haldane, chief economist:"
+  },
+  {
+    "objectID": "session_ai_labour/index.html#section-2",
+    "href": "session_ai_labour/index.html#section-2",
     "title": "Gen-AI and the Labour Market",
     "section": "",
-    "text": "AE advantage: which ones are most at risk?"
+    "text": "About the IMF\n\n\nThe IMF is a global organization that works to achieve sustainable growth and prosperity for all of its 190 member countries. It does so by supporting economic policies that promote financial stability and monetary cooperation, which are essential to increase productivity, job creation, and economic well-being. The IMF is governed by and accountable to its member countries.\n\n\n\n. . . Then why is it interested in AI?\n\nCheck out the webpage"
   },
   {
-    "objectID": "tmp/proto2.html#section-2",
-    "href": "tmp/proto2.html#section-2",
+    "objectID": "session_ai_labour/index.html#why-is-imf-interested-in-ai",
+    "href": "session_ai_labour/index.html#why-is-imf-interested-in-ai",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Why is IMF interested in AI?",
+    "text": "Why is IMF interested in AI?\n\n\nIMF lends in times of crisis\n\n\nit is useful to know what might cause the next one (CoVid2, AI, food shortage, global warning…)\n\n\nIt pushes for structural reforms (but which ones?)\n\n\nso that countries can reimburse loans\n\n\nIt sometimes act as a last-resort multilateral institution\n\n\nwhere do all finance ministers sit down to discuss …?"
+  },
+  {
+    "objectID": "session_ai_labour/index.html#section-3",
+    "href": "session_ai_labour/index.html#section-3",
     "title": "Gen-AI and the Labour Market",
     "section": "",
-    "text": "About the IMF\n\n\nThe IMF is a global organization that works to achieve sustainable growth and prosperity for all of its 190 member countries. It does so by supporting economic policies that promote financial stability and monetary cooperation, which are essential to increase productivity, job creation, and economic well-being. The IMF is governed by and accountable to its member countries.\n\n\n\n. . . Then why is it interested in AI?"
+    "text": "Question 2\n\n\nCheck out the O*NET database.\nWhat is the difference between a skill, an abilty, …\nWhat part occupational content is more relevant to judge AI exposure?"
   },
   {
-    "objectID": "tmp/proto2.html#why-is-imf-why-is-it-interested-in-ai",
-    "href": "tmp/proto2.html#why-is-imf-why-is-it-interested-in-ai",
+    "objectID": "session_ai_labour/index.html#onet",
+    "href": "session_ai_labour/index.html#onet",
     "title": "Gen-AI and the Labour Market",
-    "section": "Why is IMF why is it interested in AI?",
-    "text": "Why is IMF why is it interested in AI?\n\nCheck out the webpage\n\n\nIMF lends in times of crisis\n\n\nit is useful to know what might cause the next one (CoVid2, AI, food shortage, global warning…)\n\n\nIt pushes for structural reforms (but which ones?)\n\n\nso that countries can reimburse loans\n\n\nIt sometimes act as a last-resort multilateral institution\n\n\nwhere do all finance ministers sit down to discuss …?"
+    "section": "O*NET",
+    "text": "O*NET\n\n\nConceptual framework: O*NET content model\n\nan occupation (a job) is associated to a particular content (skills, abilities, tasks, activities, context)\nsome content relates to the worker, some to the nature of the occupation\ndata comes from incumbant and experts"
   },
   {
-    "objectID": "tmp/proto2.html#section-3",
-    "href": "tmp/proto2.html#section-3",
+    "objectID": "session_ai_labour/index.html#how-can-you-measure-ai-fitness-for-a-job",
+    "href": "session_ai_labour/index.html#how-can-you-measure-ai-fitness-for-a-job",
+    "title": "Gen-AI and the Labour Market",
+    "section": "How can you measure AI fitness for a job?",
+    "text": "How can you measure AI fitness for a job?\nWhich content is more relevant to judge AI fitness?\n\nskills\nabilities\ntasks\n\nA growing body of literature (led by Autor , Levy, Murnane 2003) is using content of jobs to assess the potential effect of new technologies."
+  },
+  {
+    "objectID": "session_ai_labour/index.html#earlier-work-has-focused-on-tasks",
+    "href": "session_ai_labour/index.html#earlier-work-has-focused-on-tasks",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Earlier work has focused on tasks",
+    "text": "Earlier work has focused on tasks\nEarlier work has focused on tasks.\n\n… for automation\n… for machine learning"
+  },
+  {
+    "objectID": "session_ai_labour/index.html#example",
+    "href": "session_ai_labour/index.html#example",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Example",
+    "text": "Example\nWhat Can Machines Learn and What Does It Mean for Occupations and the Economy?, 2018 Erik Brynjolfsson, Tom Mitchell, and Daniel Rock\nFrom O*NET database (occupational information)\n\n964 occupations ,decomposed 18,156 tasks\nTasks agggregated into of 2,069 work activities\n\nex: sort information, show empathy\n\n\nUse human judgment to measure the suitability for machine learning of each task."
+  },
+  {
+    "objectID": "session_ai_labour/index.html#human-judgment",
+    "href": "session_ai_labour/index.html#human-judgment",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Human Judgment",
+    "text": "Human Judgment\n\n\nIn practice, human judgment is replaced with Amazon Turk or CrowdFlower"
+  },
+  {
+    "objectID": "session_ai_labour/index.html#example-result-1",
+    "href": "session_ai_labour/index.html#example-result-1",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Example: Result (1)",
+    "text": "Example: Result (1)"
+  },
+  {
+    "objectID": "session_ai_labour/index.html#example-result-2",
+    "href": "session_ai_labour/index.html#example-result-2",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Example: Result (2)",
+    "text": "Example: Result (2)"
+  },
+  {
+    "objectID": "session_ai_labour/index.html#examples-conclusions",
+    "href": "session_ai_labour/index.html#examples-conclusions",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Examples: Conclusions",
+    "text": "Examples: Conclusions\nResults from from Brynjolfsson et al., 2018:\n\nAlmost no\n\nfully replaceable occupation\nfully ML immune occupation\n\nAll the distribution of income is exposed.\n\nThe results are typical from the literature on the future of work."
+  },
+  {
+    "objectID": "session_ai_labour/index.html#abilities",
+    "href": "session_ai_labour/index.html#abilities",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Abilities",
+    "text": "Abilities\nIMF Paper looks at abilities\nPaper builds on Occupational, industry, and geographic exposure to artificial intelligence: A novel dataset and its potential uses, by Felten, Raj, and Seamans 2021.\nMain idea: try to assess the adequacy of AI for each ability."
+  },
+  {
+    "objectID": "session_ai_labour/index.html#construct-ai-suitability-index",
+    "href": "session_ai_labour/index.html#construct-ai-suitability-index",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Construct AI suitability index",
+    "text": "Construct AI suitability index\nAI exposure of ability \\(k\\):\n\\[ AIEO_k = \\sum_j L_{kj} AI_j \\]\nwhere:\n\n\\(L_{kj}\\): ability content of task \\(k\\)\n\\(AI_j\\): suitability of task \\(j\\) for ability \\(j\\)\n\n\nHow do we measure AI abilities?"
+  },
+  {
+    "objectID": "session_ai_labour/index.html#section-5",
+    "href": "session_ai_labour/index.html#section-5",
     "title": "Gen-AI and the Labour Market",
     "section": "",
-    "text": "Task\n\n\nRead the blog post and think about the following questions.\nAnswer the short online"
+    "text": "The Electronic Frontier Foundation (EFF) is a well-regarded digital rights nonprofit that was founded in 1990,\nAs one of its activities, the EFF collects and maintains statistics about the progress of AI across separate artificial intelligence applications.\nEach AI application has an index corresponding to AI development."
   },
   {
-    "objectID": "tmp/index_handout.html",
-    "href": "tmp/index_handout.html",
+    "objectID": "session_ai_labour/index.html#eff-application-definitions",
+    "href": "session_ai_labour/index.html#eff-application-definitions",
+    "title": "Gen-AI and the Labour Market",
+    "section": "EFF application definitions",
+    "text": "EFF application definitions\n\n\n\n\n\n\n\nAI application\nDefinition\n\n\n\n\nAbstract strategy games\nThe ability to play abstract games involving sometimes complex strategy and reasoning ability, such as chess, go, or checkers, at a high level.\n\n\nReal-time video games\nThe ability to play a variety of real-time video games of increasing complexity at a high level.\n\n\nImage recognition\nThe determination of what objects are present in a still image.\n\n\nVisual question answering\nThe recognition of events, relationships, and context from a still image.\n\n\nImage generation\nThe creation of complex images\n\n\nReading comprehension\nThe ability to answer simple reasoning questions based on an understanding of text.\n\n\nLanguage modeling\nThe ability to model, predict, or mimic human language.\n\n\nTranslation\nThe translation of words or text from one language into another.\n\n\nSpeech recognition\nThe recognition of spoken language into text.\n\n\nInstrumental track recognition\nThe recognition of instrumental musical tracks."
+  },
+  {
+    "objectID": "session_ai_labour/index.html#mapping-eff-application-definitions-to-onet-abilities",
+    "href": "session_ai_labour/index.html#mapping-eff-application-definitions-to-onet-abilities",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Mapping EFF application definitions to ONET abilities",
+    "text": "Mapping EFF application definitions to ONET abilities\nHuman Judgment (mturk) is used to associate each each of the \\(l\\in[1,10]\\) EFF application to the \\(j\\in[1,51]\\) O*NET categories: \\(x_{l,j}\\)\nAI suitability for ability \\(j\\) is then defined as \\[AI_j = \\sum_{l=1}^{10} x_{l,j}\\]"
+  },
+  {
+    "objectID": "session_ai_labour/index.html#section-6",
+    "href": "session_ai_labour/index.html#section-6",
     "title": "Gen-AI and the Labour Market",
     "section": "",
-    "text": ". . .\nFrom CNN: ‘Jobs may disappear’: Nearly 40% of global employment could be disrupted by AI, IMF says\n. . .\n🤔 How do they know that?"
+    "text": "Question 3\n\n\nHow does the SDN distinguishes between jobs that are more or less complement to AI. What are the contexts ? How is the complementarity score computed?"
   },
   {
-    "objectID": "tmp/index_handout.html#section",
-    "href": "tmp/index_handout.html#section",
+    "objectID": "session_ai_labour/index.html#complementarity-augmented-ai-exposure",
+    "href": "session_ai_labour/index.html#complementarity-augmented-ai-exposure",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Complementarity-augmented AI-exposure",
+    "text": "Complementarity-augmented AI-exposure\nThe main contribution from the Pizzilnelli et al. paper : use more content from O*NET:\n\nwork context: physical and social factors that influence the nature of work\njob zones: groups of occupations characterized by similar levels of education, on-the-job training, and professional experience needed to perform the work\n\nSome contexts shield workers from being replaced by AI"
+  },
+  {
+    "objectID": "session_ai_labour/index.html#section-7",
+    "href": "session_ai_labour/index.html#section-7",
+    "title": "Gen-AI and the Labour Market",
+    "section": "",
+    "text": "Each O*NET occupation is associated with each of the following context by a 0-100 score:\n\nCommunication\nResponsibility\nPhysical Conditions\nCriticality\nRoutine\nSkills\n\n\nThe final complementarity score is the average of all contexts, normalized to be between 0 and 1."
+  },
+  {
+    "objectID": "session_ai_labour/index.html#complementarity-measure",
+    "href": "session_ai_labour/index.html#complementarity-measure",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Complementarity measure",
+    "text": "Complementarity measure"
+  },
+  {
+    "objectID": "session_ai_labour/index.html#exposure-complementarity",
+    "href": "session_ai_labour/index.html#exposure-complementarity",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Exposure / Complementarity",
+    "text": "Exposure / Complementarity"
+  },
+  {
+    "objectID": "session_ai_labour/index.html#comments",
+    "href": "session_ai_labour/index.html#comments",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Comments?",
+    "text": "Comments?"
+  },
+  {
+    "objectID": "session_ai_labour/index.html#section-8",
+    "href": "session_ai_labour/index.html#section-8",
+    "title": "Gen-AI and the Labour Market",
+    "section": "",
+    "text": "Question 4\n\n\nAccording to the article who is most likely to be affected?\nWhat would be the effect on inequalities?\nWhich countries will suffer most?"
+  },
+  {
+    "objectID": "session_ai_labour/index.html#within-a-country",
+    "href": "session_ai_labour/index.html#within-a-country",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Within a Country",
+    "text": "Within a Country"
+  },
+  {
+    "objectID": "session_ai_labour/index.html#effect-on-inequalities",
+    "href": "session_ai_labour/index.html#effect-on-inequalities",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Effect on inequalities",
+    "text": "Effect on inequalities\nThe behaviour of top earners is crucial:\nAI will increase inequalities increase if:\n\ntop earners are (comparatively) less exposed\ntop earners capture high returns on AI capital accumulation\n\nSocial Mobility is important"
+  },
+  {
+    "objectID": "session_ai_labour/index.html#across-countries",
+    "href": "session_ai_labour/index.html#across-countries",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Across Countries",
+    "text": "Across Countries"
+  },
+  {
+    "objectID": "session_ai_labour/index.html#ai-preparedness-index",
+    "href": "session_ai_labour/index.html#ai-preparedness-index",
+    "title": "Gen-AI and the Labour Market",
+    "section": "AI preparedness Index",
+    "text": "AI preparedness Index"
+  },
+  {
+    "objectID": "session_ai_labour/index.html#conclusion-1",
+    "href": "session_ai_labour/index.html#conclusion-1",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Conclusion?",
+    "text": "Conclusion?"
+  },
+  {
+    "objectID": "session_ai_labour/index_handout.html",
+    "href": "session_ai_labour/index_handout.html",
+    "title": "Gen-AI and the Labour Market",
+    "section": "",
+    "text": "News\n\n\n\n. . .\nFrom CNN: ‘Jobs may disappear’: Nearly 40% of global employment could be disrupted by AI, IMF says\n. . .\n🤔 How do they know that?\n. . .\nCheck out the documents"
+  },
+  {
+    "objectID": "session_ai_labour/index_handout.html#section",
+    "href": "session_ai_labour/index_handout.html#section",
+    "title": "Gen-AI and the Labour Market",
+    "section": "",
+    "text": "News\n\n\n\n. . .\nFrom CNN: ‘Jobs may disappear’: Nearly 40% of global employment could be disrupted by AI, IMF says\n. . .\n🤔 How do they know that?\n. . .\nCheck out the documents"
+  },
+  {
+    "objectID": "session_ai_labour/index_handout.html#section-1",
+    "href": "session_ai_labour/index_handout.html#section-1",
     "title": "Gen-AI and the Labour Market",
     "section": "",
     "text": "Task\n\n\n\nFind some context about the study and the various authors implicated.\nWhy is IMF interested in AI?"
   },
   {
-    "objectID": "tmp/index_handout.html#some-context",
-    "href": "tmp/index_handout.html#some-context",
+    "objectID": "session_ai_labour/index_handout.html#imf-ai-a-recent-stream-of-activity",
+    "href": "session_ai_labour/index_handout.html#imf-ai-a-recent-stream-of-activity",
     "title": "Gen-AI and the Labour Market",
-    "section": "Some Context",
-    "text": "Some Context\nBlog Post. written by Kristalina Goeorgieva Head of IMF\nStaff Discussion Note: by X, Y, Z, validated by Pierre-Olivier Gourinchas, Head of Research\nIMF Working Paper: by …"
+    "section": "IMF & AI: a recent stream of activity",
+    "text": "IMF & AI: a recent stream of activity\n\n\nBlog Post. written by Kristalina Goeorgieva Head of IMF\nStaff Discussion Note: by Cazzaniga et al. validated by Pierre-Olivier Gourinchas, Head of Research\nIMF Working Paper: Labor Market Exposure to AI: Cross-country Differences and Distributional Implications by Pizzinelli et al. \n\n\n. . .\nBlog also points to:\n\nIMF F&D December\nGenerative AI at Work\n\nMany other referencs in the SDN."
   },
   {
-    "objectID": "tmp/index_handout.html#blog-post-more-references",
-    "href": "tmp/index_handout.html#blog-post-more-references",
-    "title": "Gen-AI and the Labour Market",
-    "section": "Blog post: more references",
-    "text": "Blog post: more references\nPoints to:\nIMF F&D December\nGenerative AI at Work"
-  },
-  {
-    "objectID": "tmp/index_handout.html#how-research-is-done-at-imf",
-    "href": "tmp/index_handout.html#how-research-is-done-at-imf",
+    "objectID": "session_ai_labour/index_handout.html#how-research-is-done-at-imf",
+    "href": "session_ai_labour/index_handout.html#how-research-is-done-at-imf",
     "title": "Gen-AI and the Labour Market",
     "section": "How Research is done at IMF",
-    "text": "How Research is done at IMF\n\n\n\n\nflowchart LR\n  A{Staff} --&gt;  A1[Academic Paper]\n  A1 --&gt; X[Peer Reviewed Publications]\n  A1 --&gt; B[IMF Working Paper]\n  A --&gt; C[IMF Staff Discussion Paper]\n  B --&gt; C\n  C --&gt; D[Board Official Position]\n  E{Member States} ==&gt; D\n\n\n\n\n\nHow does it impact what you read?"
+    "text": "How Research is done at IMF\n\n\n\n\n\nflowchart LR\n  A{Staff} --&gt;  A1[Academic Paper]\n  A1 --&gt; X[Peer Reviewed Publications]\n  A1 --&gt; B[IMF Working Paper]\n  A --&gt; C[IMF Staff Discussion Paper]\n  B --&gt; C\n  C --&gt; D[Board Official Position]\n  E{Member States} ==&gt; D\n\n\n\n\n\n\nHow does it impact what you read?"
   },
   {
-    "objectID": "tmp/index_handout.html#research-in-big-institutions",
-    "href": "tmp/index_handout.html#research-in-big-institutions",
+    "objectID": "session_ai_labour/index_handout.html#research-in-big-institutions",
+    "href": "session_ai_labour/index_handout.html#research-in-big-institutions",
     "title": "Gen-AI and the Labour Market",
     "section": "Research in Big Institutions",
-    "text": "Research in Big Institutions\nThe publication ofresearch papers in big institutions has several goals:\n\ndisseminate research\n\nusually from researchers that are closest from policy circles\n\nbuild a common narrative that countries can build on to negociate with the same language\n(usually not) state an official position of the institution"
+    "text": "Research in Big Institutions\nThe publication of research papers in big international institutions has several goals:\n\n\ndisseminate research\n\nusually from researchers that are closest to policy circles\n\nbuild a common narrative that countries can build on to negociate with the same language\n\nprovide a discussion forum when there isn’t one\n\n(usually not) state an official position of the institution"
   },
   {
-    "objectID": "tmp/index_handout.html#section-1",
-    "href": "tmp/index_handout.html#section-1",
+    "objectID": "session_ai_labour/index_handout.html#example-of-shaping-the-narrative",
+    "href": "session_ai_labour/index_handout.html#example-of-shaping-the-narrative",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Example of Shaping the Narrative",
+    "text": "Example of Shaping the Narrative\nBank of England, communicates on forward guidance:\n\ndelphic vs odyssean forward guidance\n\n. . .\nAndy Haldane, chief economist:"
+  },
+  {
+    "objectID": "session_ai_labour/index_handout.html#section-2",
+    "href": "session_ai_labour/index_handout.html#section-2",
     "title": "Gen-AI and the Labour Market",
     "section": "",
-    "text": "AE advantage: which ones are most at risk?"
+    "text": "About the IMF\n\n\n\nThe IMF is a global organization that works to achieve sustainable growth and prosperity for all of its 190 member countries. It does so by supporting economic policies that promote financial stability and monetary cooperation, which are essential to increase productivity, job creation, and economic well-being. The IMF is governed by and accountable to its member countries.\n\n\n. . . Then why is it interested in AI?\n. . .\nCheck out the webpage"
   },
   {
-    "objectID": "tmp/index_handout.html#section-2",
-    "href": "tmp/index_handout.html#section-2",
+    "objectID": "session_ai_labour/index_handout.html#why-is-imf-interested-in-ai",
+    "href": "session_ai_labour/index_handout.html#why-is-imf-interested-in-ai",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Why is IMF interested in AI?",
+    "text": "Why is IMF interested in AI?\n\n\nIMF lends in times of crisis\n\n\nit is useful to know what might cause the next one (CoVid2, AI, food shortage, global warning…)\n\n\nIt pushes for structural reforms (but which ones?)\n\n\nso that countries can reimburse loans\n\n\nIt sometimes act as a last-resort multilateral institution\n\n\nwhere do all finance ministers sit down to discuss …?"
+  },
+  {
+    "objectID": "session_ai_labour/index_handout.html#section-3",
+    "href": "session_ai_labour/index_handout.html#section-3",
     "title": "Gen-AI and the Labour Market",
     "section": "",
-    "text": "About the IMF\n\n\n\nThe IMF is a global organization that works to achieve sustainable growth and prosperity for all of its 190 member countries. It does so by supporting economic policies that promote financial stability and monetary cooperation, which are essential to increase productivity, job creation, and economic well-being. The IMF is governed by and accountable to its member countries.\n\n\n. . . Then why is it interested in AI?"
+    "text": "Question 2\n\n\n\nCheck out the O*NET database.\nWhat is the difference between a skill, an abilty, …\nWhat part occupational content is more relevant to judge AI exposure?"
   },
   {
-    "objectID": "tmp/index_handout.html#why-is-imf-why-is-it-interested-in-ai",
-    "href": "tmp/index_handout.html#why-is-imf-why-is-it-interested-in-ai",
+    "objectID": "session_ai_labour/index_handout.html#onet",
+    "href": "session_ai_labour/index_handout.html#onet",
     "title": "Gen-AI and the Labour Market",
-    "section": "Why is IMF why is it interested in AI?",
-    "text": "Why is IMF why is it interested in AI?\n. . .\nCheck out the webpage\n\n\nIMF lends in times of crisis\n\n\nit is useful to know what might cause the next one (CoVid2, AI, food shortage, global warning…)\n\n\nIt pushes for structural reforms (but which ones?)\n\n\nso that countries can reimburse loans\n\n\nIt sometimes act as a last-resort multilateral institution\n\n\nwhere do all finance ministers sit down to discuss …?"
+    "section": "O*NET",
+    "text": "O*NET\n\n\nConceptual framework: O*NET content model\n\nan occupation (a job) is associated to a particular content (skills, abilities, tasks, activities, context)\nsome content relates to the worker, some to the nature of the occupation\ndata comes from incumbant and experts"
   },
   {
-    "objectID": "tmp/index_handout.html#section-3",
-    "href": "tmp/index_handout.html#section-3",
+    "objectID": "session_ai_labour/index_handout.html#how-can-you-measure-ai-fitness-for-a-job",
+    "href": "session_ai_labour/index_handout.html#how-can-you-measure-ai-fitness-for-a-job",
+    "title": "Gen-AI and the Labour Market",
+    "section": "How can you measure AI fitness for a job?",
+    "text": "How can you measure AI fitness for a job?\nWhich content is more relevant to judge AI fitness?\n\nskills\nabilities\ntasks\n\nA growing body of literature (led by Autor , Levy, Murnane 2003) is using content of jobs to assess the potential effect of new technologies."
+  },
+  {
+    "objectID": "session_ai_labour/index_handout.html#earlier-work-has-focused-on-tasks",
+    "href": "session_ai_labour/index_handout.html#earlier-work-has-focused-on-tasks",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Earlier work has focused on tasks",
+    "text": "Earlier work has focused on tasks\nEarlier work has focused on tasks.\n\n… for automation\n… for machine learning"
+  },
+  {
+    "objectID": "session_ai_labour/index_handout.html#example",
+    "href": "session_ai_labour/index_handout.html#example",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Example",
+    "text": "Example\nWhat Can Machines Learn and What Does It Mean for Occupations and the Economy?, 2018 Erik Brynjolfsson, Tom Mitchell, and Daniel Rock\nFrom O*NET database (occupational information)\n\n964 occupations ,decomposed 18,156 tasks\nTasks agggregated into of 2,069 work activities\n\nex: sort information, show empathy\n\n\nUse human judgment to measure the suitability for machine learning of each task."
+  },
+  {
+    "objectID": "session_ai_labour/index_handout.html#human-judgment",
+    "href": "session_ai_labour/index_handout.html#human-judgment",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Human Judgment",
+    "text": "Human Judgment\n\n. . .\nIn practice, human judgment is replaced with Amazon Turk or CrowdFlower"
+  },
+  {
+    "objectID": "session_ai_labour/index_handout.html#example-result-1",
+    "href": "session_ai_labour/index_handout.html#example-result-1",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Example: Result (1)",
+    "text": "Example: Result (1)"
+  },
+  {
+    "objectID": "session_ai_labour/index_handout.html#example-result-2",
+    "href": "session_ai_labour/index_handout.html#example-result-2",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Example: Result (2)",
+    "text": "Example: Result (2)"
+  },
+  {
+    "objectID": "session_ai_labour/index_handout.html#examples-conclusions",
+    "href": "session_ai_labour/index_handout.html#examples-conclusions",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Examples: Conclusions",
+    "text": "Examples: Conclusions\nResults from from Brynjolfsson et al., 2018:\n\nAlmost no\n\nfully replaceable occupation\nfully ML immune occupation\n\nAll the distribution of income is exposed.\n\nThe results are typical from the literature on the future of work."
+  },
+  {
+    "objectID": "session_ai_labour/index_handout.html#abilities",
+    "href": "session_ai_labour/index_handout.html#abilities",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Abilities",
+    "text": "Abilities\nIMF Paper looks at abilities\nPaper builds on Occupational, industry, and geographic exposure to artificial intelligence: A novel dataset and its potential uses, by Felten, Raj, and Seamans 2021.\nMain idea: try to assess the adequacy of AI for each ability."
+  },
+  {
+    "objectID": "session_ai_labour/index_handout.html#construct-ai-suitability-index",
+    "href": "session_ai_labour/index_handout.html#construct-ai-suitability-index",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Construct AI suitability index",
+    "text": "Construct AI suitability index\nAI exposure of ability \\(k\\):\n\\[ AIEO_k = \\sum_j L_{kj} AI_j \\]\nwhere:\n\n\\(L_{kj}\\): ability content of task \\(k\\)\n\\(AI_j\\): suitability of task \\(j\\) for ability \\(j\\)\n\n. . .\nHow do we measure AI abilities?"
+  },
+  {
+    "objectID": "session_ai_labour/index_handout.html#section-5",
+    "href": "session_ai_labour/index_handout.html#section-5",
     "title": "Gen-AI and the Labour Market",
     "section": "",
-    "text": "Task\n\n\n\nRead the blog post and think about the following questions.\nAnswer the short online"
+    "text": "The Electronic Frontier Foundation (EFF) is a well-regarded digital rights nonprofit that was founded in 1990,\nAs one of its activities, the EFF collects and maintains statistics about the progress of AI across separate artificial intelligence applications.\nEach AI application has an index corresponding to AI development."
   },
   {
-    "objectID": "session_0/index.html#about-myself",
-    "href": "session_0/index.html#about-myself",
-    "title": "General Introduction",
-    "section": "About myself",
-    "text": "About myself\n\n\n\n\n\nPablo Winant\n\n\n\n\nProfessional experience\n\nIMF\nBank of England\n\nTeaching\n\nESCP Business School\nEcole Polytechnique\n\nResearch\n\ninequalities\ninternational finance\nmonetary policy\ncomputational economics\nartificial intelligence"
+    "objectID": "session_ai_labour/index_handout.html#eff-application-definitions",
+    "href": "session_ai_labour/index_handout.html#eff-application-definitions",
+    "title": "Gen-AI and the Labour Market",
+    "section": "EFF application definitions",
+    "text": "EFF application definitions\n\n\n\n\n\n\n\nAI application\nDefinition\n\n\n\n\nAbstract strategy games\nThe ability to play abstract games involving sometimes complex strategy and reasoning ability, such as chess, go, or checkers, at a high level.\n\n\nReal-time video games\nThe ability to play a variety of real-time video games of increasing complexity at a high level.\n\n\nImage recognition\nThe determination of what objects are present in a still image.\n\n\nVisual question answering\nThe recognition of events, relationships, and context from a still image.\n\n\nImage generation\nThe creation of complex images\n\n\nReading comprehension\nThe ability to answer simple reasoning questions based on an understanding of text.\n\n\nLanguage modeling\nThe ability to model, predict, or mimic human language.\n\n\nTranslation\nThe translation of words or text from one language into another.\n\n\nSpeech recognition\nThe recognition of spoken language into text.\n\n\nInstrumental track recognition\nThe recognition of instrumental musical tracks."
   },
   {
-    "objectID": "session_0/index.html#this-course",
-    "href": "session_0/index.html#this-course",
-    "title": "General Introduction",
-    "section": "This course",
-    "text": "This course\n\nStart with hot topics\n\ne.g. ChatGPT, job market, ecological transition, …\n\nConnect with economic theories and concepts\n\nthey appear in bold\nmake sure you understand their meaning\n\nTry to think outside of the box"
+    "objectID": "session_ai_labour/index_handout.html#mapping-eff-application-definitions-to-onet-abilities",
+    "href": "session_ai_labour/index_handout.html#mapping-eff-application-definitions-to-onet-abilities",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Mapping EFF application definitions to ONET abilities",
+    "text": "Mapping EFF application definitions to ONET abilities\nHuman Judgment (mturk) is used to associate each each of the \\(l\\in[1,10]\\) EFF application to the \\(j\\in[1,51]\\) O*NET categories: \\(x_{l,j}\\)\nAI suitability for ability \\(j\\) is then defined as \\[AI_j = \\sum_{l=1}^{10} x_{l,j}\\]"
   },
   {
-    "objectID": "session_0/index.html#pressing-topics",
-    "href": "session_0/index.html#pressing-topics",
-    "title": "General Introduction",
-    "section": "Pressing Topics…",
-    "text": "Pressing Topics…"
-  },
-  {
-    "objectID": "session_0/index.html#how-do-you-define-economics",
-    "href": "session_0/index.html#how-do-you-define-economics",
-    "title": "General Introduction",
-    "section": "How do you define “Economics” ?",
-    "text": "How do you define “Economics” ?\n\n\n\n\n\n\n\nWikipedia\n\n\nEconomics is a social science that studies the production, distribution, and consumption of goods and services.\n\n\n\n\n\n\n\n\n\n\n\n\nAmerican Economic Association\n\n\nIt can be defined in different ways. It’s the study of scarcity, the study of how people use resources and respond to incentives, or the study of decision-making. It often involves topics like wealth and finance, but it’s not all about money.\n\n\n\n\n\n\n\n\n\n\n\n\n\nRedux\n\n\nEconomics studies people’s decisions and interactions, usually through markets but not always\n\n\n\n\n\n\nCheck AEA website and research highlights for many examples of economic applications."
-  },
-  {
-    "objectID": "session_0/index.html#logistics",
-    "href": "session_0/index.html#logistics",
-    "title": "General Introduction",
-    "section": "Logistics",
-    "text": "Logistics\n\nEvaluation\n\ngroup work (40%)\n\nrecord a 5 min video developing one particular point of the course\n\nfinal exam (in-class) (60%)\n\nmcq on econ concepts\nvery short essay based on documents\n\nongoing (up to 20% bonus/malus)\n\nparticipation & behaviour\nmini-tasks if any"
-  },
-  {
-    "objectID": "session_0/index.html#section",
-    "href": "session_0/index.html#section",
-    "title": "General Introduction",
+    "objectID": "session_ai_labour/index_handout.html#section-6",
+    "href": "session_ai_labour/index_handout.html#section-6",
+    "title": "Gen-AI and the Labour Market",
     "section": "",
-    "text": "Let’s go"
+    "text": "Question 3\n\n\n\nHow does the SDN distinguishes between jobs that are more or less complement to AI. What are the contexts ? How is the complementarity score computed?"
   },
   {
-    "objectID": "session_0/index_handout.html",
-    "href": "session_0/index_handout.html",
-    "title": "General Introduction",
+    "objectID": "session_ai_labour/index_handout.html#complementarity-augmented-ai-exposure",
+    "href": "session_ai_labour/index_handout.html#complementarity-augmented-ai-exposure",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Complementarity-augmented AI-exposure",
+    "text": "Complementarity-augmented AI-exposure\nThe main contribution from the Pizzilnelli et al. paper : use more content from O*NET:\n\nwork context: physical and social factors that influence the nature of work\njob zones: groups of occupations characterized by similar levels of education, on-the-job training, and professional experience needed to perform the work\n\nSome contexts shield workers from being replaced by AI"
+  },
+  {
+    "objectID": "session_ai_labour/index_handout.html#section-7",
+    "href": "session_ai_labour/index_handout.html#section-7",
+    "title": "Gen-AI and the Labour Market",
     "section": "",
-    "text": "Pablo Winant\n\n\n\n\nProfessional experience\n\nIMF\nBank of England\n\nTeaching\n\nESCP Business School\nEcole Polytechnique\n\nResearch\n\ninequalities\ninternational finance\nmonetary policy\ncomputational economics\nartificial intelligence\n\n\n\n\n\n\n\n\nStart with hot topics\n\ne.g. ChatGPT, job market, ecological transition, …\n\nConnect with economic theories and concepts\n\nthey appear in bold\nmake sure you understand their meaning\n\nTry to think outside of the box\n\n\n\n\n \n\n\n\n\n\n\n\n\n\nWikipedia\n\n\n\nEconomics is a social science that studies the production, distribution, and consumption of goods and services.\n\n\n. . .\n\n\n\n\n\n\nAmerican Economic Association\n\n\n\nIt can be defined in different ways. It’s the study of scarcity, the study of how people use resources and respond to incentives, or the study of decision-making. It often involves topics like wealth and finance, but it’s not all about money.\n\n\n. . .\n\n\n\n\n\n\nRedux\n\n\n\nEconomics studies people’s decisions and interactions, usually through markets but not always\n\n\n. . .\nCheck AEA website and research highlights for many examples of economic applications.\n\n\n\n\nEvaluation\n\ngroup work (40%)\n\nrecord a 5 min video developing one particular point of the course\n\nfinal exam (in-class) (60%)\n\nmcq on econ concepts\nvery short essay based on documents\n\nongoing (up to 20% bonus/malus)\n\nparticipation & behaviour\nmini-tasks if any\n\n\n\n\n\n\n\nLet’s go"
+    "text": "Each O*NET occupation is associated with each of the following context by a 0-100 score:\n\nCommunication\nResponsibility\nPhysical Conditions\nCriticality\nRoutine\nSkills\n\n. . .\nThe final complementarity score is the average of all contexts, normalized to be between 0 and 1."
   },
   {
-    "objectID": "session_0/index_handout.html#about-myself",
-    "href": "session_0/index_handout.html#about-myself",
-    "title": "General Introduction",
+    "objectID": "session_ai_labour/index_handout.html#complementarity-measure",
+    "href": "session_ai_labour/index_handout.html#complementarity-measure",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Complementarity measure",
+    "text": "Complementarity measure"
+  },
+  {
+    "objectID": "session_ai_labour/index_handout.html#exposure-complementarity",
+    "href": "session_ai_labour/index_handout.html#exposure-complementarity",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Exposure / Complementarity",
+    "text": "Exposure / Complementarity"
+  },
+  {
+    "objectID": "session_ai_labour/index_handout.html#comments",
+    "href": "session_ai_labour/index_handout.html#comments",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Comments?",
+    "text": "Comments?"
+  },
+  {
+    "objectID": "session_ai_labour/index_handout.html#section-8",
+    "href": "session_ai_labour/index_handout.html#section-8",
+    "title": "Gen-AI and the Labour Market",
     "section": "",
-    "text": "Pablo Winant\n\n\n\n\nProfessional experience\n\nIMF\nBank of England\n\nTeaching\n\nESCP Business School\nEcole Polytechnique\n\nResearch\n\ninequalities\ninternational finance\nmonetary policy\ncomputational economics\nartificial intelligence"
+    "text": "Question 4\n\n\n\nAccording to the article who is most likely to be affected?\nWhat would be the effect on inequalities?\nWhich countries will suffer most?"
   },
   {
-    "objectID": "session_0/index_handout.html#this-course",
-    "href": "session_0/index_handout.html#this-course",
-    "title": "General Introduction",
+    "objectID": "session_ai_labour/index_handout.html#within-a-country",
+    "href": "session_ai_labour/index_handout.html#within-a-country",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Within a Country",
+    "text": "Within a Country"
+  },
+  {
+    "objectID": "session_ai_labour/index_handout.html#effect-on-inequalities",
+    "href": "session_ai_labour/index_handout.html#effect-on-inequalities",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Effect on inequalities",
+    "text": "Effect on inequalities\nThe behaviour of top earners is crucial:\nAI will increase inequalities increase if:\n\ntop earners are (comparatively) less exposed\ntop earners capture high returns on AI capital accumulation\n\nSocial Mobility is important"
+  },
+  {
+    "objectID": "session_ai_labour/index_handout.html#across-countries",
+    "href": "session_ai_labour/index_handout.html#across-countries",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Across Countries",
+    "text": "Across Countries"
+  },
+  {
+    "objectID": "session_ai_labour/index_handout.html#ai-preparedness-index",
+    "href": "session_ai_labour/index_handout.html#ai-preparedness-index",
+    "title": "Gen-AI and the Labour Market",
+    "section": "AI preparedness Index",
+    "text": "AI preparedness Index"
+  },
+  {
+    "objectID": "session_ai_labour/index_handout.html#conclusion-1",
+    "href": "session_ai_labour/index_handout.html#conclusion-1",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Conclusion?",
+    "text": "Conclusion?"
+  },
+  {
+    "objectID": "prep_3/index_handout.html",
+    "href": "prep_3/index_handout.html",
+    "title": "Inequalities (TBC)",
     "section": "",
-    "text": "Start with hot topics\n\ne.g. ChatGPT, job market, ecological transition, …\n\nConnect with economic theories and concepts\n\nthey appear in bold\nmake sure you understand their meaning\n\nTry to think outside of the box"
+    "text": "Come back later!."
   },
   {
-    "objectID": "session_0/index_handout.html#how-do-you-define-economics",
-    "href": "session_0/index_handout.html#how-do-you-define-economics",
-    "title": "General Introduction",
+    "objectID": "prep_nudges/index_handout.html",
+    "href": "prep_nudges/index_handout.html",
+    "title": "Green Nudges",
     "section": "",
-    "text": "Wikipedia\n\n\n\nEconomics is a social science that studies the production, distribution, and consumption of goods and services.\n\n\n. . .\n\n\n\n\n\n\nAmerican Economic Association\n\n\n\nIt can be defined in different ways. It’s the study of scarcity, the study of how people use resources and respond to incentives, or the study of decision-making. It often involves topics like wealth and finance, but it’s not all about money.\n\n\n. . .\n\n\n\n\n\n\nRedux\n\n\n\nEconomics studies people’s decisions and interactions, usually through markets but not always\n\n\n. . .\nCheck AEA website and research highlights for many examples of economic applications."
-  },
-  {
-    "objectID": "session_0/index_handout.html#logistics",
-    "href": "session_0/index_handout.html#logistics",
-    "title": "General Introduction",
-    "section": "",
-    "text": "Evaluation\n\ngroup work (40%)\n\nrecord a 5 min video developing one particular point of the course\n\nfinal exam (in-class) (60%)\n\nmcq on econ concepts\nvery short essay based on documents\n\nongoing (up to 20% bonus/malus)\n\nparticipation & behaviour\nmini-tasks if any"
-  },
-  {
-    "objectID": "session_0/index_handout.html#section",
-    "href": "session_0/index_handout.html#section",
-    "title": "General Introduction",
-    "section": "",
-    "text": "Let’s go"
-  },
-  {
-    "objectID": "session_0/slides.html#the-context",
-    "href": "session_0/slides.html#the-context",
-    "title": "AI and the Labour Market (proto)",
-    "section": "The context…",
-    "text": "The context…"
-  },
-  {
-    "objectID": "session_0/slides.html#the-report",
-    "href": "session_0/slides.html#the-report",
-    "title": "AI and the Labour Market (proto)",
-    "section": "The report",
-    "text": "The report\nAuthors\nResearch Papers\nOfficial Blog post\nOlivier Gourinchas Gita Gopinath Kristalina Goeorgieva"
-  },
-  {
-    "objectID": "session_0/slides.html#how-research-is-done-at-imf",
-    "href": "session_0/slides.html#how-research-is-done-at-imf",
-    "title": "AI and the Labour Market (proto)",
-    "section": "How Research is done at IMF",
-    "text": "How Research is done at IMF\n\n\n\n\nflowchart LR\n  A{Staff} --&gt;  A1[Academic Paper]\n  A1 --&gt; X[Peer Reviewed Publications]\n  A1 --&gt; B[IMF Working Paper]\n  A --&gt; C[IMF Staff Discussion Paper]\n  B --&gt; C\n  C --&gt; D[Board Official Position]\n  E{Member States} ==&gt; D\n\n\n\n\n\nWhat do you conclude from that?"
-  },
-  {
-    "objectID": "session_0/slides.html#imf-blog",
-    "href": "session_0/slides.html#imf-blog",
-    "title": "AI and the Labour Market (proto)",
-    "section": "IMF Blog",
-    "text": "IMF Blog\nPoints to:\nIMF F&D December\nGenerative AI at Work"
-  },
-  {
-    "objectID": "session_0/slides.html#section",
-    "href": "session_0/slides.html#section",
-    "title": "AI and the Labour Market (proto)",
-    "section": "",
-    "text": "AE advantage: which ones are most at risk?"
-  },
-  {
-    "objectID": "session_0/slides.html#shape-the-narrative",
-    "href": "session_0/slides.html#shape-the-narrative",
-    "title": "AI and the Labour Market (proto)",
-    "section": "Shape the narrative…",
-    "text": "Shape the narrative…\nThe Marradona policy…\nGDP growth forecasts…"
-  },
-  {
-    "objectID": "session_0/slides.html#excec-summary",
-    "href": "session_0/slides.html#excec-summary",
-    "title": "AI and the Labour Market (proto)",
-    "section": "Excec Summary",
-    "text": "Excec Summary\n\nindustrial revolution: productivity shock, replace some workers, complement others\n40% of employment at risk\n\nmore in advanced countries than emerging than developing (60/40/26)\nbut advanced countries more ready\n\neffect on income / wealth inequality\n\nwhole population is affected by ai risk\nbut high income more likely to be positive complement\nmodel simulation-&gt; beneficial to top earners\n\npositive effect on income for all woekers\ncollege-educated workers more prepared to move from jobs\nAI preparedness index\n\nadvanced: invest in AI innovation and rgulation\nless developped: infrastructure and digital traning\nall social safety nets"
-  },
-  {
-    "objectID": "session_0/slides.html#ai-exposure-and-complementarity",
-    "href": "session_0/slides.html#ai-exposure-and-complementarity",
-    "title": "AI and the Labour Market (proto)",
-    "section": "AI Exposure and Complementarity",
-    "text": "AI Exposure and Complementarity\nO*NET: - job - occupation - ability\n(what is importance?, prevalence?)\n(example with a graph)\n(problem: O*NET is only for the US)\nLabor Market Exposure to AI: Cross-country Differences and Distributional Implicationss\nCountries: UK/US + Brazil, Columbia, India, South Africa\nGo beyond tasks by adding social and physical context\nSubjectivity of social point of view.\nGiven the high degree of uncertainty over the future of this fast-pacing and broadly applicable technology, the concept of exposure is purposely framed as agnostic on the likelihood of AI complementing or replacing labor in the performance of a given task or occupation.\nIdea: provide specific tables /graphs to students\nData: ILO for all countries microdata for some\nProblem: concept of complementarity, not the same\nOccupational transitions:\n\nconcept of social mobility\nmarkov chain\n\nWhat prevents transition?\ncf paper\nWhy are older workers less willing to switch? (many reality checks in the paper).\n\nWho is mostly helped with AI?*\nyoung college-educated On the other hand, AI may enable young college-educated workers to become experienced more quickly as they leverage their familiarity with new technologies to enhance their productivity. With the introduction of generative AI, the use of AI has itself become much easier. A recent study shows that the productivity impact of an AI-based conversational assistant was greatest for less experienced and low-skilled customer support workers; the effect on experienced and highly skilled workers was minimal (Brynjolfsson, Danielle, and Raymond 2023).\n\nSame with Code Assistant"
-  },
-  {
-    "objectID": "session_0/slides.html#ai-productivity-inequality",
-    "href": "session_0/slides.html#ai-productivity-inequality",
-    "title": "AI and the Labour Market (proto)",
-    "section": "AI Productivity, Inequality",
-    "text": "AI Productivity, Inequality\nModel-based\ncopmlementarity effect vs displacement effect"
-  },
-  {
-    "objectID": "session_0/slides.html#ai-preparedness",
-    "href": "session_0/slides.html#ai-preparedness",
-    "title": "AI and the Labour Market (proto)",
-    "section": "AI Preparedness",
-    "text": "AI Preparedness"
-  },
-  {
-    "objectID": "session_0/proto.html",
-    "href": "session_0/proto.html",
-    "title": "AI and the Labour Market (proto)",
-    "section": "",
-    "text": "How research is done?\n\n\n\n\n\nAuthors\nResearch Papers\nOfficial Blog post\nOlivier Gourinchas Gita Gopinath Kristalina Goeorgieva\n\n\n\n\n\n\n\nflowchart LR\n  A{Staff} --&gt;  A1[Academic Paper]\n  A1 --&gt; X[Peer Reviewed Publications]\n  A1 --&gt; B[IMF Working Paper]\n  A --&gt; C[IMF Staff Discussion Paper]\n  B --&gt; C\n  C --&gt; D[Board Official Position]\n  E{Member States} ==&gt; D\n\n\n\n\n\nWhat do you conclude from that?\n\n\n\nPoints to:\nIMF F&D December\nGenerative AI at Work\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAE advantage: which ones are most at risk?\n\n\n\n\n\n\nThe Marradona policy…\nGDP growth forecasts…"
-  },
-  {
-    "objectID": "session_0/proto.html#the-report",
-    "href": "session_0/proto.html#the-report",
-    "title": "AI and the Labour Market (proto)",
-    "section": "",
-    "text": "Authors\nResearch Papers\nOfficial Blog post\nOlivier Gourinchas Gita Gopinath Kristalina Goeorgieva"
-  },
-  {
-    "objectID": "session_0/proto.html#how-research-is-done-at-imf",
-    "href": "session_0/proto.html#how-research-is-done-at-imf",
-    "title": "AI and the Labour Market (proto)",
-    "section": "",
-    "text": "flowchart LR\n  A{Staff} --&gt;  A1[Academic Paper]\n  A1 --&gt; X[Peer Reviewed Publications]\n  A1 --&gt; B[IMF Working Paper]\n  A --&gt; C[IMF Staff Discussion Paper]\n  B --&gt; C\n  C --&gt; D[Board Official Position]\n  E{Member States} ==&gt; D\n\n\n\n\n\nWhat do you conclude from that?"
-  },
-  {
-    "objectID": "session_0/proto.html#imf-blog",
-    "href": "session_0/proto.html#imf-blog",
-    "title": "AI and the Labour Market (proto)",
-    "section": "",
-    "text": "Points to:\nIMF F&D December\nGenerative AI at Work"
-  },
-  {
-    "objectID": "session_0/proto.html#section",
-    "href": "session_0/proto.html#section",
-    "title": "AI and the Labour Market (proto)",
-    "section": "",
-    "text": "AE advantage: which ones are most at risk?"
-  },
-  {
-    "objectID": "session_0/proto.html#shape-the-narrative",
-    "href": "session_0/proto.html#shape-the-narrative",
-    "title": "AI and the Labour Market (proto)",
-    "section": "",
-    "text": "The Marradona policy…\nGDP growth forecasts…"
-  },
-  {
-    "objectID": "session_0/proto.html#excec-summary",
-    "href": "session_0/proto.html#excec-summary",
-    "title": "AI and the Labour Market (proto)",
-    "section": "Excec Summary",
-    "text": "Excec Summary\n\nindustrial revolution: productivity shock, replace some workers, complement others\n40% of employment at risk\n\nmore in advanced countries than emerging than developing (60/40/26)\nbut advanced countries more ready\n\neffect on income / wealth inequality\n\nwhole population is affected by ai risk\nbut high income more likely to be positive complement\nmodel simulation-&gt; beneficial to top earners\n\npositive effect on income for all woekers\ncollege-educated workers more prepared to move from jobs\nAI preparedness index\n\nadvanced: invest in AI innovation and rgulation\nless developped: infrastructure and digital traning\nall social safety nets"
-  },
-  {
-    "objectID": "session_0/proto.html#ai-exposure-and-complementarity",
-    "href": "session_0/proto.html#ai-exposure-and-complementarity",
-    "title": "AI and the Labour Market (proto)",
-    "section": "AI Exposure and Complementarity",
-    "text": "AI Exposure and Complementarity\nO*NET: - job - occupation - ability\n(what is importance?, prevalence?)\n(example with a graph)\n(problem: O*NET is only for the US)\nLabor Market Exposure to AI: Cross-country Differences and Distributional Implicationss\nCountries: UK/US + Brazil, Columbia, India, South Africa\nGo beyond tasks by adding social and physical context\nSubjectivity of social point of view.\nGiven the high degree of uncertainty over the future of this fast-pacing and broadly applicable technology, the concept of exposure is purposely framed as agnostic on the likelihood of AI complementing or replacing labor in the performance of a given task or occupation.\nIdea: provide specific tables /graphs to students\nData: ILO for all countries microdata for some\nProblem: concept of complementarity, not the same\nOccupational transitions:\n\nconcept of social mobility\nmarkov chain\n\nWhat prevents transition?\ncf paper\nWhy are older workers less willing to switch? (many reality checks in the paper).\n\nWho is mostly helped with AI?*\nyoung college-educated On the other hand, AI may enable young college-educated workers to become experienced more quickly as they leverage their familiarity with new technologies to enhance their productivity. With the introduction of generative AI, the use of AI has itself become much easier. A recent study shows that the productivity impact of an AI-based conversational assistant was greatest for less experienced and low-skilled customer support workers; the effect on experienced and highly skilled workers was minimal (Brynjolfsson, Danielle, and Raymond 2023).\n\nSame with Code Assistant"
-  },
-  {
-    "objectID": "session_0/proto.html#ai-productivity-inequality",
-    "href": "session_0/proto.html#ai-productivity-inequality",
-    "title": "AI and the Labour Market (proto)",
-    "section": "AI Productivity, Inequality",
-    "text": "AI Productivity, Inequality\nModel-based\ncopmlementarity effect vs displacement effect"
-  },
-  {
-    "objectID": "session_0/proto.html#ai-preparedness",
-    "href": "session_0/proto.html#ai-preparedness",
-    "title": "AI and the Labour Market (proto)",
-    "section": "AI Preparedness",
-    "text": "AI Preparedness"
-  },
-  {
-    "objectID": "tmp/slides.html#the-context",
-    "href": "tmp/slides.html#the-context",
-    "title": "AI and the Labour Market (proto)",
-    "section": "The context…",
-    "text": "The context…"
-  },
-  {
-    "objectID": "tmp/slides.html#the-report",
-    "href": "tmp/slides.html#the-report",
-    "title": "AI and the Labour Market (proto)",
-    "section": "The report",
-    "text": "The report\nAuthors\nResearch Papers\nOfficial Blog post\nOlivier Gourinchas Gita Gopinath Kristalina Goeorgieva"
-  },
-  {
-    "objectID": "tmp/slides.html#how-research-is-done-at-imf",
-    "href": "tmp/slides.html#how-research-is-done-at-imf",
-    "title": "AI and the Labour Market (proto)",
-    "section": "How Research is done at IMF",
-    "text": "How Research is done at IMF\n\n\n\n\nflowchart LR\n  A{Staff} --&gt;  A1[Academic Paper]\n  A1 --&gt; X[Peer Reviewed Publications]\n  A1 --&gt; B[IMF Working Paper]\n  A --&gt; C[IMF Staff Discussion Paper]\n  B --&gt; C\n  C --&gt; D[Board Official Position]\n  E{Member States} ==&gt; D\n\n\n\n\n\nWhat do you conclude from that?"
-  },
-  {
-    "objectID": "tmp/slides.html#imf-blog",
-    "href": "tmp/slides.html#imf-blog",
-    "title": "AI and the Labour Market (proto)",
-    "section": "IMF Blog",
-    "text": "IMF Blog\nPoints to:\nIMF F&D December\nGenerative AI at Work"
-  },
-  {
-    "objectID": "tmp/slides.html#section",
-    "href": "tmp/slides.html#section",
-    "title": "AI and the Labour Market (proto)",
-    "section": "",
-    "text": "AE advantage: which ones are most at risk?"
-  },
-  {
-    "objectID": "tmp/slides.html#shape-the-narrative",
-    "href": "tmp/slides.html#shape-the-narrative",
-    "title": "AI and the Labour Market (proto)",
-    "section": "Shape the narrative…",
-    "text": "Shape the narrative…\nThe Marradona policy…\nGDP growth forecasts…"
-  },
-  {
-    "objectID": "tmp/slides.html#excec-summary",
-    "href": "tmp/slides.html#excec-summary",
-    "title": "AI and the Labour Market (proto)",
-    "section": "Excec Summary",
-    "text": "Excec Summary\n\nindustrial revolution: productivity shock, replace some workers, complement others\n40% of employment at risk\n\nmore in advanced countries than emerging than developing (60/40/26)\nbut advanced countries more ready\n\neffect on income / wealth inequality\n\nwhole population is affected by ai risk\nbut high income more likely to be positive complement\nmodel simulation-&gt; beneficial to top earners\n\npositive effect on income for all woekers\ncollege-educated workers more prepared to move from jobs\nAI preparedness index\n\nadvanced: invest in AI innovation and rgulation\nless developped: infrastructure and digital traning\nall social safety nets"
-  },
-  {
-    "objectID": "tmp/slides.html#ai-exposure-and-complementarity",
-    "href": "tmp/slides.html#ai-exposure-and-complementarity",
-    "title": "AI and the Labour Market (proto)",
-    "section": "AI Exposure and Complementarity",
-    "text": "AI Exposure and Complementarity\nO*NET: - job - occupation - ability\n(what is importance?, prevalence?)\n(example with a graph)\n(problem: O*NET is only for the US)\nLabor Market Exposure to AI: Cross-country Differences and Distributional Implicationss\nCountries: UK/US + Brazil, Columbia, India, South Africa\nGo beyond tasks by adding social and physical context\nSubjectivity of social point of view.\nGiven the high degree of uncertainty over the future of this fast-pacing and broadly applicable technology, the concept of exposure is purposely framed as agnostic on the likelihood of AI complementing or replacing labor in the performance of a given task or occupation.\nIdea: provide specific tables /graphs to students\nData: ILO for all countries microdata for some\nProblem: concept of complementarity, not the same\nOccupational transitions:\n\nconcept of social mobility\nmarkov chain\n\nWhat prevents transition?\ncf paper\nWhy are older workers less willing to switch? (many reality checks in the paper).\n\nWho is mostly helped with AI?*\nyoung college-educated On the other hand, AI may enable young college-educated workers to become experienced more quickly as they leverage their familiarity with new technologies to enhance their productivity. With the introduction of generative AI, the use of AI has itself become much easier. A recent study shows that the productivity impact of an AI-based conversational assistant was greatest for less experienced and low-skilled customer support workers; the effect on experienced and highly skilled workers was minimal (Brynjolfsson, Danielle, and Raymond 2023).\n\nSame with Code Assistant"
-  },
-  {
-    "objectID": "tmp/slides.html#ai-productivity-inequality",
-    "href": "tmp/slides.html#ai-productivity-inequality",
-    "title": "AI and the Labour Market (proto)",
-    "section": "AI Productivity, Inequality",
-    "text": "AI Productivity, Inequality\nModel-based\ncopmlementarity effect vs displacement effect"
-  },
-  {
-    "objectID": "tmp/slides.html#ai-preparedness",
-    "href": "tmp/slides.html#ai-preparedness",
-    "title": "AI and the Labour Market (proto)",
-    "section": "AI Preparedness",
-    "text": "AI Preparedness"
+    "text": "Come back later!."
   },
   {
     "objectID": "tmp/proto.html",
     "href": "tmp/proto.html",
     "title": "AI and the Labour Market (proto)",
     "section": "",
-    "text": "How research is done?\n\n\n\n\n\nAuthors\nResearch Papers\nOfficial Blog post\nOlivier Gourinchas Gita Gopinath Kristalina Goeorgieva\n\n\n\n\n\n\n\nflowchart LR\n  A{Staff} --&gt;  A1[Academic Paper]\n  A1 --&gt; X[Peer Reviewed Publications]\n  A1 --&gt; B[IMF Working Paper]\n  A --&gt; C[IMF Staff Discussion Paper]\n  B --&gt; C\n  C --&gt; D[Board Official Position]\n  E{Member States} ==&gt; D\n\n\n\n\n\nWhat do you conclude from that?\n\n\n\nPoints to:\nIMF F&D December\nGenerative AI at Work\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAE advantage: which ones are most at risk?\n\n\n\n\n\n\nThe Marradona policy…\nGDP growth forecasts…"
+    "text": "How research is done?\n\n\n\n\n\nAuthors\nResearch Papers\nOfficial Blog post\nOlivier Gourinchas Gita Gopinath Kristalina Goeorgieva\n\n\n\n\n\n\n\n\nflowchart LR\n  A{Staff} --&gt;  A1[Academic Paper]\n  A1 --&gt; X[Peer Reviewed Publications]\n  A1 --&gt; B[IMF Working Paper]\n  A --&gt; C[IMF Staff Discussion Paper]\n  B --&gt; C\n  C --&gt; D[Board Official Position]\n  E{Member States} ==&gt; D\n\n\n\n\n\n\nWhat do you conclude from that?\n\n\n\nPoints to:\nIMF F&D December\nGenerative AI at Work\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAE advantage: which ones are most at risk?\n\n\n\n\n\n\nThe Marradona policy…\nGDP growth forecasts…"
   },
   {
     "objectID": "tmp/proto.html#the-report",
@@ -1173,7 +1243,7 @@
     "href": "tmp/proto.html#how-research-is-done-at-imf",
     "title": "AI and the Labour Market (proto)",
     "section": "",
-    "text": "flowchart LR\n  A{Staff} --&gt;  A1[Academic Paper]\n  A1 --&gt; X[Peer Reviewed Publications]\n  A1 --&gt; B[IMF Working Paper]\n  A --&gt; C[IMF Staff Discussion Paper]\n  B --&gt; C\n  C --&gt; D[Board Official Position]\n  E{Member States} ==&gt; D\n\n\n\n\n\nWhat do you conclude from that?"
+    "text": "flowchart LR\n  A{Staff} --&gt;  A1[Academic Paper]\n  A1 --&gt; X[Peer Reviewed Publications]\n  A1 --&gt; B[IMF Working Paper]\n  A --&gt; C[IMF Staff Discussion Paper]\n  B --&gt; C\n  C --&gt; D[Board Official Position]\n  E{Member States} ==&gt; D\n\n\n\n\n\n\nWhat do you conclude from that?"
   },
   {
     "objectID": "tmp/proto.html#imf-blog",
@@ -1225,25 +1295,459 @@
     "text": "AI Preparedness"
   },
   {
-    "objectID": "prep_nudges/index_handout.html",
-    "href": "prep_nudges/index_handout.html",
-    "title": "Green Nudges",
-    "section": "",
-    "text": "Come back later!."
+    "objectID": "tmp/slides.html#the-context",
+    "href": "tmp/slides.html#the-context",
+    "title": "AI and the Labour Market (proto)",
+    "section": "The context…",
+    "text": "The context…"
   },
   {
-    "objectID": "prep_3/index_handout.html",
-    "href": "prep_3/index_handout.html",
-    "title": "Inequalities (TBC)",
-    "section": "",
-    "text": "Come back later!."
+    "objectID": "tmp/slides.html#the-report",
+    "href": "tmp/slides.html#the-report",
+    "title": "AI and the Labour Market (proto)",
+    "section": "The report",
+    "text": "The report\nAuthors\nResearch Papers\nOfficial Blog post\nOlivier Gourinchas Gita Gopinath Kristalina Goeorgieva"
   },
   {
-    "objectID": "session_ai_labour/index_handout.html",
-    "href": "session_ai_labour/index_handout.html",
+    "objectID": "tmp/slides.html#how-research-is-done-at-imf",
+    "href": "tmp/slides.html#how-research-is-done-at-imf",
+    "title": "AI and the Labour Market (proto)",
+    "section": "How Research is done at IMF",
+    "text": "How Research is done at IMF\n\n\n\n\n\nflowchart LR\n  A{Staff} --&gt;  A1[Academic Paper]\n  A1 --&gt; X[Peer Reviewed Publications]\n  A1 --&gt; B[IMF Working Paper]\n  A --&gt; C[IMF Staff Discussion Paper]\n  B --&gt; C\n  C --&gt; D[Board Official Position]\n  E{Member States} ==&gt; D\n\n\n\n\n\n\nWhat do you conclude from that?"
+  },
+  {
+    "objectID": "tmp/slides.html#imf-blog",
+    "href": "tmp/slides.html#imf-blog",
+    "title": "AI and the Labour Market (proto)",
+    "section": "IMF Blog",
+    "text": "IMF Blog\nPoints to:\nIMF F&D December\nGenerative AI at Work"
+  },
+  {
+    "objectID": "tmp/slides.html#section",
+    "href": "tmp/slides.html#section",
+    "title": "AI and the Labour Market (proto)",
+    "section": "",
+    "text": "AE advantage: which ones are most at risk?"
+  },
+  {
+    "objectID": "tmp/slides.html#shape-the-narrative",
+    "href": "tmp/slides.html#shape-the-narrative",
+    "title": "AI and the Labour Market (proto)",
+    "section": "Shape the narrative…",
+    "text": "Shape the narrative…\nThe Marradona policy…\nGDP growth forecasts…"
+  },
+  {
+    "objectID": "tmp/slides.html#excec-summary",
+    "href": "tmp/slides.html#excec-summary",
+    "title": "AI and the Labour Market (proto)",
+    "section": "Excec Summary",
+    "text": "Excec Summary\n\nindustrial revolution: productivity shock, replace some workers, complement others\n40% of employment at risk\n\nmore in advanced countries than emerging than developing (60/40/26)\nbut advanced countries more ready\n\neffect on income / wealth inequality\n\nwhole population is affected by ai risk\nbut high income more likely to be positive complement\nmodel simulation-&gt; beneficial to top earners\n\npositive effect on income for all woekers\ncollege-educated workers more prepared to move from jobs\nAI preparedness index\n\nadvanced: invest in AI innovation and rgulation\nless developped: infrastructure and digital traning\nall social safety nets"
+  },
+  {
+    "objectID": "tmp/slides.html#ai-exposure-and-complementarity",
+    "href": "tmp/slides.html#ai-exposure-and-complementarity",
+    "title": "AI and the Labour Market (proto)",
+    "section": "AI Exposure and Complementarity",
+    "text": "AI Exposure and Complementarity\nO*NET: - job - occupation - ability\n(what is importance?, prevalence?)\n(example with a graph)\n(problem: O*NET is only for the US)\nLabor Market Exposure to AI: Cross-country Differences and Distributional Implicationss\nCountries: UK/US + Brazil, Columbia, India, South Africa\nGo beyond tasks by adding social and physical context\nSubjectivity of social point of view.\nGiven the high degree of uncertainty over the future of this fast-pacing and broadly applicable technology, the concept of exposure is purposely framed as agnostic on the likelihood of AI complementing or replacing labor in the performance of a given task or occupation.\nIdea: provide specific tables /graphs to students\nData: ILO for all countries microdata for some\nProblem: concept of complementarity, not the same\nOccupational transitions:\n\nconcept of social mobility\nmarkov chain\n\nWhat prevents transition?\ncf paper\nWhy are older workers less willing to switch? (many reality checks in the paper).\n\nWho is mostly helped with AI?*\nyoung college-educated On the other hand, AI may enable young college-educated workers to become experienced more quickly as they leverage their familiarity with new technologies to enhance their productivity. With the introduction of generative AI, the use of AI has itself become much easier. A recent study shows that the productivity impact of an AI-based conversational assistant was greatest for less experienced and low-skilled customer support workers; the effect on experienced and highly skilled workers was minimal (Brynjolfsson, Danielle, and Raymond 2023).\n\nSame with Code Assistant"
+  },
+  {
+    "objectID": "tmp/slides.html#ai-productivity-inequality",
+    "href": "tmp/slides.html#ai-productivity-inequality",
+    "title": "AI and the Labour Market (proto)",
+    "section": "AI Productivity, Inequality",
+    "text": "AI Productivity, Inequality\nModel-based\ncopmlementarity effect vs displacement effect"
+  },
+  {
+    "objectID": "tmp/slides.html#ai-preparedness",
+    "href": "tmp/slides.html#ai-preparedness",
+    "title": "AI and the Labour Market (proto)",
+    "section": "AI Preparedness",
+    "text": "AI Preparedness"
+  },
+  {
+    "objectID": "session_0/proto.html",
+    "href": "session_0/proto.html",
+    "title": "AI and the Labour Market (proto)",
+    "section": "",
+    "text": "How research is done?\n\n\n\n\n\nAuthors\nResearch Papers\nOfficial Blog post\nOlivier Gourinchas Gita Gopinath Kristalina Goeorgieva\n\n\n\n\n\n\n\n\nflowchart LR\n  A{Staff} --&gt;  A1[Academic Paper]\n  A1 --&gt; X[Peer Reviewed Publications]\n  A1 --&gt; B[IMF Working Paper]\n  A --&gt; C[IMF Staff Discussion Paper]\n  B --&gt; C\n  C --&gt; D[Board Official Position]\n  E{Member States} ==&gt; D\n\n\n\n\n\n\nWhat do you conclude from that?\n\n\n\nPoints to:\nIMF F&D December\nGenerative AI at Work\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAE advantage: which ones are most at risk?\n\n\n\n\n\n\nThe Marradona policy…\nGDP growth forecasts…"
+  },
+  {
+    "objectID": "session_0/proto.html#the-report",
+    "href": "session_0/proto.html#the-report",
+    "title": "AI and the Labour Market (proto)",
+    "section": "",
+    "text": "Authors\nResearch Papers\nOfficial Blog post\nOlivier Gourinchas Gita Gopinath Kristalina Goeorgieva"
+  },
+  {
+    "objectID": "session_0/proto.html#how-research-is-done-at-imf",
+    "href": "session_0/proto.html#how-research-is-done-at-imf",
+    "title": "AI and the Labour Market (proto)",
+    "section": "",
+    "text": "flowchart LR\n  A{Staff} --&gt;  A1[Academic Paper]\n  A1 --&gt; X[Peer Reviewed Publications]\n  A1 --&gt; B[IMF Working Paper]\n  A --&gt; C[IMF Staff Discussion Paper]\n  B --&gt; C\n  C --&gt; D[Board Official Position]\n  E{Member States} ==&gt; D\n\n\n\n\n\n\nWhat do you conclude from that?"
+  },
+  {
+    "objectID": "session_0/proto.html#imf-blog",
+    "href": "session_0/proto.html#imf-blog",
+    "title": "AI and the Labour Market (proto)",
+    "section": "",
+    "text": "Points to:\nIMF F&D December\nGenerative AI at Work"
+  },
+  {
+    "objectID": "session_0/proto.html#section",
+    "href": "session_0/proto.html#section",
+    "title": "AI and the Labour Market (proto)",
+    "section": "",
+    "text": "AE advantage: which ones are most at risk?"
+  },
+  {
+    "objectID": "session_0/proto.html#shape-the-narrative",
+    "href": "session_0/proto.html#shape-the-narrative",
+    "title": "AI and the Labour Market (proto)",
+    "section": "",
+    "text": "The Marradona policy…\nGDP growth forecasts…"
+  },
+  {
+    "objectID": "session_0/proto.html#excec-summary",
+    "href": "session_0/proto.html#excec-summary",
+    "title": "AI and the Labour Market (proto)",
+    "section": "Excec Summary",
+    "text": "Excec Summary\n\nindustrial revolution: productivity shock, replace some workers, complement others\n40% of employment at risk\n\nmore in advanced countries than emerging than developing (60/40/26)\nbut advanced countries more ready\n\neffect on income / wealth inequality\n\nwhole population is affected by ai risk\nbut high income more likely to be positive complement\nmodel simulation-&gt; beneficial to top earners\n\npositive effect on income for all woekers\ncollege-educated workers more prepared to move from jobs\nAI preparedness index\n\nadvanced: invest in AI innovation and rgulation\nless developped: infrastructure and digital traning\nall social safety nets"
+  },
+  {
+    "objectID": "session_0/proto.html#ai-exposure-and-complementarity",
+    "href": "session_0/proto.html#ai-exposure-and-complementarity",
+    "title": "AI and the Labour Market (proto)",
+    "section": "AI Exposure and Complementarity",
+    "text": "AI Exposure and Complementarity\nO*NET: - job - occupation - ability\n(what is importance?, prevalence?)\n(example with a graph)\n(problem: O*NET is only for the US)\nLabor Market Exposure to AI: Cross-country Differences and Distributional Implicationss\nCountries: UK/US + Brazil, Columbia, India, South Africa\nGo beyond tasks by adding social and physical context\nSubjectivity of social point of view.\nGiven the high degree of uncertainty over the future of this fast-pacing and broadly applicable technology, the concept of exposure is purposely framed as agnostic on the likelihood of AI complementing or replacing labor in the performance of a given task or occupation.\nIdea: provide specific tables /graphs to students\nData: ILO for all countries microdata for some\nProblem: concept of complementarity, not the same\nOccupational transitions:\n\nconcept of social mobility\nmarkov chain\n\nWhat prevents transition?\ncf paper\nWhy are older workers less willing to switch? (many reality checks in the paper).\n\nWho is mostly helped with AI?*\nyoung college-educated On the other hand, AI may enable young college-educated workers to become experienced more quickly as they leverage their familiarity with new technologies to enhance their productivity. With the introduction of generative AI, the use of AI has itself become much easier. A recent study shows that the productivity impact of an AI-based conversational assistant was greatest for less experienced and low-skilled customer support workers; the effect on experienced and highly skilled workers was minimal (Brynjolfsson, Danielle, and Raymond 2023).\n\nSame with Code Assistant"
+  },
+  {
+    "objectID": "session_0/proto.html#ai-productivity-inequality",
+    "href": "session_0/proto.html#ai-productivity-inequality",
+    "title": "AI and the Labour Market (proto)",
+    "section": "AI Productivity, Inequality",
+    "text": "AI Productivity, Inequality\nModel-based\ncopmlementarity effect vs displacement effect"
+  },
+  {
+    "objectID": "session_0/proto.html#ai-preparedness",
+    "href": "session_0/proto.html#ai-preparedness",
+    "title": "AI and the Labour Market (proto)",
+    "section": "AI Preparedness",
+    "text": "AI Preparedness"
+  },
+  {
+    "objectID": "session_0/slides.html#the-context",
+    "href": "session_0/slides.html#the-context",
+    "title": "AI and the Labour Market (proto)",
+    "section": "The context…",
+    "text": "The context…"
+  },
+  {
+    "objectID": "session_0/slides.html#the-report",
+    "href": "session_0/slides.html#the-report",
+    "title": "AI and the Labour Market (proto)",
+    "section": "The report",
+    "text": "The report\nAuthors\nResearch Papers\nOfficial Blog post\nOlivier Gourinchas Gita Gopinath Kristalina Goeorgieva"
+  },
+  {
+    "objectID": "session_0/slides.html#how-research-is-done-at-imf",
+    "href": "session_0/slides.html#how-research-is-done-at-imf",
+    "title": "AI and the Labour Market (proto)",
+    "section": "How Research is done at IMF",
+    "text": "How Research is done at IMF\n\n\n\n\n\nflowchart LR\n  A{Staff} --&gt;  A1[Academic Paper]\n  A1 --&gt; X[Peer Reviewed Publications]\n  A1 --&gt; B[IMF Working Paper]\n  A --&gt; C[IMF Staff Discussion Paper]\n  B --&gt; C\n  C --&gt; D[Board Official Position]\n  E{Member States} ==&gt; D\n\n\n\n\n\n\nWhat do you conclude from that?"
+  },
+  {
+    "objectID": "session_0/slides.html#imf-blog",
+    "href": "session_0/slides.html#imf-blog",
+    "title": "AI and the Labour Market (proto)",
+    "section": "IMF Blog",
+    "text": "IMF Blog\nPoints to:\nIMF F&D December\nGenerative AI at Work"
+  },
+  {
+    "objectID": "session_0/slides.html#section",
+    "href": "session_0/slides.html#section",
+    "title": "AI and the Labour Market (proto)",
+    "section": "",
+    "text": "AE advantage: which ones are most at risk?"
+  },
+  {
+    "objectID": "session_0/slides.html#shape-the-narrative",
+    "href": "session_0/slides.html#shape-the-narrative",
+    "title": "AI and the Labour Market (proto)",
+    "section": "Shape the narrative…",
+    "text": "Shape the narrative…\nThe Marradona policy…\nGDP growth forecasts…"
+  },
+  {
+    "objectID": "session_0/slides.html#excec-summary",
+    "href": "session_0/slides.html#excec-summary",
+    "title": "AI and the Labour Market (proto)",
+    "section": "Excec Summary",
+    "text": "Excec Summary\n\nindustrial revolution: productivity shock, replace some workers, complement others\n40% of employment at risk\n\nmore in advanced countries than emerging than developing (60/40/26)\nbut advanced countries more ready\n\neffect on income / wealth inequality\n\nwhole population is affected by ai risk\nbut high income more likely to be positive complement\nmodel simulation-&gt; beneficial to top earners\n\npositive effect on income for all woekers\ncollege-educated workers more prepared to move from jobs\nAI preparedness index\n\nadvanced: invest in AI innovation and rgulation\nless developped: infrastructure and digital traning\nall social safety nets"
+  },
+  {
+    "objectID": "session_0/slides.html#ai-exposure-and-complementarity",
+    "href": "session_0/slides.html#ai-exposure-and-complementarity",
+    "title": "AI and the Labour Market (proto)",
+    "section": "AI Exposure and Complementarity",
+    "text": "AI Exposure and Complementarity\nO*NET: - job - occupation - ability\n(what is importance?, prevalence?)\n(example with a graph)\n(problem: O*NET is only for the US)\nLabor Market Exposure to AI: Cross-country Differences and Distributional Implicationss\nCountries: UK/US + Brazil, Columbia, India, South Africa\nGo beyond tasks by adding social and physical context\nSubjectivity of social point of view.\nGiven the high degree of uncertainty over the future of this fast-pacing and broadly applicable technology, the concept of exposure is purposely framed as agnostic on the likelihood of AI complementing or replacing labor in the performance of a given task or occupation.\nIdea: provide specific tables /graphs to students\nData: ILO for all countries microdata for some\nProblem: concept of complementarity, not the same\nOccupational transitions:\n\nconcept of social mobility\nmarkov chain\n\nWhat prevents transition?\ncf paper\nWhy are older workers less willing to switch? (many reality checks in the paper).\n\nWho is mostly helped with AI?*\nyoung college-educated On the other hand, AI may enable young college-educated workers to become experienced more quickly as they leverage their familiarity with new technologies to enhance their productivity. With the introduction of generative AI, the use of AI has itself become much easier. A recent study shows that the productivity impact of an AI-based conversational assistant was greatest for less experienced and low-skilled customer support workers; the effect on experienced and highly skilled workers was minimal (Brynjolfsson, Danielle, and Raymond 2023).\n\nSame with Code Assistant"
+  },
+  {
+    "objectID": "session_0/slides.html#ai-productivity-inequality",
+    "href": "session_0/slides.html#ai-productivity-inequality",
+    "title": "AI and the Labour Market (proto)",
+    "section": "AI Productivity, Inequality",
+    "text": "AI Productivity, Inequality\nModel-based\ncopmlementarity effect vs displacement effect"
+  },
+  {
+    "objectID": "session_0/slides.html#ai-preparedness",
+    "href": "session_0/slides.html#ai-preparedness",
+    "title": "AI and the Labour Market (proto)",
+    "section": "AI Preparedness",
+    "text": "AI Preparedness"
+  },
+  {
+    "objectID": "session_0/index_handout.html",
+    "href": "session_0/index_handout.html",
+    "title": "General Introduction",
+    "section": "",
+    "text": "Pablo Winant\n\n\n\n\nProfessional experience\n\nIMF\nBank of England\n\nTeaching\n\nESCP Business School\nEcole Polytechnique\n\nResearch\n\ninequalities\ninternational finance\nmonetary policy\ncomputational economics\nartificial intelligence\n\n\n\n\n\n\n\n\nStart with hot topics\n\ne.g. ChatGPT, job market, ecological transition, …\n\nConnect with economic theories and concepts\n\nthey appear in bold\nmake sure you understand their meaning\n\nTry to think outside of the box\n\n\n\n\n \n\n\n\n\n\n\n\n\n\nWikipedia\n\n\n\nEconomics is a social science that studies the production, distribution, and consumption of goods and services.\n\n\n. . .\n\n\n\n\n\n\nAmerican Economic Association\n\n\n\nIt can be defined in different ways. It’s the study of scarcity, the study of how people use resources and respond to incentives, or the study of decision-making. It often involves topics like wealth and finance, but it’s not all about money.\n\n\n. . .\n\n\n\n\n\n\nRedux\n\n\n\nEconomics studies people’s decisions and interactions, usually through markets but not always\n\n\n. . .\nCheck AEA website and research highlights for many examples of economic applications.\n\n\n\n\nEvaluation\n\ngroup work (40%)\n\nrecord a 5 min video developing one particular point of the course\n\nfinal exam (in-class) (60%)\n\nmcq on econ concepts\nvery short essay based on documents\n\nongoing (up to 20% bonus/malus)\n\nparticipation & behaviour\nmini-tasks if any\n\n\n\n\n\n\n\nLet’s go"
+  },
+  {
+    "objectID": "session_0/index_handout.html#about-myself",
+    "href": "session_0/index_handout.html#about-myself",
+    "title": "General Introduction",
+    "section": "",
+    "text": "Pablo Winant\n\n\n\n\nProfessional experience\n\nIMF\nBank of England\n\nTeaching\n\nESCP Business School\nEcole Polytechnique\n\nResearch\n\ninequalities\ninternational finance\nmonetary policy\ncomputational economics\nartificial intelligence"
+  },
+  {
+    "objectID": "session_0/index_handout.html#this-course",
+    "href": "session_0/index_handout.html#this-course",
+    "title": "General Introduction",
+    "section": "",
+    "text": "Start with hot topics\n\ne.g. ChatGPT, job market, ecological transition, …\n\nConnect with economic theories and concepts\n\nthey appear in bold\nmake sure you understand their meaning\n\nTry to think outside of the box"
+  },
+  {
+    "objectID": "session_0/index_handout.html#how-do-you-define-economics",
+    "href": "session_0/index_handout.html#how-do-you-define-economics",
+    "title": "General Introduction",
+    "section": "",
+    "text": "Wikipedia\n\n\n\nEconomics is a social science that studies the production, distribution, and consumption of goods and services.\n\n\n. . .\n\n\n\n\n\n\nAmerican Economic Association\n\n\n\nIt can be defined in different ways. It’s the study of scarcity, the study of how people use resources and respond to incentives, or the study of decision-making. It often involves topics like wealth and finance, but it’s not all about money.\n\n\n. . .\n\n\n\n\n\n\nRedux\n\n\n\nEconomics studies people’s decisions and interactions, usually through markets but not always\n\n\n. . .\nCheck AEA website and research highlights for many examples of economic applications."
+  },
+  {
+    "objectID": "session_0/index_handout.html#logistics",
+    "href": "session_0/index_handout.html#logistics",
+    "title": "General Introduction",
+    "section": "",
+    "text": "Evaluation\n\ngroup work (40%)\n\nrecord a 5 min video developing one particular point of the course\n\nfinal exam (in-class) (60%)\n\nmcq on econ concepts\nvery short essay based on documents\n\nongoing (up to 20% bonus/malus)\n\nparticipation & behaviour\nmini-tasks if any"
+  },
+  {
+    "objectID": "session_0/index_handout.html#section",
+    "href": "session_0/index_handout.html#section",
+    "title": "General Introduction",
+    "section": "",
+    "text": "Let’s go"
+  },
+  {
+    "objectID": "session_0/index.html#about-myself",
+    "href": "session_0/index.html#about-myself",
+    "title": "General Introduction",
+    "section": "About myself",
+    "text": "About myself\n\n\n\n\n\nPablo Winant\n\n\n\n\nProfessional experience\n\nIMF\nBank of England\n\nTeaching\n\nESCP Business School\nEcole Polytechnique\n\nResearch\n\ninequalities\ninternational finance\nmonetary policy\ncomputational economics\nartificial intelligence"
+  },
+  {
+    "objectID": "session_0/index.html#this-course",
+    "href": "session_0/index.html#this-course",
+    "title": "General Introduction",
+    "section": "This course",
+    "text": "This course\n\nStart with hot topics\n\ne.g. ChatGPT, job market, ecological transition, …\n\nConnect with economic theories and concepts\n\nthey appear in bold\nmake sure you understand their meaning\n\nTry to think outside of the box"
+  },
+  {
+    "objectID": "session_0/index.html#pressing-topics",
+    "href": "session_0/index.html#pressing-topics",
+    "title": "General Introduction",
+    "section": "Pressing Topics…",
+    "text": "Pressing Topics…"
+  },
+  {
+    "objectID": "session_0/index.html#how-do-you-define-economics",
+    "href": "session_0/index.html#how-do-you-define-economics",
+    "title": "General Introduction",
+    "section": "How do you define “Economics” ?",
+    "text": "How do you define “Economics” ?\n\n\n\n\n\n\n\nWikipedia\n\n\nEconomics is a social science that studies the production, distribution, and consumption of goods and services.\n\n\n\n\n\n\n\n\n\n\n\n\nAmerican Economic Association\n\n\nIt can be defined in different ways. It’s the study of scarcity, the study of how people use resources and respond to incentives, or the study of decision-making. It often involves topics like wealth and finance, but it’s not all about money.\n\n\n\n\n\n\n\n\n\n\n\n\n\nRedux\n\n\nEconomics studies people’s decisions and interactions, usually through markets but not always\n\n\n\n\n\n\nCheck AEA website and research highlights for many examples of economic applications."
+  },
+  {
+    "objectID": "session_0/index.html#logistics",
+    "href": "session_0/index.html#logistics",
+    "title": "General Introduction",
+    "section": "Logistics",
+    "text": "Logistics\n\nEvaluation\n\ngroup work (40%)\n\nrecord a 5 min video developing one particular point of the course\n\nfinal exam (in-class) (60%)\n\nmcq on econ concepts\nvery short essay based on documents\n\nongoing (up to 20% bonus/malus)\n\nparticipation & behaviour\nmini-tasks if any"
+  },
+  {
+    "objectID": "session_0/index.html#section",
+    "href": "session_0/index.html#section",
+    "title": "General Introduction",
+    "section": "",
+    "text": "Let’s go"
+  },
+  {
+    "objectID": "tmp/index_handout.html",
+    "href": "tmp/index_handout.html",
     "title": "Gen-AI and the Labour Market",
     "section": "",
     "text": ". . .\nFrom CNN: ‘Jobs may disappear’: Nearly 40% of global employment could be disrupted by AI, IMF says\n. . .\n🤔 How do they know that?"
+  },
+  {
+    "objectID": "tmp/index_handout.html#section",
+    "href": "tmp/index_handout.html#section",
+    "title": "Gen-AI and the Labour Market",
+    "section": "",
+    "text": "Task\n\n\n\nFind some context about the study and the various authors implicated.\nWhy is IMF interested in AI?"
+  },
+  {
+    "objectID": "tmp/index_handout.html#some-context",
+    "href": "tmp/index_handout.html#some-context",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Some Context",
+    "text": "Some Context\nBlog Post. written by Kristalina Goeorgieva Head of IMF\nStaff Discussion Note: by X, Y, Z, validated by Pierre-Olivier Gourinchas, Head of Research\nIMF Working Paper: by …"
+  },
+  {
+    "objectID": "tmp/index_handout.html#blog-post-more-references",
+    "href": "tmp/index_handout.html#blog-post-more-references",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Blog post: more references",
+    "text": "Blog post: more references\nPoints to:\nIMF F&D December\nGenerative AI at Work"
+  },
+  {
+    "objectID": "tmp/index_handout.html#how-research-is-done-at-imf",
+    "href": "tmp/index_handout.html#how-research-is-done-at-imf",
+    "title": "Gen-AI and the Labour Market",
+    "section": "How Research is done at IMF",
+    "text": "How Research is done at IMF\n\n\n\n\n\nflowchart LR\n  A{Staff} --&gt;  A1[Academic Paper]\n  A1 --&gt; X[Peer Reviewed Publications]\n  A1 --&gt; B[IMF Working Paper]\n  A --&gt; C[IMF Staff Discussion Paper]\n  B --&gt; C\n  C --&gt; D[Board Official Position]\n  E{Member States} ==&gt; D\n\n\n\n\n\n\nHow does it impact what you read?"
+  },
+  {
+    "objectID": "tmp/index_handout.html#research-in-big-institutions",
+    "href": "tmp/index_handout.html#research-in-big-institutions",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Research in Big Institutions",
+    "text": "Research in Big Institutions\nThe publication ofresearch papers in big institutions has several goals:\n\ndisseminate research\n\nusually from researchers that are closest from policy circles\n\nbuild a common narrative that countries can build on to negociate with the same language\n(usually not) state an official position of the institution"
+  },
+  {
+    "objectID": "tmp/index_handout.html#section-1",
+    "href": "tmp/index_handout.html#section-1",
+    "title": "Gen-AI and the Labour Market",
+    "section": "",
+    "text": "AE advantage: which ones are most at risk?"
+  },
+  {
+    "objectID": "tmp/index_handout.html#section-2",
+    "href": "tmp/index_handout.html#section-2",
+    "title": "Gen-AI and the Labour Market",
+    "section": "",
+    "text": "About the IMF\n\n\n\nThe IMF is a global organization that works to achieve sustainable growth and prosperity for all of its 190 member countries. It does so by supporting economic policies that promote financial stability and monetary cooperation, which are essential to increase productivity, job creation, and economic well-being. The IMF is governed by and accountable to its member countries.\n\n\n. . . Then why is it interested in AI?"
+  },
+  {
+    "objectID": "tmp/index_handout.html#why-is-imf-why-is-it-interested-in-ai",
+    "href": "tmp/index_handout.html#why-is-imf-why-is-it-interested-in-ai",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Why is IMF why is it interested in AI?",
+    "text": "Why is IMF why is it interested in AI?\n. . .\nCheck out the webpage\n\n\nIMF lends in times of crisis\n\n\nit is useful to know what might cause the next one (CoVid2, AI, food shortage, global warning…)\n\n\nIt pushes for structural reforms (but which ones?)\n\n\nso that countries can reimburse loans\n\n\nIt sometimes act as a last-resort multilateral institution\n\n\nwhere do all finance ministers sit down to discuss …?"
+  },
+  {
+    "objectID": "tmp/index_handout.html#section-3",
+    "href": "tmp/index_handout.html#section-3",
+    "title": "Gen-AI and the Labour Market",
+    "section": "",
+    "text": "Task\n\n\n\nRead the blog post and think about the following questions.\nAnswer the short online"
+  },
+  {
+    "objectID": "tmp/proto2.html#section",
+    "href": "tmp/proto2.html#section",
+    "title": "Gen-AI and the Labour Market",
+    "section": "",
+    "text": "Task\n\n\nFind some context about the study and the various authors implicated.\nWhy is IMF interested in AI?"
+  },
+  {
+    "objectID": "tmp/proto2.html#some-context",
+    "href": "tmp/proto2.html#some-context",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Some Context",
+    "text": "Some Context\nBlog Post. written by Kristalina Goeorgieva Head of IMF\nStaff Discussion Note: by X, Y, Z, validated by Pierre-Olivier Gourinchas, Head of Research\nIMF Working Paper: by …"
+  },
+  {
+    "objectID": "tmp/proto2.html#blog-post-more-references",
+    "href": "tmp/proto2.html#blog-post-more-references",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Blog post: more references",
+    "text": "Blog post: more references\nPoints to:\nIMF F&D December\nGenerative AI at Work"
+  },
+  {
+    "objectID": "tmp/proto2.html#how-research-is-done-at-imf",
+    "href": "tmp/proto2.html#how-research-is-done-at-imf",
+    "title": "Gen-AI and the Labour Market",
+    "section": "How Research is done at IMF",
+    "text": "How Research is done at IMF\n\n\n\n\n\nflowchart LR\n  A{Staff} --&gt;  A1[Academic Paper]\n  A1 --&gt; X[Peer Reviewed Publications]\n  A1 --&gt; B[IMF Working Paper]\n  A --&gt; C[IMF Staff Discussion Paper]\n  B --&gt; C\n  C --&gt; D[Board Official Position]\n  E{Member States} ==&gt; D\n\n\n\n\n\n\nHow does it impact what you read?"
+  },
+  {
+    "objectID": "tmp/proto2.html#research-in-big-institutions",
+    "href": "tmp/proto2.html#research-in-big-institutions",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Research in Big Institutions",
+    "text": "Research in Big Institutions\nThe publication ofresearch papers in big institutions has several goals:\n\ndisseminate research\n\nusually from researchers that are closest from policy circles\n\nbuild a common narrative that countries can build on to negociate with the same language\n(usually not) state an official position of the institution"
+  },
+  {
+    "objectID": "tmp/proto2.html#section-1",
+    "href": "tmp/proto2.html#section-1",
+    "title": "Gen-AI and the Labour Market",
+    "section": "",
+    "text": "AE advantage: which ones are most at risk?"
+  },
+  {
+    "objectID": "tmp/proto2.html#section-2",
+    "href": "tmp/proto2.html#section-2",
+    "title": "Gen-AI and the Labour Market",
+    "section": "",
+    "text": "About the IMF\n\n\nThe IMF is a global organization that works to achieve sustainable growth and prosperity for all of its 190 member countries. It does so by supporting economic policies that promote financial stability and monetary cooperation, which are essential to increase productivity, job creation, and economic well-being. The IMF is governed by and accountable to its member countries.\n\n\n\n. . . Then why is it interested in AI?"
+  },
+  {
+    "objectID": "tmp/proto2.html#why-is-imf-why-is-it-interested-in-ai",
+    "href": "tmp/proto2.html#why-is-imf-why-is-it-interested-in-ai",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Why is IMF why is it interested in AI?",
+    "text": "Why is IMF why is it interested in AI?\n\nCheck out the webpage\n\n\nIMF lends in times of crisis\n\n\nit is useful to know what might cause the next one (CoVid2, AI, food shortage, global warning…)\n\n\nIt pushes for structural reforms (but which ones?)\n\n\nso that countries can reimburse loans\n\n\nIt sometimes act as a last-resort multilateral institution\n\n\nwhere do all finance ministers sit down to discuss …?"
+  },
+  {
+    "objectID": "tmp/proto2.html#section-3",
+    "href": "tmp/proto2.html#section-3",
+    "title": "Gen-AI and the Labour Market",
+    "section": "",
+    "text": "Task\n\n\nRead the blog post and think about the following questions.\nAnswer the short online"
+  },
+  {
+    "objectID": "prep_4/index_handout.html",
+    "href": "prep_4/index_handout.html",
+    "title": "Should we Fear the Return of the Big, Bad, Inflation?",
+    "section": "",
+    "text": "Come back later!."
+  },
+  {
+    "objectID": "prep_5/index_handout.html",
+    "href": "prep_5/index_handout.html",
+    "title": "Countries Pulling Appart: Geoeconomic Fragmentation.",
+    "section": "",
+    "text": "Come back later!."
+  },
+  {
+    "objectID": "prep_6/index_handout.html",
+    "href": "prep_6/index_handout.html",
+    "title": "Final Exam ☠",
+    "section": "",
+    "text": "Come back later!."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Topics in Economics",
+    "section": "",
+    "text": "TODO:\n\nby Jan 29th, read the last IMF report on AI (either blog entry or associated paper)\n\n  \nProvisional Schedule\n\n\n\n\n\nDate\n\n\nTitle\n\n\n\n\n\n\nJan 15, 2024\n\n\nGeneral Introduction\n\n\n\n\nJan 15, 2024\n\n\nThe Rise of Artificial Intelligence\n\n\n\n\nJan 22, 2024\n\n\nThe Price of Carbon\n\n\n\n\nJan 29, 2024\n\n\nGen-AI and the Labour Market\n\n\n\n\nFeb 5, 2024\n\n\nGreen Nudges\n\n\n\n\nFeb 12, 2024\n\n\nInequalities (TBC)\n\n\n\n\nFeb 26, 2024\n\n\nShould we Fear the Return of the Big, Bad, Inflation?\n\n\n\n\nMar 4, 2024\n\n\nCountries Pulling Appart: Geoeconomic Fragmentation.\n\n\n\n\nMar 11, 2024\n\n\nFinal Exam ☠\n\n\n\n\n\nNo matching items\n\n\nPracticalities\n\nEvaluation\n\ngroup work (40%)\n\nrecord a 5 min video developing one particular point of the course\n4 students max per group\nmore detailed instructions upcoming\n\nfinal exam (in-class) (60%)\n\nmcq on econ concepts\nvery short essay based on documents\n\nongoing (up to 20% bonus/malus)\n\nparticipation & behaviour\nmini-tasks if any"
   },
   {
     "objectID": "session_carbon/ideas.html",
