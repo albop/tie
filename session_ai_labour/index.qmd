@@ -70,7 +70,7 @@ Blog also points to:
 
   - [Generative AI at Work](https://www.nber.org/papers/w31161)
 
-Many other referencs in the SDN.
+Many other references in the SDN.
 
 
 
@@ -98,7 +98,7 @@ The *publication* of research papers in big international institutions has sever
 - disseminate research
   - usually from researchers that are closest to policy circles
 
-- build a common narrative that countries can build on to negociate with the same language
+- build a common narrative that countries can build on to negotiate with the same language
   - provide a discussion forum when there isn't one
 
 - (usually not) state an official position of the institution
@@ -109,7 +109,7 @@ The *publication* of research papers in big international institutions has sever
 
 Bank of England, communicates on forward guidance:
 
-- delphic vs odyssean forward guidance
+- Delphic vs Odyssean forward guidance
 
 . . . 
 
@@ -148,7 +148,7 @@ Check out [the webpage](https://www.imf.org/en/About/Factsheets/IMF-Lending)
 
   - so that countries can reimburse loans
 
-3. It sometimes act as a last-resort multilateral institution
+3. It sometimes acts as a last-resort multilateral institution
 
   - where do all finance ministers sit down to discuss ...?
 
@@ -168,7 +168,7 @@ Check out the O*NET database.
 
 What is the difference between a skill, an abilty, ...
 
-What part occupational content is more relevant to judge AI exposure?
+What part of occupational content is more relevant to judge AI exposure?
 
 
 :::
@@ -184,9 +184,9 @@ What part occupational content is more relevant to judge AI exposure?
 
 - Conceptual framework: O*NET content model
 
-  - an occupation (a job) is associated to a particular content (skills, abilities, tasks, activities, context)
+  - an occupation (a job) is associated with a particular content (skills, abilities, tasks, activities, context)
   - some content relates to the worker, some to the nature of the occupation
-  - data comes from incumbant and experts
+  - data comes from incumbents and experts
 
 :::
 
@@ -200,7 +200,7 @@ Which content is more relevant to judge AI fitness?
 - abilities
 - tasks
 
-A growing body of literature (led by Autor , Levy, Murnane 2003) is using content of jobs to assess the potential effect of new technologies.
+A growing body of literature (led by Autor, Levy, Murnane 2003) is using contents of jobs to assess the potential effect of new technologies.
 
 
 
@@ -218,7 +218,7 @@ Earlier work has focused on tasks.
 From O*NET database (occupational information)
 
   - 964 *occupations* ,decomposed 18,156 *tasks*
-  - Tasks agggregated into of 2,069 work activities
+  - Tasks aggregated into of 2,069 work activities
     - ex: sort information, show empathy
 
 Use human judgment to measure the suitability for machine learning of each task.
@@ -316,7 +316,7 @@ Each AI application has an index corresponding to AI development.
 
 ## Mapping EFF application definitions to ONET abilities
 
-Human Judgment (mturk)  is used to associate each each of the $l\in[1,10]$ EFF application to the $j\in[1,51]$ O*NET categories: $x_{l,j}$
+Human Judgment (mturk)  is used to associate  each of the $l\in[1,10]$ EFF application to the $j\in[1,51]$ O*NET categories: $x_{l,j}$
 
 
 AI suitability for ability $j$ is then defined as $$AI_j = \sum_{l=1}^{10} x_{l,j}$$
@@ -405,8 +405,8 @@ What are the limits with the task-based approach? -->
 
 ## Question 3
 
-How does the SDN distinguishes between jobs that are more or less complement to AI.
-What are the contexts ? How is the complementarity score computed?
+How does the SDN distinguish between jobs that are more or less complement to AI.
+What are the contexts? How is the complementarity score computed?
 
 
 :::
@@ -416,7 +416,7 @@ What are the contexts ? How is the complementarity score computed?
 ## Complementarity-augmented AI-exposure
 
 
-The main contribution from the Pizzilnelli et al. paper : use more content from O*NET:
+The main contribution from the Pizzinelli et al. paper: use more content from O*NET:
 
 - work context: physical and social factors that influence the nature of work
 - job zones: groups of occupations characterized by similar levels of education, on-the-job training, and professional experience needed to perform the work
@@ -426,7 +426,7 @@ Some contexts *shield* workers from being replaced by AI
 
 ##
 
-Each O*NET occupation is associated with each of the following context by a 0-100 score:
+Each O*NET occupation is associated with each of the following contexts by a 0-100 score:
 
 - Communication
 - Responsibility
@@ -453,7 +453,7 @@ The final complementarity score is the average of all contexts, normalized to be
 
 
 
-# Who will be affected ? Who will win / loose ?
+# Who will be affected? Who will win / loose?
 
 
 ##
@@ -477,7 +477,7 @@ Which countries will suffer most?
 
 ## Effect on inequalities
 
-The behaviour of top earners is crucial:
+The behavior of top earners is crucial:
 
 AI will increase inequalities increase if:
 
@@ -501,11 +501,68 @@ Social Mobility is important
 
 :::
 
-
-## AI preparedness Index
+## AI Preparedness Index
 
 ![](assets/preparedness.png)
 
+
 # Conclusion
 
-## Conclusion?
+## Conclusion
+
+::: {.r-stack}
+
+
+:::: {.fragment .current-visible}
+
+How do we measure the disruptive effect of technologies on the labor market in the short term?
+
+::::
+
+:::: {.fragment .current-visible}
+
+The task-based approach has pioneered the use of detailed data about the content of jobs to determine whether a particular job is at risk of being replaced:
+
+- for automation: routine jobs were especially exposed
+- for machine learning or AI:
+  - a relatively high proportion of jobs are exposed
+  - it affects many different kinds of jobs (low-income, high-income...)
+
+::::
+
+:::: {.fragment .current-visible}
+
+A series of recent papers, advertised by the IMF has developed the analysis in several directions:
+
+
+- use data on *abilities* to capture the potential of AI, even for tasks that have not been done by AI before
+
+- use job *context* data to assess which AI-exposed occupations will be shielded from AI competition
+
+- extend the analysis to many developed and emerging countries
+
+
+::::
+
+:::
+
+##
+
+
+![](assets/question_mark.png)
+
+
+So 40% of world employment are at risk?
+
+. . .
+
+Yes, but half of it *might* be protected by society. 
+
+. . .
+
+More advanced countries are more at risk (especially college-educated workers)...
+
+. . .
+
+but are more prepared in many dimensions (technological advance, regulation, ...)
+
