@@ -1,0 +1,1179 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.4.549">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Pablo Winant">
+<meta name="dcterms.date" content="2024-02-26">
+
+<title>Topics in Economics - Green Nudges</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="../styles.css">
+</head>
+
+<body>
+
+<div id="quarto-search-results"></div>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="#introduction">Introduction</a>
+  <ul class="collapse">
+  <li><a href="#reminder" id="toc-reminder" class="nav-link" data-scroll-target="#reminder">Reminder</a></li>
+  <li><a href="#carbon-tax" id="toc-carbon-tax" class="nav-link" data-scroll-target="#carbon-tax">Carbon Tax</a></li>
+  <li><a href="#another-perspective" id="toc-another-perspective" class="nav-link" data-scroll-target="#another-perspective">Another perspective:</a></li>
+  <li><a href="#examples" id="toc-examples" class="nav-link" data-scroll-target="#examples">Examples:</a></li>
+  <li><a href="#examples-1" id="toc-examples-1" class="nav-link" data-scroll-target="#examples-1">Examples:</a></li>
+  <li><a href="#examples-2" id="toc-examples-2" class="nav-link" data-scroll-target="#examples-2">Examples:</a></li>
+  </ul></li>
+  <li><a href="#behavioural-economics" id="toc-behavioural-economics" class="nav-link" data-scroll-target="#behavioural-economics">Behavioural Economics</a>
+  <ul class="collapse">
+  <li><a href="#system-1-vs-system-2" id="toc-system-1-vs-system-2" class="nav-link" data-scroll-target="#system-1-vs-system-2">System 1 vs System 2</a></li>
+  <li><a href="#incentives-vs-nudges" id="toc-incentives-vs-nudges" class="nav-link" data-scroll-target="#incentives-vs-nudges">Incentives vs Nudges</a></li>
+  </ul></li>
+  <li><a href="#deviations-from-rationality" id="toc-deviations-from-rationality" class="nav-link" data-scroll-target="#deviations-from-rationality">Deviations from rationality</a>
+  <ul class="collapse">
+  <li><a href="#the-neo-classical-view" id="toc-the-neo-classical-view" class="nav-link" data-scroll-target="#the-neo-classical-view">The (neo)-classical view</a></li>
+  <li><a href="#the-ultimatum-game" id="toc-the-ultimatum-game" class="nav-link" data-scroll-target="#the-ultimatum-game">The ultimatum game</a></li>
+  <li><a href="#section" id="toc-section" class="nav-link" data-scroll-target="#section"></a></li>
+  <li><a href="#section-1" id="toc-section-1" class="nav-link" data-scroll-target="#section-1"></a></li>
+  <li><a href="#section-2" id="toc-section-2" class="nav-link" data-scroll-target="#section-2"></a></li>
+  <li><a href="#section-3" id="toc-section-3" class="nav-link" data-scroll-target="#section-3"></a></li>
+  <li><a href="#the-ultimatum-game-measuring-shame" id="toc-the-ultimatum-game-measuring-shame" class="nav-link" data-scroll-target="#the-ultimatum-game-measuring-shame">The ultimatum game: measuring shame</a></li>
+  <li><a href="#reflection-effect-or-loss-aversion" id="toc-reflection-effect-or-loss-aversion" class="nav-link" data-scroll-target="#reflection-effect-or-loss-aversion">Reflection Effect or Loss Aversion</a></li>
+  <li><a href="#the-certainty-effect-the-allais-paradox" id="toc-the-certainty-effect-the-allais-paradox" class="nav-link" data-scroll-target="#the-certainty-effect-the-allais-paradox">The Certainty effect / The Allais paradox</a></li>
+  <li><a href="#expected-utility" id="toc-expected-utility" class="nav-link" data-scroll-target="#expected-utility">Expected utility</a></li>
+  <li><a href="#prospect-theory" id="toc-prospect-theory" class="nav-link" data-scroll-target="#prospect-theory">Prospect theory</a></li>
+  </ul></li>
+  <li><a href="#some-behavioural-anomalies" id="toc-some-behavioural-anomalies" class="nav-link" data-scroll-target="#some-behavioural-anomalies">Some Behavioural Anomalies</a>
+  <ul class="collapse">
+  <li><a href="#behavioural-anomalies" id="toc-behavioural-anomalies" class="nav-link" data-scroll-target="#behavioural-anomalies">Behavioural anomalies</a></li>
+  <li><a href="#section-4" id="toc-section-4" class="nav-link" data-scroll-target="#section-4"></a></li>
+  <li><a href="#section-5" id="toc-section-5" class="nav-link" data-scroll-target="#section-5"></a></li>
+  <li><a href="#section-6" id="toc-section-6" class="nav-link" data-scroll-target="#section-6"></a></li>
+  <li><a href="#section-7" id="toc-section-7" class="nav-link" data-scroll-target="#section-7"></a></li>
+  <li><a href="#section-8" id="toc-section-8" class="nav-link" data-scroll-target="#section-8"></a></li>
+  <li><a href="#section-9" id="toc-section-9" class="nav-link" data-scroll-target="#section-9"></a>
+  <ul class="collapse">
+  <li><a href="#question" id="toc-question" class="nav-link" data-scroll-target="#question">Question:</a></li>
+  </ul></li>
+  <li><a href="#section-10" id="toc-section-10" class="nav-link" data-scroll-target="#section-10"></a></li>
+  <li><a href="#section-11" id="toc-section-11" class="nav-link" data-scroll-target="#section-11"></a></li>
+  <li><a href="#section-12" id="toc-section-12" class="nav-link" data-scroll-target="#section-12"></a></li>
+  <li><a href="#section-13" id="toc-section-13" class="nav-link" data-scroll-target="#section-13"></a></li>
+  </ul></li>
+  <li><a href="#green-nudges" id="toc-green-nudges" class="nav-link" data-scroll-target="#green-nudges">Green Nudges</a>
+  <ul class="collapse">
+  <li><a href="#section-14" id="toc-section-14" class="nav-link" data-scroll-target="#section-14"></a></li>
+  <li><a href="#section-15" id="toc-section-15" class="nav-link" data-scroll-target="#section-15"></a></li>
+  <li><a href="#classification" id="toc-classification" class="nav-link" data-scroll-target="#classification">Classification</a></li>
+  <li><a href="#cognitive-nudges" id="toc-cognitive-nudges" class="nav-link" data-scroll-target="#cognitive-nudges">Cognitive Nudges</a></li>
+  <li><a href="#moral-nudges" id="toc-moral-nudges" class="nav-link" data-scroll-target="#moral-nudges">Moral Nudges</a></li>
+  <li><a href="#compare-with-the-neoclassical-agent" id="toc-compare-with-the-neoclassical-agent" class="nav-link" data-scroll-target="#compare-with-the-neoclassical-agent">Compare with the neoclassical agent</a></li>
+  <li><a href="#section-16" id="toc-section-16" class="nav-link" data-scroll-target="#section-16"></a></li>
+  <li><a href="#defaults" id="toc-defaults" class="nav-link" data-scroll-target="#defaults">Defaults</a></li>
+  <li><a href="#simplification-of-information-and-salience" id="toc-simplification-of-information-and-salience" class="nav-link" data-scroll-target="#simplification-of-information-and-salience">Simplification of Information and Salience</a></li>
+  <li><a href="#changes-in-the-physical-environment" id="toc-changes-in-the-physical-environment" class="nav-link" data-scroll-target="#changes-in-the-physical-environment">Changes in the Physical Environment</a></li>
+  <li><a href="#reminders" id="toc-reminders" class="nav-link" data-scroll-target="#reminders">Reminders</a></li>
+  <li><a href="#social-comparisons-and-social-preferences" id="toc-social-comparisons-and-social-preferences" class="nav-link" data-scroll-target="#social-comparisons-and-social-preferences">Social Comparisons and Social Preferences</a></li>
+  <li><a href="#moral-pleas-moral-suasion" id="toc-moral-pleas-moral-suasion" class="nav-link" data-scroll-target="#moral-pleas-moral-suasion">Moral pleas / moral suasion</a></li>
+  <li><a href="#commitment-and-goal-setting" id="toc-commitment-and-goal-setting" class="nav-link" data-scroll-target="#commitment-and-goal-setting">Commitment and Goal Setting</a></li>
+  <li><a href="#nudges-vs-conventional-policy-instruments." id="toc-nudges-vs-conventional-policy-instruments." class="nav-link" data-scroll-target="#nudges-vs-conventional-policy-instruments.">Nudges vs conventional policy instruments.</a></li>
+  <li><a href="#are-they-ethical" id="toc-are-they-ethical" class="nav-link" data-scroll-target="#are-they-ethical">Are they ethical?</a></li>
+  <li><a href="#are-they-working" id="toc-are-they-working" class="nav-link" data-scroll-target="#are-they-working">Are they working?</a></li>
+  </ul></li>
+  <li><a href="#conclusion" id="toc-conclusion" class="nav-link" data-scroll-target="#conclusion">Conclusion</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Green Nudges</h1>
+<p class="subtitle lead">Topics in Economics, ESCP, 2023-2024</p>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Pablo Winant </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">February 26, 2024</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="introduction" class="level1">
+<h1>Introduction</h1>
+<section id="reminder" class="level2">
+<h2 class="anchored" data-anchor-id="reminder">Reminder</h2>
+<p>Economic consensus: agents respond to incentives</p>
+<p>Two versions:</p>
+<p>Fully Rational / Limited Rationality / Rational Inattention</p>
+<p>Behavioural World: systematic deviations from rationality</p>
+</section>
+<section id="carbon-tax" class="level2">
+<h2 class="anchored" data-anchor-id="carbon-tax">Carbon Tax</h2>
+<p>Oeconomic Rational</p>
+<ul>
+<li>modify the system to provide the right incentives</li>
+<li>first best: tax carbon</li>
+<li>otherwise: modify constraints to make carbon de facto more expensive
+<ul>
+<li>examples</li>
+</ul></li>
+</ul>
+<p>Should work well for rational agents: especially <em>firms</em>…</p>
+</section>
+<section id="another-perspective" class="level2">
+<h2 class="anchored" data-anchor-id="another-perspective">Another perspective:</h2>
+<ul>
+<li>directly affect people’s decision context to affect their behaviour</li>
+</ul>
+</section>
+<section id="examples" class="level2">
+<h2 class="anchored" data-anchor-id="examples">Examples:</h2>
+<p>…/.</p>
+<ul>
+<li>a nudge: a cheap, …</li>
+</ul>
+</section>
+<section id="examples-1" class="level2" data-auto-animate="true">
+<h2 data-auto-animate="true" class="anchored" data-anchor-id="examples-1">Examples:</h2>
+<div class="columns">
+<div class="column">
+<p><img src="assets/core_pollution_nudges.jpeg" class="img-fluid"></p>
+</div><div class="column">
+<p>Second column</p>
+</div>
+</div>
+</section>
+<section id="examples-2" class="level2" data-auto-animate="true">
+<h2 data-auto-animate="true" class="anchored" data-anchor-id="examples-2">Examples:</h2>
+<div class="columns">
+<div class="column">
+<p>Fist Column</p>
+</div><div class="column">
+<p><img src="assets/core_pollution_nudges.jpeg" class="img-fluid"></p>
+</div>
+</div>
+</section>
+</section>
+<section id="behavioural-economics" class="level1">
+<h1>Behavioural Economics</h1>
+<section id="system-1-vs-system-2" class="level2">
+<h2 class="anchored" data-anchor-id="system-1-vs-system-2">System 1 vs System 2</h2>
+</section>
+<section id="incentives-vs-nudges" class="level2">
+<h2 class="anchored" data-anchor-id="incentives-vs-nudges">Incentives vs Nudges</h2>
+</section>
+</section>
+<section id="deviations-from-rationality" class="level1">
+<h1>Deviations from rationality</h1>
+<section id="the-neo-classical-view" class="level2">
+<h2 class="anchored" data-anchor-id="the-neo-classical-view">The (neo)-classical view</h2>
+<ul>
+<li>Agents are perfectly rational…
+<ul>
+<li>they don’t make errors</li>
+</ul></li>
+<li>…and pursue their self interest
+<ul>
+<li>they are selfish</li>
+</ul></li>
+</ul>
+</section>
+<section id="the-ultimatum-game" class="level2">
+<h2 class="anchored" data-anchor-id="the-ultimatum-game">The ultimatum game</h2>
+<div class="center">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/ultimatum.jpeg" class="img-fluid figure-img" style="width:60.0%"></p>
+<figcaption>Split the Bill</figcaption>
+</figure>
+</div>
+</div>
+</section>
+<section id="section" class="level2">
+<h2 class="anchored" data-anchor-id="section"></h2>
+<p>[TODO] graph of the protocol</p>
+<p><strong>Setup</strong></p>
+<p>Two players negotiate over a fixed amount of money (the pie):</p>
+<ul>
+<li>player 1 demands a proportion of the pie</li>
+<li>player 2 sees the size and player’s 1 demand and either rejects or accepts it
+<ul>
+<li>accept: split is implemented</li>
+<li>reject: both players get 0</li>
+</ul></li>
+</ul>
+</section>
+<section id="section-1" class="level2" data-auto-animate="true">
+<h2 data-auto-animate="true" class="anchored" data-anchor-id="section-1"></h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/ultimatum.png" class="img-fluid figure-img"></p>
+<figcaption>Results</figcaption>
+</figure>
+</div>
+</section>
+<section id="section-2" class="level2" data-auto-animate="true">
+<h2 data-auto-animate="true" class="anchored" data-anchor-id="section-2"></h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/ultimatum.png" class="img-fluid figure-img" style="width:60.0%"></p>
+<figcaption>Results</figcaption>
+</figure>
+</div>
+<ul>
+<li>hundreds of papers since original one by Guth et al.</li>
+<li>consistent results: average offer is 40%, offers below 20% have high chances to be rejected, lots of 50-50</li>
+<li>note that the “rational choice” for both agents would be 99-1!</li>
+<li>it is an example of <strong>other regarding preferences</strong> (aka altruism)</li>
+</ul>
+</section>
+<section id="section-3" class="level2">
+<h2 class="anchored" data-anchor-id="section-3"></h2>
+<p>What determines the split? What influences altruism?</p>
+<p>. . .</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/dilbert.gif" class="img-fluid figure-img"></p>
+<figcaption>altruism</figcaption>
+</figure>
+</div>
+<p>. . .</p>
+<p>Can you devise an experiment to measure the effect of “shame”?</p>
+</section>
+<section id="the-ultimatum-game-measuring-shame" class="level2">
+<h2 class="anchored" data-anchor-id="the-ultimatum-game-measuring-shame">The ultimatum game: measuring shame</h2>
+<p>Improved protocol</p>
+<ul>
+<li>for half of the candidates, exactly as before (<em>control group</em>)</li>
+<li>for the other half (<em>treatment group</em>), the two players, don’t see each other don’t have any contact. Only the demand from player one is communicated to player 2.</li>
+</ul>
+<p>Result:</p>
+<ul>
+<li>-&gt; players are less generous but the result holds</li>
+</ul>
+</section>
+<section id="reflection-effect-or-loss-aversion" class="level2">
+<h2 class="anchored" data-anchor-id="reflection-effect-or-loss-aversion">Reflection Effect or Loss Aversion</h2>
+<p><img src="assets/loss_aversion.PNG" class="img-fluid"></p>
+<ul>
+<li>Result from literature
+<ul>
+<li>first lottery: 92% chose B</li>
+<li>second lottery: 80% chose A</li>
+</ul></li>
+<li>Intepretation:
+<ul>
+<li>agents are risk-seekers when it is about loosing money</li>
+<li>agents are risk-averse when it is about winning money</li>
+</ul></li>
+</ul>
+</section>
+<section id="the-certainty-effect-the-allais-paradox" class="level2">
+<h2 class="anchored" data-anchor-id="the-certainty-effect-the-allais-paradox">The Certainty effect / The Allais paradox</h2>
+<p><img src="assets/certainty_effect.PNG" class="img-fluid"></p>
+<ul>
+<li>Result from literature
+<ul>
+<li>first lottery: most people choose A</li>
+<li>second lottery: most people choose B</li>
+</ul></li>
+<li>Intepretation: people underweigh outcomes that are merely probable compared to those that are certain</li>
+</ul>
+</section>
+<section id="expected-utility" class="level2">
+<h2 class="anchored" data-anchor-id="expected-utility">Expected utility</h2>
+<ul>
+<li>Expected utility framework
+<ul>
+<li>simple assumptions on people’s preferences</li>
+<li>agents maximize <span class="math inline">\(U(x)\)</span> where <span class="math inline">\(U\)</span> is increasing and concave</li>
+<li>standard in economics and finance</li>
+</ul></li>
+<li>Concavity implies that agents are risk agents are risk averse</li>
+</ul>
+</section>
+<section id="prospect-theory" class="level2">
+<h2 class="anchored" data-anchor-id="prospect-theory">Prospect theory</h2>
+<div class="columns">
+<div class="column">
+<p><img src="assets/prospect.webp" class="img-fluid"></p>
+</div><div class="column">
+<ul>
+<li>Prospect theory was proposed by <em>Kahneman and Tversky in 1979</em></li>
+<li>Attempts to describe realistically how humans evaluate losses and gains</li>
+<li><em>Prospect</em> is a close synonym for <em>gamble</em></li>
+</ul>
+</div>
+</div>
+</section>
+</section>
+<section id="some-behavioural-anomalies" class="level1">
+<h1>Some Behavioural Anomalies</h1>
+<section id="behavioural-anomalies" class="level2">
+<h2 class="anchored" data-anchor-id="behavioural-anomalies">Behavioural anomalies</h2>
+<p>We classically distinguish two kinds of behavioural anomalies</p>
+<ul>
+<li>predisposition towards error</li>
+<li>mental shortcuts (aka <strong>heuristics</strong>)</li>
+</ul>
+<p>They have been studied by psychologists for a while</p>
+<ul>
+<li>And are being revisited systematically by economists/psychologists</li>
+<li>…following the “replication crisis”</li>
+</ul>
+</section>
+<section id="section-4" class="level2">
+<h2 class="anchored" data-anchor-id="section-4"></h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/riddle.jpg" class="img-fluid figure-img"></p>
+<figcaption>The Riddler</figcaption>
+</figure>
+</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vKA4w2O61Xo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="">
+</iframe>
+</section>
+<section id="section-5" class="level2">
+<h2 class="anchored" data-anchor-id="section-5"></h2>
+<div class="r-stack">
+<div class="fragment current-visible">
+<p><strong>Setup</strong> (Study from Lord, Ross &amp; Leeper, 1979)</p>
+<p><em>48 undergraduates supporting and opposing capital punishment were exposed to 2 purported studies, one seemingly confirming and one seemingly disconfirming their existing beliefs about the deterrent efficacy of the death penalty. As predicted, both proponents and opponents of capital punishment rated those results and procedures that confirmed their own beliefs to be the more convincing and probative ones.</em></p>
+</div>
+<div class="fragment">
+<p><strong>Result</strong></p>
+<p><em>Participants gave higher ratings to studies that confirmed their initial point of view even when studies on both sides had been carried out by the same method. In the end though everyone had read all the same studies, both those who initially supported the death penalty and those who initially opposed it reported that reading the studies had strengthened their beliefs</em>.</p>
+</div>
+</div>
+<p>. . .</p>
+<div class="callout callout-style-default callout-important callout-titled" title="Confirmation Bias">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Confirmation Bias
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>When you search for or interpret new information in a way that supports existing beliefs as opposed to challenge them.</p>
+</div>
+</div>
+</section>
+<section id="section-6" class="level2">
+<h2 class="anchored" data-anchor-id="section-6"></h2>
+<div class="r-stack">
+<div class="fragment current-visible">
+<p><strong>Test</strong>:</p>
+<ul>
+<li>Write down 3 examples of successes that you have had</li>
+<li>Write down 3 examples of failures</li>
+<li>What were the causes of the success?</li>
+<li>What were the causes of the failures?</li>
+</ul>
+</div>
+<div class="fragment">
+<p><strong>Interpretation</strong></p>
+<ul>
+<li>Attribution bias <em>occurs when people attribute their success to skills, and their failures to randomness</em> (Taleb 2001)</li>
+<li>It is when we attribute praise/blame to the person rather than the situation. <em>However, successful people can also mistake hard work for luck. Timing can be important but so is developing the skills to be able to take opportunities when presented. After all, “the harder you practice, the luckier you get”</em> Gary Player</li>
+</ul>
+</div>
+</div>
+<p>. . .</p>
+<div class="callout callout-style-default callout-important callout-titled" title="Attribution bias">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Attribution bias
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Overestimating how much control we have over events</p>
+</div>
+</div>
+</section>
+<section id="section-7" class="level2">
+<h2 class="anchored" data-anchor-id="section-7"></h2>
+<!-- TODO: Image -->
+<p><strong>Example</strong>:</p>
+<div class="incremental">
+<ul class="incremental">
+<li>People are given a mug worth 10$</li>
+<li>Then the opportunity to exchange it for pens worth 11$</li>
+<li>Most people don’t take the deal</li>
+</ul>
+</div>
+<p>A striking <a href="https://twitter.com/businessinsider/status/1034762586938433536?s=11">example</a></p>
+<p>Do you see other examples? Implications</p>
+<p>. . .</p>
+<div class="callout callout-style-default callout-important callout-titled" title="Ownership Bias / Endowment Effect Heuristic">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Ownership Bias / Endowment Effect Heuristic
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>People place a higher valuation on an asset, purely by owning it.</p>
+</div>
+</div>
+</section>
+<section id="section-8" class="level2">
+<h2 class="anchored" data-anchor-id="section-8"></h2>
+<p><strong>Example</strong>: We tend to think that footballers make more money than dentists, but only because we don’t see the failures (there’s a selection bias)</p>
+<ul>
+<li>Dentistry is a more lucrative profession since it maximises your expected income across all alternative histories</li>
+<li><em>One cannot consider a profession without taking into account the average of the people who enter it, not the sample of those who succeed</em> Taleb (2001)</li>
+</ul>
+<div class="callout callout-style-default callout-important callout-titled" title="Availability Heuristic">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Availability Heuristic
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Judgement based on the ease with which instances come to mind</p>
+</div>
+</div>
+</section>
+<section id="section-9" class="level2">
+<h2 class="anchored" data-anchor-id="section-9"></h2>
+<section id="question" class="level3">
+<h3 class="anchored" data-anchor-id="question">Question:</h3>
+<p>What percentage of members of the United Nations are countries in Africa?</p>
+</section>
+</section>
+<section id="section-10" class="level2">
+<h2 class="anchored" data-anchor-id="section-10"></h2>
+<div class="r-stack">
+<div class="fragment current-visible">
+<p><strong>Experiment</strong>:</p>
+<ul>
+<li><!-- .element: class="fragment" -->
+Show a number: e.g.&nbsp;65</li>
+<li><!-- .element: class="fragment" -->
+Ask participants: “What percentage of members of the United Nations are countries in Africa?”</li>
+</ul>
+</div>
+<div class="fragment">
+<p><strong>Result</strong></p>
+<ul>
+<li>People who saw a 10 had an average guess of 25%</li>
+<li>People who saw a 65 had an average guess of 45%</li>
+<li>Correct answer: 28%. There are 54 African countries, and 192 UN member states</li>
+</ul>
+</div>
+</div>
+<p>. . .</p>
+<div class="callout callout-style-default callout-important callout-titled" title="Anchoring Heuristic">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Anchoring Heuristic
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Viewing things in relation to an irrelevant comparison point</p>
+</div>
+</div>
+<div class="notes">
+<p>Don’t forget to add 65 on the board before.</p>
+</div>
+</section>
+<section id="section-11" class="level2">
+<h2 class="anchored" data-anchor-id="section-11"></h2>
+<p><img src="assets/oil_spill.jpg" class="img-fluid"></p>
+<p>How oil spills harm birds, dolphins, sea lions and other wildlife</p>
+</section>
+<section id="section-12" class="level2">
+<h2 class="anchored" data-anchor-id="section-12"></h2>
+<p><strong>Example</strong>: Following the Exxon Valdez oil spill, people were asked how much they were willing to pay for equipment that would do the following:</p>
+<ul>
+<li>Save 2,000 birds: <span class="fragment data-fragment-index=2"> $80 </span></li>
+<li>Save 20,000 birds: <span class="fragment data-fragment-index=3"> $78 </span></li>
+<li>Save 200,000 birds: <span class="fragment data-fragment-index=4"> $88 </span></li>
+</ul>
+<p>. . .</p>
+<p>The almost complete neglect of quantities in such <em>emotional contexts</em> has been confirmed many times</p>
+<p>. . .</p>
+<div class="callout callout-style-default callout-important callout-titled" title="Affect Heuristic">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Affect Heuristic
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Definition</strong>: Over-reliance on our immediate emotional reaction</p>
+</div>
+</div>
+</section>
+<section id="section-13" class="level2">
+<h2 class="anchored" data-anchor-id="section-13"></h2>
+<p>TODO: List of behaviour effects:</p>
+</section>
+</section>
+<section id="green-nudges" class="level1">
+<h1>Green Nudges</h1>
+<section id="section-14" class="level2">
+<h2 class="anchored" data-anchor-id="section-14"></h2>
+<div class="callout callout-style-default callout-important callout-titled" title="Nudge (economic definition)">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Nudge (economic definition)
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>A <em>nudge</em> is defined as a change in the decision environment that influcences people’s behavior without prohibiting any choices or significantly changing the economic incentives</p>
+<p>from <em>Thaler and Sunstein</em>, 2009</p>
+</div>
+</div>
+</section>
+<section id="section-15" class="level2">
+<h2 class="anchored" data-anchor-id="section-15"></h2>
+<p><code>Originally, the role of nudges was to counteract poor choices made by individuals, in areas such as personal savings and health</code></p>
+<p>Traditional: improve welfare of agents: a behavioral solution to a behavioral problem.</p>
+<p>Green nudge: influence people’s behavior, through changes in the choice architecture, in order to reduce negative externalities: a behavioral solution to a traditional economic problem.</p>
+</section>
+<section id="classification" class="level2">
+<h2 class="anchored" data-anchor-id="classification">Classification</h2>
+<p><img src="assets/classification.png" class="img-fluid"></p>
+</section>
+<section id="cognitive-nudges" class="level2">
+<h2 class="anchored" data-anchor-id="cognitive-nudges">Cognitive Nudges</h2>
+<p>Cognitive nudges: correct for bounded rationality, inattention of self-control. Make it easier to “do the right thing”.</p>
+<p>For instance, help individuals with self-control problems, present-bias….</p>
+<p>Example of cognitive self-focused nudges: put healthy food at the top of a restaurant menu.</p>
+<p>Example of cognitive green nudge: does not assume that individuals make poor choices for themselves because of bounded rationality. But it workds because individuals have cognitive or self control limitations.</p>
+<p><em>bounded rationality or self-control could lead an individual defaulted into a green tariff to stick with the new socially desirable default.</em></p>
+</section>
+<section id="moral-nudges" class="level2">
+<h2 class="anchored" data-anchor-id="moral-nudges">Moral Nudges</h2>
+<p>A moral nudge draws on people’s social preferences, their desire for status, to follow norms or to have a positive self-image. The nudge rewards “doing the right thing” by providing the individual with moral (dis)utility.</p>
+</section>
+<section id="compare-with-the-neoclassical-agent" class="level2">
+<h2 class="anchored" data-anchor-id="compare-with-the-neoclassical-agent">Compare with the neoclassical agent</h2>
+<p>Cognitive Nudge: help agent solve optimization Moral Nudge: affects agents preferences</p>
+</section>
+<section id="section-16" class="level2" data-scrollable="true">
+<h2 data-scrollable="true" class="anchored" data-anchor-id="section-16"></h2>
+<table class="table">
+<colgroup>
+<col style="width: 39%">
+<col style="width: 60%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Nudge Type</th>
+<th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Defaults</td>
+<td>If I manage to summarize that in a few words, will that fit?</td>
+</tr>
+<tr class="even">
+<td>Simplification of information and salience</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Changes in physical environment</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Reminders</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Social comparison</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Normative appeal and peer pressure</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Commitment and goal Setting</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="defaults" class="level2">
+<h2 class="anchored" data-anchor-id="defaults">Defaults</h2>
+<p>The default effect refers to the tendency of people to stick with an alternative already chosen by someone else, even when the cost of making an active choice is very small.</p>
+<p>Why does it work?</p>
+<div class="incremental">
+<ul class="incremental">
+<li>people interpret the default as a suggestion from someone better informed</li>
+<li>lowers the cost of a decision (from no-decision to the default)</li>
+<li>loss aversion or status quo bias make people stay with the default</li>
+</ul>
+</div>
+<p>Thermostat story: lower standard from 20…</p>
+<div class="notes">
+<p>Famous example of prosocial default nudge: organ donors.</p>
+</div>
+</section>
+<section id="simplification-of-information-and-salience" class="level2">
+<h2 class="anchored" data-anchor-id="simplification-of-information-and-salience">Simplification of Information and Salience</h2>
+<p>example: consumers pay little attention to fuel and electricity costs compared with the sales prices they face when buying cars or lightbulbs.</p>
+<ul>
+<li>labels, order in which the information is presented</li>
+</ul>
+</section>
+<section id="changes-in-the-physical-environment" class="level2">
+<h2 class="anchored" data-anchor-id="changes-in-the-physical-environment">Changes in the Physical Environment</h2>
+<p>example: reduce food waste in buffet restaurants using smaller plates</p>
+<p>few academic and adequately statistically powered evaluations of such nudges.</p>
+</section>
+<section id="reminders" class="level2">
+<h2 class="anchored" data-anchor-id="reminders">Reminders</h2>
+<p>A reminder increases attention to a decision and reduces forgetfulness. However, reminders can also impose moral costs if they draw attention to a decision that the decision maker would rather avoid (Damgaard and Gravert, 2018). For example, being reminded can create guilt and/or cognitive dissonance.</p>
+<p>electricity bill, which is a type of reminder, on hourly electricity consumption. They found a .6–1 percent reduction in electricity consumption following receipt of the bill</p>
+</section>
+<section id="social-comparisons-and-social-preferences" class="level2">
+<h2 class="anchored" data-anchor-id="social-comparisons-and-social-preferences">Social Comparisons and Social Preferences</h2>
+<p>the extent to which social information affects behavior depends not only on the actual information regarding what others do (i.e., descriptive messages) but also on whether it conveys approval of certain behavior (i.e., injunctive messages).</p>
+<p>A series of randomized field experiments aimed at water and energy conservation suggests that the provision of both descriptive and injunctive messages can affect individuals’ behavior by reducing water and electricity use</p>
+<p>study by Delmas and Lessem (2014), who studied the effect of both private information to the household and public information to all neighbors on electricity use. They found that only a combination of private and public information had an effect on energy use (a 20 percent reduction). S</p>
+</section>
+<section id="moral-pleas-moral-suasion" class="level2">
+<h2 class="anchored" data-anchor-id="moral-pleas-moral-suasion">Moral pleas / moral suasion</h2>
+<p>Ito, Ida, and Tanaka (2018), moral suasion was used to reduce energy use during peak hours. The following message was received by some households: “Substantial energy conservation will be required for the society during critical peak-demand hours in summer and winter.”</p>
+<p>Electricity use was reduced by around 8 percentage points in the moral suasion group and by around 15 percent by the households that received economic incentives. However, the effect of moral suasion diminished quickly when repeated, while the effect of the economic incentives did not. In Egebark and Ekström (2016), a moral message was provided in order to reduce the use of printer paper, but no effects were found.</p>
+</section>
+<section id="commitment-and-goal-setting" class="level2">
+<h2 class="anchored" data-anchor-id="commitment-and-goal-setting">Commitment and Goal Setting</h2>
+<p>Harding and Hsiaw (2014) investigated how voluntary goal setting concerning electricity savings affects actual electricity use and found that those who set a realistic goal save more than those who set a too low or too high goal.</p>
+<p>. In Baca-Motes et al.&nbsp;(2013), some hotel guests were given the opportunity to commit to acting more sustainably and received a pin enabling them to signal commitment. Treated guests were more likely to reuse their towels than those who were not asked to commit. The effect of the commitment was stronger if they received a pin, and it was also stronger if the commitment was more specific (reuse towels) than general (act in an environmentally friendly way)</p>
+</section>
+<section id="nudges-vs-conventional-policy-instruments." class="level2">
+<h2 class="anchored" data-anchor-id="nudges-vs-conventional-policy-instruments.">Nudges vs conventional policy instruments.</h2>
+</section>
+<section id="are-they-ethical" class="level2">
+<h2 class="anchored" data-anchor-id="are-they-ethical">Are they ethical?</h2>
+</section>
+<section id="are-they-working" class="level2">
+<h2 class="anchored" data-anchor-id="are-they-working">Are they working?</h2>
+</section>
+</section>
+<section id="conclusion" class="level1">
+<h1>Conclusion</h1>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

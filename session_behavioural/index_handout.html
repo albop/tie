@@ -1,0 +1,1294 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.4.549">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Pablo Winant">
+<meta name="dcterms.date" content="2024-02-12">
+
+<title>Topics in Economics - Introduction to Behavioral Economics</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="../styles.css">
+</head>
+
+<body>
+
+<div id="quarto-search-results"></div>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#section" id="toc-section" class="nav-link active" data-scroll-target="#section"></a></li>
+  <li><a href="#behavioural-economics" id="toc-behavioural-economics" class="nav-link" data-scroll-target="#behavioural-economics">Behavioural Economics</a>
+  <ul class="collapse">
+  <li><a href="#behavioural-economics-1" id="toc-behavioural-economics-1" class="nav-link" data-scroll-target="#behavioural-economics-1">Behavioural Economics</a></li>
+  <li><a href="#behavioural-economists" id="toc-behavioural-economists" class="nav-link" data-scroll-target="#behavioural-economists">Behavioural Economists</a></li>
+  <li><a href="#the-lab" id="toc-the-lab" class="nav-link" data-scroll-target="#the-lab">The lab</a></li>
+  <li><a href="#experiments" id="toc-experiments" class="nav-link" data-scroll-target="#experiments">Experiments</a></li>
+  <li><a href="#the-marshmallow-experiment" id="toc-the-marshmallow-experiment" class="nav-link" data-scroll-target="#the-marshmallow-experiment">The Marshmallow Experiment</a>
+  <ul class="collapse">
+  <li><a href="#instant-gratification" id="toc-instant-gratification" class="nav-link" data-scroll-target="#instant-gratification">Instant Gratification</a></li>
+  </ul></li>
+  </ul></li>
+  <li><a href="#deviations-from-rationality" id="toc-deviations-from-rationality" class="nav-link" data-scroll-target="#deviations-from-rationality">Deviations from rationality</a>
+  <ul class="collapse">
+  <li><a href="#the-neo-classical-view" id="toc-the-neo-classical-view" class="nav-link" data-scroll-target="#the-neo-classical-view">The (neo)-classical view</a></li>
+  <li><a href="#the-ultimatum-game" id="toc-the-ultimatum-game" class="nav-link" data-scroll-target="#the-ultimatum-game">The ultimatum game</a></li>
+  <li><a href="#section-1" id="toc-section-1" class="nav-link" data-scroll-target="#section-1"></a></li>
+  <li><a href="#section-2" id="toc-section-2" class="nav-link" data-scroll-target="#section-2"></a></li>
+  <li><a href="#section-3" id="toc-section-3" class="nav-link" data-scroll-target="#section-3"></a></li>
+  <li><a href="#section-4" id="toc-section-4" class="nav-link" data-scroll-target="#section-4"></a></li>
+  <li><a href="#the-ultimatum-game-measuring-shame" id="toc-the-ultimatum-game-measuring-shame" class="nav-link" data-scroll-target="#the-ultimatum-game-measuring-shame">The ultimatum game: measuring shame</a></li>
+  <li><a href="#reflection-effect-or-loss-aversion" id="toc-reflection-effect-or-loss-aversion" class="nav-link" data-scroll-target="#reflection-effect-or-loss-aversion">Reflection Effect or Loss Aversion</a></li>
+  <li><a href="#the-certainty-effect-the-allais-paradox" id="toc-the-certainty-effect-the-allais-paradox" class="nav-link" data-scroll-target="#the-certainty-effect-the-allais-paradox">The Certainty effect / The Allais paradox</a></li>
+  <li><a href="#expected-utility" id="toc-expected-utility" class="nav-link" data-scroll-target="#expected-utility">Expected utility</a></li>
+  <li><a href="#prospect-theory" id="toc-prospect-theory" class="nav-link" data-scroll-target="#prospect-theory">Prospect theory</a></li>
+  </ul></li>
+  <li><a href="#some-behavioural-anomalies" id="toc-some-behavioural-anomalies" class="nav-link" data-scroll-target="#some-behavioural-anomalies">Some Behavioural Anomalies</a>
+  <ul class="collapse">
+  <li><a href="#behavioural-anomalies" id="toc-behavioural-anomalies" class="nav-link" data-scroll-target="#behavioural-anomalies">Behavioural anomalies</a></li>
+  <li><a href="#section-5" id="toc-section-5" class="nav-link" data-scroll-target="#section-5"></a></li>
+  <li><a href="#section-6" id="toc-section-6" class="nav-link" data-scroll-target="#section-6"></a></li>
+  <li><a href="#section-7" id="toc-section-7" class="nav-link" data-scroll-target="#section-7"></a></li>
+  <li><a href="#section-8" id="toc-section-8" class="nav-link" data-scroll-target="#section-8"></a></li>
+  <li><a href="#section-9" id="toc-section-9" class="nav-link" data-scroll-target="#section-9"></a></li>
+  <li><a href="#section-10" id="toc-section-10" class="nav-link" data-scroll-target="#section-10"></a></li>
+  <li><a href="#section-11" id="toc-section-11" class="nav-link" data-scroll-target="#section-11"></a></li>
+  <li><a href="#section-12" id="toc-section-12" class="nav-link" data-scroll-target="#section-12"></a></li>
+  <li><a href="#section-13" id="toc-section-13" class="nav-link" data-scroll-target="#section-13"></a></li>
+  <li><a href="#section-14" id="toc-section-14" class="nav-link" data-scroll-target="#section-14"></a>
+  <ul class="collapse">
+  <li><a href="#question" id="toc-question" class="nav-link" data-scroll-target="#question">Question:</a></li>
+  </ul></li>
+  <li><a href="#section-15" id="toc-section-15" class="nav-link" data-scroll-target="#section-15"></a></li>
+  <li><a href="#section-16" id="toc-section-16" class="nav-link" data-scroll-target="#section-16"></a></li>
+  <li><a href="#section-17" id="toc-section-17" class="nav-link" data-scroll-target="#section-17"></a></li>
+  </ul></li>
+  <li><a href="#conclusion" id="toc-conclusion" class="nav-link" data-scroll-target="#conclusion">Conclusion</a>
+  <ul class="collapse">
+  <li><a href="#conclusion-1" id="toc-conclusion-1" class="nav-link" data-scroll-target="#conclusion-1">Conclusion</a></li>
+  <li><a href="#nudges" id="toc-nudges" class="nav-link" data-scroll-target="#nudges">Nudges</a></li>
+  </ul></li>
+  </ul>
+<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="index.html"><i class="bi bi-file-slides"></i>RevealJS</a></li></ul></div></nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Introduction to Behavioral Economics</h1>
+<p class="subtitle lead">Topics in Economics, ESCP, 2023-2024</p>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Pablo Winant </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">February 12, 2024</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="section" class="level2">
+<h2 class="anchored" data-anchor-id="section"></h2>
+<iframe width="1120" height="630" src="https://app.wooclap.com/events/IJBNSY/0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" class="stretch" allowfullscreen="">
+</iframe>
+</section>
+<section id="behavioural-economics" class="level1">
+<h1>Behavioural Economics</h1>
+<section id="behavioural-economics-1" class="level2">
+<h2 class="anchored" data-anchor-id="behavioural-economics-1">Behavioural Economics</h2>
+<p><em>Behavioral economics combines elements of economics and psychology to understand how and why people behave the way they do in the real world. It differs from neoclassical economics, which assumes that most people have well-defined preferences and make well-informed, self-interested decisions based on those preferences.</em> (<a href="https://news.uchicago.edu/explainer/what-is-behavioral-economics">intro from university of Chicago</a>)</p>
+</section>
+<section id="behavioural-economists" class="level2">
+<h2 class="anchored" data-anchor-id="behavioural-economists">Behavioural Economists</h2>
+<div class="r-stack">
+<div class="fragment current-visible">
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="3">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/tversky.jpg" class="img-fluid figure-img" style="width:100.0%"></p>
+<figcaption>Amon Tversky</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/kahneman.jpg" class="img-fluid figure-img" style="width:100.0%"></p>
+<figcaption>Daniel Kahneman</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/thaler.jpg" class="img-fluid figure-img" style="width:100.0%"></p>
+<figcaption>Richard Thaler</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fragment current-visible">
+<ul>
+<li>identify <em>actual</em> patterns in agent’s decisions
+<ul>
+<li>measured as deviations to idealized, rational, utility-maximizing economic behaviour</li>
+</ul></li>
+<li>develop theories that can, consistently predict these patterns</li>
+<li>patterns and theories are tested empirically in labs</li>
+</ul>
+</div>
+<div class="fragment current-visible">
+<p><img src="assets/Thinking,_Fast_and_Slow.jpg" class="img-fluid"></p>
+<p>Good introduction: <em>Thinking Fast and Slow</em></p>
+</div>
+</div>
+</section>
+<section id="the-lab" class="level2">
+<h2 class="anchored" data-anchor-id="the-lab">The lab</h2>
+<p><img src="assets/lab1.jpg" width="30%"> <img src="assets/lab2.png" width="30%"></p>
+<p>Behavioural economists recruit participants for their experiments.</p>
+<ul>
+<li>they perform some specific tasks or play a specifically designed game</li>
+<li>they are usually paid and incentivized (skin in the game)</li>
+</ul>
+</section>
+<section id="experiments" class="level2">
+<h2 class="anchored" data-anchor-id="experiments">Experiments</h2>
+<ul>
+<li>experiments try to recreate conditions so as to expose specific features of human choices</li>
+<li>usually <em>one</em> determinant of choice is randomized so as to measure its effect cleanly</li>
+<li>more participants lead to better results (if representative)</li>
+</ul>
+</section>
+<section id="the-marshmallow-experiment" class="level2">
+<h2 class="anchored" data-anchor-id="the-marshmallow-experiment">The Marshmallow Experiment</h2>
+<section id="instant-gratification" class="level3">
+<h3 class="anchored" data-anchor-id="instant-gratification">Instant Gratification</h3>
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/QX_oy9614HQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" class="stretch" allowfullscreen="">
+</iframe>
+</section>
+</section>
+</section>
+<section id="deviations-from-rationality" class="level1">
+<h1>Deviations from rationality</h1>
+<section id="the-neo-classical-view" class="level2">
+<h2 class="anchored" data-anchor-id="the-neo-classical-view">The (neo)-classical view</h2>
+<ul>
+<li>Agents are perfectly rational…
+<ul>
+<li>they don’t make errors</li>
+</ul></li>
+<li>…and pursue their self interest
+<ul>
+<li>specified by preferences</li>
+</ul></li>
+</ul>
+<p><span class="math display">\[\max_{x} U(x)\]</span></p>
+</section>
+<section id="the-ultimatum-game" class="level2">
+<h2 class="anchored" data-anchor-id="the-ultimatum-game">The ultimatum game</h2>
+<div class="center">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/ultimatum.jpeg" class="img-fluid figure-img" style="width:60.0%"></p>
+<figcaption>Split the Bill</figcaption>
+</figure>
+</div>
+</div>
+</section>
+<section id="section-1" class="level2">
+<h2 class="anchored" data-anchor-id="section-1"></h2>
+<p><strong>Setup</strong></p>
+<p>Two players negotiate over a fixed amount of money (the pie):</p>
+<ul>
+<li>player 1 demands a proportion of the pie</li>
+<li>player 2 sees the size and player’s 1 demand and either rejects or accepts it
+<ul>
+<li>accept: split is implemented</li>
+<li>reject: both players get 0</li>
+</ul></li>
+</ul>
+</section>
+<section id="section-2" class="level2" data-auto-animate="true">
+<h2 data-auto-animate="true" class="anchored" data-anchor-id="section-2"></h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/ultimatum.png" class="img-fluid figure-img"></p>
+<figcaption>Results</figcaption>
+</figure>
+</div>
+</section>
+<section id="section-3" class="level2" data-auto-animate="true">
+<h2 data-auto-animate="true" class="anchored" data-anchor-id="section-3"></h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/ultimatum.png" class="img-fluid figure-img" style="width:60.0%"></p>
+<figcaption>Results</figcaption>
+</figure>
+</div>
+<ul>
+<li>hundreds of papers since original one by Guth et al.</li>
+<li>consistent results: average offer is 40%, offers below 20% have high chances to be rejected, lots of 50-50</li>
+<li>note that the “rational choice” for both agents would be 99-1!</li>
+<li>it is an example of <strong>other regarding preferences</strong> (aka altruism)</li>
+</ul>
+</section>
+<section id="section-4" class="level2">
+<h2 class="anchored" data-anchor-id="section-4"></h2>
+<p>What determines the split? What influences altruism?</p>
+<p>. . .</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/dilbert.gif" class="img-fluid figure-img"></p>
+<figcaption>altruism</figcaption>
+</figure>
+</div>
+<p>. . .</p>
+<p>Can you devise an experiment to measure the effect of “shame”?</p>
+</section>
+<section id="the-ultimatum-game-measuring-shame" class="level2">
+<h2 class="anchored" data-anchor-id="the-ultimatum-game-measuring-shame">The ultimatum game: measuring shame</h2>
+<p>Improved protocol</p>
+<ul>
+<li>for half of the candidates, exactly as before (<em>control group</em>)</li>
+<li>for the other half (<em>treatment group</em>), the two players, don’t see each other don’t have any contact. Only the demand from player one is communicated to player 2.</li>
+</ul>
+<p>Result:</p>
+<ul>
+<li>-&gt; players are less generous but the result holds</li>
+</ul>
+</section>
+<section id="reflection-effect-or-loss-aversion" class="level2">
+<h2 class="anchored" data-anchor-id="reflection-effect-or-loss-aversion">Reflection Effect or Loss Aversion</h2>
+<div class="columns">
+<div class="column">
+<p><img src="assets/loss_aversion.PNG" class="img-fluid"></p>
+</div><div class="column">
+<div class="r-stack">
+<div class="fragment current-visible">
+<p><strong>Result</strong> from literature</p>
+<ul>
+<li>first lottery: 92% chose B</li>
+<li>second lottery: 80% chose A</li>
+</ul>
+</div>
+<div class="fragment current-visible">
+<p><strong>Intepretation</strong>:</p>
+<ul>
+<li>agents are risk-seekers when it is about loosing money</li>
+<li>agents are risk-averse when it is about winning money</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="the-certainty-effect-the-allais-paradox" class="level2">
+<h2 class="anchored" data-anchor-id="the-certainty-effect-the-allais-paradox">The Certainty effect / The Allais paradox</h2>
+<div class="columns">
+<div class="column">
+<p><img src="assets/certainty_effect.PNG" class="img-fluid"></p>
+</div><div class="column">
+<div class="r-stack">
+<div class="fragment current-visible">
+<p><strong>Result</strong> from literature</p>
+<ul>
+<li>first lottery: most people choose A</li>
+<li>second lottery: most people choose B</li>
+</ul>
+</div>
+<div class="fragment current-visible">
+<p><strong>Intepretation</strong>: people underweigh outcomes that are merely probable compared to those that are certain</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="expected-utility" class="level2">
+<h2 class="anchored" data-anchor-id="expected-utility">Expected utility</h2>
+<ul>
+<li>Expected utility framework
+<ul>
+<li>simple assumptions on people’s preferences</li>
+<li>agents maximize <span class="math inline">\(U(x)\)</span> where <span class="math inline">\(U\)</span> is increasing and concave</li>
+<li>standard in economics and finance</li>
+</ul></li>
+<li>Concavity implies that agents are risk agents are risk averse</li>
+</ul>
+</section>
+<section id="prospect-theory" class="level2">
+<h2 class="anchored" data-anchor-id="prospect-theory">Prospect theory</h2>
+<div class="columns">
+<div class="column">
+<p><img src="assets/prospect.webp" class="img-fluid"></p>
+</div><div class="column">
+<ul>
+<li>Prospect<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> theory was proposed by <em>Kahneman and Tversky in 1979</em></li>
+<li>Attempts to describe realistically how humans evaluate losses and gains</li>
+</ul>
+</div>
+</div>
+</section>
+</section>
+<section id="some-behavioural-anomalies" class="level1">
+<h1>Some Behavioural Anomalies</h1>
+<section id="behavioural-anomalies" class="level2">
+<h2 class="anchored" data-anchor-id="behavioural-anomalies">Behavioural anomalies</h2>
+<p>We classically distinguish two kinds of behavioural anomalies</p>
+<ul>
+<li>predisposition towards error</li>
+<li>mental shortcuts (aka <strong>heuristics</strong>)</li>
+</ul>
+<p>They have been studied by psychologists for a while</p>
+<ul>
+<li>And are being revisited systematically by economists/psychologists</li>
+<li>…following the “replication crisis”<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a></li>
+</ul>
+</section>
+<section id="section-5" class="level2 smaller">
+<h2 class="smaller anchored" data-anchor-id="section-5"></h2>
+<p><strong>Instructions</strong>: You are vice president of product development and are evaluating 8 new product proposals. You have asked two people from R&amp;D (in whom you have equal confidence) to give independent forecasts of the R&amp;D <strong>costs</strong>.</p>
+<table class="table">
+<thead>
+<tr class="header">
+<th>Project no.</th>
+<th>A’s forecast</th>
+<th>B’s forecast</th>
+<th>Your forecast</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>167,000</td>
+<td>272,000</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>274,000</td>
+<td>783,000</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>529,000</td>
+<td>433,000</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>357,000</td>
+<td>866,000</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>146,000</td>
+<td>659,000</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>937,000</td>
+<td>446,000</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td>906,000</td>
+<td>811,000</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td>483,000</td>
+<td>379,000</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="section-6" class="level2 smaller">
+<h2 class="smaller anchored" data-anchor-id="section-6"></h2>
+<table class="table">
+<colgroup>
+<col style="width: 15%">
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 18%">
+<col style="width: 12%">
+<col style="width: 20%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Project no.</th>
+<th>A’s forecast</th>
+<th>B’s forecast</th>
+<th>Your forecast</th>
+<th>Midpoint</th>
+<th>Median forecast</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>167,000</td>
+<td>272,000</td>
+<td></td>
+<td>219,500</td>
+<td>250,000</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>274,000</td>
+<td>783,000</td>
+<td></td>
+<td>528,500</td>
+<td>600,000</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>529,000</td>
+<td>433,000</td>
+<td></td>
+<td>481,000</td>
+<td>500,000</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>357,000</td>
+<td>866,000</td>
+<td></td>
+<td>611,500</td>
+<td>697,110</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>146,000</td>
+<td>659,000</td>
+<td></td>
+<td>402,500</td>
+<td>458,850</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>937,000</td>
+<td>446,000</td>
+<td></td>
+<td>691,500</td>
+<td>788,310</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td>906,000</td>
+<td>811,000</td>
+<td></td>
+<td>858,500</td>
+<td>875,000</td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td>483,000</td>
+<td>379,000</td>
+<td></td>
+<td>431,000</td>
+<td>450,000</td>
+</tr>
+</tbody>
+</table>
+<p>. . .</p>
+<div class="incremental">
+<ul class="incremental">
+<li>If A and B’s forecasts are unbiased, your best estimate would be the midpoint</li>
+<li>If your forecast is above the midpoint, you are implicitly assuming that R&amp;D personnel underestimate the costs</li>
+<li>The median forecast shows the typical response of MBA students with 10 years of executive experience: they have <strong>excessive optimism</strong>.</li>
+</ul>
+</div>
+</section>
+<section id="section-7" class="level2">
+<h2 class="anchored" data-anchor-id="section-7"></h2>
+<p>Compared to the rest of this group, how would you rate your driving skills?</p>
+<ul>
+<li>A. Above average</li>
+<li>B. Below average</li>
+</ul>
+<p>. . .</p>
+<div class="callout callout-style-default callout-important callout-titled" title="Over confidence">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Over confidence
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Overestimating our own abilities</p>
+</div>
+</div>
+</section>
+<section id="section-8" class="level2">
+<h2 class="anchored" data-anchor-id="section-8"></h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/bali.png" class="img-fluid figure-img"></p>
+<figcaption>Hindsight Bias</figcaption>
+</figure>
+</div>
+<p>. . .</p>
+<div class="callout callout-style-default callout-important callout-titled" title="Hindsight Bias">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Hindsight Bias
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>When you search for or interpret new information in a way that supports existing beliefs as opposed to challenge them.</p>
+</div>
+</div>
+<hr>
+</section>
+<section id="section-9" class="level2">
+<h2 class="anchored" data-anchor-id="section-9"></h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/riddle.jpg" class="img-fluid figure-img"></p>
+<figcaption>The Riddler</figcaption>
+</figure>
+</div>
+<p>. . .</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vKA4w2O61Xo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="">
+</iframe>
+</section>
+<section id="section-10" class="level2">
+<h2 class="anchored" data-anchor-id="section-10"></h2>
+<div class="r-stack">
+<div class="fragment current-visible">
+<p><strong>Setup</strong> (Study from Lord, Ross &amp; Leeper, 1979)</p>
+<div class="smaller">
+<p><em>48 undergraduates supporting and opposing capital punishment were exposed to 2 purported studies, one seemingly confirming and one seemingly disconfirming their existing beliefs about the deterrent efficacy of the death penalty. As predicted, both proponents and opponents of capital punishment rated those results and procedures that confirmed their own beliefs to be the more convincing and probative ones.</em></p>
+</div>
+</div>
+<div class="fragment">
+<p><strong>Result</strong></p>
+<div class="smaller">
+<p><em>Participants gave higher ratings to studies that confirmed their initial point of view even when studies on both sides had been carried out by the same method. In the end though everyone had read all the same studies, both those who initially supported the death penalty and those who initially opposed it reported that reading the studies had strengthened their beliefs</em>.</p>
+</div>
+</div>
+</div>
+<p>. . .</p>
+<div class="callout callout-style-default callout-important callout-titled" title="Confirmation Bias">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Confirmation Bias
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>When you search for or interpret new information in a way that supports existing beliefs as opposed to challenge them.</p>
+</div>
+</div>
+</section>
+<section id="section-11" class="level2">
+<h2 class="anchored" data-anchor-id="section-11"></h2>
+<div class="r-stack">
+<div class="fragment current-visible">
+<p><strong>Test</strong>:</p>
+<ul>
+<li>Write down 3 examples of successes that you have had</li>
+<li>Write down 3 examples of failures</li>
+<li>What were the causes of the success?</li>
+<li>What were the causes of the failures?</li>
+</ul>
+</div>
+<div class="fragment">
+<p><strong>Interpretation</strong></p>
+<div class="smaller">
+<ul>
+<li>Attribution bias <em>occurs when people attribute their success to skills, and their failures to randomness</em> (Taleb 2001)</li>
+<li>It is when we attribute praise/blame to the person rather than the situation. <em>However, successful people can also mistake hard work for luck. Timing can be important but so is developing the skills to be able to take opportunities when presented. After all, “the harder you practice, the luckier you get”</em> Gary Player</li>
+</ul>
+</div>
+</div>
+</div>
+<p>. . .</p>
+<div class="callout callout-style-default callout-important callout-titled" title="Attribution bias">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Attribution bias
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Overestimating how much control we have over events</p>
+</div>
+</div>
+</section>
+<section id="section-12" class="level2">
+<h2 class="anchored" data-anchor-id="section-12"></h2>
+<!-- TODO: Image -->
+<p><strong>Example</strong>:</p>
+<div class="incremental">
+<ul class="incremental">
+<li>People are given a mug worth 10$</li>
+<li>Then the opportunity to exchange it for pens worth 11$</li>
+<li>Most people don’t take the deal</li>
+</ul>
+</div>
+<p>. . .</p>
+<p>A striking <a href="https://twitter.com/businessinsider/status/1034762586938433536?s=11">example</a></p>
+<p>Do you see other examples? Implications</p>
+<p>. . .</p>
+<div class="callout callout-style-default callout-important callout-titled" title="Ownership Bias / Endowment Effect Heuristic">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Ownership Bias / Endowment Effect Heuristic
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>People place a higher valuation on an asset, purely by owning it.</p>
+</div>
+</div>
+</section>
+<section id="section-13" class="level2">
+<h2 class="anchored" data-anchor-id="section-13"></h2>
+<p><strong>Example</strong>: We tend to think that footballers make more money than dentists, but only because we don’t see the failures (there’s a selection bias)</p>
+<ul>
+<li>Dentistry is a more lucrative profession since it maximises your expected income across all alternative histories</li>
+<li><em>One cannot consider a profession without taking into account the average of the people who enter it, not the sample of those who succeed</em> Taleb (2001)</li>
+</ul>
+<div class="callout callout-style-default callout-important callout-titled" title="Availability Heuristic">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Availability Heuristic
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Judgement based on the ease with which instances come to mind</p>
+</div>
+</div>
+</section>
+<section id="section-14" class="level2">
+<h2 class="anchored" data-anchor-id="section-14"></h2>
+<section id="question" class="level3">
+<h3 class="anchored" data-anchor-id="question">Question:</h3>
+<p>What percentage of members of the United Nations are countries in Africa?</p>
+</section>
+</section>
+<section id="section-15" class="level2">
+<h2 class="anchored" data-anchor-id="section-15"></h2>
+<div class="r-stack">
+<div class="fragment current-visible">
+<p><strong>Experiment</strong>:</p>
+<ul>
+<li><!-- .element: class="fragment" -->
+Show a number: e.g.&nbsp;65</li>
+<li><!-- .element: class="fragment" -->
+Ask participants: “What percentage of members of the United Nations are countries in Africa?”</li>
+</ul>
+</div>
+<div class="fragment">
+<p><strong>Result</strong></p>
+<ul>
+<li>People who saw a 10 had an average guess of 25%</li>
+<li>People who saw a 65 had an average guess of 45%</li>
+<li>Correct answer: 28%. There are 54 African countries, and 192 UN member states</li>
+</ul>
+</div>
+</div>
+<p>. . .</p>
+<div class="callout callout-style-default callout-important callout-titled" title="Anchoring Heuristic">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Anchoring Heuristic
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Viewing things in relation to an irrelevant comparison point</p>
+</div>
+</div>
+<div class="notes">
+<p>Don’t forget to add 65 on the board before.</p>
+</div>
+</section>
+<section id="section-16" class="level2">
+<h2 class="anchored" data-anchor-id="section-16"></h2>
+<p><img src="assets/oil_spill.jpg" class="img-fluid"></p>
+<p>How oil spills harm birds, dolphins, sea lions and other wildlife</p>
+</section>
+<section id="section-17" class="level2">
+<h2 class="anchored" data-anchor-id="section-17"></h2>
+<p><strong>Example</strong>: Following the Exxon Valdez oil spill, people were asked how much they were willing to pay for equipment that would do the following:</p>
+<ul>
+<li>Save 2,000 birds: <span class="fragment data-fragment-index=2"> $80 </span></li>
+<li>Save 20,000 birds: <span class="fragment data-fragment-index=3"> $78 </span></li>
+<li>Save 200,000 birds: <span class="fragment data-fragment-index=4"> $88 </span></li>
+</ul>
+<p>. . .</p>
+<p>The almost complete neglect of quantities in such <em>emotional contexts</em> has been confirmed many times</p>
+<p>. . .</p>
+<div class="callout callout-style-default callout-important callout-titled" title="Affect Heuristic">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Affect Heuristic
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Definition</strong>: Over-reliance on our immediate emotional reaction</p>
+</div>
+</div>
+</section>
+</section>
+<section id="conclusion" class="level1">
+<h1>Conclusion</h1>
+<section id="conclusion-1" class="level2">
+<h2 class="anchored" data-anchor-id="conclusion-1">Conclusion</h2>
+<p>So we know that people deviate from rationality in many ways that can be measured and / or related to theory.</p>
+<p>. . .</p>
+<p>Policy-makers can exploit the knowledge to design better policies.</p>
+</section>
+<section id="nudges" class="level2">
+<h2 class="anchored" data-anchor-id="nudges">Nudges</h2>
+<p>A <em>nudge</em> is a way to change agent’s decision by changing the decision context, without changing the preferences or the constraints in a meaningful way.</p>
+<p>. . .</p>
+<p>In principle one could use nudges as an alternative to traditional incentives in order to favour green behaviour:</p>
+<p>. . .</p>
+<ul>
+<li>Does it work?</li>
+<li>Is it ethical?</li>
+</ul>
+<p>. . .</p>
+<p>To be discussed in the next session…</p>
+<p>👉 Read the <a href="session_nudges/assets/196185119.pdf">working paper</a> <em>Nudging as an Environmental Policy</em></p>
+
+
+</section>
+</section>
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p><em>Prospect</em> is a close synonym for <em>gamble</em><a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p>for details, see the (excellent) video from <a href="https://www.youtube.com/watch?v=42QuXLucH3Q">veritasium</a><a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

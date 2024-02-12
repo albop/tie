@@ -315,6 +315,349 @@
     "text": "More Readings\n\nChad Jones and Christopher Tonetti: Nonrivalry and the Economics of Data, American Economic Review\nAvi GoldFarb: Prediction Machines: The Simple Economics of Artificial Intelligence 2018\nGilles Saint Paul: Robots Vers la fin du travail ?\nAnton Korinek, Joseph E. Stiglitz: Artificial Intelligence and Its Implications for Income Distribution and Unemployment, chapter in Artificial Intelligence and Its Implications …, NBER\n\nalso on coursera"
   },
   {
+    "objectID": "session_nudges/index_handout.html",
+    "href": "session_nudges/index_handout.html",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Come back later!."
+  },
+  {
+    "objectID": "session_nudges/prep.html",
+    "href": "session_nudges/prep.html",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Economic consensus: agents respond to incentives\nTwo versions:\nFully Rational / Limited Rationality / Rational Inattention\nBehavioural World: systematic deviations from rationality\n\n\n\nOeconomic Rational\n\nmodify the system to provide the right incentives\nfirst best: tax carbon\notherwise: modify constraints to make carbon de facto more expensive\n\nexamples\n\n\nShould work well for rational agents: especially firms…\n\n\n\n\ndirectly affect people’s decision context to affect their behaviour\n\n\n\n\n…/.\n\na nudge: a cheap, …\n\n\n\n\n\n\n\n\nSecond column\n\n\n\n\n\n\n\nFist Column"
+  },
+  {
+    "objectID": "session_nudges/prep.html#reminder",
+    "href": "session_nudges/prep.html#reminder",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Economic consensus: agents respond to incentives\nTwo versions:\nFully Rational / Limited Rationality / Rational Inattention\nBehavioural World: systematic deviations from rationality"
+  },
+  {
+    "objectID": "session_nudges/prep.html#carbon-tax",
+    "href": "session_nudges/prep.html#carbon-tax",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Oeconomic Rational\n\nmodify the system to provide the right incentives\nfirst best: tax carbon\notherwise: modify constraints to make carbon de facto more expensive\n\nexamples\n\n\nShould work well for rational agents: especially firms…"
+  },
+  {
+    "objectID": "session_nudges/prep.html#another-perspective",
+    "href": "session_nudges/prep.html#another-perspective",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "directly affect people’s decision context to affect their behaviour"
+  },
+  {
+    "objectID": "session_nudges/prep.html#examples",
+    "href": "session_nudges/prep.html#examples",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "…/.\n\na nudge: a cheap, …"
+  },
+  {
+    "objectID": "session_nudges/prep.html#examples-1",
+    "href": "session_nudges/prep.html#examples-1",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Second column"
+  },
+  {
+    "objectID": "session_nudges/prep.html#examples-2",
+    "href": "session_nudges/prep.html#examples-2",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Fist Column"
+  },
+  {
+    "objectID": "session_nudges/prep.html#system-1-vs-system-2",
+    "href": "session_nudges/prep.html#system-1-vs-system-2",
+    "title": "Green Nudges",
+    "section": "System 1 vs System 2",
+    "text": "System 1 vs System 2"
+  },
+  {
+    "objectID": "session_nudges/prep.html#incentives-vs-nudges",
+    "href": "session_nudges/prep.html#incentives-vs-nudges",
+    "title": "Green Nudges",
+    "section": "Incentives vs Nudges",
+    "text": "Incentives vs Nudges"
+  },
+  {
+    "objectID": "session_nudges/prep.html#the-neo-classical-view",
+    "href": "session_nudges/prep.html#the-neo-classical-view",
+    "title": "Green Nudges",
+    "section": "The (neo)-classical view",
+    "text": "The (neo)-classical view\n\nAgents are perfectly rational…\n\nthey don’t make errors\n\n…and pursue their self interest\n\nthey are selfish"
+  },
+  {
+    "objectID": "session_nudges/prep.html#the-ultimatum-game",
+    "href": "session_nudges/prep.html#the-ultimatum-game",
+    "title": "Green Nudges",
+    "section": "The ultimatum game",
+    "text": "The ultimatum game\n\n\n\n\nSplit the Bill"
+  },
+  {
+    "objectID": "session_nudges/prep.html#section",
+    "href": "session_nudges/prep.html#section",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "[TODO] graph of the protocol\nSetup\nTwo players negotiate over a fixed amount of money (the pie):\n\nplayer 1 demands a proportion of the pie\nplayer 2 sees the size and player’s 1 demand and either rejects or accepts it\n\naccept: split is implemented\nreject: both players get 0"
+  },
+  {
+    "objectID": "session_nudges/prep.html#section-1",
+    "href": "session_nudges/prep.html#section-1",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Results"
+  },
+  {
+    "objectID": "session_nudges/prep.html#section-2",
+    "href": "session_nudges/prep.html#section-2",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Results\n\n\n\nhundreds of papers since original one by Guth et al.\nconsistent results: average offer is 40%, offers below 20% have high chances to be rejected, lots of 50-50\nnote that the “rational choice” for both agents would be 99-1!\nit is an example of other regarding preferences (aka altruism)"
+  },
+  {
+    "objectID": "session_nudges/prep.html#section-3",
+    "href": "session_nudges/prep.html#section-3",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "What determines the split? What influences altruism?\n. . .\n\n\n\naltruism\n\n\n. . .\nCan you devise an experiment to measure the effect of “shame”?"
+  },
+  {
+    "objectID": "session_nudges/prep.html#the-ultimatum-game-measuring-shame",
+    "href": "session_nudges/prep.html#the-ultimatum-game-measuring-shame",
+    "title": "Green Nudges",
+    "section": "The ultimatum game: measuring shame",
+    "text": "The ultimatum game: measuring shame\nImproved protocol\n\nfor half of the candidates, exactly as before (control group)\nfor the other half (treatment group), the two players, don’t see each other don’t have any contact. Only the demand from player one is communicated to player 2.\n\nResult:\n\n-&gt; players are less generous but the result holds"
+  },
+  {
+    "objectID": "session_nudges/prep.html#reflection-effect-or-loss-aversion",
+    "href": "session_nudges/prep.html#reflection-effect-or-loss-aversion",
+    "title": "Green Nudges",
+    "section": "Reflection Effect or Loss Aversion",
+    "text": "Reflection Effect or Loss Aversion\n\n\nResult from literature\n\nfirst lottery: 92% chose B\nsecond lottery: 80% chose A\n\nIntepretation:\n\nagents are risk-seekers when it is about loosing money\nagents are risk-averse when it is about winning money"
+  },
+  {
+    "objectID": "session_nudges/prep.html#the-certainty-effect-the-allais-paradox",
+    "href": "session_nudges/prep.html#the-certainty-effect-the-allais-paradox",
+    "title": "Green Nudges",
+    "section": "The Certainty effect / The Allais paradox",
+    "text": "The Certainty effect / The Allais paradox\n\n\nResult from literature\n\nfirst lottery: most people choose A\nsecond lottery: most people choose B\n\nIntepretation: people underweigh outcomes that are merely probable compared to those that are certain"
+  },
+  {
+    "objectID": "session_nudges/prep.html#expected-utility",
+    "href": "session_nudges/prep.html#expected-utility",
+    "title": "Green Nudges",
+    "section": "Expected utility",
+    "text": "Expected utility\n\nExpected utility framework\n\nsimple assumptions on people’s preferences\nagents maximize \\(U(x)\\) where \\(U\\) is increasing and concave\nstandard in economics and finance\n\nConcavity implies that agents are risk agents are risk averse"
+  },
+  {
+    "objectID": "session_nudges/prep.html#prospect-theory",
+    "href": "session_nudges/prep.html#prospect-theory",
+    "title": "Green Nudges",
+    "section": "Prospect theory",
+    "text": "Prospect theory\n\n\n\n\n\nProspect theory was proposed by Kahneman and Tversky in 1979\nAttempts to describe realistically how humans evaluate losses and gains\nProspect is a close synonym for gamble"
+  },
+  {
+    "objectID": "session_nudges/prep.html#behavioural-anomalies",
+    "href": "session_nudges/prep.html#behavioural-anomalies",
+    "title": "Green Nudges",
+    "section": "Behavioural anomalies",
+    "text": "Behavioural anomalies\nWe classically distinguish two kinds of behavioural anomalies\n\npredisposition towards error\nmental shortcuts (aka heuristics)\n\nThey have been studied by psychologists for a while\n\nAnd are being revisited systematically by economists/psychologists\n…following the “replication crisis”"
+  },
+  {
+    "objectID": "session_nudges/prep.html#section-4",
+    "href": "session_nudges/prep.html#section-4",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "The Riddler"
+  },
+  {
+    "objectID": "session_nudges/prep.html#section-5",
+    "href": "session_nudges/prep.html#section-5",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Setup (Study from Lord, Ross & Leeper, 1979)\n48 undergraduates supporting and opposing capital punishment were exposed to 2 purported studies, one seemingly confirming and one seemingly disconfirming their existing beliefs about the deterrent efficacy of the death penalty. As predicted, both proponents and opponents of capital punishment rated those results and procedures that confirmed their own beliefs to be the more convincing and probative ones.\n\n\nResult\nParticipants gave higher ratings to studies that confirmed their initial point of view even when studies on both sides had been carried out by the same method. In the end though everyone had read all the same studies, both those who initially supported the death penalty and those who initially opposed it reported that reading the studies had strengthened their beliefs.\n\n\n. . .\n\n\n\n\n\n\nConfirmation Bias\n\n\n\nWhen you search for or interpret new information in a way that supports existing beliefs as opposed to challenge them."
+  },
+  {
+    "objectID": "session_nudges/prep.html#section-6",
+    "href": "session_nudges/prep.html#section-6",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Test:\n\nWrite down 3 examples of successes that you have had\nWrite down 3 examples of failures\nWhat were the causes of the success?\nWhat were the causes of the failures?\n\n\n\nInterpretation\n\nAttribution bias occurs when people attribute their success to skills, and their failures to randomness (Taleb 2001)\nIt is when we attribute praise/blame to the person rather than the situation. However, successful people can also mistake hard work for luck. Timing can be important but so is developing the skills to be able to take opportunities when presented. After all, “the harder you practice, the luckier you get” Gary Player\n\n\n\n. . .\n\n\n\n\n\n\nAttribution bias\n\n\n\nOverestimating how much control we have over events"
+  },
+  {
+    "objectID": "session_nudges/prep.html#section-7",
+    "href": "session_nudges/prep.html#section-7",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Example:\n\n\nPeople are given a mug worth 10$\nThen the opportunity to exchange it for pens worth 11$\nMost people don’t take the deal\n\n\nA striking example\nDo you see other examples? Implications\n. . .\n\n\n\n\n\n\nOwnership Bias / Endowment Effect Heuristic\n\n\n\nPeople place a higher valuation on an asset, purely by owning it."
+  },
+  {
+    "objectID": "session_nudges/prep.html#section-8",
+    "href": "session_nudges/prep.html#section-8",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Example: We tend to think that footballers make more money than dentists, but only because we don’t see the failures (there’s a selection bias)\n\nDentistry is a more lucrative profession since it maximises your expected income across all alternative histories\nOne cannot consider a profession without taking into account the average of the people who enter it, not the sample of those who succeed Taleb (2001)\n\n\n\n\n\n\n\nAvailability Heuristic\n\n\n\nJudgement based on the ease with which instances come to mind"
+  },
+  {
+    "objectID": "session_nudges/prep.html#section-9",
+    "href": "session_nudges/prep.html#section-9",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Question:\nWhat percentage of members of the United Nations are countries in Africa?"
+  },
+  {
+    "objectID": "session_nudges/prep.html#section-10",
+    "href": "session_nudges/prep.html#section-10",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Experiment:\n\n\nShow a number: e.g. 65\n\nAsk participants: “What percentage of members of the United Nations are countries in Africa?”\n\n\n\nResult\n\nPeople who saw a 10 had an average guess of 25%\nPeople who saw a 65 had an average guess of 45%\nCorrect answer: 28%. There are 54 African countries, and 192 UN member states\n\n\n\n. . .\n\n\n\n\n\n\nAnchoring Heuristic\n\n\n\nViewing things in relation to an irrelevant comparison point\n\n\n\nDon’t forget to add 65 on the board before."
+  },
+  {
+    "objectID": "session_nudges/prep.html#section-11",
+    "href": "session_nudges/prep.html#section-11",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "How oil spills harm birds, dolphins, sea lions and other wildlife"
+  },
+  {
+    "objectID": "session_nudges/prep.html#section-12",
+    "href": "session_nudges/prep.html#section-12",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Example: Following the Exxon Valdez oil spill, people were asked how much they were willing to pay for equipment that would do the following:\n\nSave 2,000 birds:  $80 \nSave 20,000 birds:  $78 \nSave 200,000 birds:  $88 \n\n. . .\nThe almost complete neglect of quantities in such emotional contexts has been confirmed many times\n. . .\n\n\n\n\n\n\nAffect Heuristic\n\n\n\nDefinition: Over-reliance on our immediate emotional reaction"
+  },
+  {
+    "objectID": "session_nudges/prep.html#section-13",
+    "href": "session_nudges/prep.html#section-13",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "TODO: List of behaviour effects:"
+  },
+  {
+    "objectID": "session_nudges/prep.html#section-14",
+    "href": "session_nudges/prep.html#section-14",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Nudge (economic definition)\n\n\n\nA nudge is defined as a change in the decision environment that influcences people’s behavior without prohibiting any choices or significantly changing the economic incentives\nfrom Thaler and Sunstein, 2009"
+  },
+  {
+    "objectID": "session_nudges/prep.html#section-15",
+    "href": "session_nudges/prep.html#section-15",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Originally, the role of nudges was to counteract poor choices made by individuals, in areas such as personal savings and health\nTraditional: improve welfare of agents: a behavioral solution to a behavioral problem.\nGreen nudge: influence people’s behavior, through changes in the choice architecture, in order to reduce negative externalities: a behavioral solution to a traditional economic problem."
+  },
+  {
+    "objectID": "session_nudges/prep.html#classification",
+    "href": "session_nudges/prep.html#classification",
+    "title": "Green Nudges",
+    "section": "Classification",
+    "text": "Classification"
+  },
+  {
+    "objectID": "session_nudges/prep.html#cognitive-nudges",
+    "href": "session_nudges/prep.html#cognitive-nudges",
+    "title": "Green Nudges",
+    "section": "Cognitive Nudges",
+    "text": "Cognitive Nudges\nCognitive nudges: correct for bounded rationality, inattention of self-control. Make it easier to “do the right thing”.\nFor instance, help individuals with self-control problems, present-bias….\nExample of cognitive self-focused nudges: put healthy food at the top of a restaurant menu.\nExample of cognitive green nudge: does not assume that individuals make poor choices for themselves because of bounded rationality. But it workds because individuals have cognitive or self control limitations.\nbounded rationality or self-control could lead an individual defaulted into a green tariff to stick with the new socially desirable default."
+  },
+  {
+    "objectID": "session_nudges/prep.html#moral-nudges",
+    "href": "session_nudges/prep.html#moral-nudges",
+    "title": "Green Nudges",
+    "section": "Moral Nudges",
+    "text": "Moral Nudges\nA moral nudge draws on people’s social preferences, their desire for status, to follow norms or to have a positive self-image. The nudge rewards “doing the right thing” by providing the individual with moral (dis)utility."
+  },
+  {
+    "objectID": "session_nudges/prep.html#compare-with-the-neoclassical-agent",
+    "href": "session_nudges/prep.html#compare-with-the-neoclassical-agent",
+    "title": "Green Nudges",
+    "section": "Compare with the neoclassical agent",
+    "text": "Compare with the neoclassical agent\nCognitive Nudge: help agent solve optimization Moral Nudge: affects agents preferences"
+  },
+  {
+    "objectID": "session_nudges/prep.html#section-16",
+    "href": "session_nudges/prep.html#section-16",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Nudge Type\nExample\n\n\n\n\nDefaults\nIf I manage to summarize that in a few words, will that fit?\n\n\nSimplification of information and salience\n\n\n\nChanges in physical environment\n\n\n\nReminders\n\n\n\nSocial comparison\n\n\n\nNormative appeal and peer pressure\n\n\n\nCommitment and goal Setting"
+  },
+  {
+    "objectID": "session_nudges/prep.html#defaults",
+    "href": "session_nudges/prep.html#defaults",
+    "title": "Green Nudges",
+    "section": "Defaults",
+    "text": "Defaults\nThe default effect refers to the tendency of people to stick with an alternative already chosen by someone else, even when the cost of making an active choice is very small.\nWhy does it work?\n\n\npeople interpret the default as a suggestion from someone better informed\nlowers the cost of a decision (from no-decision to the default)\nloss aversion or status quo bias make people stay with the default\n\n\nThermostat story: lower standard from 20…\n\nFamous example of prosocial default nudge: organ donors."
+  },
+  {
+    "objectID": "session_nudges/prep.html#simplification-of-information-and-salience",
+    "href": "session_nudges/prep.html#simplification-of-information-and-salience",
+    "title": "Green Nudges",
+    "section": "Simplification of Information and Salience",
+    "text": "Simplification of Information and Salience\nexample: consumers pay little attention to fuel and electricity costs compared with the sales prices they face when buying cars or lightbulbs.\n\nlabels, order in which the information is presented"
+  },
+  {
+    "objectID": "session_nudges/prep.html#changes-in-the-physical-environment",
+    "href": "session_nudges/prep.html#changes-in-the-physical-environment",
+    "title": "Green Nudges",
+    "section": "Changes in the Physical Environment",
+    "text": "Changes in the Physical Environment\nexample: reduce food waste in buffet restaurants using smaller plates\nfew academic and adequately statistically powered evaluations of such nudges."
+  },
+  {
+    "objectID": "session_nudges/prep.html#reminders",
+    "href": "session_nudges/prep.html#reminders",
+    "title": "Green Nudges",
+    "section": "Reminders",
+    "text": "Reminders\nA reminder increases attention to a decision and reduces forgetfulness. However, reminders can also impose moral costs if they draw attention to a decision that the decision maker would rather avoid (Damgaard and Gravert, 2018). For example, being reminded can create guilt and/or cognitive dissonance.\nelectricity bill, which is a type of reminder, on hourly electricity consumption. They found a .6–1 percent reduction in electricity consumption following receipt of the bill"
+  },
+  {
+    "objectID": "session_nudges/prep.html#social-comparisons-and-social-preferences",
+    "href": "session_nudges/prep.html#social-comparisons-and-social-preferences",
+    "title": "Green Nudges",
+    "section": "Social Comparisons and Social Preferences",
+    "text": "Social Comparisons and Social Preferences\nthe extent to which social information affects behavior depends not only on the actual information regarding what others do (i.e., descriptive messages) but also on whether it conveys approval of certain behavior (i.e., injunctive messages).\nA series of randomized field experiments aimed at water and energy conservation suggests that the provision of both descriptive and injunctive messages can affect individuals’ behavior by reducing water and electricity use\nstudy by Delmas and Lessem (2014), who studied the effect of both private information to the household and public information to all neighbors on electricity use. They found that only a combination of private and public information had an effect on energy use (a 20 percent reduction). S"
+  },
+  {
+    "objectID": "session_nudges/prep.html#moral-pleas-moral-suasion",
+    "href": "session_nudges/prep.html#moral-pleas-moral-suasion",
+    "title": "Green Nudges",
+    "section": "Moral pleas / moral suasion",
+    "text": "Moral pleas / moral suasion\nIto, Ida, and Tanaka (2018), moral suasion was used to reduce energy use during peak hours. The following message was received by some households: “Substantial energy conservation will be required for the society during critical peak-demand hours in summer and winter.”\nElectricity use was reduced by around 8 percentage points in the moral suasion group and by around 15 percent by the households that received economic incentives. However, the effect of moral suasion diminished quickly when repeated, while the effect of the economic incentives did not. In Egebark and Ekström (2016), a moral message was provided in order to reduce the use of printer paper, but no effects were found."
+  },
+  {
+    "objectID": "session_nudges/prep.html#commitment-and-goal-setting",
+    "href": "session_nudges/prep.html#commitment-and-goal-setting",
+    "title": "Green Nudges",
+    "section": "Commitment and Goal Setting",
+    "text": "Commitment and Goal Setting\nHarding and Hsiaw (2014) investigated how voluntary goal setting concerning electricity savings affects actual electricity use and found that those who set a realistic goal save more than those who set a too low or too high goal.\n. In Baca-Motes et al. (2013), some hotel guests were given the opportunity to commit to acting more sustainably and received a pin enabling them to signal commitment. Treated guests were more likely to reuse their towels than those who were not asked to commit. The effect of the commitment was stronger if they received a pin, and it was also stronger if the commitment was more specific (reuse towels) than general (act in an environmentally friendly way)"
+  },
+  {
+    "objectID": "session_nudges/prep.html#nudges-vs-conventional-policy-instruments.",
+    "href": "session_nudges/prep.html#nudges-vs-conventional-policy-instruments.",
+    "title": "Green Nudges",
+    "section": "Nudges vs conventional policy instruments.",
+    "text": "Nudges vs conventional policy instruments."
+  },
+  {
+    "objectID": "session_nudges/prep.html#are-they-ethical",
+    "href": "session_nudges/prep.html#are-they-ethical",
+    "title": "Green Nudges",
+    "section": "Are they ethical?",
+    "text": "Are they ethical?"
+  },
+  {
+    "objectID": "session_nudges/prep.html#are-they-working",
+    "href": "session_nudges/prep.html#are-they-working",
+    "title": "Green Nudges",
+    "section": "Are they working?",
+    "text": "Are they working?"
+  },
+  {
     "objectID": "session_carbon/index.html#dont-worry-too-much",
     "href": "session_carbon/index.html#dont-worry-too-much",
     "title": "The Price of Carbon",
@@ -802,7 +1145,7 @@
     "href": "session_ai_labour/index.html#how-can-you-measure-ai-fitness-for-a-job",
     "title": "Gen-AI and the Labour Market",
     "section": "How can you measure AI fitness for a job?",
-    "text": "How can you measure AI fitness for a job?\nWhich content is more relevant to judge AI fitness?\n\nskills\nabilities\ntasks\n\nA growing body of literature (led by Autor, Levy, Murnane 2003) is using the content of jobs to assess the potential effect of new technologies."
+    "text": "How can you measure AI fitness for a job?\nWhich content is more relevant to judge AI fitness?\n\nskills\nabilities\ntasks\n\nA growing body of literature (led by Autor, Levy, Murnane 2003) is using contents of jobs to assess the potential effect of new technologies."
   },
   {
     "objectID": "session_ai_labour/index.html#earlier-work-has-focused-on-tasks",
@@ -970,7 +1313,7 @@
     "href": "session_ai_labour/index.html#section-10",
     "title": "Gen-AI and the Labour Market",
     "section": "",
-    "text": "So are 40% of world employment at risk?\n\nYes, but half of it might be protected by society.\n\n\nMore advanced countries are more at risk (especially college-educated workers)…\n\n\nbut are more prepared in many dimensions (technological advance, regulation, …)"
+    "text": "So 40% of world employment are at risk?\n\nYes, but half of it might be protected by society.\n\n\nMore advanced countries are more at risk (especially college-educated workers)…\n\n\nbut are more prepared in many dimensions (technological advance, regulation, …)"
   },
   {
     "objectID": "session_ai_labour/index_handout.html",
@@ -1054,7 +1397,7 @@
     "href": "session_ai_labour/index_handout.html#how-can-you-measure-ai-fitness-for-a-job",
     "title": "Gen-AI and the Labour Market",
     "section": "How can you measure AI fitness for a job?",
-    "text": "How can you measure AI fitness for a job?\nWhich content is more relevant to judge AI fitness?\n\nskills\nabilities\ntasks\n\nA growing body of literature (led by Autor, Levy, Murnane 2003) is using the content of jobs to assess the potential effect of new technologies."
+    "text": "How can you measure AI fitness for a job?\nWhich content is more relevant to judge AI fitness?\n\nskills\nabilities\ntasks\n\nA growing body of literature (led by Autor, Levy, Murnane 2003) is using contents of jobs to assess the potential effect of new technologies."
   },
   {
     "objectID": "session_ai_labour/index_handout.html#earlier-work-has-focused-on-tasks",
@@ -1222,158 +1565,305 @@
     "href": "session_ai_labour/index_handout.html#section-10",
     "title": "Gen-AI and the Labour Market",
     "section": "",
-    "text": "So are 40% of world employment at risk?\n. . .\nYes, but half of it might be protected by society.\n. . .\nMore advanced countries are more at risk (especially college-educated workers)…\n. . .\nbut are more prepared in many dimensions (technological advance, regulation, …)"
+    "text": "So 40% of world employment are at risk?\n. . .\nYes, but half of it might be protected by society.\n. . .\nMore advanced countries are more at risk (especially college-educated workers)…\n. . .\nbut are more prepared in many dimensions (technological advance, regulation, …)"
   },
   {
-    "objectID": "prep_3/index_handout.html",
-    "href": "prep_3/index_handout.html",
-    "title": "Inequalities (TBC)",
+    "objectID": "prep_5/index_handout.html",
+    "href": "prep_5/index_handout.html",
+    "title": "Countries Pulling Appart: Geoeconomic Fragmentation.",
     "section": "",
     "text": "Come back later!."
   },
   {
-    "objectID": "prep_nudges/index_handout.html",
-    "href": "prep_nudges/index_handout.html",
-    "title": "Green Nudges",
+    "objectID": "prep_4/index_handout.html",
+    "href": "prep_4/index_handout.html",
+    "title": "Should we Fear the Return of the Big, Bad, Inflation?",
     "section": "",
     "text": "Come back later!."
   },
   {
-    "objectID": "tmp/proto.html",
-    "href": "tmp/proto.html",
-    "title": "AI and the Labour Market (proto)",
+    "objectID": "tmp/proto2.html#section",
+    "href": "tmp/proto2.html#section",
+    "title": "Gen-AI and the Labour Market",
     "section": "",
-    "text": "How research is done?\n\n\n\n\n\nAuthors\nResearch Papers\nOfficial Blog post\nOlivier Gourinchas Gita Gopinath Kristalina Goeorgieva\n\n\n\n\n\n\n\n\nflowchart LR\n  A{Staff} --&gt;  A1[Academic Paper]\n  A1 --&gt; X[Peer Reviewed Publications]\n  A1 --&gt; B[IMF Working Paper]\n  A --&gt; C[IMF Staff Discussion Paper]\n  B --&gt; C\n  C --&gt; D[Board Official Position]\n  E{Member States} ==&gt; D\n\n\n\n\n\n\nWhat do you conclude from that?\n\n\n\nPoints to:\nIMF F&D December\nGenerative AI at Work\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAE advantage: which ones are most at risk?\n\n\n\n\n\n\nThe Marradona policy…\nGDP growth forecasts…"
+    "text": "Task\n\n\nFind some context about the study and the various authors implicated.\nWhy is IMF interested in AI?"
   },
   {
-    "objectID": "tmp/proto.html#the-report",
-    "href": "tmp/proto.html#the-report",
-    "title": "AI and the Labour Market (proto)",
-    "section": "",
-    "text": "Authors\nResearch Papers\nOfficial Blog post\nOlivier Gourinchas Gita Gopinath Kristalina Goeorgieva"
+    "objectID": "tmp/proto2.html#some-context",
+    "href": "tmp/proto2.html#some-context",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Some Context",
+    "text": "Some Context\nBlog Post. written by Kristalina Goeorgieva Head of IMF\nStaff Discussion Note: by X, Y, Z, validated by Pierre-Olivier Gourinchas, Head of Research\nIMF Working Paper: by …"
   },
   {
-    "objectID": "tmp/proto.html#how-research-is-done-at-imf",
-    "href": "tmp/proto.html#how-research-is-done-at-imf",
-    "title": "AI and the Labour Market (proto)",
-    "section": "",
-    "text": "flowchart LR\n  A{Staff} --&gt;  A1[Academic Paper]\n  A1 --&gt; X[Peer Reviewed Publications]\n  A1 --&gt; B[IMF Working Paper]\n  A --&gt; C[IMF Staff Discussion Paper]\n  B --&gt; C\n  C --&gt; D[Board Official Position]\n  E{Member States} ==&gt; D\n\n\n\n\n\n\nWhat do you conclude from that?"
+    "objectID": "tmp/proto2.html#blog-post-more-references",
+    "href": "tmp/proto2.html#blog-post-more-references",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Blog post: more references",
+    "text": "Blog post: more references\nPoints to:\nIMF F&D December\nGenerative AI at Work"
   },
   {
-    "objectID": "tmp/proto.html#imf-blog",
-    "href": "tmp/proto.html#imf-blog",
-    "title": "AI and the Labour Market (proto)",
-    "section": "",
-    "text": "Points to:\nIMF F&D December\nGenerative AI at Work"
+    "objectID": "tmp/proto2.html#how-research-is-done-at-imf",
+    "href": "tmp/proto2.html#how-research-is-done-at-imf",
+    "title": "Gen-AI and the Labour Market",
+    "section": "How Research is done at IMF",
+    "text": "How Research is done at IMF\n\n\n\n\n\nflowchart LR\n  A{Staff} --&gt;  A1[Academic Paper]\n  A1 --&gt; X[Peer Reviewed Publications]\n  A1 --&gt; B[IMF Working Paper]\n  A --&gt; C[IMF Staff Discussion Paper]\n  B --&gt; C\n  C --&gt; D[Board Official Position]\n  E{Member States} ==&gt; D\n\n\n\n\n\n\nHow does it impact what you read?"
   },
   {
-    "objectID": "tmp/proto.html#section",
-    "href": "tmp/proto.html#section",
-    "title": "AI and the Labour Market (proto)",
+    "objectID": "tmp/proto2.html#research-in-big-institutions",
+    "href": "tmp/proto2.html#research-in-big-institutions",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Research in Big Institutions",
+    "text": "Research in Big Institutions\nThe publication ofresearch papers in big institutions has several goals:\n\ndisseminate research\n\nusually from researchers that are closest from policy circles\n\nbuild a common narrative that countries can build on to negociate with the same language\n(usually not) state an official position of the institution"
+  },
+  {
+    "objectID": "tmp/proto2.html#section-1",
+    "href": "tmp/proto2.html#section-1",
+    "title": "Gen-AI and the Labour Market",
     "section": "",
     "text": "AE advantage: which ones are most at risk?"
   },
   {
-    "objectID": "tmp/proto.html#shape-the-narrative",
-    "href": "tmp/proto.html#shape-the-narrative",
-    "title": "AI and the Labour Market (proto)",
+    "objectID": "tmp/proto2.html#section-2",
+    "href": "tmp/proto2.html#section-2",
+    "title": "Gen-AI and the Labour Market",
     "section": "",
-    "text": "The Marradona policy…\nGDP growth forecasts…"
+    "text": "About the IMF\n\n\nThe IMF is a global organization that works to achieve sustainable growth and prosperity for all of its 190 member countries. It does so by supporting economic policies that promote financial stability and monetary cooperation, which are essential to increase productivity, job creation, and economic well-being. The IMF is governed by and accountable to its member countries.\n\n\n\n. . . Then why is it interested in AI?"
   },
   {
-    "objectID": "tmp/proto.html#excec-summary",
-    "href": "tmp/proto.html#excec-summary",
-    "title": "AI and the Labour Market (proto)",
-    "section": "Excec Summary",
-    "text": "Excec Summary\n\nindustrial revolution: productivity shock, replace some workers, complement others\n40% of employment at risk\n\nmore in advanced countries than emerging than developing (60/40/26)\nbut advanced countries more ready\n\neffect on income / wealth inequality\n\nwhole population is affected by ai risk\nbut high income more likely to be positive complement\nmodel simulation-&gt; beneficial to top earners\n\npositive effect on income for all woekers\ncollege-educated workers more prepared to move from jobs\nAI preparedness index\n\nadvanced: invest in AI innovation and rgulation\nless developped: infrastructure and digital traning\nall social safety nets"
+    "objectID": "tmp/proto2.html#why-is-imf-why-is-it-interested-in-ai",
+    "href": "tmp/proto2.html#why-is-imf-why-is-it-interested-in-ai",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Why is IMF why is it interested in AI?",
+    "text": "Why is IMF why is it interested in AI?\n\nCheck out the webpage\n\n\nIMF lends in times of crisis\n\n\nit is useful to know what might cause the next one (CoVid2, AI, food shortage, global warning…)\n\n\nIt pushes for structural reforms (but which ones?)\n\n\nso that countries can reimburse loans\n\n\nIt sometimes act as a last-resort multilateral institution\n\n\nwhere do all finance ministers sit down to discuss …?"
   },
   {
-    "objectID": "tmp/proto.html#ai-exposure-and-complementarity",
-    "href": "tmp/proto.html#ai-exposure-and-complementarity",
-    "title": "AI and the Labour Market (proto)",
-    "section": "AI Exposure and Complementarity",
-    "text": "AI Exposure and Complementarity\nO*NET: - job - occupation - ability\n(what is importance?, prevalence?)\n(example with a graph)\n(problem: O*NET is only for the US)\nLabor Market Exposure to AI: Cross-country Differences and Distributional Implicationss\nCountries: UK/US + Brazil, Columbia, India, South Africa\nGo beyond tasks by adding social and physical context\nSubjectivity of social point of view.\nGiven the high degree of uncertainty over the future of this fast-pacing and broadly applicable technology, the concept of exposure is purposely framed as agnostic on the likelihood of AI complementing or replacing labor in the performance of a given task or occupation.\nIdea: provide specific tables /graphs to students\nData: ILO for all countries microdata for some\nProblem: concept of complementarity, not the same\nOccupational transitions:\n\nconcept of social mobility\nmarkov chain\n\nWhat prevents transition?\ncf paper\nWhy are older workers less willing to switch? (many reality checks in the paper).\n\nWho is mostly helped with AI?*\nyoung college-educated On the other hand, AI may enable young college-educated workers to become experienced more quickly as they leverage their familiarity with new technologies to enhance their productivity. With the introduction of generative AI, the use of AI has itself become much easier. A recent study shows that the productivity impact of an AI-based conversational assistant was greatest for less experienced and low-skilled customer support workers; the effect on experienced and highly skilled workers was minimal (Brynjolfsson, Danielle, and Raymond 2023).\n\nSame with Code Assistant"
+    "objectID": "tmp/proto2.html#section-3",
+    "href": "tmp/proto2.html#section-3",
+    "title": "Gen-AI and the Labour Market",
+    "section": "",
+    "text": "Task\n\n\nRead the blog post and think about the following questions.\nAnswer the short online"
   },
   {
-    "objectID": "tmp/proto.html#ai-productivity-inequality",
-    "href": "tmp/proto.html#ai-productivity-inequality",
-    "title": "AI and the Labour Market (proto)",
-    "section": "AI Productivity, Inequality",
-    "text": "AI Productivity, Inequality\nModel-based\ncopmlementarity effect vs displacement effect"
+    "objectID": "tmp/index_handout.html",
+    "href": "tmp/index_handout.html",
+    "title": "Gen-AI and the Labour Market",
+    "section": "",
+    "text": ". . .\nFrom CNN: ‘Jobs may disappear’: Nearly 40% of global employment could be disrupted by AI, IMF says\n. . .\n🤔 How do they know that?"
   },
   {
-    "objectID": "tmp/proto.html#ai-preparedness",
-    "href": "tmp/proto.html#ai-preparedness",
-    "title": "AI and the Labour Market (proto)",
-    "section": "AI Preparedness",
-    "text": "AI Preparedness"
+    "objectID": "tmp/index_handout.html#section",
+    "href": "tmp/index_handout.html#section",
+    "title": "Gen-AI and the Labour Market",
+    "section": "",
+    "text": "Task\n\n\n\nFind some context about the study and the various authors implicated.\nWhy is IMF interested in AI?"
   },
   {
-    "objectID": "tmp/slides.html#the-context",
-    "href": "tmp/slides.html#the-context",
+    "objectID": "tmp/index_handout.html#some-context",
+    "href": "tmp/index_handout.html#some-context",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Some Context",
+    "text": "Some Context\nBlog Post. written by Kristalina Goeorgieva Head of IMF\nStaff Discussion Note: by X, Y, Z, validated by Pierre-Olivier Gourinchas, Head of Research\nIMF Working Paper: by …"
+  },
+  {
+    "objectID": "tmp/index_handout.html#blog-post-more-references",
+    "href": "tmp/index_handout.html#blog-post-more-references",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Blog post: more references",
+    "text": "Blog post: more references\nPoints to:\nIMF F&D December\nGenerative AI at Work"
+  },
+  {
+    "objectID": "tmp/index_handout.html#how-research-is-done-at-imf",
+    "href": "tmp/index_handout.html#how-research-is-done-at-imf",
+    "title": "Gen-AI and the Labour Market",
+    "section": "How Research is done at IMF",
+    "text": "How Research is done at IMF\n\n\n\n\n\nflowchart LR\n  A{Staff} --&gt;  A1[Academic Paper]\n  A1 --&gt; X[Peer Reviewed Publications]\n  A1 --&gt; B[IMF Working Paper]\n  A --&gt; C[IMF Staff Discussion Paper]\n  B --&gt; C\n  C --&gt; D[Board Official Position]\n  E{Member States} ==&gt; D\n\n\n\n\n\n\nHow does it impact what you read?"
+  },
+  {
+    "objectID": "tmp/index_handout.html#research-in-big-institutions",
+    "href": "tmp/index_handout.html#research-in-big-institutions",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Research in Big Institutions",
+    "text": "Research in Big Institutions\nThe publication ofresearch papers in big institutions has several goals:\n\ndisseminate research\n\nusually from researchers that are closest from policy circles\n\nbuild a common narrative that countries can build on to negociate with the same language\n(usually not) state an official position of the institution"
+  },
+  {
+    "objectID": "tmp/index_handout.html#section-1",
+    "href": "tmp/index_handout.html#section-1",
+    "title": "Gen-AI and the Labour Market",
+    "section": "",
+    "text": "AE advantage: which ones are most at risk?"
+  },
+  {
+    "objectID": "tmp/index_handout.html#section-2",
+    "href": "tmp/index_handout.html#section-2",
+    "title": "Gen-AI and the Labour Market",
+    "section": "",
+    "text": "About the IMF\n\n\n\nThe IMF is a global organization that works to achieve sustainable growth and prosperity for all of its 190 member countries. It does so by supporting economic policies that promote financial stability and monetary cooperation, which are essential to increase productivity, job creation, and economic well-being. The IMF is governed by and accountable to its member countries.\n\n\n. . . Then why is it interested in AI?"
+  },
+  {
+    "objectID": "tmp/index_handout.html#why-is-imf-why-is-it-interested-in-ai",
+    "href": "tmp/index_handout.html#why-is-imf-why-is-it-interested-in-ai",
+    "title": "Gen-AI and the Labour Market",
+    "section": "Why is IMF why is it interested in AI?",
+    "text": "Why is IMF why is it interested in AI?\n. . .\nCheck out the webpage\n\n\nIMF lends in times of crisis\n\n\nit is useful to know what might cause the next one (CoVid2, AI, food shortage, global warning…)\n\n\nIt pushes for structural reforms (but which ones?)\n\n\nso that countries can reimburse loans\n\n\nIt sometimes act as a last-resort multilateral institution\n\n\nwhere do all finance ministers sit down to discuss …?"
+  },
+  {
+    "objectID": "tmp/index_handout.html#section-3",
+    "href": "tmp/index_handout.html#section-3",
+    "title": "Gen-AI and the Labour Market",
+    "section": "",
+    "text": "Task\n\n\n\nRead the blog post and think about the following questions.\nAnswer the short online"
+  },
+  {
+    "objectID": "session_0/index.html#about-myself",
+    "href": "session_0/index.html#about-myself",
+    "title": "General Introduction",
+    "section": "About myself",
+    "text": "About myself\n\n\n\n\n\nPablo Winant\n\n\n\n\nProfessional experience\n\nIMF\nBank of England\n\nTeaching\n\nESCP Business School\nEcole Polytechnique\n\nResearch\n\ninequalities\ninternational finance\nmonetary policy\ncomputational economics\nartificial intelligence"
+  },
+  {
+    "objectID": "session_0/index.html#this-course",
+    "href": "session_0/index.html#this-course",
+    "title": "General Introduction",
+    "section": "This course",
+    "text": "This course\n\nStart with hot topics\n\ne.g. ChatGPT, job market, ecological transition, …\n\nConnect with economic theories and concepts\n\nthey appear in bold\nmake sure you understand their meaning\n\nTry to think outside of the box"
+  },
+  {
+    "objectID": "session_0/index.html#pressing-topics",
+    "href": "session_0/index.html#pressing-topics",
+    "title": "General Introduction",
+    "section": "Pressing Topics…",
+    "text": "Pressing Topics…"
+  },
+  {
+    "objectID": "session_0/index.html#how-do-you-define-economics",
+    "href": "session_0/index.html#how-do-you-define-economics",
+    "title": "General Introduction",
+    "section": "How do you define “Economics” ?",
+    "text": "How do you define “Economics” ?\n\n\n\n\n\n\n\nWikipedia\n\n\nEconomics is a social science that studies the production, distribution, and consumption of goods and services.\n\n\n\n\n\n\n\n\n\n\n\n\nAmerican Economic Association\n\n\nIt can be defined in different ways. It’s the study of scarcity, the study of how people use resources and respond to incentives, or the study of decision-making. It often involves topics like wealth and finance, but it’s not all about money.\n\n\n\n\n\n\n\n\n\n\n\n\n\nRedux\n\n\nEconomics studies people’s decisions and interactions, usually through markets but not always\n\n\n\n\n\n\nCheck AEA website and research highlights for many examples of economic applications."
+  },
+  {
+    "objectID": "session_0/index.html#logistics",
+    "href": "session_0/index.html#logistics",
+    "title": "General Introduction",
+    "section": "Logistics",
+    "text": "Logistics\n\nEvaluation\n\ngroup work (40%)\n\nrecord a 5 min video developing one particular point of the course\n\nfinal exam (in-class) (60%)\n\nmcq on econ concepts\nvery short essay based on documents\n\nongoing (up to 20% bonus/malus)\n\nparticipation & behaviour\nmini-tasks if any"
+  },
+  {
+    "objectID": "session_0/index.html#section",
+    "href": "session_0/index.html#section",
+    "title": "General Introduction",
+    "section": "",
+    "text": "Let’s go"
+  },
+  {
+    "objectID": "session_0/index_handout.html",
+    "href": "session_0/index_handout.html",
+    "title": "General Introduction",
+    "section": "",
+    "text": "Pablo Winant\n\n\n\n\nProfessional experience\n\nIMF\nBank of England\n\nTeaching\n\nESCP Business School\nEcole Polytechnique\n\nResearch\n\ninequalities\ninternational finance\nmonetary policy\ncomputational economics\nartificial intelligence\n\n\n\n\n\n\n\n\nStart with hot topics\n\ne.g. ChatGPT, job market, ecological transition, …\n\nConnect with economic theories and concepts\n\nthey appear in bold\nmake sure you understand their meaning\n\nTry to think outside of the box\n\n\n\n\n \n\n\n\n\n\n\n\n\n\nWikipedia\n\n\n\nEconomics is a social science that studies the production, distribution, and consumption of goods and services.\n\n\n. . .\n\n\n\n\n\n\nAmerican Economic Association\n\n\n\nIt can be defined in different ways. It’s the study of scarcity, the study of how people use resources and respond to incentives, or the study of decision-making. It often involves topics like wealth and finance, but it’s not all about money.\n\n\n. . .\n\n\n\n\n\n\nRedux\n\n\n\nEconomics studies people’s decisions and interactions, usually through markets but not always\n\n\n. . .\nCheck AEA website and research highlights for many examples of economic applications.\n\n\n\n\nEvaluation\n\ngroup work (40%)\n\nrecord a 5 min video developing one particular point of the course\n\nfinal exam (in-class) (60%)\n\nmcq on econ concepts\nvery short essay based on documents\n\nongoing (up to 20% bonus/malus)\n\nparticipation & behaviour\nmini-tasks if any\n\n\n\n\n\n\n\nLet’s go"
+  },
+  {
+    "objectID": "session_0/index_handout.html#about-myself",
+    "href": "session_0/index_handout.html#about-myself",
+    "title": "General Introduction",
+    "section": "",
+    "text": "Pablo Winant\n\n\n\n\nProfessional experience\n\nIMF\nBank of England\n\nTeaching\n\nESCP Business School\nEcole Polytechnique\n\nResearch\n\ninequalities\ninternational finance\nmonetary policy\ncomputational economics\nartificial intelligence"
+  },
+  {
+    "objectID": "session_0/index_handout.html#this-course",
+    "href": "session_0/index_handout.html#this-course",
+    "title": "General Introduction",
+    "section": "",
+    "text": "Start with hot topics\n\ne.g. ChatGPT, job market, ecological transition, …\n\nConnect with economic theories and concepts\n\nthey appear in bold\nmake sure you understand their meaning\n\nTry to think outside of the box"
+  },
+  {
+    "objectID": "session_0/index_handout.html#how-do-you-define-economics",
+    "href": "session_0/index_handout.html#how-do-you-define-economics",
+    "title": "General Introduction",
+    "section": "",
+    "text": "Wikipedia\n\n\n\nEconomics is a social science that studies the production, distribution, and consumption of goods and services.\n\n\n. . .\n\n\n\n\n\n\nAmerican Economic Association\n\n\n\nIt can be defined in different ways. It’s the study of scarcity, the study of how people use resources and respond to incentives, or the study of decision-making. It often involves topics like wealth and finance, but it’s not all about money.\n\n\n. . .\n\n\n\n\n\n\nRedux\n\n\n\nEconomics studies people’s decisions and interactions, usually through markets but not always\n\n\n. . .\nCheck AEA website and research highlights for many examples of economic applications."
+  },
+  {
+    "objectID": "session_0/index_handout.html#logistics",
+    "href": "session_0/index_handout.html#logistics",
+    "title": "General Introduction",
+    "section": "",
+    "text": "Evaluation\n\ngroup work (40%)\n\nrecord a 5 min video developing one particular point of the course\n\nfinal exam (in-class) (60%)\n\nmcq on econ concepts\nvery short essay based on documents\n\nongoing (up to 20% bonus/malus)\n\nparticipation & behaviour\nmini-tasks if any"
+  },
+  {
+    "objectID": "session_0/index_handout.html#section",
+    "href": "session_0/index_handout.html#section",
+    "title": "General Introduction",
+    "section": "",
+    "text": "Let’s go"
+  },
+  {
+    "objectID": "session_0/slides.html#the-context",
+    "href": "session_0/slides.html#the-context",
     "title": "AI and the Labour Market (proto)",
     "section": "The context…",
     "text": "The context…"
   },
   {
-    "objectID": "tmp/slides.html#the-report",
-    "href": "tmp/slides.html#the-report",
+    "objectID": "session_0/slides.html#the-report",
+    "href": "session_0/slides.html#the-report",
     "title": "AI and the Labour Market (proto)",
     "section": "The report",
     "text": "The report\nAuthors\nResearch Papers\nOfficial Blog post\nOlivier Gourinchas Gita Gopinath Kristalina Goeorgieva"
   },
   {
-    "objectID": "tmp/slides.html#how-research-is-done-at-imf",
-    "href": "tmp/slides.html#how-research-is-done-at-imf",
+    "objectID": "session_0/slides.html#how-research-is-done-at-imf",
+    "href": "session_0/slides.html#how-research-is-done-at-imf",
     "title": "AI and the Labour Market (proto)",
     "section": "How Research is done at IMF",
     "text": "How Research is done at IMF\n\n\n\n\n\nflowchart LR\n  A{Staff} --&gt;  A1[Academic Paper]\n  A1 --&gt; X[Peer Reviewed Publications]\n  A1 --&gt; B[IMF Working Paper]\n  A --&gt; C[IMF Staff Discussion Paper]\n  B --&gt; C\n  C --&gt; D[Board Official Position]\n  E{Member States} ==&gt; D\n\n\n\n\n\n\nWhat do you conclude from that?"
   },
   {
-    "objectID": "tmp/slides.html#imf-blog",
-    "href": "tmp/slides.html#imf-blog",
+    "objectID": "session_0/slides.html#imf-blog",
+    "href": "session_0/slides.html#imf-blog",
     "title": "AI and the Labour Market (proto)",
     "section": "IMF Blog",
     "text": "IMF Blog\nPoints to:\nIMF F&D December\nGenerative AI at Work"
   },
   {
-    "objectID": "tmp/slides.html#section",
-    "href": "tmp/slides.html#section",
+    "objectID": "session_0/slides.html#section",
+    "href": "session_0/slides.html#section",
     "title": "AI and the Labour Market (proto)",
     "section": "",
     "text": "AE advantage: which ones are most at risk?"
   },
   {
-    "objectID": "tmp/slides.html#shape-the-narrative",
-    "href": "tmp/slides.html#shape-the-narrative",
+    "objectID": "session_0/slides.html#shape-the-narrative",
+    "href": "session_0/slides.html#shape-the-narrative",
     "title": "AI and the Labour Market (proto)",
     "section": "Shape the narrative…",
     "text": "Shape the narrative…\nThe Marradona policy…\nGDP growth forecasts…"
   },
   {
-    "objectID": "tmp/slides.html#excec-summary",
-    "href": "tmp/slides.html#excec-summary",
+    "objectID": "session_0/slides.html#excec-summary",
+    "href": "session_0/slides.html#excec-summary",
     "title": "AI and the Labour Market (proto)",
     "section": "Excec Summary",
     "text": "Excec Summary\n\nindustrial revolution: productivity shock, replace some workers, complement others\n40% of employment at risk\n\nmore in advanced countries than emerging than developing (60/40/26)\nbut advanced countries more ready\n\neffect on income / wealth inequality\n\nwhole population is affected by ai risk\nbut high income more likely to be positive complement\nmodel simulation-&gt; beneficial to top earners\n\npositive effect on income for all woekers\ncollege-educated workers more prepared to move from jobs\nAI preparedness index\n\nadvanced: invest in AI innovation and rgulation\nless developped: infrastructure and digital traning\nall social safety nets"
   },
   {
-    "objectID": "tmp/slides.html#ai-exposure-and-complementarity",
-    "href": "tmp/slides.html#ai-exposure-and-complementarity",
+    "objectID": "session_0/slides.html#ai-exposure-and-complementarity",
+    "href": "session_0/slides.html#ai-exposure-and-complementarity",
     "title": "AI and the Labour Market (proto)",
     "section": "AI Exposure and Complementarity",
     "text": "AI Exposure and Complementarity\nO*NET: - job - occupation - ability\n(what is importance?, prevalence?)\n(example with a graph)\n(problem: O*NET is only for the US)\nLabor Market Exposure to AI: Cross-country Differences and Distributional Implicationss\nCountries: UK/US + Brazil, Columbia, India, South Africa\nGo beyond tasks by adding social and physical context\nSubjectivity of social point of view.\nGiven the high degree of uncertainty over the future of this fast-pacing and broadly applicable technology, the concept of exposure is purposely framed as agnostic on the likelihood of AI complementing or replacing labor in the performance of a given task or occupation.\nIdea: provide specific tables /graphs to students\nData: ILO for all countries microdata for some\nProblem: concept of complementarity, not the same\nOccupational transitions:\n\nconcept of social mobility\nmarkov chain\n\nWhat prevents transition?\ncf paper\nWhy are older workers less willing to switch? (many reality checks in the paper).\n\nWho is mostly helped with AI?*\nyoung college-educated On the other hand, AI may enable young college-educated workers to become experienced more quickly as they leverage their familiarity with new technologies to enhance their productivity. With the introduction of generative AI, the use of AI has itself become much easier. A recent study shows that the productivity impact of an AI-based conversational assistant was greatest for less experienced and low-skilled customer support workers; the effect on experienced and highly skilled workers was minimal (Brynjolfsson, Danielle, and Raymond 2023).\n\nSame with Code Assistant"
   },
   {
-    "objectID": "tmp/slides.html#ai-productivity-inequality",
-    "href": "tmp/slides.html#ai-productivity-inequality",
+    "objectID": "session_0/slides.html#ai-productivity-inequality",
+    "href": "session_0/slides.html#ai-productivity-inequality",
     "title": "AI and the Labour Market (proto)",
     "section": "AI Productivity, Inequality",
     "text": "AI Productivity, Inequality\nModel-based\ncopmlementarity effect vs displacement effect"
   },
   {
-    "objectID": "tmp/slides.html#ai-preparedness",
-    "href": "tmp/slides.html#ai-preparedness",
+    "objectID": "session_0/slides.html#ai-preparedness",
+    "href": "session_0/slides.html#ai-preparedness",
     "title": "AI and the Labour Market (proto)",
     "section": "AI Preparedness",
     "text": "AI Preparedness"
@@ -1449,305 +1939,599 @@
     "text": "AI Preparedness"
   },
   {
-    "objectID": "session_0/slides.html#the-context",
-    "href": "session_0/slides.html#the-context",
+    "objectID": "tmp/slides.html#the-context",
+    "href": "tmp/slides.html#the-context",
     "title": "AI and the Labour Market (proto)",
     "section": "The context…",
     "text": "The context…"
   },
   {
-    "objectID": "session_0/slides.html#the-report",
-    "href": "session_0/slides.html#the-report",
+    "objectID": "tmp/slides.html#the-report",
+    "href": "tmp/slides.html#the-report",
     "title": "AI and the Labour Market (proto)",
     "section": "The report",
     "text": "The report\nAuthors\nResearch Papers\nOfficial Blog post\nOlivier Gourinchas Gita Gopinath Kristalina Goeorgieva"
   },
   {
-    "objectID": "session_0/slides.html#how-research-is-done-at-imf",
-    "href": "session_0/slides.html#how-research-is-done-at-imf",
+    "objectID": "tmp/slides.html#how-research-is-done-at-imf",
+    "href": "tmp/slides.html#how-research-is-done-at-imf",
     "title": "AI and the Labour Market (proto)",
     "section": "How Research is done at IMF",
     "text": "How Research is done at IMF\n\n\n\n\n\nflowchart LR\n  A{Staff} --&gt;  A1[Academic Paper]\n  A1 --&gt; X[Peer Reviewed Publications]\n  A1 --&gt; B[IMF Working Paper]\n  A --&gt; C[IMF Staff Discussion Paper]\n  B --&gt; C\n  C --&gt; D[Board Official Position]\n  E{Member States} ==&gt; D\n\n\n\n\n\n\nWhat do you conclude from that?"
   },
   {
-    "objectID": "session_0/slides.html#imf-blog",
-    "href": "session_0/slides.html#imf-blog",
+    "objectID": "tmp/slides.html#imf-blog",
+    "href": "tmp/slides.html#imf-blog",
     "title": "AI and the Labour Market (proto)",
     "section": "IMF Blog",
     "text": "IMF Blog\nPoints to:\nIMF F&D December\nGenerative AI at Work"
   },
   {
-    "objectID": "session_0/slides.html#section",
-    "href": "session_0/slides.html#section",
+    "objectID": "tmp/slides.html#section",
+    "href": "tmp/slides.html#section",
     "title": "AI and the Labour Market (proto)",
     "section": "",
     "text": "AE advantage: which ones are most at risk?"
   },
   {
-    "objectID": "session_0/slides.html#shape-the-narrative",
-    "href": "session_0/slides.html#shape-the-narrative",
+    "objectID": "tmp/slides.html#shape-the-narrative",
+    "href": "tmp/slides.html#shape-the-narrative",
     "title": "AI and the Labour Market (proto)",
     "section": "Shape the narrative…",
     "text": "Shape the narrative…\nThe Marradona policy…\nGDP growth forecasts…"
   },
   {
-    "objectID": "session_0/slides.html#excec-summary",
-    "href": "session_0/slides.html#excec-summary",
+    "objectID": "tmp/slides.html#excec-summary",
+    "href": "tmp/slides.html#excec-summary",
     "title": "AI and the Labour Market (proto)",
     "section": "Excec Summary",
     "text": "Excec Summary\n\nindustrial revolution: productivity shock, replace some workers, complement others\n40% of employment at risk\n\nmore in advanced countries than emerging than developing (60/40/26)\nbut advanced countries more ready\n\neffect on income / wealth inequality\n\nwhole population is affected by ai risk\nbut high income more likely to be positive complement\nmodel simulation-&gt; beneficial to top earners\n\npositive effect on income for all woekers\ncollege-educated workers more prepared to move from jobs\nAI preparedness index\n\nadvanced: invest in AI innovation and rgulation\nless developped: infrastructure and digital traning\nall social safety nets"
   },
   {
-    "objectID": "session_0/slides.html#ai-exposure-and-complementarity",
-    "href": "session_0/slides.html#ai-exposure-and-complementarity",
+    "objectID": "tmp/slides.html#ai-exposure-and-complementarity",
+    "href": "tmp/slides.html#ai-exposure-and-complementarity",
     "title": "AI and the Labour Market (proto)",
     "section": "AI Exposure and Complementarity",
     "text": "AI Exposure and Complementarity\nO*NET: - job - occupation - ability\n(what is importance?, prevalence?)\n(example with a graph)\n(problem: O*NET is only for the US)\nLabor Market Exposure to AI: Cross-country Differences and Distributional Implicationss\nCountries: UK/US + Brazil, Columbia, India, South Africa\nGo beyond tasks by adding social and physical context\nSubjectivity of social point of view.\nGiven the high degree of uncertainty over the future of this fast-pacing and broadly applicable technology, the concept of exposure is purposely framed as agnostic on the likelihood of AI complementing or replacing labor in the performance of a given task or occupation.\nIdea: provide specific tables /graphs to students\nData: ILO for all countries microdata for some\nProblem: concept of complementarity, not the same\nOccupational transitions:\n\nconcept of social mobility\nmarkov chain\n\nWhat prevents transition?\ncf paper\nWhy are older workers less willing to switch? (many reality checks in the paper).\n\nWho is mostly helped with AI?*\nyoung college-educated On the other hand, AI may enable young college-educated workers to become experienced more quickly as they leverage their familiarity with new technologies to enhance their productivity. With the introduction of generative AI, the use of AI has itself become much easier. A recent study shows that the productivity impact of an AI-based conversational assistant was greatest for less experienced and low-skilled customer support workers; the effect on experienced and highly skilled workers was minimal (Brynjolfsson, Danielle, and Raymond 2023).\n\nSame with Code Assistant"
   },
   {
-    "objectID": "session_0/slides.html#ai-productivity-inequality",
-    "href": "session_0/slides.html#ai-productivity-inequality",
+    "objectID": "tmp/slides.html#ai-productivity-inequality",
+    "href": "tmp/slides.html#ai-productivity-inequality",
     "title": "AI and the Labour Market (proto)",
     "section": "AI Productivity, Inequality",
     "text": "AI Productivity, Inequality\nModel-based\ncopmlementarity effect vs displacement effect"
   },
   {
-    "objectID": "session_0/slides.html#ai-preparedness",
-    "href": "session_0/slides.html#ai-preparedness",
+    "objectID": "tmp/slides.html#ai-preparedness",
+    "href": "tmp/slides.html#ai-preparedness",
     "title": "AI and the Labour Market (proto)",
     "section": "AI Preparedness",
     "text": "AI Preparedness"
   },
   {
-    "objectID": "session_0/index_handout.html",
-    "href": "session_0/index_handout.html",
-    "title": "General Introduction",
+    "objectID": "tmp/proto.html",
+    "href": "tmp/proto.html",
+    "title": "AI and the Labour Market (proto)",
     "section": "",
-    "text": "Pablo Winant\n\n\n\n\nProfessional experience\n\nIMF\nBank of England\n\nTeaching\n\nESCP Business School\nEcole Polytechnique\n\nResearch\n\ninequalities\ninternational finance\nmonetary policy\ncomputational economics\nartificial intelligence\n\n\n\n\n\n\n\n\nStart with hot topics\n\ne.g. ChatGPT, job market, ecological transition, …\n\nConnect with economic theories and concepts\n\nthey appear in bold\nmake sure you understand their meaning\n\nTry to think outside of the box\n\n\n\n\n \n\n\n\n\n\n\n\n\n\nWikipedia\n\n\n\nEconomics is a social science that studies the production, distribution, and consumption of goods and services.\n\n\n. . .\n\n\n\n\n\n\nAmerican Economic Association\n\n\n\nIt can be defined in different ways. It’s the study of scarcity, the study of how people use resources and respond to incentives, or the study of decision-making. It often involves topics like wealth and finance, but it’s not all about money.\n\n\n. . .\n\n\n\n\n\n\nRedux\n\n\n\nEconomics studies people’s decisions and interactions, usually through markets but not always\n\n\n. . .\nCheck AEA website and research highlights for many examples of economic applications.\n\n\n\n\nEvaluation\n\ngroup work (40%)\n\nrecord a 5 min video developing one particular point of the course\n\nfinal exam (in-class) (60%)\n\nmcq on econ concepts\nvery short essay based on documents\n\nongoing (up to 20% bonus/malus)\n\nparticipation & behaviour\nmini-tasks if any\n\n\n\n\n\n\n\nLet’s go"
+    "text": "How research is done?\n\n\n\n\n\nAuthors\nResearch Papers\nOfficial Blog post\nOlivier Gourinchas Gita Gopinath Kristalina Goeorgieva\n\n\n\n\n\n\n\n\nflowchart LR\n  A{Staff} --&gt;  A1[Academic Paper]\n  A1 --&gt; X[Peer Reviewed Publications]\n  A1 --&gt; B[IMF Working Paper]\n  A --&gt; C[IMF Staff Discussion Paper]\n  B --&gt; C\n  C --&gt; D[Board Official Position]\n  E{Member States} ==&gt; D\n\n\n\n\n\n\nWhat do you conclude from that?\n\n\n\nPoints to:\nIMF F&D December\nGenerative AI at Work\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAE advantage: which ones are most at risk?\n\n\n\n\n\n\nThe Marradona policy…\nGDP growth forecasts…"
   },
   {
-    "objectID": "session_0/index_handout.html#about-myself",
-    "href": "session_0/index_handout.html#about-myself",
-    "title": "General Introduction",
+    "objectID": "tmp/proto.html#the-report",
+    "href": "tmp/proto.html#the-report",
+    "title": "AI and the Labour Market (proto)",
     "section": "",
-    "text": "Pablo Winant\n\n\n\n\nProfessional experience\n\nIMF\nBank of England\n\nTeaching\n\nESCP Business School\nEcole Polytechnique\n\nResearch\n\ninequalities\ninternational finance\nmonetary policy\ncomputational economics\nartificial intelligence"
+    "text": "Authors\nResearch Papers\nOfficial Blog post\nOlivier Gourinchas Gita Gopinath Kristalina Goeorgieva"
   },
   {
-    "objectID": "session_0/index_handout.html#this-course",
-    "href": "session_0/index_handout.html#this-course",
-    "title": "General Introduction",
+    "objectID": "tmp/proto.html#how-research-is-done-at-imf",
+    "href": "tmp/proto.html#how-research-is-done-at-imf",
+    "title": "AI and the Labour Market (proto)",
     "section": "",
-    "text": "Start with hot topics\n\ne.g. ChatGPT, job market, ecological transition, …\n\nConnect with economic theories and concepts\n\nthey appear in bold\nmake sure you understand their meaning\n\nTry to think outside of the box"
+    "text": "flowchart LR\n  A{Staff} --&gt;  A1[Academic Paper]\n  A1 --&gt; X[Peer Reviewed Publications]\n  A1 --&gt; B[IMF Working Paper]\n  A --&gt; C[IMF Staff Discussion Paper]\n  B --&gt; C\n  C --&gt; D[Board Official Position]\n  E{Member States} ==&gt; D\n\n\n\n\n\n\nWhat do you conclude from that?"
   },
   {
-    "objectID": "session_0/index_handout.html#how-do-you-define-economics",
-    "href": "session_0/index_handout.html#how-do-you-define-economics",
-    "title": "General Introduction",
+    "objectID": "tmp/proto.html#imf-blog",
+    "href": "tmp/proto.html#imf-blog",
+    "title": "AI and the Labour Market (proto)",
     "section": "",
-    "text": "Wikipedia\n\n\n\nEconomics is a social science that studies the production, distribution, and consumption of goods and services.\n\n\n. . .\n\n\n\n\n\n\nAmerican Economic Association\n\n\n\nIt can be defined in different ways. It’s the study of scarcity, the study of how people use resources and respond to incentives, or the study of decision-making. It often involves topics like wealth and finance, but it’s not all about money.\n\n\n. . .\n\n\n\n\n\n\nRedux\n\n\n\nEconomics studies people’s decisions and interactions, usually through markets but not always\n\n\n. . .\nCheck AEA website and research highlights for many examples of economic applications."
+    "text": "Points to:\nIMF F&D December\nGenerative AI at Work"
   },
   {
-    "objectID": "session_0/index_handout.html#logistics",
-    "href": "session_0/index_handout.html#logistics",
-    "title": "General Introduction",
-    "section": "",
-    "text": "Evaluation\n\ngroup work (40%)\n\nrecord a 5 min video developing one particular point of the course\n\nfinal exam (in-class) (60%)\n\nmcq on econ concepts\nvery short essay based on documents\n\nongoing (up to 20% bonus/malus)\n\nparticipation & behaviour\nmini-tasks if any"
-  },
-  {
-    "objectID": "session_0/index_handout.html#section",
-    "href": "session_0/index_handout.html#section",
-    "title": "General Introduction",
-    "section": "",
-    "text": "Let’s go"
-  },
-  {
-    "objectID": "session_0/index.html#about-myself",
-    "href": "session_0/index.html#about-myself",
-    "title": "General Introduction",
-    "section": "About myself",
-    "text": "About myself\n\n\n\n\n\nPablo Winant\n\n\n\n\nProfessional experience\n\nIMF\nBank of England\n\nTeaching\n\nESCP Business School\nEcole Polytechnique\n\nResearch\n\ninequalities\ninternational finance\nmonetary policy\ncomputational economics\nartificial intelligence"
-  },
-  {
-    "objectID": "session_0/index.html#this-course",
-    "href": "session_0/index.html#this-course",
-    "title": "General Introduction",
-    "section": "This course",
-    "text": "This course\n\nStart with hot topics\n\ne.g. ChatGPT, job market, ecological transition, …\n\nConnect with economic theories and concepts\n\nthey appear in bold\nmake sure you understand their meaning\n\nTry to think outside of the box"
-  },
-  {
-    "objectID": "session_0/index.html#pressing-topics",
-    "href": "session_0/index.html#pressing-topics",
-    "title": "General Introduction",
-    "section": "Pressing Topics…",
-    "text": "Pressing Topics…"
-  },
-  {
-    "objectID": "session_0/index.html#how-do-you-define-economics",
-    "href": "session_0/index.html#how-do-you-define-economics",
-    "title": "General Introduction",
-    "section": "How do you define “Economics” ?",
-    "text": "How do you define “Economics” ?\n\n\n\n\n\n\n\nWikipedia\n\n\nEconomics is a social science that studies the production, distribution, and consumption of goods and services.\n\n\n\n\n\n\n\n\n\n\n\n\nAmerican Economic Association\n\n\nIt can be defined in different ways. It’s the study of scarcity, the study of how people use resources and respond to incentives, or the study of decision-making. It often involves topics like wealth and finance, but it’s not all about money.\n\n\n\n\n\n\n\n\n\n\n\n\n\nRedux\n\n\nEconomics studies people’s decisions and interactions, usually through markets but not always\n\n\n\n\n\n\nCheck AEA website and research highlights for many examples of economic applications."
-  },
-  {
-    "objectID": "session_0/index.html#logistics",
-    "href": "session_0/index.html#logistics",
-    "title": "General Introduction",
-    "section": "Logistics",
-    "text": "Logistics\n\nEvaluation\n\ngroup work (40%)\n\nrecord a 5 min video developing one particular point of the course\n\nfinal exam (in-class) (60%)\n\nmcq on econ concepts\nvery short essay based on documents\n\nongoing (up to 20% bonus/malus)\n\nparticipation & behaviour\nmini-tasks if any"
-  },
-  {
-    "objectID": "session_0/index.html#section",
-    "href": "session_0/index.html#section",
-    "title": "General Introduction",
-    "section": "",
-    "text": "Let’s go"
-  },
-  {
-    "objectID": "tmp/index_handout.html",
-    "href": "tmp/index_handout.html",
-    "title": "Gen-AI and the Labour Market",
-    "section": "",
-    "text": ". . .\nFrom CNN: ‘Jobs may disappear’: Nearly 40% of global employment could be disrupted by AI, IMF says\n. . .\n🤔 How do they know that?"
-  },
-  {
-    "objectID": "tmp/index_handout.html#section",
-    "href": "tmp/index_handout.html#section",
-    "title": "Gen-AI and the Labour Market",
-    "section": "",
-    "text": "Task\n\n\n\nFind some context about the study and the various authors implicated.\nWhy is IMF interested in AI?"
-  },
-  {
-    "objectID": "tmp/index_handout.html#some-context",
-    "href": "tmp/index_handout.html#some-context",
-    "title": "Gen-AI and the Labour Market",
-    "section": "Some Context",
-    "text": "Some Context\nBlog Post. written by Kristalina Goeorgieva Head of IMF\nStaff Discussion Note: by X, Y, Z, validated by Pierre-Olivier Gourinchas, Head of Research\nIMF Working Paper: by …"
-  },
-  {
-    "objectID": "tmp/index_handout.html#blog-post-more-references",
-    "href": "tmp/index_handout.html#blog-post-more-references",
-    "title": "Gen-AI and the Labour Market",
-    "section": "Blog post: more references",
-    "text": "Blog post: more references\nPoints to:\nIMF F&D December\nGenerative AI at Work"
-  },
-  {
-    "objectID": "tmp/index_handout.html#how-research-is-done-at-imf",
-    "href": "tmp/index_handout.html#how-research-is-done-at-imf",
-    "title": "Gen-AI and the Labour Market",
-    "section": "How Research is done at IMF",
-    "text": "How Research is done at IMF\n\n\n\n\n\nflowchart LR\n  A{Staff} --&gt;  A1[Academic Paper]\n  A1 --&gt; X[Peer Reviewed Publications]\n  A1 --&gt; B[IMF Working Paper]\n  A --&gt; C[IMF Staff Discussion Paper]\n  B --&gt; C\n  C --&gt; D[Board Official Position]\n  E{Member States} ==&gt; D\n\n\n\n\n\n\nHow does it impact what you read?"
-  },
-  {
-    "objectID": "tmp/index_handout.html#research-in-big-institutions",
-    "href": "tmp/index_handout.html#research-in-big-institutions",
-    "title": "Gen-AI and the Labour Market",
-    "section": "Research in Big Institutions",
-    "text": "Research in Big Institutions\nThe publication ofresearch papers in big institutions has several goals:\n\ndisseminate research\n\nusually from researchers that are closest from policy circles\n\nbuild a common narrative that countries can build on to negociate with the same language\n(usually not) state an official position of the institution"
-  },
-  {
-    "objectID": "tmp/index_handout.html#section-1",
-    "href": "tmp/index_handout.html#section-1",
-    "title": "Gen-AI and the Labour Market",
+    "objectID": "tmp/proto.html#section",
+    "href": "tmp/proto.html#section",
+    "title": "AI and the Labour Market (proto)",
     "section": "",
     "text": "AE advantage: which ones are most at risk?"
   },
   {
-    "objectID": "tmp/index_handout.html#section-2",
-    "href": "tmp/index_handout.html#section-2",
-    "title": "Gen-AI and the Labour Market",
+    "objectID": "tmp/proto.html#shape-the-narrative",
+    "href": "tmp/proto.html#shape-the-narrative",
+    "title": "AI and the Labour Market (proto)",
     "section": "",
-    "text": "About the IMF\n\n\n\nThe IMF is a global organization that works to achieve sustainable growth and prosperity for all of its 190 member countries. It does so by supporting economic policies that promote financial stability and monetary cooperation, which are essential to increase productivity, job creation, and economic well-being. The IMF is governed by and accountable to its member countries.\n\n\n. . . Then why is it interested in AI?"
+    "text": "The Marradona policy…\nGDP growth forecasts…"
   },
   {
-    "objectID": "tmp/index_handout.html#why-is-imf-why-is-it-interested-in-ai",
-    "href": "tmp/index_handout.html#why-is-imf-why-is-it-interested-in-ai",
-    "title": "Gen-AI and the Labour Market",
-    "section": "Why is IMF why is it interested in AI?",
-    "text": "Why is IMF why is it interested in AI?\n. . .\nCheck out the webpage\n\n\nIMF lends in times of crisis\n\n\nit is useful to know what might cause the next one (CoVid2, AI, food shortage, global warning…)\n\n\nIt pushes for structural reforms (but which ones?)\n\n\nso that countries can reimburse loans\n\n\nIt sometimes act as a last-resort multilateral institution\n\n\nwhere do all finance ministers sit down to discuss …?"
+    "objectID": "tmp/proto.html#excec-summary",
+    "href": "tmp/proto.html#excec-summary",
+    "title": "AI and the Labour Market (proto)",
+    "section": "Excec Summary",
+    "text": "Excec Summary\n\nindustrial revolution: productivity shock, replace some workers, complement others\n40% of employment at risk\n\nmore in advanced countries than emerging than developing (60/40/26)\nbut advanced countries more ready\n\neffect on income / wealth inequality\n\nwhole population is affected by ai risk\nbut high income more likely to be positive complement\nmodel simulation-&gt; beneficial to top earners\n\npositive effect on income for all woekers\ncollege-educated workers more prepared to move from jobs\nAI preparedness index\n\nadvanced: invest in AI innovation and rgulation\nless developped: infrastructure and digital traning\nall social safety nets"
   },
   {
-    "objectID": "tmp/index_handout.html#section-3",
-    "href": "tmp/index_handout.html#section-3",
-    "title": "Gen-AI and the Labour Market",
+    "objectID": "tmp/proto.html#ai-exposure-and-complementarity",
+    "href": "tmp/proto.html#ai-exposure-and-complementarity",
+    "title": "AI and the Labour Market (proto)",
+    "section": "AI Exposure and Complementarity",
+    "text": "AI Exposure and Complementarity\nO*NET: - job - occupation - ability\n(what is importance?, prevalence?)\n(example with a graph)\n(problem: O*NET is only for the US)\nLabor Market Exposure to AI: Cross-country Differences and Distributional Implicationss\nCountries: UK/US + Brazil, Columbia, India, South Africa\nGo beyond tasks by adding social and physical context\nSubjectivity of social point of view.\nGiven the high degree of uncertainty over the future of this fast-pacing and broadly applicable technology, the concept of exposure is purposely framed as agnostic on the likelihood of AI complementing or replacing labor in the performance of a given task or occupation.\nIdea: provide specific tables /graphs to students\nData: ILO for all countries microdata for some\nProblem: concept of complementarity, not the same\nOccupational transitions:\n\nconcept of social mobility\nmarkov chain\n\nWhat prevents transition?\ncf paper\nWhy are older workers less willing to switch? (many reality checks in the paper).\n\nWho is mostly helped with AI?*\nyoung college-educated On the other hand, AI may enable young college-educated workers to become experienced more quickly as they leverage their familiarity with new technologies to enhance their productivity. With the introduction of generative AI, the use of AI has itself become much easier. A recent study shows that the productivity impact of an AI-based conversational assistant was greatest for less experienced and low-skilled customer support workers; the effect on experienced and highly skilled workers was minimal (Brynjolfsson, Danielle, and Raymond 2023).\n\nSame with Code Assistant"
+  },
+  {
+    "objectID": "tmp/proto.html#ai-productivity-inequality",
+    "href": "tmp/proto.html#ai-productivity-inequality",
+    "title": "AI and the Labour Market (proto)",
+    "section": "AI Productivity, Inequality",
+    "text": "AI Productivity, Inequality\nModel-based\ncopmlementarity effect vs displacement effect"
+  },
+  {
+    "objectID": "tmp/proto.html#ai-preparedness",
+    "href": "tmp/proto.html#ai-preparedness",
+    "title": "AI and the Labour Market (proto)",
+    "section": "AI Preparedness",
+    "text": "AI Preparedness"
+  },
+  {
+    "objectID": "session_behavioural/index_handout.html#behavioural-economics-1",
+    "href": "session_behavioural/index_handout.html#behavioural-economics-1",
+    "title": "Introduction to Behavioral Economics",
+    "section": "Behavioural Economics",
+    "text": "Behavioural Economics\nBehavioral economics combines elements of economics and psychology to understand how and why people behave the way they do in the real world. It differs from neoclassical economics, which assumes that most people have well-defined preferences and make well-informed, self-interested decisions based on those preferences. (intro from university of Chicago)"
+  },
+  {
+    "objectID": "session_behavioural/index_handout.html#behavioural-economists",
+    "href": "session_behavioural/index_handout.html#behavioural-economists",
+    "title": "Introduction to Behavioral Economics",
+    "section": "Behavioural Economists",
+    "text": "Behavioural Economists\n\n\n\n\n\n\n\n\n\n\n\nAmon Tversky\n\n\n\n\n\n\n\nDaniel Kahneman\n\n\n\n\n\n\n\nRichard Thaler\n\n\n\n\n\n\n\n\nidentify actual patterns in agent’s decisions\n\nmeasured as deviations to idealized, rational, utility-maximizing economic behaviour\n\ndevelop theories that can, consistently predict these patterns\npatterns and theories are tested empirically in labs\n\n\n\n\nGood introduction: Thinking Fast and Slow"
+  },
+  {
+    "objectID": "session_behavioural/index_handout.html#the-lab",
+    "href": "session_behavioural/index_handout.html#the-lab",
+    "title": "Introduction to Behavioral Economics",
+    "section": "The lab",
+    "text": "The lab\n \nBehavioural economists recruit participants for their experiments.\n\nthey perform some specific tasks or play a specifically designed game\nthey are usually paid and incentivized (skin in the game)"
+  },
+  {
+    "objectID": "session_behavioural/index_handout.html#experiments",
+    "href": "session_behavioural/index_handout.html#experiments",
+    "title": "Introduction to Behavioral Economics",
+    "section": "Experiments",
+    "text": "Experiments\n\nexperiments try to recreate conditions so as to expose specific features of human choices\nusually one determinant of choice is randomized so as to measure its effect cleanly\nmore participants lead to better results (if representative)"
+  },
+  {
+    "objectID": "session_behavioural/index_handout.html#the-marshmallow-experiment",
+    "href": "session_behavioural/index_handout.html#the-marshmallow-experiment",
+    "title": "Introduction to Behavioral Economics",
+    "section": "The Marshmallow Experiment",
+    "text": "The Marshmallow Experiment\n\nInstant Gratification"
+  },
+  {
+    "objectID": "session_behavioural/index_handout.html#the-neo-classical-view",
+    "href": "session_behavioural/index_handout.html#the-neo-classical-view",
+    "title": "Introduction to Behavioral Economics",
+    "section": "The (neo)-classical view",
+    "text": "The (neo)-classical view\n\nAgents are perfectly rational…\n\nthey don’t make errors\n\n…and pursue their self interest\n\nspecified by preferences\n\n\n\\[\\max_{x} U(x)\\]"
+  },
+  {
+    "objectID": "session_behavioural/index_handout.html#the-ultimatum-game",
+    "href": "session_behavioural/index_handout.html#the-ultimatum-game",
+    "title": "Introduction to Behavioral Economics",
+    "section": "The ultimatum game",
+    "text": "The ultimatum game\n\n\n\n\nSplit the Bill"
+  },
+  {
+    "objectID": "session_behavioural/index_handout.html#section-1",
+    "href": "session_behavioural/index_handout.html#section-1",
+    "title": "Introduction to Behavioral Economics",
     "section": "",
-    "text": "Task\n\n\n\nRead the blog post and think about the following questions.\nAnswer the short online"
+    "text": "Setup\nTwo players negotiate over a fixed amount of money (the pie):\n\nplayer 1 demands a proportion of the pie\nplayer 2 sees the size and player’s 1 demand and either rejects or accepts it\n\naccept: split is implemented\nreject: both players get 0"
   },
   {
-    "objectID": "tmp/proto2.html#section",
-    "href": "tmp/proto2.html#section",
-    "title": "Gen-AI and the Labour Market",
+    "objectID": "session_behavioural/index_handout.html#section-2",
+    "href": "session_behavioural/index_handout.html#section-2",
+    "title": "Introduction to Behavioral Economics",
     "section": "",
-    "text": "Task\n\n\nFind some context about the study and the various authors implicated.\nWhy is IMF interested in AI?"
+    "text": "Results"
   },
   {
-    "objectID": "tmp/proto2.html#some-context",
-    "href": "tmp/proto2.html#some-context",
-    "title": "Gen-AI and the Labour Market",
-    "section": "Some Context",
-    "text": "Some Context\nBlog Post. written by Kristalina Goeorgieva Head of IMF\nStaff Discussion Note: by X, Y, Z, validated by Pierre-Olivier Gourinchas, Head of Research\nIMF Working Paper: by …"
-  },
-  {
-    "objectID": "tmp/proto2.html#blog-post-more-references",
-    "href": "tmp/proto2.html#blog-post-more-references",
-    "title": "Gen-AI and the Labour Market",
-    "section": "Blog post: more references",
-    "text": "Blog post: more references\nPoints to:\nIMF F&D December\nGenerative AI at Work"
-  },
-  {
-    "objectID": "tmp/proto2.html#how-research-is-done-at-imf",
-    "href": "tmp/proto2.html#how-research-is-done-at-imf",
-    "title": "Gen-AI and the Labour Market",
-    "section": "How Research is done at IMF",
-    "text": "How Research is done at IMF\n\n\n\n\n\nflowchart LR\n  A{Staff} --&gt;  A1[Academic Paper]\n  A1 --&gt; X[Peer Reviewed Publications]\n  A1 --&gt; B[IMF Working Paper]\n  A --&gt; C[IMF Staff Discussion Paper]\n  B --&gt; C\n  C --&gt; D[Board Official Position]\n  E{Member States} ==&gt; D\n\n\n\n\n\n\nHow does it impact what you read?"
-  },
-  {
-    "objectID": "tmp/proto2.html#research-in-big-institutions",
-    "href": "tmp/proto2.html#research-in-big-institutions",
-    "title": "Gen-AI and the Labour Market",
-    "section": "Research in Big Institutions",
-    "text": "Research in Big Institutions\nThe publication ofresearch papers in big institutions has several goals:\n\ndisseminate research\n\nusually from researchers that are closest from policy circles\n\nbuild a common narrative that countries can build on to negociate with the same language\n(usually not) state an official position of the institution"
-  },
-  {
-    "objectID": "tmp/proto2.html#section-1",
-    "href": "tmp/proto2.html#section-1",
-    "title": "Gen-AI and the Labour Market",
+    "objectID": "session_behavioural/index_handout.html#section-3",
+    "href": "session_behavioural/index_handout.html#section-3",
+    "title": "Introduction to Behavioral Economics",
     "section": "",
-    "text": "AE advantage: which ones are most at risk?"
+    "text": "Results\n\n\n\nhundreds of papers since original one by Guth et al.\nconsistent results: average offer is 40%, offers below 20% have high chances to be rejected, lots of 50-50\nnote that the “rational choice” for both agents would be 99-1!\nit is an example of other regarding preferences (aka altruism)"
   },
   {
-    "objectID": "tmp/proto2.html#section-2",
-    "href": "tmp/proto2.html#section-2",
-    "title": "Gen-AI and the Labour Market",
+    "objectID": "session_behavioural/index_handout.html#section-4",
+    "href": "session_behavioural/index_handout.html#section-4",
+    "title": "Introduction to Behavioral Economics",
     "section": "",
-    "text": "About the IMF\n\n\nThe IMF is a global organization that works to achieve sustainable growth and prosperity for all of its 190 member countries. It does so by supporting economic policies that promote financial stability and monetary cooperation, which are essential to increase productivity, job creation, and economic well-being. The IMF is governed by and accountable to its member countries.\n\n\n\n. . . Then why is it interested in AI?"
+    "text": "What determines the split? What influences altruism?\n. . .\n\n\n\naltruism\n\n\n. . .\nCan you devise an experiment to measure the effect of “shame”?"
   },
   {
-    "objectID": "tmp/proto2.html#why-is-imf-why-is-it-interested-in-ai",
-    "href": "tmp/proto2.html#why-is-imf-why-is-it-interested-in-ai",
-    "title": "Gen-AI and the Labour Market",
-    "section": "Why is IMF why is it interested in AI?",
-    "text": "Why is IMF why is it interested in AI?\n\nCheck out the webpage\n\n\nIMF lends in times of crisis\n\n\nit is useful to know what might cause the next one (CoVid2, AI, food shortage, global warning…)\n\n\nIt pushes for structural reforms (but which ones?)\n\n\nso that countries can reimburse loans\n\n\nIt sometimes act as a last-resort multilateral institution\n\n\nwhere do all finance ministers sit down to discuss …?"
+    "objectID": "session_behavioural/index_handout.html#the-ultimatum-game-measuring-shame",
+    "href": "session_behavioural/index_handout.html#the-ultimatum-game-measuring-shame",
+    "title": "Introduction to Behavioral Economics",
+    "section": "The ultimatum game: measuring shame",
+    "text": "The ultimatum game: measuring shame\nImproved protocol\n\nfor half of the candidates, exactly as before (control group)\nfor the other half (treatment group), the two players, don’t see each other don’t have any contact. Only the demand from player one is communicated to player 2.\n\nResult:\n\n-&gt; players are less generous but the result holds"
   },
   {
-    "objectID": "tmp/proto2.html#section-3",
-    "href": "tmp/proto2.html#section-3",
-    "title": "Gen-AI and the Labour Market",
+    "objectID": "session_behavioural/index_handout.html#reflection-effect-or-loss-aversion",
+    "href": "session_behavioural/index_handout.html#reflection-effect-or-loss-aversion",
+    "title": "Introduction to Behavioral Economics",
+    "section": "Reflection Effect or Loss Aversion",
+    "text": "Reflection Effect or Loss Aversion\n\n\n\n\n\n\nResult from literature\n\nfirst lottery: 92% chose B\nsecond lottery: 80% chose A\n\n\n\nIntepretation:\n\nagents are risk-seekers when it is about loosing money\nagents are risk-averse when it is about winning money"
+  },
+  {
+    "objectID": "session_behavioural/index_handout.html#the-certainty-effect-the-allais-paradox",
+    "href": "session_behavioural/index_handout.html#the-certainty-effect-the-allais-paradox",
+    "title": "Introduction to Behavioral Economics",
+    "section": "The Certainty effect / The Allais paradox",
+    "text": "The Certainty effect / The Allais paradox\n\n\n\n\n\n\nResult from literature\n\nfirst lottery: most people choose A\nsecond lottery: most people choose B\n\n\n\nIntepretation: people underweigh outcomes that are merely probable compared to those that are certain"
+  },
+  {
+    "objectID": "session_behavioural/index_handout.html#expected-utility",
+    "href": "session_behavioural/index_handout.html#expected-utility",
+    "title": "Introduction to Behavioral Economics",
+    "section": "Expected utility",
+    "text": "Expected utility\n\nExpected utility framework\n\nsimple assumptions on people’s preferences\nagents maximize \\(U(x)\\) where \\(U\\) is increasing and concave\nstandard in economics and finance\n\nConcavity implies that agents are risk agents are risk averse"
+  },
+  {
+    "objectID": "session_behavioural/index_handout.html#prospect-theory",
+    "href": "session_behavioural/index_handout.html#prospect-theory",
+    "title": "Introduction to Behavioral Economics",
+    "section": "Prospect theory",
+    "text": "Prospect theory\n\n\n\n\n\nProspect1 theory was proposed by Kahneman and Tversky in 1979\nAttempts to describe realistically how humans evaluate losses and gains"
+  },
+  {
+    "objectID": "session_behavioural/index_handout.html#behavioural-anomalies",
+    "href": "session_behavioural/index_handout.html#behavioural-anomalies",
+    "title": "Introduction to Behavioral Economics",
+    "section": "Behavioural anomalies",
+    "text": "Behavioural anomalies\nWe classically distinguish two kinds of behavioural anomalies\n\npredisposition towards error\nmental shortcuts (aka heuristics)\n\nThey have been studied by psychologists for a while\n\nAnd are being revisited systematically by economists/psychologists\n…following the “replication crisis”2"
+  },
+  {
+    "objectID": "session_behavioural/index_handout.html#section-5",
+    "href": "session_behavioural/index_handout.html#section-5",
+    "title": "Introduction to Behavioral Economics",
     "section": "",
-    "text": "Task\n\n\nRead the blog post and think about the following questions.\nAnswer the short online"
+    "text": "Instructions: You are vice president of product development and are evaluating 8 new product proposals. You have asked two people from R&D (in whom you have equal confidence) to give independent forecasts of the R&D costs.\n\n\n\nProject no.\nA’s forecast\nB’s forecast\nYour forecast\n\n\n\n\n1\n167,000\n272,000\n\n\n\n2\n274,000\n783,000\n\n\n\n3\n529,000\n433,000\n\n\n\n4\n357,000\n866,000\n\n\n\n5\n146,000\n659,000\n\n\n\n6\n937,000\n446,000\n\n\n\n7\n906,000\n811,000\n\n\n\n8\n483,000\n379,000"
   },
   {
-    "objectID": "prep_4/index_handout.html",
-    "href": "prep_4/index_handout.html",
-    "title": "Should we Fear the Return of the Big, Bad, Inflation?",
+    "objectID": "session_behavioural/index_handout.html#section-6",
+    "href": "session_behavioural/index_handout.html#section-6",
+    "title": "Introduction to Behavioral Economics",
     "section": "",
-    "text": "Come back later!."
+    "text": "Project no.\nA’s forecast\nB’s forecast\nYour forecast\nMidpoint\nMedian forecast\n\n\n\n\n1\n167,000\n272,000\n\n219,500\n250,000\n\n\n2\n274,000\n783,000\n\n528,500\n600,000\n\n\n3\n529,000\n433,000\n\n481,000\n500,000\n\n\n4\n357,000\n866,000\n\n611,500\n697,110\n\n\n5\n146,000\n659,000\n\n402,500\n458,850\n\n\n6\n937,000\n446,000\n\n691,500\n788,310\n\n\n7\n906,000\n811,000\n\n858,500\n875,000\n\n\n8\n483,000\n379,000\n\n431,000\n450,000\n\n\n\n. . .\n\n\nIf A and B’s forecasts are unbiased, your best estimate would be the midpoint\nIf your forecast is above the midpoint, you are implicitly assuming that R&D personnel underestimate the costs\nThe median forecast shows the typical response of MBA students with 10 years of executive experience: they have excessive optimism."
   },
   {
-    "objectID": "prep_5/index_handout.html",
-    "href": "prep_5/index_handout.html",
-    "title": "Countries Pulling Appart: Geoeconomic Fragmentation.",
+    "objectID": "session_behavioural/index_handout.html#section-7",
+    "href": "session_behavioural/index_handout.html#section-7",
+    "title": "Introduction to Behavioral Economics",
     "section": "",
-    "text": "Come back later!."
+    "text": "Compared to the rest of this group, how would you rate your driving skills?\n\nA. Above average\nB. Below average\n\n. . .\n\n\n\n\n\n\nOver confidence\n\n\n\nOverestimating our own abilities"
+  },
+  {
+    "objectID": "session_behavioural/index_handout.html#section-8",
+    "href": "session_behavioural/index_handout.html#section-8",
+    "title": "Introduction to Behavioral Economics",
+    "section": "",
+    "text": "Hindsight Bias\n\n\n. . .\n\n\n\n\n\n\nHindsight Bias\n\n\n\nWhen you search for or interpret new information in a way that supports existing beliefs as opposed to challenge them."
+  },
+  {
+    "objectID": "session_behavioural/index_handout.html#section-9",
+    "href": "session_behavioural/index_handout.html#section-9",
+    "title": "Introduction to Behavioral Economics",
+    "section": "",
+    "text": "The Riddler\n\n\n. . ."
+  },
+  {
+    "objectID": "session_behavioural/index_handout.html#section-10",
+    "href": "session_behavioural/index_handout.html#section-10",
+    "title": "Introduction to Behavioral Economics",
+    "section": "",
+    "text": "Setup (Study from Lord, Ross & Leeper, 1979)\n\n48 undergraduates supporting and opposing capital punishment were exposed to 2 purported studies, one seemingly confirming and one seemingly disconfirming their existing beliefs about the deterrent efficacy of the death penalty. As predicted, both proponents and opponents of capital punishment rated those results and procedures that confirmed their own beliefs to be the more convincing and probative ones.\n\n\n\nResult\n\nParticipants gave higher ratings to studies that confirmed their initial point of view even when studies on both sides had been carried out by the same method. In the end though everyone had read all the same studies, both those who initially supported the death penalty and those who initially opposed it reported that reading the studies had strengthened their beliefs.\n\n\n\n. . .\n\n\n\n\n\n\nConfirmation Bias\n\n\n\nWhen you search for or interpret new information in a way that supports existing beliefs as opposed to challenge them."
+  },
+  {
+    "objectID": "session_behavioural/index_handout.html#section-11",
+    "href": "session_behavioural/index_handout.html#section-11",
+    "title": "Introduction to Behavioral Economics",
+    "section": "",
+    "text": "Test:\n\nWrite down 3 examples of successes that you have had\nWrite down 3 examples of failures\nWhat were the causes of the success?\nWhat were the causes of the failures?\n\n\n\nInterpretation\n\n\nAttribution bias occurs when people attribute their success to skills, and their failures to randomness (Taleb 2001)\nIt is when we attribute praise/blame to the person rather than the situation. However, successful people can also mistake hard work for luck. Timing can be important but so is developing the skills to be able to take opportunities when presented. After all, “the harder you practice, the luckier you get” Gary Player\n\n\n\n\n. . .\n\n\n\n\n\n\nAttribution bias\n\n\n\nOverestimating how much control we have over events"
+  },
+  {
+    "objectID": "session_behavioural/index_handout.html#section-12",
+    "href": "session_behavioural/index_handout.html#section-12",
+    "title": "Introduction to Behavioral Economics",
+    "section": "",
+    "text": "Example:\n\n\nPeople are given a mug worth 10$\nThen the opportunity to exchange it for pens worth 11$\nMost people don’t take the deal\n\n\n. . .\nA striking example\nDo you see other examples? Implications\n. . .\n\n\n\n\n\n\nOwnership Bias / Endowment Effect Heuristic\n\n\n\nPeople place a higher valuation on an asset, purely by owning it."
+  },
+  {
+    "objectID": "session_behavioural/index_handout.html#section-13",
+    "href": "session_behavioural/index_handout.html#section-13",
+    "title": "Introduction to Behavioral Economics",
+    "section": "",
+    "text": "Example: We tend to think that footballers make more money than dentists, but only because we don’t see the failures (there’s a selection bias)\n\nDentistry is a more lucrative profession since it maximises your expected income across all alternative histories\nOne cannot consider a profession without taking into account the average of the people who enter it, not the sample of those who succeed Taleb (2001)\n\n\n\n\n\n\n\nAvailability Heuristic\n\n\n\nJudgement based on the ease with which instances come to mind"
+  },
+  {
+    "objectID": "session_behavioural/index_handout.html#section-14",
+    "href": "session_behavioural/index_handout.html#section-14",
+    "title": "Introduction to Behavioral Economics",
+    "section": "",
+    "text": "Question:\nWhat percentage of members of the United Nations are countries in Africa?"
+  },
+  {
+    "objectID": "session_behavioural/index_handout.html#section-15",
+    "href": "session_behavioural/index_handout.html#section-15",
+    "title": "Introduction to Behavioral Economics",
+    "section": "",
+    "text": "Experiment:\n\n\nShow a number: e.g. 65\n\nAsk participants: “What percentage of members of the United Nations are countries in Africa?”\n\n\n\nResult\n\nPeople who saw a 10 had an average guess of 25%\nPeople who saw a 65 had an average guess of 45%\nCorrect answer: 28%. There are 54 African countries, and 192 UN member states\n\n\n\n. . .\n\n\n\n\n\n\nAnchoring Heuristic\n\n\n\nViewing things in relation to an irrelevant comparison point\n\n\n\nDon’t forget to add 65 on the board before."
+  },
+  {
+    "objectID": "session_behavioural/index_handout.html#section-16",
+    "href": "session_behavioural/index_handout.html#section-16",
+    "title": "Introduction to Behavioral Economics",
+    "section": "",
+    "text": "How oil spills harm birds, dolphins, sea lions and other wildlife"
+  },
+  {
+    "objectID": "session_behavioural/index_handout.html#section-17",
+    "href": "session_behavioural/index_handout.html#section-17",
+    "title": "Introduction to Behavioral Economics",
+    "section": "",
+    "text": "Example: Following the Exxon Valdez oil spill, people were asked how much they were willing to pay for equipment that would do the following:\n\nSave 2,000 birds:  $80 \nSave 20,000 birds:  $78 \nSave 200,000 birds:  $88 \n\n. . .\nThe almost complete neglect of quantities in such emotional contexts has been confirmed many times\n. . .\n\n\n\n\n\n\nAffect Heuristic\n\n\n\nDefinition: Over-reliance on our immediate emotional reaction"
+  },
+  {
+    "objectID": "session_behavioural/index_handout.html#conclusion-1",
+    "href": "session_behavioural/index_handout.html#conclusion-1",
+    "title": "Introduction to Behavioral Economics",
+    "section": "Conclusion",
+    "text": "Conclusion\nSo we know that people deviate from rationality in many ways that can be measured and / or related to theory.\n. . .\nPolicy-makers can exploit the knowledge to design better policies."
+  },
+  {
+    "objectID": "session_behavioural/index_handout.html#nudges",
+    "href": "session_behavioural/index_handout.html#nudges",
+    "title": "Introduction to Behavioral Economics",
+    "section": "Nudges",
+    "text": "Nudges\nA nudge is a way to change agent’s decision by changing the decision context, without changing the preferences or the constraints in a meaningful way.\n. . .\nIn principle one could use nudges as an alternative to traditional incentives in order to favour green behaviour:\n. . .\n\nDoes it work?\nIs it ethical?\n\n. . .\nTo be discussed in the next session…\n👉 Read the working paper Nudging as an Environmental Policy"
+  },
+  {
+    "objectID": "session_behavioural/index_handout.html#footnotes",
+    "href": "session_behavioural/index_handout.html#footnotes",
+    "title": "Introduction to Behavioral Economics",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nProspect is a close synonym for gamble↩︎\nfor details, see the (excellent) video from veritasium↩︎"
+  },
+  {
+    "objectID": "session_behavioural/index.html#behavioural-economics-1",
+    "href": "session_behavioural/index.html#behavioural-economics-1",
+    "title": "Introduction to Behavioral Economics",
+    "section": "Behavioural Economics",
+    "text": "Behavioural Economics\nBehavioral economics combines elements of economics and psychology to understand how and why people behave the way they do in the real world. It differs from neoclassical economics, which assumes that most people have well-defined preferences and make well-informed, self-interested decisions based on those preferences. (intro from university of Chicago)"
+  },
+  {
+    "objectID": "session_behavioural/index.html#behavioural-economists",
+    "href": "session_behavioural/index.html#behavioural-economists",
+    "title": "Introduction to Behavioral Economics",
+    "section": "Behavioural Economists",
+    "text": "Behavioural Economists\n\n\n\n\n\n\n\n\nAmon Tversky\n\n\n\n\n\n\n\nDaniel Kahneman\n\n\n\n\n\n\n\nRichard Thaler\n\n\n\n\n\n\n\n\nidentify actual patterns in agent’s decisions\n\nmeasured as deviations to idealized, rational, utility-maximizing economic behaviour\n\ndevelop theories that can, consistently predict these patterns\npatterns and theories are tested empirically in labs\n\n\n\n\nGood introduction: Thinking Fast and Slow"
+  },
+  {
+    "objectID": "session_behavioural/index.html#the-lab",
+    "href": "session_behavioural/index.html#the-lab",
+    "title": "Introduction to Behavioral Economics",
+    "section": "The lab",
+    "text": "The lab\n \nBehavioural economists recruit participants for their experiments.\n\nthey perform some specific tasks or play a specifically designed game\nthey are usually paid and incentivized (skin in the game)"
+  },
+  {
+    "objectID": "session_behavioural/index.html#experiments",
+    "href": "session_behavioural/index.html#experiments",
+    "title": "Introduction to Behavioral Economics",
+    "section": "Experiments",
+    "text": "Experiments\n\nexperiments try to recreate conditions so as to expose specific features of human choices\nusually one determinant of choice is randomized so as to measure its effect cleanly\nmore participants lead to better results (if representative)"
+  },
+  {
+    "objectID": "session_behavioural/index.html#the-marshmallow-experiment",
+    "href": "session_behavioural/index.html#the-marshmallow-experiment",
+    "title": "Introduction to Behavioral Economics",
+    "section": "The Marshmallow Experiment",
+    "text": "The Marshmallow Experiment\nInstant Gratification"
+  },
+  {
+    "objectID": "session_behavioural/index.html#the-neo-classical-view",
+    "href": "session_behavioural/index.html#the-neo-classical-view",
+    "title": "Introduction to Behavioral Economics",
+    "section": "The (neo)-classical view",
+    "text": "The (neo)-classical view\n\nAgents are perfectly rational…\n\nthey don’t make errors\n\n…and pursue their self interest\n\nspecified by preferences\n\n\n\\[\\max_{x} U(x)\\]"
+  },
+  {
+    "objectID": "session_behavioural/index.html#the-ultimatum-game",
+    "href": "session_behavioural/index.html#the-ultimatum-game",
+    "title": "Introduction to Behavioral Economics",
+    "section": "The ultimatum game",
+    "text": "The ultimatum game\n\n\n\n\nSplit the Bill"
+  },
+  {
+    "objectID": "session_behavioural/index.html#section-1",
+    "href": "session_behavioural/index.html#section-1",
+    "title": "Introduction to Behavioral Economics",
+    "section": "",
+    "text": "Setup\nTwo players negotiate over a fixed amount of money (the pie):\n\nplayer 1 demands a proportion of the pie\nplayer 2 sees the size and player’s 1 demand and either rejects or accepts it\n\naccept: split is implemented\nreject: both players get 0"
+  },
+  {
+    "objectID": "session_behavioural/index.html#section-2",
+    "href": "session_behavioural/index.html#section-2",
+    "title": "Introduction to Behavioral Economics",
+    "section": "",
+    "text": "Results"
+  },
+  {
+    "objectID": "session_behavioural/index.html#section-3",
+    "href": "session_behavioural/index.html#section-3",
+    "title": "Introduction to Behavioral Economics",
+    "section": "",
+    "text": "Results\nhundreds of papers since original one by Guth et al.\nconsistent results: average offer is 40%, offers below 20% have high chances to be rejected, lots of 50-50\nnote that the “rational choice” for both agents would be 99-1!\nit is an example of other regarding preferences (aka altruism)"
+  },
+  {
+    "objectID": "session_behavioural/index.html#section-4",
+    "href": "session_behavioural/index.html#section-4",
+    "title": "Introduction to Behavioral Economics",
+    "section": "",
+    "text": "What determines the split? What influences altruism?\n\n\n\n\naltruism\n\n\n\n\nCan you devise an experiment to measure the effect of “shame”?"
+  },
+  {
+    "objectID": "session_behavioural/index.html#the-ultimatum-game-measuring-shame",
+    "href": "session_behavioural/index.html#the-ultimatum-game-measuring-shame",
+    "title": "Introduction to Behavioral Economics",
+    "section": "The ultimatum game: measuring shame",
+    "text": "The ultimatum game: measuring shame\nImproved protocol\n\nfor half of the candidates, exactly as before (control group)\nfor the other half (treatment group), the two players, don’t see each other don’t have any contact. Only the demand from player one is communicated to player 2.\n\nResult:\n\n-&gt; players are less generous but the result holds"
+  },
+  {
+    "objectID": "session_behavioural/index.html#reflection-effect-or-loss-aversion",
+    "href": "session_behavioural/index.html#reflection-effect-or-loss-aversion",
+    "title": "Introduction to Behavioral Economics",
+    "section": "Reflection Effect or Loss Aversion",
+    "text": "Reflection Effect or Loss Aversion\n\n\n\n\n\n\nResult from literature\n\nfirst lottery: 92% chose B\nsecond lottery: 80% chose A\n\n\n\nIntepretation:\n\nagents are risk-seekers when it is about loosing money\nagents are risk-averse when it is about winning money"
+  },
+  {
+    "objectID": "session_behavioural/index.html#the-certainty-effect-the-allais-paradox",
+    "href": "session_behavioural/index.html#the-certainty-effect-the-allais-paradox",
+    "title": "Introduction to Behavioral Economics",
+    "section": "The Certainty effect / The Allais paradox",
+    "text": "The Certainty effect / The Allais paradox\n\n\n\n\n\n\nResult from literature\n\nfirst lottery: most people choose A\nsecond lottery: most people choose B\n\n\n\nIntepretation: people underweigh outcomes that are merely probable compared to those that are certain"
+  },
+  {
+    "objectID": "session_behavioural/index.html#expected-utility",
+    "href": "session_behavioural/index.html#expected-utility",
+    "title": "Introduction to Behavioral Economics",
+    "section": "Expected utility",
+    "text": "Expected utility\n\nExpected utility framework\n\nsimple assumptions on people’s preferences\nagents maximize \\(U(x)\\) where \\(U\\) is increasing and concave\nstandard in economics and finance\n\nConcavity implies that agents are risk agents are risk averse"
+  },
+  {
+    "objectID": "session_behavioural/index.html#prospect-theory",
+    "href": "session_behavioural/index.html#prospect-theory",
+    "title": "Introduction to Behavioral Economics",
+    "section": "Prospect theory",
+    "text": "Prospect theory\n\n\n\n\n\nProspect1 theory was proposed by Kahneman and Tversky in 1979\nAttempts to describe realistically how humans evaluate losses and gains\n\n\n\nProspect is a close synonym for gamble"
+  },
+  {
+    "objectID": "session_behavioural/index.html#behavioural-anomalies",
+    "href": "session_behavioural/index.html#behavioural-anomalies",
+    "title": "Introduction to Behavioral Economics",
+    "section": "Behavioural anomalies",
+    "text": "Behavioural anomalies\nWe classically distinguish two kinds of behavioural anomalies\n\npredisposition towards error\nmental shortcuts (aka heuristics)\n\nThey have been studied by psychologists for a while\n\nAnd are being revisited systematically by economists/psychologists\n…following the “replication crisis”1\n\nfor details, see the (excellent) video from veritasium"
+  },
+  {
+    "objectID": "session_behavioural/index.html#section-5",
+    "href": "session_behavioural/index.html#section-5",
+    "title": "Introduction to Behavioral Economics",
+    "section": "",
+    "text": "Instructions: You are vice president of product development and are evaluating 8 new product proposals. You have asked two people from R&D (in whom you have equal confidence) to give independent forecasts of the R&D costs.\n\n\n\nProject no.\nA’s forecast\nB’s forecast\nYour forecast\n\n\n\n\n1\n167,000\n272,000\n\n\n\n2\n274,000\n783,000\n\n\n\n3\n529,000\n433,000\n\n\n\n4\n357,000\n866,000\n\n\n\n5\n146,000\n659,000\n\n\n\n6\n937,000\n446,000\n\n\n\n7\n906,000\n811,000\n\n\n\n8\n483,000\n379,000"
+  },
+  {
+    "objectID": "session_behavioural/index.html#section-6",
+    "href": "session_behavioural/index.html#section-6",
+    "title": "Introduction to Behavioral Economics",
+    "section": "",
+    "text": "Project no.\nA’s forecast\nB’s forecast\nYour forecast\nMidpoint\nMedian forecast\n\n\n\n\n1\n167,000\n272,000\n\n219,500\n250,000\n\n\n2\n274,000\n783,000\n\n528,500\n600,000\n\n\n3\n529,000\n433,000\n\n481,000\n500,000\n\n\n4\n357,000\n866,000\n\n611,500\n697,110\n\n\n5\n146,000\n659,000\n\n402,500\n458,850\n\n\n6\n937,000\n446,000\n\n691,500\n788,310\n\n\n7\n906,000\n811,000\n\n858,500\n875,000\n\n\n8\n483,000\n379,000\n\n431,000\n450,000\n\n\n\n\n\n\nIf A and B’s forecasts are unbiased, your best estimate would be the midpoint\nIf your forecast is above the midpoint, you are implicitly assuming that R&D personnel underestimate the costs\nThe median forecast shows the typical response of MBA students with 10 years of executive experience: they have excessive optimism."
+  },
+  {
+    "objectID": "session_behavioural/index.html#section-7",
+    "href": "session_behavioural/index.html#section-7",
+    "title": "Introduction to Behavioral Economics",
+    "section": "",
+    "text": "Compared to the rest of this group, how would you rate your driving skills?\n\nA. Above average\nB. Below average\n\n\n\n\n\n\n\n\n\nOver confidence\n\n\nOverestimating our own abilities"
+  },
+  {
+    "objectID": "session_behavioural/index.html#section-8",
+    "href": "session_behavioural/index.html#section-8",
+    "title": "Introduction to Behavioral Economics",
+    "section": "",
+    "text": "Hindsight Bias\n\n\n\n\n\n\n\nHindsight Bias\n\n\nWhen you search for or interpret new information in a way that supports existing beliefs as opposed to challenge them."
+  },
+  {
+    "objectID": "session_behavioural/index.html#section-9",
+    "href": "session_behavioural/index.html#section-9",
+    "title": "Introduction to Behavioral Economics",
+    "section": "",
+    "text": "The Riddler"
+  },
+  {
+    "objectID": "session_behavioural/index.html#section-10",
+    "href": "session_behavioural/index.html#section-10",
+    "title": "Introduction to Behavioral Economics",
+    "section": "",
+    "text": "Setup (Study from Lord, Ross & Leeper, 1979)\n\n48 undergraduates supporting and opposing capital punishment were exposed to 2 purported studies, one seemingly confirming and one seemingly disconfirming their existing beliefs about the deterrent efficacy of the death penalty. As predicted, both proponents and opponents of capital punishment rated those results and procedures that confirmed their own beliefs to be the more convincing and probative ones.\n\n\n\nResult\n\nParticipants gave higher ratings to studies that confirmed their initial point of view even when studies on both sides had been carried out by the same method. In the end though everyone had read all the same studies, both those who initially supported the death penalty and those who initially opposed it reported that reading the studies had strengthened their beliefs.\n\n\n\n\n\n\n\n\n\n\n\nConfirmation Bias\n\n\nWhen you search for or interpret new information in a way that supports existing beliefs as opposed to challenge them."
+  },
+  {
+    "objectID": "session_behavioural/index.html#section-11",
+    "href": "session_behavioural/index.html#section-11",
+    "title": "Introduction to Behavioral Economics",
+    "section": "",
+    "text": "Test:\n\nWrite down 3 examples of successes that you have had\nWrite down 3 examples of failures\nWhat were the causes of the success?\nWhat were the causes of the failures?\n\n\n\nInterpretation\n\n\nAttribution bias occurs when people attribute their success to skills, and their failures to randomness (Taleb 2001)\nIt is when we attribute praise/blame to the person rather than the situation. However, successful people can also mistake hard work for luck. Timing can be important but so is developing the skills to be able to take opportunities when presented. After all, “the harder you practice, the luckier you get” Gary Player\n\n\n\n\n\n\n\n\n\n\n\n\nAttribution bias\n\n\nOverestimating how much control we have over events"
+  },
+  {
+    "objectID": "session_behavioural/index.html#section-12",
+    "href": "session_behavioural/index.html#section-12",
+    "title": "Introduction to Behavioral Economics",
+    "section": "",
+    "text": "Example:\n\n\nPeople are given a mug worth 10$\nThen the opportunity to exchange it for pens worth 11$\nMost people don’t take the deal\n\n\n\nA striking example\nDo you see other examples? Implications\n\n\n\n\n\n\n\n\n\nOwnership Bias / Endowment Effect Heuristic\n\n\nPeople place a higher valuation on an asset, purely by owning it."
+  },
+  {
+    "objectID": "session_behavioural/index.html#section-13",
+    "href": "session_behavioural/index.html#section-13",
+    "title": "Introduction to Behavioral Economics",
+    "section": "",
+    "text": "Example: We tend to think that footballers make more money than dentists, but only because we don’t see the failures (there’s a selection bias)\n\nDentistry is a more lucrative profession since it maximises your expected income across all alternative histories\nOne cannot consider a profession without taking into account the average of the people who enter it, not the sample of those who succeed Taleb (2001)\n\n\n\n\n\n\n\n\nAvailability Heuristic\n\n\nJudgement based on the ease with which instances come to mind"
+  },
+  {
+    "objectID": "session_behavioural/index.html#section-14",
+    "href": "session_behavioural/index.html#section-14",
+    "title": "Introduction to Behavioral Economics",
+    "section": "",
+    "text": "Question:\nWhat percentage of members of the United Nations are countries in Africa?"
+  },
+  {
+    "objectID": "session_behavioural/index.html#section-15",
+    "href": "session_behavioural/index.html#section-15",
+    "title": "Introduction to Behavioral Economics",
+    "section": "",
+    "text": "Experiment:\n\n\nShow a number: e.g. 65\n\nAsk participants: “What percentage of members of the United Nations are countries in Africa?”\n\n\n\nResult\n\nPeople who saw a 10 had an average guess of 25%\nPeople who saw a 65 had an average guess of 45%\nCorrect answer: 28%. There are 54 African countries, and 192 UN member states\n\n\n\n\n\n\n\n\n\n\n\nAnchoring Heuristic\n\n\nViewing things in relation to an irrelevant comparison point\n\n\n\n\n\nDon’t forget to add 65 on the board before."
+  },
+  {
+    "objectID": "session_behavioural/index.html#section-16",
+    "href": "session_behavioural/index.html#section-16",
+    "title": "Introduction to Behavioral Economics",
+    "section": "",
+    "text": "How oil spills harm birds, dolphins, sea lions and other wildlife"
+  },
+  {
+    "objectID": "session_behavioural/index.html#section-17",
+    "href": "session_behavioural/index.html#section-17",
+    "title": "Introduction to Behavioral Economics",
+    "section": "",
+    "text": "Example: Following the Exxon Valdez oil spill, people were asked how much they were willing to pay for equipment that would do the following:\n\nSave 2,000 birds:  $80 \nSave 20,000 birds:  $78 \nSave 200,000 birds:  $88 \n\n\nThe almost complete neglect of quantities in such emotional contexts has been confirmed many times\n\n\n\n\n\n\n\n\n\nAffect Heuristic\n\n\nDefinition: Over-reliance on our immediate emotional reaction"
+  },
+  {
+    "objectID": "session_behavioural/index.html#conclusion-1",
+    "href": "session_behavioural/index.html#conclusion-1",
+    "title": "Introduction to Behavioral Economics",
+    "section": "Conclusion",
+    "text": "Conclusion\nSo we know that people deviate from rationality in many ways that can be measured and / or related to theory.\n\nPolicy-makers can exploit the knowledge to design better policies."
+  },
+  {
+    "objectID": "session_behavioural/index.html#nudges",
+    "href": "session_behavioural/index.html#nudges",
+    "title": "Introduction to Behavioral Economics",
+    "section": "Nudges",
+    "text": "Nudges\nA nudge is a way to change agent’s decision by changing the decision context, without changing the preferences or the constraints in a meaningful way.\n\nIn principle one could use nudges as an alternative to traditional incentives in order to favour green behaviour:\n\n\n\nDoes it work?\nIs it ethical?\n\n\n\nTo be discussed in the next session…\n👉 Read the working paper Nudging as an Environmental Policy"
   },
   {
     "objectID": "prep_6/index_handout.html",
@@ -1761,7 +2545,7 @@
     "href": "index.html",
     "title": "Topics in Economics",
     "section": "",
-    "text": "Provisional Schedule\n\n\n\n\n\nDate\n\n\nTitle\n\n\n\n\n\n\nJan 15, 2024\n\n\nGeneral Introduction\n\n\n\n\nJan 15, 2024\n\n\nThe Rise of Artificial Intelligence\n\n\n\n\nJan 22, 2024\n\n\nThe Price of Carbon\n\n\n\n\nFeb 5, 2024\n\n\nGen-AI and the Labour Market\n\n\n\n\nFeb 5, 2024\n\n\nGreen Nudges\n\n\n\n\nFeb 12, 2024\n\n\nInequalities (TBC)\n\n\n\n\nFeb 26, 2024\n\n\nShould we Fear the Return of the Big, Bad, Inflation?\n\n\n\n\nMar 4, 2024\n\n\nCountries Pulling Appart: Geoeconomic Fragmentation.\n\n\n\n\nMar 11, 2024\n\n\nFinal Exam ☠\n\n\n\n\n\nNo matching items\n\n\nPracticalities\n\nEvaluation\n\ngroup work (40%)\n\nrecord a 5 min video developing one particular point of the course\n4 students max per group\nmore detailed instructions upcoming\n\nfinal exam (in-class) (60%)\n\nmcq on econ concepts\nvery short essay based on documents\n\nongoing (up to 20% bonus/malus)\n\nparticipation & behaviour\nmini-tasks if any"
+    "text": "TODO:\n\nby Feb 26th, read the working paper Nudging as an Environmental Policy Instrument\nby Jan 29th, read the last IMF report on AI (either blog entry or associated paper)\n\n  \nProvisional Schedule\n\n\n\n\n\nDate\n\n\nTitle\n\n\n\n\n\n\nJan 15, 2024\n\n\nGeneral Introduction\n\n\n\n\nJan 15, 2024\n\n\nThe Rise of Artificial Intelligence\n\n\n\n\nJan 22, 2024\n\n\nThe Price of Carbon\n\n\n\n\nJan 29, 2024\n\n\nGen-AI and the Labour Market\n\n\n\n\nFeb 12, 2024\n\n\nIntroduction to Behavioral Economics\n\n\n\n\nFeb 26, 2024\n\n\nGreen Nudges\n\n\n\n\nMar 4, 2024\n\n\nShould we Fear the Return of the Big, Bad, Inflation?\n\n\n\n\nMar 11, 2024\n\n\nCountries Pulling Appart: Geoeconomic Fragmentation.\n\n\n\n\nMar 18, 2024\n\n\nFinal Exam ☠\n\n\n\n\n\nNo matching items\n\n\nPracticalities\n\nEvaluation\n\ngroup work (40%)\n\nrecord a 5 min video developing one particular point of the course\n4 students max per group\nmore detailed instructions upcoming\n\nfinal exam (in-class) (60%)\n\nmcq on econ concepts\nvery short essay based on documents\n\nongoing (up to 20% bonus/malus)\n\nparticipation & behaviour\nmini-tasks if any"
   },
   {
     "objectID": "session_carbon/ideas.html",
@@ -1965,5 +2749,19 @@
     "title": "Gen-Z and the Labour Market (TBC)",
     "section": "",
     "text": "Come back later!."
+  },
+  {
+    "objectID": "session_nudges/sources.html",
+    "href": "session_nudges/sources.html",
+    "title": "Paper 1.",
+    "section": "",
+    "text": "Paper 1.\nhttps://youtu.be/PgA4Bb_LnQE?feature=shared\nBöhm, R., Gürerk, Ö., & Lauer, T. (2020). Nudging climate change mitigation: A laboratory experiment with inter-generational public goods. Games, 11, 42.\n\n\nPaper 2\nNudging as an Environmental Policy Instrument\nFredrik Carlsson Christina Annette Gravert Verena Kurz Olof Johansson-Stenman\n\n\nPaper 2 (marketing)\nFactors of effectiveness of green nudges for more eco-responsible behaviour – Systematic review and research directions\nClément Carrel marie-laure gavard-perret Cindy Caldara\n\n\nPaper 3.\nThe Effectiveness of a Green Default Nudge in Achieving Resource Conservation\nRecherche et Applications en Marketing\nJimena González-Ramírez\n-&gt; Paper conservation (double sided printing)"
+  },
+  {
+    "objectID": "session_nudges/notes.html",
+    "href": "session_nudges/notes.html",
+    "title": "Topics in Economics",
+    "section": "",
+    "text": "Application of nudges: vaccines"
   }
 ]
