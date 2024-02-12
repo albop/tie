@@ -15,7 +15,9 @@ listing:
 
 <mark>TODO</mark>: 
 
-- by Jan 29th, read the last IMF report on AI (either [blog entry](https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity) or associated paper)
+- by Feb 26th, read the [working paper](session_nudges/assets/196185119.pdf) *Nudging as an Environmental Policy
+Instrument*
+- <s>by Jan 29th, read the last IMF report on AI (either [blog entry](https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity) or associated paper)</s>
 
 \ \ 
 
