@@ -13,6 +13,10 @@ format:
 
 ---
 
+##
+
+<iframe width="1120" height="630" src="https://app.wooclap.com/events/IJBNSY/0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" class="stretch" allowfullscreen></iframe>
+
 # Behavioural Economics
 
 ## Behavioural Economics
@@ -26,9 +30,16 @@ format:
 
 :::: {.fragment .current-visible}
 
-![Amon Tversky](assets/tversky.jpg){width=15%}
-![Kahneman](assets/kahneman.jpg){width=15%}
-![Thaler](assets/thaler.jpg){width=15%}
+
+::::: {layout-ncol=3}
+
+![Amon Tversky](assets/tversky.jpg){width=100%}
+
+![Daniel Kahneman](assets/kahneman.jpg){width=100%}
+
+![Richard Thaler](assets/thaler.jpg){width=100%}
+
+:::::
 
 ::::
 
@@ -57,15 +68,14 @@ Good introduction: *Thinking Fast and Slow*
 Behavioural economists recruit participants for their experiments.
 
 - they perform some specific tasks or play a specifically designed game
-- they are usually paid and incentivized (to have skin in the game)
+- they are usually paid and incentivized (skin in the game)
 
 
 ## Experiments
 
-- experiments tries to recreate conditions so as to expose specific features of human choices
+- experiments try to recreate conditions so as to expose specific features of human choices
 - usually *one* determinant of choice is randomized so as to measure its effect cleanly
 - more participants lead to better results (if representative)
-- nowadays: online labs
 
 
 ## The Marshmallow Experiment
@@ -81,8 +91,10 @@ Behavioural economists recruit participants for their experiments.
 - Agents are perfectly rational...
   - they don't make errors
 - ...and pursue their self interest
-  - they are selfish
+  - specified by preferences
 
+
+$$\max_{x} U(x)$$
 
 ## The ultimatum game
 
@@ -93,8 +105,6 @@ Behavioural economists recruit participants for their experiments.
 :::
 
 ##
-
-[TODO] graph of the protocol
 
 __Setup__
 
@@ -147,25 +157,69 @@ Result:
 
 ## Reflection Effect or Loss Aversion
 
+::: columns
+
+:::: column
+
 ![](assets/loss_aversion.PNG)
 
-- Result from literature
-  - first lottery: 92% chose B
-  - second lottery: 80% chose A
-- Intepretation:
-  - agents are risk-seekers when it is about loosing money
-  - agents are risk-averse when it is about winning money
+::::
+:::: column
 
+::::: r-stack
+
+:::::: {.fragment .current-visible}
+
+__Result__ from literature
+
+- first lottery: 92% chose B
+- second lottery: 80% chose A
+
+::::::
+:::::: {.fragment .current-visible}
+
+__Intepretation__:
+
+- agents are risk-seekers when it is about loosing money
+- agents are risk-averse when it is about winning money
+
+::::::
+
+:::::
+
+::::
+:::
 
 ## The Certainty effect / The Allais paradox
 
+
+::: columns
+
+:::: column
+
 ![](assets/certainty_effect.PNG)
 
-- Result from literature
-  - first lottery: most people choose A
-  - second lottery: most people choose B
-- Intepretation: people underweigh outcomes that are merely probable compared to those that are certain
+::::
+:::: column
 
+::::: r-stack
+
+:::::: {.fragment .current-visible}
+
+__Result__ from literature
+
+- first lottery: most people choose A
+- second lottery: most people choose B
+
+::::::
+::::::  {.fragment .current-visible}
+
+__Intepretation__: people underweigh outcomes that are merely probable compared to those that are certain
+
+::::::
+:::::
+::::
+:::
 ## Expected utility
 
 - Expected utility framework
@@ -186,9 +240,10 @@ Result:
 
 :::: column
 
-- Prospect theory was proposed by *Kahneman and Tversky in 1979*
+- Prospect[^prospect] theory was proposed by *Kahneman and Tversky in 1979*
 - Attempts to describe realistically how humans evaluate losses and gains 
-- *Prospect* is a close synonym for *gamble*
+
+[^prospect]:  *Prospect* is a close synonym for *gamble*
 
 ::::
 
@@ -207,11 +262,9 @@ We classically distinguish two kinds of behavioural anomalies
 They have been studied by psychologists for a while
 
 - And are being revisited systematically by economists/psychologists
-- ...following the "replication crisis"
+- ...following the "replication crisis"[^replication]
 
-## On the Replication Crisis
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/42QuXLucH3Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[^replication]: for details, see the (excellent) video from  [veritasium](https://www.youtube.com/watch?v=42QuXLucH3Q)
 
 ## {.smaller}
 
@@ -249,7 +302,9 @@ __Instructions__: You are vice president of product development and are evaluati
 
 - If A and B’s forecasts are unbiased, your best estimate would be the midpoint
 - If your forecast is above the midpoint, you are implicitly assuming that R&D personnel underestimate the costs 
-- The median forecast shows the typical response of MBA students with 10 years of executive experience: they have "excessive optimism"
+- The median forecast shows the typical response of MBA students with 10 years of executive experience: they have __excessive optimism__.
+
+
 
 :::
 
@@ -263,19 +318,12 @@ Compared to the rest of this group, how would you rate your driving skills?
 
 . . .
 
-When people in the U.S. were asked this 93% said above average
-
-. . .
-
 ::: {.callout-important title="Over confidence"}
 
-When you search for or interpret new information in a way that supports existing beliefs as opposed to challenge them.
+Overestimating our own abilities
 
 :::
 
-TODO: Serena Williams
-
-----
 
 
 ##
@@ -287,7 +335,7 @@ TODO: Serena Williams
 
 ::: {.callout-important title="Hindsight Bias"}
 
-When you search for or interpret new information in a way that supports existing beliefs as opposed to challenge them.
+When you search for or interpret new information in a way that supports existing beliefs as opposed to challenge them. ???
 
 :::
 
@@ -296,6 +344,8 @@ When you search for or interpret new information in a way that supports existing
 ##
 
 ![The Riddler](assets/riddle.jpg){width=20%o}
+
+. . .
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vKA4w2O61Xo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -499,11 +549,32 @@ __Definition__: Over-reliance on our immediate emotional reaction
 
 :::
 
-##
-
-TODO: List of behaviour effects:
-
-
 # Conclusion
 
 
+## Conclusion
+
+So we know that people deviate from rationality in many ways that can be measured and / or related to theory.
+
+. . .
+
+Policy-makers can exploit the knowledge to design better policies.
+
+## Nudges
+
+A *nudge* is a way to change agent's decision by changing the decision context, without changing the preferences or the constraints in a meaningful way.
+
+. . .
+
+In principle one could use nudges as an alternative to traditional incentives in order to favour green behaviour:
+
+. . .
+ 
+- Does it work?
+- Is it ethical?
+
+. . .
+
+To be discussed in the next session... 
+
+👉 Read the [working paper](session_nudges/assets/196185119.pdf) *Nudging as an Environmental Policy*

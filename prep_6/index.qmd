@@ -1,6 +1,6 @@
 ---
 title: "Final Exam ☠"
-date: 2024/03/11
+date: 2024/03/18
 subtitle: Topics in Economics, ESCP, 2023-2024
 author: Pablo Winant
 format:

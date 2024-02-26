@@ -1,6 +1,6 @@
 ---
 title: "Countries Pulling Appart: Geoeconomic Fragmentation."
-date: 2024/03/04
+date: 2024/03/11
 subtitle: Topics in Economics, ESCP, 2023-2024
 author: Pablo Winant
 format:

@@ -1,6 +1,6 @@
 ---
 title: "Should we Fear the Return of the Big, Bad, Inflation?"
-date: 2024/02/26
+date: 2024/03/04
 subtitle: Topics in Economics, ESCP, 2023-2024
 author: Pablo Winant
 format:
