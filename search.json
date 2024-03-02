@@ -315,347 +315,627 @@
     "text": "More Readings\n\nChad Jones and Christopher Tonetti: Nonrivalry and the Economics of Data, American Economic Review\nAvi GoldFarb: Prediction Machines: The Simple Economics of Artificial Intelligence 2018\nGilles Saint Paul: Robots Vers la fin du travail ?\nAnton Korinek, Joseph E. Stiglitz: Artificial Intelligence and Its Implications for Income Distribution and Unemployment, chapter in Artificial Intelligence and Its Implications …, NBER\n\nalso on coursera"
   },
   {
-    "objectID": "session_nudges/index_handout.html",
-    "href": "session_nudges/index_handout.html",
+    "objectID": "session_nudges/index.html#reminder",
+    "href": "session_nudges/index.html#reminder",
+    "title": "Green Nudges",
+    "section": "Reminder",
+    "text": "Reminder\nEconomic consensus: agents respond to incentives\n\nTwo versions:\n\nFully Rational / Limited Rationality / Rational Inattention\nBehavioural World: systematic deviations from rationality"
+  },
+  {
+    "objectID": "session_nudges/index.html#carbon-tax",
+    "href": "session_nudges/index.html#carbon-tax",
+    "title": "Green Nudges",
+    "section": "Carbon Tax",
+    "text": "Carbon Tax\nFor rational agents:\n\nmodify the system to provide the right incentives\nfirst best: carbon tax\nsecond best: modify constraints to make carbon de facto more expensive\n\n\nShould work well for rational agents: especially firms…"
+  },
+  {
+    "objectID": "session_nudges/index.html#people-are-strange..",
+    "href": "session_nudges/index.html#people-are-strange..",
+    "title": "Green Nudges",
+    "section": "People are strange..",
+    "text": "People are strange..\nFabre and Douenne(2022): why do french people reject carbon tax?\n\n\n\n\nEffects of a tax and dividend solution"
+  },
+  {
+    "objectID": "session_nudges/index.html#why-do-people-reject-carbon-taxes",
+    "href": "session_nudges/index.html#why-do-people-reject-carbon-taxes",
+    "title": "Green Nudges",
+    "section": "Why do people reject carbon taxes?",
+    "text": "Why do people reject carbon taxes?\nFabre and Douenne(2022): what would make french people accept a tax and dividend solution?"
+  },
+  {
+    "objectID": "session_nudges/index.html#for-behavioural-agents",
+    "href": "session_nudges/index.html#for-behavioural-agents",
+    "title": "Green Nudges",
+    "section": "For behavioural agents",
+    "text": "For behavioural agents\n\n\nBehavioural agents (with any kind of behavioural bias) also respond to incentives\nBut their biases can also be affected by other means."
+  },
+  {
+    "objectID": "session_nudges/index.html#examples",
+    "href": "session_nudges/index.html#examples",
+    "title": "Green Nudges",
+    "section": "Examples:",
+    "text": "Examples:\n\n\nBehavioural agents (with any kind of behavioural bias) also respond to incentives\nBut their biases can also be affected by other means."
+  },
+  {
+    "objectID": "session_nudges/index.html#section",
+    "href": "session_nudges/index.html#section",
     "title": "Green Nudges",
     "section": "",
-    "text": "Come back later!."
+    "text": "Nudge (economic definition)\n\n\nA nudge is defined as a change in the decision environment that influcences people’s behavior without prohibiting any choices or significantly changing the economic incentives\nfrom Thaler and Sunstein, 2009"
   },
   {
-    "objectID": "session_nudges/prep.html",
-    "href": "session_nudges/prep.html",
+    "objectID": "session_nudges/index.html#section-1",
+    "href": "session_nudges/index.html#section-1",
     "title": "Green Nudges",
     "section": "",
-    "text": "Economic consensus: agents respond to incentives\nTwo versions:\nFully Rational / Limited Rationality / Rational Inattention\nBehavioural World: systematic deviations from rationality\n\n\n\nOeconomic Rational\n\nmodify the system to provide the right incentives\nfirst best: tax carbon\notherwise: modify constraints to make carbon de facto more expensive\n\nexamples\n\n\nShould work well for rational agents: especially firms…\n\n\n\n\ndirectly affect people’s decision context to affect their behaviour\n\n\n\n\n…/.\n\na nudge: a cheap, …\n\n\n\n\n\n\n\n\nSecond column\n\n\n\n\n\n\n\nFist Column"
+    "text": "Originally, the role of nudges was to counteract poor choices made by individuals, in areas such as personal savings and health\n\nTraditional Nudge: improve welfare of agents: a behavioral solution to a behavioral problem.\n\n\nGreen nudge: influence people’s behavior, through changes in the choice architecture, in order to reduce negative externalities: a behavioral solution to a traditional economic problem."
   },
   {
-    "objectID": "session_nudges/prep.html#reminder",
-    "href": "session_nudges/prep.html#reminder",
-    "title": "Green Nudges",
-    "section": "",
-    "text": "Economic consensus: agents respond to incentives\nTwo versions:\nFully Rational / Limited Rationality / Rational Inattention\nBehavioural World: systematic deviations from rationality"
-  },
-  {
-    "objectID": "session_nudges/prep.html#carbon-tax",
-    "href": "session_nudges/prep.html#carbon-tax",
-    "title": "Green Nudges",
-    "section": "",
-    "text": "Oeconomic Rational\n\nmodify the system to provide the right incentives\nfirst best: tax carbon\notherwise: modify constraints to make carbon de facto more expensive\n\nexamples\n\n\nShould work well for rational agents: especially firms…"
-  },
-  {
-    "objectID": "session_nudges/prep.html#another-perspective",
-    "href": "session_nudges/prep.html#another-perspective",
-    "title": "Green Nudges",
-    "section": "",
-    "text": "directly affect people’s decision context to affect their behaviour"
-  },
-  {
-    "objectID": "session_nudges/prep.html#examples",
-    "href": "session_nudges/prep.html#examples",
-    "title": "Green Nudges",
-    "section": "",
-    "text": "…/.\n\na nudge: a cheap, …"
-  },
-  {
-    "objectID": "session_nudges/prep.html#examples-1",
-    "href": "session_nudges/prep.html#examples-1",
-    "title": "Green Nudges",
-    "section": "",
-    "text": "Second column"
-  },
-  {
-    "objectID": "session_nudges/prep.html#examples-2",
-    "href": "session_nudges/prep.html#examples-2",
-    "title": "Green Nudges",
-    "section": "",
-    "text": "Fist Column"
-  },
-  {
-    "objectID": "session_nudges/prep.html#system-1-vs-system-2",
-    "href": "session_nudges/prep.html#system-1-vs-system-2",
-    "title": "Green Nudges",
-    "section": "System 1 vs System 2",
-    "text": "System 1 vs System 2"
-  },
-  {
-    "objectID": "session_nudges/prep.html#incentives-vs-nudges",
-    "href": "session_nudges/prep.html#incentives-vs-nudges",
-    "title": "Green Nudges",
-    "section": "Incentives vs Nudges",
-    "text": "Incentives vs Nudges"
-  },
-  {
-    "objectID": "session_nudges/prep.html#the-neo-classical-view",
-    "href": "session_nudges/prep.html#the-neo-classical-view",
-    "title": "Green Nudges",
-    "section": "The (neo)-classical view",
-    "text": "The (neo)-classical view\n\nAgents are perfectly rational…\n\nthey don’t make errors\n\n…and pursue their self interest\n\nthey are selfish"
-  },
-  {
-    "objectID": "session_nudges/prep.html#the-ultimatum-game",
-    "href": "session_nudges/prep.html#the-ultimatum-game",
-    "title": "Green Nudges",
-    "section": "The ultimatum game",
-    "text": "The ultimatum game\n\n\n\n\nSplit the Bill"
-  },
-  {
-    "objectID": "session_nudges/prep.html#section",
-    "href": "session_nudges/prep.html#section",
-    "title": "Green Nudges",
-    "section": "",
-    "text": "[TODO] graph of the protocol\nSetup\nTwo players negotiate over a fixed amount of money (the pie):\n\nplayer 1 demands a proportion of the pie\nplayer 2 sees the size and player’s 1 demand and either rejects or accepts it\n\naccept: split is implemented\nreject: both players get 0"
-  },
-  {
-    "objectID": "session_nudges/prep.html#section-1",
-    "href": "session_nudges/prep.html#section-1",
-    "title": "Green Nudges",
-    "section": "",
-    "text": "Results"
-  },
-  {
-    "objectID": "session_nudges/prep.html#section-2",
-    "href": "session_nudges/prep.html#section-2",
-    "title": "Green Nudges",
-    "section": "",
-    "text": "Results\n\n\n\nhundreds of papers since original one by Guth et al.\nconsistent results: average offer is 40%, offers below 20% have high chances to be rejected, lots of 50-50\nnote that the “rational choice” for both agents would be 99-1!\nit is an example of other regarding preferences (aka altruism)"
-  },
-  {
-    "objectID": "session_nudges/prep.html#section-3",
-    "href": "session_nudges/prep.html#section-3",
-    "title": "Green Nudges",
-    "section": "",
-    "text": "What determines the split? What influences altruism?\n. . .\n\n\n\naltruism\n\n\n. . .\nCan you devise an experiment to measure the effect of “shame”?"
-  },
-  {
-    "objectID": "session_nudges/prep.html#the-ultimatum-game-measuring-shame",
-    "href": "session_nudges/prep.html#the-ultimatum-game-measuring-shame",
-    "title": "Green Nudges",
-    "section": "The ultimatum game: measuring shame",
-    "text": "The ultimatum game: measuring shame\nImproved protocol\n\nfor half of the candidates, exactly as before (control group)\nfor the other half (treatment group), the two players, don’t see each other don’t have any contact. Only the demand from player one is communicated to player 2.\n\nResult:\n\n-&gt; players are less generous but the result holds"
-  },
-  {
-    "objectID": "session_nudges/prep.html#reflection-effect-or-loss-aversion",
-    "href": "session_nudges/prep.html#reflection-effect-or-loss-aversion",
-    "title": "Green Nudges",
-    "section": "Reflection Effect or Loss Aversion",
-    "text": "Reflection Effect or Loss Aversion\n\n\nResult from literature\n\nfirst lottery: 92% chose B\nsecond lottery: 80% chose A\n\nIntepretation:\n\nagents are risk-seekers when it is about loosing money\nagents are risk-averse when it is about winning money"
-  },
-  {
-    "objectID": "session_nudges/prep.html#the-certainty-effect-the-allais-paradox",
-    "href": "session_nudges/prep.html#the-certainty-effect-the-allais-paradox",
-    "title": "Green Nudges",
-    "section": "The Certainty effect / The Allais paradox",
-    "text": "The Certainty effect / The Allais paradox\n\n\nResult from literature\n\nfirst lottery: most people choose A\nsecond lottery: most people choose B\n\nIntepretation: people underweigh outcomes that are merely probable compared to those that are certain"
-  },
-  {
-    "objectID": "session_nudges/prep.html#expected-utility",
-    "href": "session_nudges/prep.html#expected-utility",
-    "title": "Green Nudges",
-    "section": "Expected utility",
-    "text": "Expected utility\n\nExpected utility framework\n\nsimple assumptions on people’s preferences\nagents maximize \\(U(x)\\) where \\(U\\) is increasing and concave\nstandard in economics and finance\n\nConcavity implies that agents are risk agents are risk averse"
-  },
-  {
-    "objectID": "session_nudges/prep.html#prospect-theory",
-    "href": "session_nudges/prep.html#prospect-theory",
-    "title": "Green Nudges",
-    "section": "Prospect theory",
-    "text": "Prospect theory\n\n\n\n\n\nProspect theory was proposed by Kahneman and Tversky in 1979\nAttempts to describe realistically how humans evaluate losses and gains\nProspect is a close synonym for gamble"
-  },
-  {
-    "objectID": "session_nudges/prep.html#behavioural-anomalies",
-    "href": "session_nudges/prep.html#behavioural-anomalies",
-    "title": "Green Nudges",
-    "section": "Behavioural anomalies",
-    "text": "Behavioural anomalies\nWe classically distinguish two kinds of behavioural anomalies\n\npredisposition towards error\nmental shortcuts (aka heuristics)\n\nThey have been studied by psychologists for a while\n\nAnd are being revisited systematically by economists/psychologists\n…following the “replication crisis”"
-  },
-  {
-    "objectID": "session_nudges/prep.html#section-4",
-    "href": "session_nudges/prep.html#section-4",
-    "title": "Green Nudges",
-    "section": "",
-    "text": "The Riddler"
-  },
-  {
-    "objectID": "session_nudges/prep.html#section-5",
-    "href": "session_nudges/prep.html#section-5",
-    "title": "Green Nudges",
-    "section": "",
-    "text": "Setup (Study from Lord, Ross & Leeper, 1979)\n48 undergraduates supporting and opposing capital punishment were exposed to 2 purported studies, one seemingly confirming and one seemingly disconfirming their existing beliefs about the deterrent efficacy of the death penalty. As predicted, both proponents and opponents of capital punishment rated those results and procedures that confirmed their own beliefs to be the more convincing and probative ones.\n\n\nResult\nParticipants gave higher ratings to studies that confirmed their initial point of view even when studies on both sides had been carried out by the same method. In the end though everyone had read all the same studies, both those who initially supported the death penalty and those who initially opposed it reported that reading the studies had strengthened their beliefs.\n\n\n. . .\n\n\n\n\n\n\nConfirmation Bias\n\n\n\nWhen you search for or interpret new information in a way that supports existing beliefs as opposed to challenge them."
-  },
-  {
-    "objectID": "session_nudges/prep.html#section-6",
-    "href": "session_nudges/prep.html#section-6",
-    "title": "Green Nudges",
-    "section": "",
-    "text": "Test:\n\nWrite down 3 examples of successes that you have had\nWrite down 3 examples of failures\nWhat were the causes of the success?\nWhat were the causes of the failures?\n\n\n\nInterpretation\n\nAttribution bias occurs when people attribute their success to skills, and their failures to randomness (Taleb 2001)\nIt is when we attribute praise/blame to the person rather than the situation. However, successful people can also mistake hard work for luck. Timing can be important but so is developing the skills to be able to take opportunities when presented. After all, “the harder you practice, the luckier you get” Gary Player\n\n\n\n. . .\n\n\n\n\n\n\nAttribution bias\n\n\n\nOverestimating how much control we have over events"
-  },
-  {
-    "objectID": "session_nudges/prep.html#section-7",
-    "href": "session_nudges/prep.html#section-7",
-    "title": "Green Nudges",
-    "section": "",
-    "text": "Example:\n\n\nPeople are given a mug worth 10$\nThen the opportunity to exchange it for pens worth 11$\nMost people don’t take the deal\n\n\nA striking example\nDo you see other examples? Implications\n. . .\n\n\n\n\n\n\nOwnership Bias / Endowment Effect Heuristic\n\n\n\nPeople place a higher valuation on an asset, purely by owning it."
-  },
-  {
-    "objectID": "session_nudges/prep.html#section-8",
-    "href": "session_nudges/prep.html#section-8",
-    "title": "Green Nudges",
-    "section": "",
-    "text": "Example: We tend to think that footballers make more money than dentists, but only because we don’t see the failures (there’s a selection bias)\n\nDentistry is a more lucrative profession since it maximises your expected income across all alternative histories\nOne cannot consider a profession without taking into account the average of the people who enter it, not the sample of those who succeed Taleb (2001)\n\n\n\n\n\n\n\nAvailability Heuristic\n\n\n\nJudgement based on the ease with which instances come to mind"
-  },
-  {
-    "objectID": "session_nudges/prep.html#section-9",
-    "href": "session_nudges/prep.html#section-9",
-    "title": "Green Nudges",
-    "section": "",
-    "text": "Question:\nWhat percentage of members of the United Nations are countries in Africa?"
-  },
-  {
-    "objectID": "session_nudges/prep.html#section-10",
-    "href": "session_nudges/prep.html#section-10",
-    "title": "Green Nudges",
-    "section": "",
-    "text": "Experiment:\n\n\nShow a number: e.g. 65\n\nAsk participants: “What percentage of members of the United Nations are countries in Africa?”\n\n\n\nResult\n\nPeople who saw a 10 had an average guess of 25%\nPeople who saw a 65 had an average guess of 45%\nCorrect answer: 28%. There are 54 African countries, and 192 UN member states\n\n\n\n. . .\n\n\n\n\n\n\nAnchoring Heuristic\n\n\n\nViewing things in relation to an irrelevant comparison point\n\n\n\nDon’t forget to add 65 on the board before."
-  },
-  {
-    "objectID": "session_nudges/prep.html#section-11",
-    "href": "session_nudges/prep.html#section-11",
-    "title": "Green Nudges",
-    "section": "",
-    "text": "How oil spills harm birds, dolphins, sea lions and other wildlife"
-  },
-  {
-    "objectID": "session_nudges/prep.html#section-12",
-    "href": "session_nudges/prep.html#section-12",
-    "title": "Green Nudges",
-    "section": "",
-    "text": "Example: Following the Exxon Valdez oil spill, people were asked how much they were willing to pay for equipment that would do the following:\n\nSave 2,000 birds:  $80 \nSave 20,000 birds:  $78 \nSave 200,000 birds:  $88 \n\n. . .\nThe almost complete neglect of quantities in such emotional contexts has been confirmed many times\n. . .\n\n\n\n\n\n\nAffect Heuristic\n\n\n\nDefinition: Over-reliance on our immediate emotional reaction"
-  },
-  {
-    "objectID": "session_nudges/prep.html#section-13",
-    "href": "session_nudges/prep.html#section-13",
-    "title": "Green Nudges",
-    "section": "",
-    "text": "TODO: List of behaviour effects:"
-  },
-  {
-    "objectID": "session_nudges/prep.html#section-14",
-    "href": "session_nudges/prep.html#section-14",
-    "title": "Green Nudges",
-    "section": "",
-    "text": "Nudge (economic definition)\n\n\n\nA nudge is defined as a change in the decision environment that influcences people’s behavior without prohibiting any choices or significantly changing the economic incentives\nfrom Thaler and Sunstein, 2009"
-  },
-  {
-    "objectID": "session_nudges/prep.html#section-15",
-    "href": "session_nudges/prep.html#section-15",
-    "title": "Green Nudges",
-    "section": "",
-    "text": "Originally, the role of nudges was to counteract poor choices made by individuals, in areas such as personal savings and health\nTraditional: improve welfare of agents: a behavioral solution to a behavioral problem.\nGreen nudge: influence people’s behavior, through changes in the choice architecture, in order to reduce negative externalities: a behavioral solution to a traditional economic problem."
-  },
-  {
-    "objectID": "session_nudges/prep.html#classification",
-    "href": "session_nudges/prep.html#classification",
+    "objectID": "session_nudges/index.html#classification",
+    "href": "session_nudges/index.html#classification",
     "title": "Green Nudges",
     "section": "Classification",
     "text": "Classification"
   },
   {
-    "objectID": "session_nudges/prep.html#cognitive-nudges",
-    "href": "session_nudges/prep.html#cognitive-nudges",
+    "objectID": "session_nudges/index.html#section-2",
+    "href": "session_nudges/index.html#section-2",
     "title": "Green Nudges",
-    "section": "Cognitive Nudges",
-    "text": "Cognitive Nudges\nCognitive nudges: correct for bounded rationality, inattention of self-control. Make it easier to “do the right thing”.\nFor instance, help individuals with self-control problems, present-bias….\nExample of cognitive self-focused nudges: put healthy food at the top of a restaurant menu.\nExample of cognitive green nudge: does not assume that individuals make poor choices for themselves because of bounded rationality. But it workds because individuals have cognitive or self control limitations.\nbounded rationality or self-control could lead an individual defaulted into a green tariff to stick with the new socially desirable default."
+    "section": "",
+    "text": "Cognitive nudges\nCorrect for bounded rationality, inattention of self-control. Make it easier to “do the smart thing”.\nFor instance, help individuals with self-control problems, present-bias….\n  \n\nExample: put healthy food at the top of a restaurant menu.\nIt does does not assume that individuals make poor choices for themselves because of bounded rationality. But it works because individuals have cognitive or self control limitations."
   },
   {
-    "objectID": "session_nudges/prep.html#moral-nudges",
-    "href": "session_nudges/prep.html#moral-nudges",
+    "objectID": "session_nudges/index.html#section-3",
+    "href": "session_nudges/index.html#section-3",
     "title": "Green Nudges",
-    "section": "Moral Nudges",
-    "text": "Moral Nudges\nA moral nudge draws on people’s social preferences, their desire for status, to follow norms or to have a positive self-image. The nudge rewards “doing the right thing” by providing the individual with moral (dis)utility."
+    "section": "",
+    "text": "Moral Nudges\nA moral nudge draws on people’s social preferences, their desire for status, to follow norms or to have a positive self-image. The nudge rewards “doing the right thing” by providing the individual with moral (dis)utility.\n\nExample: bounded rationality or self-control could lead an individual defaulted into a green tariff to stick with the new socially desirable default."
   },
   {
-    "objectID": "session_nudges/prep.html#compare-with-the-neoclassical-agent",
-    "href": "session_nudges/prep.html#compare-with-the-neoclassical-agent",
+    "objectID": "session_nudges/index.html#compare-with-the-neoclassical-agent",
+    "href": "session_nudges/index.html#compare-with-the-neoclassical-agent",
     "title": "Green Nudges",
     "section": "Compare with the neoclassical agent",
-    "text": "Compare with the neoclassical agent\nCognitive Nudge: help agent solve optimization Moral Nudge: affects agents preferences"
+    "text": "Compare with the neoclassical agent\n\\[\\max_{s.t. h(x)\\leq0} U(x)\\]\nCognitive Nudge: help agent solve optimization\nMoral Nudge: affects agents preferences"
   },
   {
-    "objectID": "session_nudges/prep.html#section-16",
-    "href": "session_nudges/prep.html#section-16",
+    "objectID": "session_nudges/index.html#section-4",
+    "href": "session_nudges/index.html#section-4",
     "title": "Green Nudges",
     "section": "",
     "text": "Nudge Type\nExample\n\n\n\n\nDefaults\nIf I manage to summarize that in a few words, will that fit?\n\n\nSimplification of information and salience\n\n\n\nChanges in physical environment\n\n\n\nReminders\n\n\n\nSocial comparison\n\n\n\nNormative appeal and peer pressure\n\n\n\nCommitment and goal Setting"
   },
   {
-    "objectID": "session_nudges/prep.html#defaults",
-    "href": "session_nudges/prep.html#defaults",
+    "objectID": "session_nudges/index.html#defaults",
+    "href": "session_nudges/index.html#defaults",
     "title": "Green Nudges",
     "section": "Defaults",
-    "text": "Defaults\nThe default effect refers to the tendency of people to stick with an alternative already chosen by someone else, even when the cost of making an active choice is very small.\nWhy does it work?\n\n\npeople interpret the default as a suggestion from someone better informed\nlowers the cost of a decision (from no-decision to the default)\nloss aversion or status quo bias make people stay with the default\n\n\nThermostat story: lower standard from 20…\n\nFamous example of prosocial default nudge: organ donors."
+    "text": "Defaults\n\nDefault BrowserThe default effect refers to the tendency of people to stick with an alternative already chosen by someone else, even when the cost of making an active choice is very small."
   },
   {
-    "objectID": "session_nudges/prep.html#simplification-of-information-and-salience",
-    "href": "session_nudges/prep.html#simplification-of-information-and-salience",
+    "objectID": "session_nudges/index.html#section-5",
+    "href": "session_nudges/index.html#section-5",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Default BrowserWhy does it work?\n\n\npeople interpret the default as a suggestion from someone better informed\nlowers the cost of a decision (from no-decision to the default)\nloss aversion or status quo bias make people stay with the default"
+  },
+  {
+    "objectID": "session_nudges/index.html#section-6",
+    "href": "session_nudges/index.html#section-6",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "change the the default on computer printing behavior: simplex to duplex\nResult:\n\nconsumption of paper dropped by around 15 percent\nno indications that the effect was any smaller 28 weeks after the change had been introduced"
+  },
+  {
+    "objectID": "session_nudges/index.html#section-7",
+    "href": "session_nudges/index.html#section-7",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Brown et al. (2013)\nChange the default temperature on thermostat for OECD employees from the standard 20 °C to a lower default.\nResult:\n\n1-degree decrease resulted in a lower average temperature initially, the effect disappeared and went into the opposite direction after a few weeks.\n\n\nFamous example of prosocial default nudge: organ donors."
+  },
+  {
+    "objectID": "session_nudges/index.html#simplification-of-information-and-salience",
+    "href": "session_nudges/index.html#simplification-of-information-and-salience",
     "title": "Green Nudges",
     "section": "Simplification of Information and Salience",
-    "text": "Simplification of Information and Salience\nexample: consumers pay little attention to fuel and electricity costs compared with the sales prices they face when buying cars or lightbulbs.\n\nlabels, order in which the information is presented"
+    "text": "Simplification of Information and Salience\nDecision makers are innatentive to certain informations and make therefore suboptimal decisions.\nExample: consumers ignore fuel and electricity costs when buying cars or lightbulbs.\n\nNote that this can correspond to:\n\nlimited rationality: agents lack cognitive power\nrational innatention: since acquiring and processing information is in general costly, it might be rational to ignore some"
   },
   {
-    "objectID": "session_nudges/prep.html#changes-in-the-physical-environment",
-    "href": "session_nudges/prep.html#changes-in-the-physical-environment",
+    "objectID": "session_nudges/index.html#section-8",
+    "href": "session_nudges/index.html#section-8",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Label: lifetime energy costs\n\nIs it really a nudge ? Or just release of information?"
+  },
+  {
+    "objectID": "session_nudges/index.html#section-9",
+    "href": "session_nudges/index.html#section-9",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "In Tiefenbeck et al. (2016), real-time feedback on energy use, in the shower, was given in the form of an animation of a polar bear standing on melting ice.\n\n-&gt; reduced the average shower time by 22 percent\n\n\n\nIs it salience/ availability bias? Or emotion?"
+  },
+  {
+    "objectID": "session_nudges/index.html#changes-in-the-physical-environment",
+    "href": "session_nudges/index.html#changes-in-the-physical-environment",
     "title": "Green Nudges",
     "section": "Changes in the Physical Environment",
-    "text": "Changes in the Physical Environment\nexample: reduce food waste in buffet restaurants using smaller plates\nfew academic and adequately statistically powered evaluations of such nudges."
+    "text": "Changes in the Physical Environment\nThe design of the physical can nudge people to the preferable behaviour, or give clues on appropriate conduct.\n\n  \nThe topic is under-studied despite some famous examples."
   },
   {
-    "objectID": "session_nudges/prep.html#reminders",
-    "href": "session_nudges/prep.html#reminders",
+    "objectID": "session_nudges/index.html#section-10",
+    "href": "session_nudges/index.html#section-10",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Kallbekken and Saelen (2013): in a buffet restaurant, 50% smaller plates led to a reduction of around 20% of food consumption."
+  },
+  {
+    "objectID": "session_nudges/index.html#reminders",
+    "href": "session_nudges/index.html#reminders",
     "title": "Green Nudges",
     "section": "Reminders",
-    "text": "Reminders\nA reminder increases attention to a decision and reduces forgetfulness. However, reminders can also impose moral costs if they draw attention to a decision that the decision maker would rather avoid (Damgaard and Gravert, 2018). For example, being reminded can create guilt and/or cognitive dissonance.\nelectricity bill, which is a type of reminder, on hourly electricity consumption. They found a .6–1 percent reduction in electricity consumption following receipt of the bill"
+    "text": "Reminders\n\nA reminder increases attention to a decision and reduces forgetfulness.\n\nCan have unexpected effects:\n\ndraw attention to a decision that the decision maker would rather avoid\ncreate guilt and/or cognitive dissonance"
   },
   {
-    "objectID": "session_nudges/prep.html#social-comparisons-and-social-preferences",
-    "href": "session_nudges/prep.html#social-comparisons-and-social-preferences",
+    "objectID": "session_nudges/index.html#section-11",
+    "href": "session_nudges/index.html#section-11",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Reminders of participation in voluntary land conservation programs\n-&gt; Increase participation rate\nWallander, Ferraro and Higgins (2017)\n\n\n\n\nBill\n\n\nAfter receiving an electricity bill households reduce consumption by 0.6% to 1%.\nGilbert and Zivin (2014)\n(A way to reduce peak demand?)"
+  },
+  {
+    "objectID": "session_nudges/index.html#social-comparisons-and-social-preferences",
+    "href": "session_nudges/index.html#social-comparisons-and-social-preferences",
     "title": "Green Nudges",
     "section": "Social Comparisons and Social Preferences",
-    "text": "Social Comparisons and Social Preferences\nthe extent to which social information affects behavior depends not only on the actual information regarding what others do (i.e., descriptive messages) but also on whether it conveys approval of certain behavior (i.e., injunctive messages).\nA series of randomized field experiments aimed at water and energy conservation suggests that the provision of both descriptive and injunctive messages can affect individuals’ behavior by reducing water and electricity use\nstudy by Delmas and Lessem (2014), who studied the effect of both private information to the household and public information to all neighbors on electricity use. They found that only a combination of private and public information had an effect on energy use (a 20 percent reduction). S"
+    "text": "Social Comparisons and Social Preferences\nWe have seen that individuals exhibit other-regarding preferences\nIn econ, there are several associated concepts/theories:\n\naltruistic motive\nconsumption externalities / conspicuous consumption (keeping up with the Jones)\npositional preferences\n…"
   },
   {
-    "objectID": "session_nudges/prep.html#moral-pleas-moral-suasion",
-    "href": "session_nudges/prep.html#moral-pleas-moral-suasion",
+    "objectID": "session_nudges/index.html#section-12",
+    "href": "session_nudges/index.html#section-12",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "In behavioural economics we posit that social informations (information about others) impact individual’s behaviour.\nSocial information can be classified between:\n\ndescriptive message: this is what others do\ninjunctive message: this is the appropriate behaviour\n\nHow are they different?\n\ndescriptive: activate immitation mechanism, fomo, social norm (default) injunctive: what is socially acceptable? what is ok? (ex: if I’m told others pollute too much, what should I do?)"
+  },
+  {
+    "objectID": "session_nudges/index.html#section-13",
+    "href": "session_nudges/index.html#section-13",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Consumption DashboardDelmas and Lessem (2014)\nAt UCLA students don’t pay for energy bills.\nHow to reduce water and electricity consumption with a cusom dashboard for each room?"
+  },
+  {
+    "objectID": "session_nudges/index.html#section-14",
+    "href": "session_nudges/index.html#section-14",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Provide feedback to users with:\n\nrealtime individual consumption (private information)\nposition w.r.t. mean consumption (descriptive social information)\npublic information: Ratings for each room (red/green were made public with large, prominently displayed posters, posted on each floor\n\n\nAuthors found that only a combination of private and public information had an effect on energy use (a 20 percent reduction).\n\n\nEffect persists after the end of the treatment\n\nAuthors talk about intrinsic vs extrinsic motivation\nDiscussion about self selection: - students were volunteer: self-selection issue (significantly more altruistic and environmental-friendly) - should bias the response to private information but we"
+  },
+  {
+    "objectID": "session_nudges/index.html#moral-pleas-moral-suasion",
+    "href": "session_nudges/index.html#moral-pleas-moral-suasion",
     "title": "Green Nudges",
     "section": "Moral pleas / moral suasion",
-    "text": "Moral pleas / moral suasion\nIto, Ida, and Tanaka (2018), moral suasion was used to reduce energy use during peak hours. The following message was received by some households: “Substantial energy conservation will be required for the society during critical peak-demand hours in summer and winter.”\nElectricity use was reduced by around 8 percentage points in the moral suasion group and by around 15 percent by the households that received economic incentives. However, the effect of moral suasion diminished quickly when repeated, while the effect of the economic incentives did not. In Egebark and Ekström (2016), a moral message was provided in order to reduce the use of printer paper, but no effects were found."
+    "text": "Moral pleas / moral suasion\n\nSome social behavior, does not require any direct comparison.\nMoral suasion / moral pleas are used to nudge behavior.\nEffects seem uncertain and do not last"
   },
   {
-    "objectID": "session_nudges/prep.html#commitment-and-goal-setting",
-    "href": "session_nudges/prep.html#commitment-and-goal-setting",
+    "objectID": "session_nudges/index.html#section-15",
+    "href": "session_nudges/index.html#section-15",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Ito, Ida, and Tanaka (2018)\nSend message to consumers: Substantial energy conservation will be required for the society during critical peak-demand hours in summer and winter.\nCompare with economic incentives (dynamic pricing)\n\nOutcome:\n\nelectricity use down by 8% for moral suasion, 16% for economic incentives\nfor moral suasion, consumption back to normal after end of messages (dishabituation)\nfor economic incentives, green behaviour persists for longer"
+  },
+  {
+    "objectID": "session_nudges/index.html#commitment-and-goal-setting",
+    "href": "session_nudges/index.html#commitment-and-goal-setting",
     "title": "Green Nudges",
     "section": "Commitment and Goal Setting",
-    "text": "Commitment and Goal Setting\nHarding and Hsiaw (2014) investigated how voluntary goal setting concerning electricity savings affects actual electricity use and found that those who set a realistic goal save more than those who set a too low or too high goal.\n. In Baca-Motes et al. (2013), some hotel guests were given the opportunity to commit to acting more sustainably and received a pin enabling them to signal commitment. Treated guests were more likely to reuse their towels than those who were not asked to commit. The effect of the commitment was stronger if they received a pin, and it was also stronger if the commitment was more specific (reuse towels) than general (act in an environmentally friendly way)"
+    "text": "Commitment and Goal Setting\nSeveral strands of behavioural economics postulate the existence of several selves (with different goals/preferences) and discuss some kind of self control.\nThe time inconsistency between today’s self and tomorrow’s self leads to commitment issues\nThe inconsistency between one’s self-image and actual behaviour leads to cognitive dissonance."
   },
   {
-    "objectID": "session_nudges/prep.html#nudges-vs-conventional-policy-instruments.",
-    "href": "session_nudges/prep.html#nudges-vs-conventional-policy-instruments.",
+    "objectID": "session_nudges/index.html#section-16",
+    "href": "session_nudges/index.html#section-16",
     "title": "Green Nudges",
-    "section": "Nudges vs conventional policy instruments.",
-    "text": "Nudges vs conventional policy instruments."
+    "section": "",
+    "text": "Harding and Hsiaw (2014)\nNorthern Illinois goal-setting program, aimed at reducing residential electricity consumption:\n\nvoluntary goal-setting\nprovides informaton on how to achieve goal and constant feedback\n\nResults:\n\nattractive to present-biased consumers\naverage savings: 4.4% (8% at the begining)\nhigher savings when goal is realistic rather than over-ambitious or very low\n\n\ncompare to Christmas Account / smokers’ account"
   },
   {
-    "objectID": "session_nudges/prep.html#are-they-ethical",
-    "href": "session_nudges/prep.html#are-they-ethical",
+    "objectID": "session_nudges/index.html#section-17",
+    "href": "session_nudges/index.html#section-17",
     "title": "Green Nudges",
-    "section": "Are they ethical?",
-    "text": "Are they ethical?"
+    "section": "",
+    "text": "Loock, Staake, and Thiesse (2013)\nAnother field experiment with electricity customers:\n\nvoluntary goal-setting…\nwith a default option\n\n\nResults:\n\ndefaults can raise goals and realized savings…\n… but lead to lower savings if set too far from self-set goals"
   },
   {
-    "objectID": "session_nudges/prep.html#are-they-working",
-    "href": "session_nudges/prep.html#are-they-working",
+    "objectID": "session_nudges/index.html#section-18",
+    "href": "session_nudges/index.html#section-18",
     "title": "Green Nudges",
-    "section": "Are they working?",
-    "text": "Are they working?"
+    "section": "",
+    "text": "In Baca-Motes et al. (2013)\nHotel guests can commit to act more sustainably in exchange for a pin\nResult:\n\ntreated guests more likely to reuse towels\neffect stronger with the pin\nstronger if commitment more specific (reuse towels) than general (act in an environmentally friendly way)"
+  },
+  {
+    "objectID": "session_nudges/index.html#section-19",
+    "href": "session_nudges/index.html#section-19",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Cognitive dissonance: conflicting objectives decisions by different active selves.\nIt can counter the effect of many nudges."
+  },
+  {
+    "objectID": "session_nudges/index.html#section-20",
+    "href": "session_nudges/index.html#section-20",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Berke and Larson 2023\nTwo field studies were conducted at a US academic institution (MIT), where people selected what to eat via event registration forms.\nA random group saw “vegan” or “vegetarian” labels in the titles of one of the two items.\n\n\n\n\n\n\nResults:\n\nlabels did not increase vegan consumption by vegans/vegetarians…\n… but meat consumption of non-vegans\n\n\n\n\n\n\nInterpretation?"
+  },
+  {
+    "objectID": "session_nudges/index.html#results",
+    "href": "session_nudges/index.html#results",
+    "title": "Green Nudges",
+    "section": "Results",
+    "text": "Results\nNudging as an Environmental Policy Instrument by Carlsson, Gravert, Johansson- Stenman, and Kurz, 2019, reviews many studies:\n\n\nMany on electricity usage\nMost (serious) studies are on moral nudges:\n\nspecifically: comparison with a reference group\n\nMany studies on default nudges\nResults are very context dependent\n\n\nSame results in Green nudges: Do they work? Are they ethical?"
+  },
+  {
+    "objectID": "session_nudges/index.html#are-green-nudges-ethical",
+    "href": "session_nudges/index.html#are-green-nudges-ethical",
+    "title": "Green Nudges",
+    "section": "Are green nudges ethical?",
+    "text": "Are green nudges ethical?\n\n\n\n\nWhat do you think?"
+  },
+  {
+    "objectID": "session_nudges/index.html#section-23",
+    "href": "session_nudges/index.html#section-23",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Ultimately, well-functioning government and market, are supposed to reflect people preferences.\n\n\n\n\n\nTraditional economists do not mess up with preferences:\n\nThey solve market failures\n\n\n\nBut some market failures are just unsolvable (like the tragedy of the horizon)"
+  },
+  {
+    "objectID": "session_nudges/index.html#section-24",
+    "href": "session_nudges/index.html#section-24",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Should policy makers change people preferences?\n\n💦 Mattauch, Stern1 and Konc (2022) The economics of climate change with endogenous preferences\n\nnet-zero requires a change in values\nsocial dynamics and endogenous preferences must be part of ecological transition models\n\n\n\nVery far from a consensual position. Would you want the CB or the Gvt choose preferences for you?\n\nStern was famous for The Economics of Climate Change: The Stern Review (2006) and the \\(\\beta\\) controversy with Nordhaus."
+  },
+  {
+    "objectID": "session_nudges/index.html#preferences-are-strange-objects.",
+    "href": "session_nudges/index.html#preferences-are-strange-objects.",
+    "title": "Green Nudges",
+    "section": "Preferences are strange objects.",
+    "text": "Preferences are strange objects.\nThe economics of well-being show that people are very resilient:\n\nmany studies show that self-reported happiness is mean reverting\n\nA new topic in behavioural science: motivated beliefs\n\npeople manipulate their own beliefs\nthe truth is inconvenient -&gt; manipulate your truth"
+  },
+  {
+    "objectID": "session_nudges/index.html#acceptability",
+    "href": "session_nudges/index.html#acceptability",
+    "title": "Green Nudges",
+    "section": "Acceptability",
+    "text": "Acceptability\nSo what are the options for the change?\n\ngovernment?\nmarket?\nsociety?\n\nWhether or not government and markets reflect well people’s preferences, for efficient measures to be accepted, preferences need to change."
+  },
+  {
+    "objectID": "session_nudges/index.html#my-two-cents",
+    "href": "session_nudges/index.html#my-two-cents",
+    "title": "Green Nudges",
+    "section": "My two cents",
+    "text": "My two cents\nI believe that, individually, people will ultimately adjust their beliefs and preferences to make the ecological transition less painful.\n\nWhich will increase social acceptance of government measures and market reforms.\n\n\nCan nudging be an efficient tool to steer motivated beliefs in the right direction?\n\n\n❓ Any data?"
+  },
+  {
+    "objectID": "session_nudges/index_handout.html",
+    "href": "session_nudges/index_handout.html",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Economic consensus: agents respond to incentives\n. . .\nTwo versions:\n\nFully Rational / Limited Rationality / Rational Inattention\nBehavioural World: systematic deviations from rationality\n\n\n\n\nFor rational agents:\n\nmodify the system to provide the right incentives\nfirst best: carbon tax\nsecond best: modify constraints to make carbon de facto more expensive\n\n. . .\nShould work well for rational agents: especially firms…\n\n\n\nFabre and Douenne(2022): why do french people reject carbon tax?\n. . .\n\n\n\nEffects of a tax and dividend solution\n\n\n. . .\n\n\n\nFabre and Douenne(2022): what would make french people accept a tax and dividend solution?\n\n\n\n\n\n\nBehavioural agents (with any kind of behavioural bias) also respond to incentives\nBut their biases can also be affected by other means.\n\n\n\n\n\n\n\n\n\nBehavioural agents (with any kind of behavioural bias) also respond to incentives\nBut their biases can also be affected by other means."
+  },
+  {
+    "objectID": "session_nudges/index_handout.html#reminder",
+    "href": "session_nudges/index_handout.html#reminder",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Economic consensus: agents respond to incentives\n. . .\nTwo versions:\n\nFully Rational / Limited Rationality / Rational Inattention\nBehavioural World: systematic deviations from rationality"
+  },
+  {
+    "objectID": "session_nudges/index_handout.html#carbon-tax",
+    "href": "session_nudges/index_handout.html#carbon-tax",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "For rational agents:\n\nmodify the system to provide the right incentives\nfirst best: carbon tax\nsecond best: modify constraints to make carbon de facto more expensive\n\n. . .\nShould work well for rational agents: especially firms…"
+  },
+  {
+    "objectID": "session_nudges/index_handout.html#people-are-strange..",
+    "href": "session_nudges/index_handout.html#people-are-strange..",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Fabre and Douenne(2022): why do french people reject carbon tax?\n. . .\n\n\n\nEffects of a tax and dividend solution\n\n\n. . ."
+  },
+  {
+    "objectID": "session_nudges/index_handout.html#why-do-people-reject-carbon-taxes",
+    "href": "session_nudges/index_handout.html#why-do-people-reject-carbon-taxes",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Fabre and Douenne(2022): what would make french people accept a tax and dividend solution?"
+  },
+  {
+    "objectID": "session_nudges/index_handout.html#for-behavioural-agents",
+    "href": "session_nudges/index_handout.html#for-behavioural-agents",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Behavioural agents (with any kind of behavioural bias) also respond to incentives\nBut their biases can also be affected by other means."
+  },
+  {
+    "objectID": "session_nudges/index_handout.html#examples",
+    "href": "session_nudges/index_handout.html#examples",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Behavioural agents (with any kind of behavioural bias) also respond to incentives\nBut their biases can also be affected by other means."
+  },
+  {
+    "objectID": "session_nudges/index_handout.html#section",
+    "href": "session_nudges/index_handout.html#section",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Nudge (economic definition)\n\n\n\nA nudge is defined as a change in the decision environment that influcences people’s behavior without prohibiting any choices or significantly changing the economic incentives\nfrom Thaler and Sunstein, 2009"
+  },
+  {
+    "objectID": "session_nudges/index_handout.html#section-1",
+    "href": "session_nudges/index_handout.html#section-1",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Originally, the role of nudges was to counteract poor choices made by individuals, in areas such as personal savings and health\n. . .\nTraditional Nudge: improve welfare of agents: a behavioral solution to a behavioral problem.\n. . .\nGreen nudge: influence people’s behavior, through changes in the choice architecture, in order to reduce negative externalities: a behavioral solution to a traditional economic problem."
+  },
+  {
+    "objectID": "session_nudges/index_handout.html#classification",
+    "href": "session_nudges/index_handout.html#classification",
+    "title": "Green Nudges",
+    "section": "Classification",
+    "text": "Classification"
+  },
+  {
+    "objectID": "session_nudges/index_handout.html#section-2",
+    "href": "session_nudges/index_handout.html#section-2",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Cognitive nudges\nCorrect for bounded rationality, inattention of self-control. Make it easier to “do the smart thing”.\nFor instance, help individuals with self-control problems, present-bias….\n  \n. . .\nExample: put healthy food at the top of a restaurant menu.\nIt does does not assume that individuals make poor choices for themselves because of bounded rationality. But it works because individuals have cognitive or self control limitations."
+  },
+  {
+    "objectID": "session_nudges/index_handout.html#section-3",
+    "href": "session_nudges/index_handout.html#section-3",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Moral Nudges\nA moral nudge draws on people’s social preferences, their desire for status, to follow norms or to have a positive self-image. The nudge rewards “doing the right thing” by providing the individual with moral (dis)utility.\n. . .\nExample: bounded rationality or self-control could lead an individual defaulted into a green tariff to stick with the new socially desirable default."
+  },
+  {
+    "objectID": "session_nudges/index_handout.html#compare-with-the-neoclassical-agent",
+    "href": "session_nudges/index_handout.html#compare-with-the-neoclassical-agent",
+    "title": "Green Nudges",
+    "section": "Compare with the neoclassical agent",
+    "text": "Compare with the neoclassical agent\n\\[\\max_{s.t. h(x)\\leq0} U(x)\\]\nCognitive Nudge: help agent solve optimization\nMoral Nudge: affects agents preferences"
+  },
+  {
+    "objectID": "session_nudges/index_handout.html#section-4",
+    "href": "session_nudges/index_handout.html#section-4",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Nudge Type\nExample\n\n\n\n\nDefaults\nIf I manage to summarize that in a few words, will that fit?\n\n\nSimplification of information and salience\n\n\n\nChanges in physical environment\n\n\n\nReminders\n\n\n\nSocial comparison\n\n\n\nNormative appeal and peer pressure\n\n\n\nCommitment and goal Setting"
+  },
+  {
+    "objectID": "session_nudges/index_handout.html#defaults",
+    "href": "session_nudges/index_handout.html#defaults",
+    "title": "Green Nudges",
+    "section": "Defaults",
+    "text": "Defaults\n\n\n\nDefault Browser\n\n\nThe default effect refers to the tendency of people to stick with an alternative already chosen by someone else, even when the cost of making an active choice is very small."
+  },
+  {
+    "objectID": "session_nudges/index_handout.html#section-5",
+    "href": "session_nudges/index_handout.html#section-5",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Default Browser\n\n\nWhy does it work?\n\n\npeople interpret the default as a suggestion from someone better informed\nlowers the cost of a decision (from no-decision to the default)\nloss aversion or status quo bias make people stay with the default"
+  },
+  {
+    "objectID": "session_nudges/index_handout.html#section-6",
+    "href": "session_nudges/index_handout.html#section-6",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "change the the default on computer printing behavior: simplex to duplex\nResult:\n\nconsumption of paper dropped by around 15 percent\nno indications that the effect was any smaller 28 weeks after the change had been introduced"
+  },
+  {
+    "objectID": "session_nudges/index_handout.html#section-7",
+    "href": "session_nudges/index_handout.html#section-7",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Brown et al. (2013)\nChange the default temperature on thermostat for OECD employees from the standard 20 °C to a lower default.\nResult:\n\n1-degree decrease resulted in a lower average temperature initially, the effect disappeared and went into the opposite direction after a few weeks.\n\n\nFamous example of prosocial default nudge: organ donors."
+  },
+  {
+    "objectID": "session_nudges/index_handout.html#simplification-of-information-and-salience",
+    "href": "session_nudges/index_handout.html#simplification-of-information-and-salience",
+    "title": "Green Nudges",
+    "section": "Simplification of Information and Salience",
+    "text": "Simplification of Information and Salience\nDecision makers are innatentive to certain informations and make therefore suboptimal decisions.\nExample: consumers ignore fuel and electricity costs when buying cars or lightbulbs.\n. . .\nNote that this can correspond to:\n\nlimited rationality: agents lack cognitive power\nrational innatention: since acquiring and processing information is in general costly, it might be rational to ignore some"
+  },
+  {
+    "objectID": "session_nudges/index_handout.html#section-8",
+    "href": "session_nudges/index_handout.html#section-8",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Label: lifetime energy costs\n. . .\nIs it really a nudge ? Or just release of information?"
+  },
+  {
+    "objectID": "session_nudges/index_handout.html#section-9",
+    "href": "session_nudges/index_handout.html#section-9",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "In Tiefenbeck et al. (2016), real-time feedback on energy use, in the shower, was given in the form of an animation of a polar bear standing on melting ice.\n. . .\n-&gt; reduced the average shower time by 22 percent\n. . .\n\nIs it salience/ availability bias? Or emotion?"
+  },
+  {
+    "objectID": "session_nudges/index_handout.html#changes-in-the-physical-environment",
+    "href": "session_nudges/index_handout.html#changes-in-the-physical-environment",
+    "title": "Green Nudges",
+    "section": "Changes in the Physical Environment",
+    "text": "Changes in the Physical Environment\nThe design of the physical can nudge people to the preferable behaviour, or give clues on appropriate conduct.\n. . .\n  \nThe topic is under-studied despite some famous examples."
+  },
+  {
+    "objectID": "session_nudges/index_handout.html#section-10",
+    "href": "session_nudges/index_handout.html#section-10",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Kallbekken and Saelen (2013): in a buffet restaurant, 50% smaller plates led to a reduction of around 20% of food consumption."
+  },
+  {
+    "objectID": "session_nudges/index_handout.html#reminders",
+    "href": "session_nudges/index_handout.html#reminders",
+    "title": "Green Nudges",
+    "section": "Reminders",
+    "text": "Reminders\n\nA reminder increases attention to a decision and reduces forgetfulness.\n. . .\nCan have unexpected effects:\n\ndraw attention to a decision that the decision maker would rather avoid\ncreate guilt and/or cognitive dissonance"
+  },
+  {
+    "objectID": "session_nudges/index_handout.html#section-11",
+    "href": "session_nudges/index_handout.html#section-11",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Reminders of participation in voluntary land conservation programs\n-&gt; Increase participation rate\nWallander, Ferraro and Higgins (2017)\n\n\n\n\nBill\n\n\nAfter receiving an electricity bill households reduce consumption by 0.6% to 1%.\nGilbert and Zivin (2014)\n(A way to reduce peak demand?)"
+  },
+  {
+    "objectID": "session_nudges/index_handout.html#social-comparisons-and-social-preferences",
+    "href": "session_nudges/index_handout.html#social-comparisons-and-social-preferences",
+    "title": "Green Nudges",
+    "section": "Social Comparisons and Social Preferences",
+    "text": "Social Comparisons and Social Preferences\nWe have seen that individuals exhibit other-regarding preferences\nIn econ, there are several associated concepts/theories:\n\naltruistic motive\nconsumption externalities / conspicuous consumption (keeping up with the Jones)\npositional preferences\n…"
+  },
+  {
+    "objectID": "session_nudges/index_handout.html#section-12",
+    "href": "session_nudges/index_handout.html#section-12",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "In behavioural economics we posit that social informations (information about others) impact individual’s behaviour.\nSocial information can be classified between:\n\ndescriptive message: this is what others do\ninjunctive message: this is the appropriate behaviour\n\nHow are they different?\n\ndescriptive: activate immitation mechanism, fomo, social norm (default) injunctive: what is socially acceptable? what is ok? (ex: if I’m told others pollute too much, what should I do?)"
+  },
+  {
+    "objectID": "session_nudges/index_handout.html#section-13",
+    "href": "session_nudges/index_handout.html#section-13",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Consumption Dashboard\n\n\nDelmas and Lessem (2014)\nAt UCLA students don’t pay for energy bills.\nHow to reduce water and electricity consumption with a cusom dashboard for each room?"
+  },
+  {
+    "objectID": "session_nudges/index_handout.html#section-14",
+    "href": "session_nudges/index_handout.html#section-14",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Provide feedback to users with:\n\nrealtime individual consumption (private information)\nposition w.r.t. mean consumption (descriptive social information)\npublic information: Ratings for each room (red/green were made public with large, prominently displayed posters, posted on each floor\n\n. . .\nAuthors found that only a combination of private and public information had an effect on energy use (a 20 percent reduction).\n. . .\nEffect persists after the end of the treatment\n\nAuthors talk about intrinsic vs extrinsic motivation\nDiscussion about self selection: - students were volunteer: self-selection issue (significantly more altruistic and environmental-friendly) - should bias the response to private information but we"
+  },
+  {
+    "objectID": "session_nudges/index_handout.html#moral-pleas-moral-suasion",
+    "href": "session_nudges/index_handout.html#moral-pleas-moral-suasion",
+    "title": "Green Nudges",
+    "section": "Moral pleas / moral suasion",
+    "text": "Moral pleas / moral suasion\n\nSome social behavior, does not require any direct comparison.\nMoral suasion / moral pleas are used to nudge behavior.\nEffects seem uncertain and do not last"
+  },
+  {
+    "objectID": "session_nudges/index_handout.html#section-15",
+    "href": "session_nudges/index_handout.html#section-15",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Ito, Ida, and Tanaka (2018)\nSend message to consumers: Substantial energy conservation will be required for the society during critical peak-demand hours in summer and winter.\nCompare with economic incentives (dynamic pricing)\n. . .\nOutcome:\n\nelectricity use down by 8% for moral suasion, 16% for economic incentives\nfor moral suasion, consumption back to normal after end of messages (dishabituation)\nfor economic incentives, green behaviour persists for longer"
+  },
+  {
+    "objectID": "session_nudges/index_handout.html#commitment-and-goal-setting",
+    "href": "session_nudges/index_handout.html#commitment-and-goal-setting",
+    "title": "Green Nudges",
+    "section": "Commitment and Goal Setting",
+    "text": "Commitment and Goal Setting\nSeveral strands of behavioural economics postulate the existence of several selves (with different goals/preferences) and discuss some kind of self control.\nThe time inconsistency between today’s self and tomorrow’s self leads to commitment issues\nThe inconsistency between one’s self-image and actual behaviour leads to cognitive dissonance."
+  },
+  {
+    "objectID": "session_nudges/index_handout.html#section-16",
+    "href": "session_nudges/index_handout.html#section-16",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Harding and Hsiaw (2014)\nNorthern Illinois goal-setting program, aimed at reducing residential electricity consumption:\n\nvoluntary goal-setting\nprovides informaton on how to achieve goal and constant feedback\n\nResults:\n\nattractive to present-biased consumers\naverage savings: 4.4% (8% at the begining)\nhigher savings when goal is realistic rather than over-ambitious or very low\n\n\ncompare to Christmas Account / smokers’ account"
+  },
+  {
+    "objectID": "session_nudges/index_handout.html#section-17",
+    "href": "session_nudges/index_handout.html#section-17",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Loock, Staake, and Thiesse (2013)\nAnother field experiment with electricity customers:\n\nvoluntary goal-setting…\nwith a default option\n\n. . .\nResults:\n\ndefaults can raise goals and realized savings…\n… but lead to lower savings if set too far from self-set goals"
+  },
+  {
+    "objectID": "session_nudges/index_handout.html#section-18",
+    "href": "session_nudges/index_handout.html#section-18",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "In Baca-Motes et al. (2013)\nHotel guests can commit to act more sustainably in exchange for a pin\nResult:\n\ntreated guests more likely to reuse towels\neffect stronger with the pin\nstronger if commitment more specific (reuse towels) than general (act in an environmentally friendly way)"
+  },
+  {
+    "objectID": "session_nudges/index_handout.html#section-19",
+    "href": "session_nudges/index_handout.html#section-19",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Cognitive dissonance: conflicting objectives decisions by different active selves.\nIt can counter the effect of many nudges."
+  },
+  {
+    "objectID": "session_nudges/index_handout.html#section-20",
+    "href": "session_nudges/index_handout.html#section-20",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Berke and Larson 2023\nTwo field studies were conducted at a US academic institution (MIT), where people selected what to eat via event registration forms.\nA random group saw “vegan” or “vegetarian” labels in the titles of one of the two items.\n\n\n\n\n\n\nResults:\n\nlabels did not increase vegan consumption by vegans/vegetarians…\n… but meat consumption of non-vegans\n\n\n\n\n\n. . .\nInterpretation?"
+  },
+  {
+    "objectID": "session_nudges/index_handout.html#results",
+    "href": "session_nudges/index_handout.html#results",
+    "title": "Green Nudges",
+    "section": "Results",
+    "text": "Results\nNudging as an Environmental Policy Instrument by Carlsson, Gravert, Johansson- Stenman, and Kurz, 2019, reviews many studies:\n\n\nMany on electricity usage\nMost (serious) studies are on moral nudges:\n\nspecifically: comparison with a reference group\n\nMany studies on default nudges\nResults are very context dependent\n\n\nSame results in Green nudges: Do they work? Are they ethical?"
+  },
+  {
+    "objectID": "session_nudges/index_handout.html#are-green-nudges-ethical",
+    "href": "session_nudges/index_handout.html#are-green-nudges-ethical",
+    "title": "Green Nudges",
+    "section": "Are green nudges ethical?",
+    "text": "Are green nudges ethical?\n\n\n\n. . .\nWhat do you think?"
+  },
+  {
+    "objectID": "session_nudges/index_handout.html#section-23",
+    "href": "session_nudges/index_handout.html#section-23",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Ultimately, well-functioning government and market, are supposed to reflect people preferences.\n\n\n\n\n. . .\nTraditional economists do not mess up with preferences:\n\nThey solve market failures\n\n. . .\nBut some market failures are just unsolvable (like the tragedy of the horizon)"
+  },
+  {
+    "objectID": "session_nudges/index_handout.html#section-24",
+    "href": "session_nudges/index_handout.html#section-24",
+    "title": "Green Nudges",
+    "section": "",
+    "text": "Should policy makers change people preferences?\n. . .\n💦 Mattauch, Stern1 and Konc (2022) The economics of climate change with endogenous preferences\n\nnet-zero requires a change in values\nsocial dynamics and endogenous preferences must be part of ecological transition models\n\n. . .\nVery far from a consensual position. Would you want the CB or the Gvt choose preferences for you?"
+  },
+  {
+    "objectID": "session_nudges/index_handout.html#preferences-are-strange-objects.",
+    "href": "session_nudges/index_handout.html#preferences-are-strange-objects.",
+    "title": "Green Nudges",
+    "section": "Preferences are strange objects.",
+    "text": "Preferences are strange objects.\nThe economics of well-being show that people are very resilient:\n\nmany studies show that self-reported happiness is mean reverting\n\nA new topic in behavioural science: motivated beliefs\n\npeople manipulate their own beliefs\nthe truth is inconvenient -&gt; manipulate your truth"
+  },
+  {
+    "objectID": "session_nudges/index_handout.html#acceptability",
+    "href": "session_nudges/index_handout.html#acceptability",
+    "title": "Green Nudges",
+    "section": "Acceptability",
+    "text": "Acceptability\nSo what are the options for the change?\n\ngovernment?\nmarket?\nsociety?\n\nWhether or not government and markets reflect well people’s preferences, for efficient measures to be accepted, preferences need to change."
+  },
+  {
+    "objectID": "session_nudges/index_handout.html#my-two-cents",
+    "href": "session_nudges/index_handout.html#my-two-cents",
+    "title": "Green Nudges",
+    "section": "My two cents",
+    "text": "My two cents\nI believe that, individually, people will ultimately adjust their beliefs and preferences to make the ecological transition less painful.\n. . .\nWhich will increase social acceptance of government measures and market reforms.\n. . .\nCan nudging be an efficient tool to steer motivated beliefs in the right direction?\n. . .\n❓ Any data?"
+  },
+  {
+    "objectID": "session_nudges/index_handout.html#footnotes",
+    "href": "session_nudges/index_handout.html#footnotes",
+    "title": "Green Nudges",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nStern was famous for The Economics of Climate Change: The Stern Review (2006) and the \\(\\beta\\) controversy with Nordhaus.↩︎"
+  },
+  {
+    "objectID": "session_nudges/sources copy.html",
+    "href": "session_nudges/sources copy.html",
+    "title": "Paper 1.",
+    "section": "",
+    "text": "Paper 1.\nhttps://youtu.be/PgA4Bb_LnQE?feature=shared\nBöhm, R., Gürerk, Ö., & Lauer, T. (2020). Nudging climate change mitigation: A laboratory experiment with inter-generational public goods. Games, 11, 42.\n\n\nPaper 2\nNudging as an Environmental Policy Instrument\nFredrik Carlsson Christina Annette Gravert Verena Kurz Olof Johansson-Stenman\n\n\nPaper 2 (marketing)\nFactors of effectiveness of green nudges for more eco-responsible behaviour – Systematic review and research directions\nClément Carrel marie-laure gavard-perret Cindy Caldara\n\n\nPaper 3.\nThe Effectiveness of a Green Default Nudge in Achieving Resource Conservation\nRecherche et Applications en Marketing\nJimena González-Ramírez\n-&gt; Paper conservation (double sided printing)"
   },
   {
     "objectID": "session_carbon/index.html#dont-worry-too-much",
@@ -2223,7 +2503,7 @@
     "href": "session_behavioural/index_handout.html#section-8",
     "title": "Introduction to Behavioral Economics",
     "section": "",
-    "text": "Hindsight Bias\n\n\n. . .\n\n\n\n\n\n\nHindsight Bias\n\n\n\nWhen you search for or interpret new information in a way that supports existing beliefs as opposed to challenge them."
+    "text": "Hindsight Bias\n\n\n. . .\n\n\n\n\n\n\nHindsight Bias\n\n\n\nWhen you search for or interpret new information in a way that supports existing beliefs as opposed to challenge them. ???"
   },
   {
     "objectID": "session_behavioural/index_handout.html#section-9",
@@ -2454,7 +2734,7 @@
     "href": "session_behavioural/index.html#section-8",
     "title": "Introduction to Behavioral Economics",
     "section": "",
-    "text": "Hindsight Bias\n\n\n\n\n\n\n\nHindsight Bias\n\n\nWhen you search for or interpret new information in a way that supports existing beliefs as opposed to challenge them."
+    "text": "Hindsight Bias\n\n\n\n\n\n\n\nHindsight Bias\n\n\nWhen you search for or interpret new information in a way that supports existing beliefs as opposed to challenge them. ???"
   },
   {
     "objectID": "session_behavioural/index.html#section-9",
@@ -2762,6 +3042,6 @@
     "href": "session_nudges/notes.html",
     "title": "Topics in Economics",
     "section": "",
-    "text": "Application of nudges: vaccines"
+    "text": "Application of nudges: vaccines\nMake list of all behavioural biases first.\nMake list of all kinds of nudges"
   }
 ]
