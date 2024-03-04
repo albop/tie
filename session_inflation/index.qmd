@@ -8,6 +8,8 @@ format:
     menu:
       side: left
       width: normal
+    width: 1920
+    height: 1080
   html:
     output-file: index_handout.html
 ---
@@ -50,14 +52,25 @@ df.dropna()
 
 ``` -->
 
-## Inflation
+## {auto-animate="true"}
 
-![CPI Inflation (Source IMF)](assets/alt_inflation.svg)
+![CPI Inflation (Source IMF)](assets/inflation_short_horizon.png)
+
+## Inflation {auto-animate="true"}
+
+![CPI Inflation (Source IMF)](assets/inflation_short_horizon.png)
 
 . . .
 
-- Inflation rates are currently very high
+- Inflation rates have reached high levels in 2022 and 2023
 - At levels never seen by European Central Bank, since its creation in 1998
+
+## Inflation
+
+![CPI Inflation (Source IMF)](assets/inflation_long_horizon.png)
+
+- There were even higher levels in the 70s (and 50s in France)
+- All economists / policymakers remember this period
 
 ## Inflation
 
@@ -70,30 +83,47 @@ df.dropna()
 
 ![World Inflation Outlook (2022)](assets/world_inflation_outlook_2022.png)
 
+
+## Emerging / Developped Markets  {auto-animate="true"}
+
+::: columns
+:::: {.column width=80%}
+![World Inflation Outlook (2013)](assets/world_inflation_outlook_2013.png)
+::::
+:::: {.column width=20%}
+![World Inflation Outlook (2022)](assets/world_inflation_outlook_2022.png)
+::::
+:::
+
+
 ## Emerging / Developped Markets  {auto-animate="true"}
 
 ::: columns
 :::: column
-![World Inflation Outlook (2013)](assets/world_inflation_outlook_2013.png)
+![World Inflation Outlook (2013)](assets/world_inflation_outlook_2013.png){width=200}
 ::::
 :::: column
-![World Inflation Outlook (2022)](assets/world_inflation_outlook_2022.png)
+![World Inflation Outlook (2022)](assets/world_inflation_outlook_2022.png){width=200}
 ::::
 :::
 
 . . .
 
-- Inflation has never disappeared from the world
-- The problem is quite different in developped and emerging countries[^reasons]
+Inflation has never disappeared from the world
 
-[^reasons]: Among issues that are specific to developing countries: institutions credibility, exchange rate vulnerabilities...
+. . .
+
+The problem is quite different in developped and emerging countries:
+
+- institutions credibility
+- exchange rate vulnerabilities...
 
 
 # The cost of Inflation {#sec-inflation-cost}
 
 ## The cost of Inflation {.scrollable auto-animate="true"}
 
-__Inflation is a 'wicked problem' − speech by Huw Pill__
+__Inflation is a 'wicked problem' − speech by Huw Pill, chief economist at Bank of England.__
 
 Good evening everyone. It is a great pleasure to be here at the Warwick Think Tank today. Thanks to the organisers for the invitation to participate.
 
@@ -193,7 +223,7 @@ The responsibility for all remaining errors is my own.
 
 ## The cost of Inflation { auto-animate="true"}
 
-__Inflation is a 'wicked problem' − speech by Huw Pill__
+__Inflation is a 'wicked problem' − speech by Huw Pill, chief economist at Bank of England.__
 
 Good evening everyone. It is a great pleasure to be here at the Warwick Think Tank today. Thanks to the organisers for the invitation to participate.
 
@@ -227,10 +257,10 @@ __Hyperinflation__ is an extreme version
 
 ::: columns
 :::: column
-![Keynesian Dog. (Dall E-2)](assets/keynesian_dog.png){width=60%}
+![Keynesian Dog. (Dall E-2)](assets/keynesian_dog.png){width=50%}
 ::::
 :::: column
-![Ricardian Cat. (Dall E-2)](assets/ricardian_cat.png){width=60%}
+![Ricardian Cat. (Dall E-2)](assets/ricardian_cat.png){width=50%}
 ::::
 :::
 
@@ -278,6 +308,9 @@ Inflation has *redistributive* effects through different channels[^jaravel]:
 
 ![](assets/panier1.jpeg){width=20%} ![](assets/shoping_cart.png){width=20%}
 
+
+::: {.incremental}
+
 - Not everybody consumes the same consumption goods[^nonhomogeneity]
 
 - The consumption basket depends on income
@@ -287,6 +320,8 @@ Inflation has *redistributive* effects through different channels[^jaravel]:
 - And affects some households more than others
 
 - Which ones?
+
+:::
 
 [^nonhomogeneity]: using economists' jargon, we say that consumption preferences are nonhomogenous (or not scale invariant)
 
@@ -302,13 +337,13 @@ Inflation has *redistributive* effects through different channels[^jaravel]:
 
 :::: {.fragment fragment-index=2 .current-visible}
 
-![Inflation Inequality by Income Percentaile: 2020->2022](assets/jaravel1.png)
+![Inflation Inequality by Income Percentile: 2020->2022](assets/jaravel1.png)
 
 ::::
 
 :::: {.fragment fragment-index=3 .current-visible}
 
-![![Inflation Inequality by Income Percentaile: 2020->2022. Excluding Gas and Vehicles.]](assets/jaravel2.png)
+![Inflation Inequality by Income Percentile: 2020->2022. Excluding Gas and Vehicles.](assets/jaravel2.png)
 
 ::::
 
@@ -685,13 +720,11 @@ According to Governor of Banque de France[^source]
 
 What about the expectations channel?
 
-[^source]: TODO, cite the speech
-
 ## Expectations Channel
 
 Inflation can be a self-fullfiling prophecy
 
-- in economics, there can sometime be *multiple equilibria*
+- in economics, there can sometimes be *multiple equilibria*
 
 In that case, it is the role of the central bank to coordinate the markets on the right equilibrium...
 
