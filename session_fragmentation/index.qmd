@@ -16,3 +16,6 @@ format:
 ![](wip.png)
 
 Come back later!.
+
+# Globalization
+
