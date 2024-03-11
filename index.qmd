@@ -22,6 +22,8 @@ The project must contain:
 - a transcript of the video
 - if GPT (or equivalent) was used, include the transcript of all interactions with it
 
+The projects must be uploaded as one zip file to the drive folder: 
+
 :::
 
 ::: {.callout-note title="Instructions for final exam" collapse="true"}
