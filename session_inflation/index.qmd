@@ -1,5 +1,5 @@
 ---
-title: "Should we Fear the Return of the Big, Bad, Inflation?"
+title: "Should we (Still) Fear the Return of the Big, Bad, Inflation?"
 date: 2024/03/4
 subtitle: Topics in Economics, ESCP, 2023-2024
 author: Pablo Winant
@@ -72,12 +72,6 @@ df.dropna()
 - There were even higher levels in the 70s (and 50s in France)
 - All economists / policymakers remember this period
 
-## Inflation
-
-![CPI Inflation (Source IMF)](assets/alt_inflation_longer.svg)
-
-- There were even higher levels in the 70s (and 50s in France)
-- All economists / policymakers remember this period
 
 ## Emerging / Developped Markets  {auto-animate="true"}
 
@@ -646,14 +640,15 @@ What was the situation ?
 
 ## {background-image="assets/parchemin.jpg"}
 
-
-::::: r-stack
-
-:::::: fragment
+::: {.div style="text-align: center;"}
 
 ### Summary
 
-. . .
+:::
+
+::::: {.r-stack}
+
+:::::: {.fragment .current-visible}
 
 Covid19 was both
 
@@ -662,8 +657,8 @@ Covid19 was both
 
 which offsetted each other.
 
-. . .
-
+::::::
+:::::: {.fragment .current-visible}
 After covid and Ukraine's
 
 - demand recovered fully
@@ -672,77 +667,269 @@ After covid and Ukraine's
     - increased cost of energy
     - disorganization of supply chain
 
-. . .
-
+::::::
+:::::: {.fragment}
 All these effects add up
 
 - to create inflationary pressures
 
-
 ::::::
+
+
 
 :::::
 
+::: {.fragment style="text-align: center;"}
+
+But then the central Bank has raised interest rates to reduce inflation.
+
+:::
+
 # What comes next? {#sec-inflation-next}
 
-
-## Will inflation persist?
+## 
 
 
 ::: columns
 
 :::: column
 
-![Franćois Villeroy de Galhau](assets/galhau.jpg){width=60%}
+![Talks at Bocconi](assets/schnabel-page1.png)
+
+::::
+:::: column
+
+![Isabel Schnabel](assets/isabel.jpg)
+
+::::
+
+:::
+
+##  {auto-animate="true"}
+
+![](assets/schnabel-page2.png)
+
+
+##  {auto-animate="true"}
+
+::: columns
+
+:::: column
+
+![](assets/schnabel-page2.png)
 
 ::::
 
 :::: column
 
-According to Governor of Banque de France[^source]
+We clearly see:
+
+::::: {.incremental}
+
+- the covid recession
+- the quick recovery
+- the deflation during covid
+    - demand shock stronger than demand's?)
+- the inflation after covid
+    - supply shock stronger?
+
+:::::
+
+::::
+
+:::
+
+## 
+
+![](assets/schnabel-page3.png)
 
 
-- Demand-driven inflation seems out of question
 
-    - as long as the CB continues its policy rates
+##  {auto-animate="true"}
 
-- Cost-push shocks might be persistent
+::: columns
 
-    - oil prices will not revert
-    - cost of energy might increase further because of the green transition
-    - countering these shocks, will require supply-side policies
+:::: column
+
+![](assets/schnabel-page3.png)
+
+::::
+
+:::: column
+
+
+::::: {.incremental}
+
+- during great recession, zero lower bound lead to massive quantitative easing
+- last wave of QE: Pandemic Emergency Asset Public Purchases
+- note the quick switch from accommodating to restrictive stance
+
+:::::
+
 
 
 ::::
 
 :::
-. . .
 
-What about the expectations channel?
+## 
 
-## Expectations Channel
+![](assets/schnabel-page4.png)
 
-Inflation can be a self-fullfiling prophecy
+##  {auto-animate="true"}
 
-- in economics, there can sometimes be *multiple equilibria*
+::: columns
 
-In that case, it is the role of the central bank to coordinate the markets on the right equilibrium...
+:::: column
 
-... and anchor expectations
+![](assets/schnabel-page4.png)
 
-. . .
+::::
 
-![](assets/yoda.jpg)
+:::: column
+
+::::: {.incremental}
+
+- What is really worrying is not __headline inflation__ (HICP) but __core inflation__
+- The latter was never that high but has not completely vanished either.
+
+:::::
+
+::::
+
+::::
+
+:::
 
 
-##
+## 
 
- 
-![Implicit Inflation Forecast](assets/fixing.png){width=40%} ![Market Implied Terminal Rate](assets/terminal_rate.png){width=40%}
-
-The Market bets on future inflation using swaps. The price of these swaps provide an implicit probability estimate of the market.
-
-- The Market expects inflation to decrease and back to its target in the middle of 2024
-- It also expects central bank not to raise interest rates after mid 23
+![](assets/schnabel-page5.png)
 
 
+##  {auto-animate="true"}
+
+::: columns
+
+:::: column
+
+![](assets/schnabel-page5.png)
+
+::::
+
+::::: column
+
+:::::: {.incremental}
+
+- Both
+
+    - High energy prices volatility
+    - More supply chain disruptions
+
+        - invasion of Ukraine
+        - Israel-Hamas war
+        - Houthi movement
+
+- Lead to persistent supply shock
+
+::::::
+
+:::::
+
+::::
+
+:::
+
+## 
+
+![](assets/schnabel-page8.png)
+
+
+##  {auto-animate="true"}
+
+::: columns
+
+:::: column
+
+![](assets/schnabel-page8.png)
+
+::::
+
+:::: column
+
+::::: {.incremental}
+
+- The rise in i.r. has been quickly transmitted to potential borrowers.
+- ... contrary to the 2011-2019 phase, the pass-through from bank i.r. to borrowers's interest rate was lower
+- There is still some volatility in firm's investment
+
+:::::
+
+::::
+
+:::
+
+## 
+
+![](assets/schnabel-page10.png)
+
+
+##  {auto-animate="true"}
+
+::: columns
+
+:::: column
+
+![](assets/schnabel-page10.png)
+
+::::
+
+:::: column
+
+::::: {.incremental}
+
+- According to the model, MP has efficiently reduced demand. 
+    - less so in the services
+- But supply factors are reduced too
+
+:::::
+
+::::
+
+:::
+
+## 
+
+![](assets/schnabel-page12.png)
+
+##  {auto-animate="true"}
+
+::: columns
+
+:::: column
+
+![](assets/schnabel-page12.png)
+
+::::
+
+:::: column
+
+
+
+::::: {.incremental}
+
+- For now, labour market is tight
+- Which suggests that disinflation can be pursued without unemployment cost
+- But watch out for future changes in the labour market !
+
+:::::
+
+::::
+
+:::
+
+
+
+## 
+
+![](assets/final_decision.png)

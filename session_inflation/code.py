@@ -48,7 +48,7 @@ ch = alt.Chart(ddf).mark_line().encode(
     height=250
 )
 
-ch.save("inflation_short_horizon.png", ppi=600)
+ch.save("assets/inflation_short_horizon.png", ppi=600)
 ch
 
 #%%
@@ -66,5 +66,5 @@ ch = alt.Chart(df).mark_line().encode(
     height=250
 )
 
-ch.save("inflation_long_horizon.png", ppi=600)
+ch.save("assets/inflation_long_horizon.png", ppi=600)
 ch

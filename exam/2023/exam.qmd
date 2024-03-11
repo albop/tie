@@ -1,0 +1,52 @@
+---
+format: pdf
+title: "Topics in Economics: Final Exam"
+---
+
+
+__Circle the right answer(s) to the following questions.__
+
+1. In 2100, according to the theory of comparative advantage... (1 point)
+
+    a. Robots will totally replace human beings in the workforce since they  are more productive at almost every tasks and are still progressing.
+    b. Humans will specialize in fields where they have the lowest comparative disadvantage.
+    c. Workforce will be equally splitted between human and capital factors.
+
+2. De facto, education can be more naturally classified as: (1 point)
+
+    a. private good
+    b. club  good
+    c. common resource
+    d. public good
+
+{{< pagebreak >}}
+
+__*After* reading the supplied documents[^footnote], find the right answer(s) to the following questions__
+
+3. Which of the following statement(s) is true? (1 point)
+
+    a. human routine tasks and automation are substitute
+    b. technological change is mostly detrimental to routine jobs
+    c. automation necessarily creates more unemployment
+
+4. Which of the following statement(s) is true? (1 point)
+
+    a. because they fear they would be replaced by machines in the near-future, most low-skilled workers intend to retrain
+    b. those specific workers who are fearing increased automation have a higher probability to retrain
+    c. workers who fear increased automation are more likely to be favourable to an increased income tax
+
+5. Which of the following statement(s) is true? (1 point)
+
+    a. the initial development of automation has been mostly harmful to middle-class workers
+    b. automation has initially been lenient to low-income workers because the tasks they perform are not so repetitive
+    c. automation has already reached its peak in developed countries
+
+[^footnote]: You should have received three documents named *Automation and polarization*, *Worker's responses to the threat of automation* and *The effect of new technologies on workers, jobs and skills*
+
+{{< pagebreak >}}
+
+__To which extent is automation a threat to workers?__ (15 points)
+
+{{< pagebreak >}}
+
+---

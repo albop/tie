@@ -13,15 +13,22 @@ listing:
   fields: [date, title]
 ---
 
-<mark>TODO</mark>: 
+::: {.callout-note title="Instructions for group work" collapse="true"}
 
-- by Feb 26th, read the [working paper](session_nudges/assets/196185119.pdf) *Nudging as an Environmental Policy
-Instrument*
-- <s>by Jan 29th, read the last IMF report on AI (either [blog entry](https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity) or associated paper)</s>
+By March 18th, fill the [google sheet](https://docs.google.com/spreadsheets/d/1oQREYkVVM34ezNVtzG2x3EgTWhKwuvvJPP4WOy7Q-uI/edit#gid=0) indicating what topic you work on and listing the emails of the team members.
 
-\ \ 
+The project must contain:
+- a 5 min video
+- a transcript of the video
+- if GPT (or equivalent) was used, include the transcript of all interactions with it
 
-__Provisional Schedule__
+:::
+
+::: {.callout-note title="Instructions for final exam" collapse="true"}
+:::
+
+
+__Schedule__
 
 ::: {#course-listing}
 
@@ -40,3 +47,4 @@ __Practicalities__
   - ongoing (up to 20% bonus/malus)
     - participation & behaviour
     - mini-tasks if any
+
