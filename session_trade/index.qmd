@@ -1,0 +1,1125 @@
+---
+title: "Trade Wars?"
+date: 2025/03/16
+subtitle: Topics in Economics, ESCP, 2024-2025
+author: Pablo Winant
+format:
+  revealjs:
+    navigation-mode: vertical
+    menu:
+      side: left
+      width: normal
+    width: 1600
+    height: 900
+  html:
+    output-file: index_handout.html
+---
+
+# Some news
+
+## 
+
+Tariff: the most beautiful word in the English language
+- Trump
+
+
+##
+
+D
+
+## Facts
+
+Trump
+
+- threatened to implement some tariffs
+- implemented some
+- cancelled some too...
+- and eventually implemented them
+
+But why?
+
+Commercial partners stand ready to retaliate
+
+Should they?
+
+What will hapen next?
+
+- Impossible to know without data and theory
+
+
+
+# Quick Intro / Refresher on International Trade
+
+
+## A famous trick question
+
+::: columns
+
+:::: column
+
+![Stanislaw Ulam (Mathematician)](assets/Stanislaw_Ulam.tif.jpg)
+
+::::
+:::: column
+
+![Paul Samuelson (Economist)](assets/American-economist-Paul-Samuelson-1970.webp)
+
+::::
+:::
+. . .
+
+Ulam: *name a principle in the social sciences that is both true and nonobvious*
+
+. . .
+
+Samuelson: *Ricardo's theory of comparative advantage*
+
+. . .
+
+*That this idea is logically true, need not be argued before a mathematician; that it is not trivial is attested by the thousands of important and intelligent men who have never been able to grasp the doctrine for themselves or to believe it after it was explained to them*
+
+## Theories
+
+Many theories show, under certain assumptions, the superiority of trade over autarky, in terms of economic well-being:
+
+- The Mercantilists (16th-17th century),
+- The theory of absolute advantage (slides for reference),
+- Ricardian analysis (slides for reference),
+- The HOS model (slides for reference),
+- The "new" trade theory: Krugman's model,
+- The "new new" trade theory: Melitz's model.
+
+## Les Mercantilistes
+
+Before Smith, the Mercantilists (16th-17th century):
+
+- International trade is a means to increase the inflow of precious metals into the Kingdom (UK).
+- Underlying objective: accumulation of gold, wealth.
+  - Reflects the power of a country.
+  - A country must export more than it imports.
+- Protectionism is interesting because international trade is seen as a zero-sum game: what one gains, the other loses.
+
+## Absolute Advantage
+
+Adam Smith (1723-1790): Scottish. One of the founding fathers of classical economics. His question: "Why do countries engage in international trade?"
+
+- Consider two countries each producing two goods. Each country is characterized by its own productivity for the production of each good.
+- A country has an absolute advantage in the production of a good if it can produce that good at a lower cost than another country.
+Therefore, trade is profitable and each country specializes in the production of the good for which it has an absolute advantage.
+
+Limitation: In this theoretical framework, a country whose production costs are higher than those of all its partners cannot export profitably.
+
+This theory does not explain why a country that is more efficient in the production of all goods would still benefit from maintaining trade relations with its neighboring countries.
+
+## The Ricardian Model
+
+David Ricardo (1772-1823)
+
+A country can benefit from specialization by producing the goods for which it has a comparative advantage, even if it has an absolute disadvantage in all the goods it produces (unlike Smith).
+
+Assumption: labor is the only factor of production and is mobile within the country but immobile internationally
+.
+To show that trade is always preferable, he imagines that Portugal has an absolute advantage over England for two goods, which, according to Adam Smith's theory, would prevent trade from occurring.
+
+## Ricardo example
+
+Pour savoir dans quoi l’Angleterre doit se spécialiser, comparons sa productivité pour chacun des produits avec celle du Portugal:
+Rapport entre productivité du vin des Anglais et productivité du vin des Portugais: (1/120) / (1/80) = 0.66
+Rapport entre productivité du drap des Anglais et productivité du drap des Portugais: (1/100)/(1/90)= 0.9
+Le désavantage de l’Angleterre est moins grand pour le drap que pour le vin, car sa productivité relative est meilleure (0.9 contre 0.66 pour le vin).
+
+Dans quel bien le Portugal doit-il se spécialiser ?
+
+Rapport entre productivité du vin des Portugais et productivité du vin des Anglais: (1/80)/(1/120) = 1.5
+
+Rapport entre productivité du drap des Portugais et productivité du drap des Anglais: (1/90)/(1/100) = 1.11
+
+Le Portugal a donc un avantage comparatif pour le vin (productivité de 1.5 contre 1.11 pour le drap).
+
+
+Avant le libre-échange, pour produire 2m de drap il fallait 190h de travail (100+90), et 200h de travail pour 2L de vin (120+80).
+
+ Etant donnés les avantages comparatifs de chacun, le Portugal se spécialise dans le vin et l’Angleterre dans le drap. 
+
+Pour produire les 2m de drap l’Angleterre va mettre 200h, économisant 20h par rapport à la situation précédente (cf. Tableau). Elle peut maintenant consacrer ces 20h supplémentaires à produire plus de drap par exemple.
+
+Le Portugal abandonnant la production de drap, va mettre 160h pour produire les 2L de vin, il économise ainsi 10h de travail. Ainsi au total 30h de travail sont économisées (ou sont utilisées pour produire davantage de marchandises). Les deux pays bénéficient donc de la spécialisation et du libre-échange.
+
+Ainsi, en raisonnant sur les coûts comparatifs et non absolus, il démontre (dans son cadre théorique) qu’il est avantageux pour chacun de se spécialiser dans la production pour laquelle il possède l’avantage le plus fort (vin portugais), ou le désavantage le plus faible (tissu anglais).
+ La théorie ricardienne des avantages comparatifs lie le commerce international à des différences de technologie de production entre les pays (représentées par le nombre d’unités de travail nécessaires dans la production d’un bien dans un secteur donné). 
+Le modèle de Ricardo a deux conclusions fondamentales : 
+les pays sont toujours gagnants à l'échange, qui permet de produire de manière plus efficace.
+en situation d'échange, les pays vont se spécialiser dans la production du bien où ils possèdent un avantage comparatif. 
+
+## The HOS Model
+
+First published in a more literary form by Bertil Ohlin, who attributed the co-authorship of the model to his thesis advisor, Eli Heckscher, in 1933.
+
+In 1941, Paul Samuelson and Wolfgang Stolper deduced an important theorem on factor remuneration, which was systematically incorporated into the presentation of the model, now known by the acronym HOS.
+
+In this model, international trade is based on differences in factor endowments (labor, capital, resources, etc.). It thus highlights that differences in productivity between countries (i.e., Ricardo) are not the only explanation for comparative advantages.
+
+The conclusions of the model are:
+
+- Partial specialization of each country in the good that is relatively the most intensive in the factor with which the country is relatively best endowed (better factor endowment).
+- Equalization of relative prices of goods between countries.
+- Due to the relationship between relative prices and relative remunerations, the relative remuneration of the relatively rare factor in each country decreases while that of the relatively abundant factor increases.
+
+## The HOS Model
+
+Many intuitions and results, but:
+
+Most of its predictions are contradicted by international trade flows:
+
+- Although the United States has one of the highest capital per capita rates, it exports relatively labor-intensive products.
+- The equalization of relative prices is rarely observed, even within a monetary union like the eurozone.
+- Capital mobility leads to a "degenerate" situation: after balancing relative endowments, countries find themselves in autarky!
+- Perfect competition.
+
+## Summary
+
+SMITH and absolute advantage: Trade is profitable, and each country specializes in the production of the good for which it has an absolute advantage.
+But it does not explain why a country that is more efficient in the production of all goods would still benefit from maintaining trade relations with its neighboring countries.
+
+RICARDO and comparative advantage: A country can benefit from specialization by producing the goods for which it has a comparative advantage, even if it has an absolute disadvantage in all the goods it produces.
+But only labor factor (mobile within the country and immobile internationally).
+
+HOS and factor endowments: In this model, international trade is based on differences in factor endowments (labor, capital, resources, etc.).
+Partial specialization of each country in the good that is relatively the most intensive in the factor with which the country is relatively best endowed (better factor endowment).
+Equalization of relative prices of goods between countries.
+
+But the equalization of relative prices is rarely observed, even within a monetary union like the eurozone.
+Assumes K and L are immobile internationally and totally mobile within the country between sectors.
+Assumes perfect competition and constant returns to scale.
+
+## Increasing Returns and Imperfect Competition
+
+In the 1970s, Krugman (1980) and Helpman (1981), then Helpman and Krugman (1985), introduced new elements into the theory of comparative advantage, which are increasing returns to scale and imperfect competition.
+
+This model allows for the consideration of intra-industry trade between countries with similar levels of development.
+Why?
+
+Product differentiation within the same industry.
+Economies of scale.
+Economies of scale allow large firms to produce at a lower unit cost.
+
+The first entrants to the market are then advantaged, and the increasing returns (average production cost decreases as the quantity produced increases) that result from this position lead to a monopoly or oligopoly situation in the market, creating barriers to entry for new entrants.
+
+Thus, international trade is dominated by these large companies, generally from countries with a lot of capital and operating in markets with very limited competition.
+
+## Firm Heterogeneity and International Trade
+
+In 2003, Melitz introduced the notion of heterogeneous firms (in Krugman's model, firms are symmetrical, i.e., they all have the same production coefficients), heterogeneity which, within the same sector, will contribute to amplifying the gains from liberalization that economic literature had already identified:
+
+Opening up to trade will indeed contribute to raising productivity, not only through economies of scale but also through a Darwinian process of firm selection.
+
+Modern theoretical developments... to follow...
+
+## Explanation of Trade Flow Volumes
+
+Statistical description of the "dynamics" of trade flows is based on an intuition from physics and "brought to light" in the 1960s.
+
+Explanation based on Newton's universal gravitation model.
+
+## Gravity and International Trade
+
+![](assets/gravity.png)
+
+## Gravity and International Trade
+
+This law of gravitation is also used in economics. The gravity model establishes an empirical relationship (Walter Isard, 1954; Jan Tinbergen, 1962) that explains the value of trade between two countries and sheds light on the determinants and obstacles to trade.
+
+Main determinants:
+- The size of the countries,
+- Differences in factor endowments and technology,
+- Geographic characteristics matter a lot (CEPII's distance database): Distance, but also the existence of a common border, or even cultural distance (language, colony...),
+- Other trade barriers (trade policies, time, risks...).
+
+## Empirical Relationship Supported by Theoretical Justifications:
+
+Ultimately, all trade models predict gravity-type trade, and the role that the size of economies plays in their external trade is well understood.
+For example, Krugman's model (1980) shows how the volume of trade a country has with the rest of the world is proportional to its size and negatively affected by trade barriers.
+Due to increasing returns and transportation costs, firms are incentivized to concentrate their production as close as possible to their market.
+
+Since consumers have a taste for variety, each country has an interest in specializing in a given variety of a good (to benefit from economies of scale) and importing other varieties (to increase the population's welfare), so relatively similar countries still have an interest in trading.
+However, while the importance of distance for trade is empirically verified, it has been difficult to justify theoretically. Several authors have proposed explanations, but these rely on factors (e.g., transportation techniques, tariffs, the nature of traded goods, etc.) that have undergone profound changes over the decades, so none of them truly explain the stability of the distance exponent γ.
+
+## Gravity and International Trade
+
+Chaney (2013): seeks to explain why this exponent is stable over time with the modeling of vertical production chains.
+Firms combine capital and labor with intermediate goods supplied by upstream firms.
+They have two ways to circumvent obstacles related to international trade.
+Either they pay a direct cost to create a contact abroad,
+Or they communicate with their existing contacts and seek to learn more about their own customers, which involves direct interaction and an indirect cost.
+If technological progress affects the first cost and perhaps even the frequency of interactions by facilitating travel and communication, it does not reduce the need for direct interaction. The distribution of a firm's exports in space then depends on how distance influences the direct cost associated with creating contacts.
+
+## Gravity and International Trade
+
+The geographic distribution of a firm's suppliers and customers will evolve over time:
+As a firm acquires more and more suppliers and customers, the suppliers and customers tend to be, on average, increasingly distant.
+Thus, the largest firms import and export over increasingly long average distances.
+The impact of distance on international trade will then depend on the distribution of firm sizes:
+Since large firms trade over long distances, the volume of trade a country conducts with a distant region will ultimately depend on the number of large firms present in its territory.
+In particular, if the distribution of firm sizes is close to Zipf's law (the second-largest firm is half the size of the largest, the third-largest firm is one-third the size of the largest, etc.), then Chaney's model shows that the volume of trade flows is inversely proportional to geographic distance.
+
+## Gravity: Extension
+
+By placing geography at the heart of the analysis, the gravity model has been applied to many other "variables" and generally gives convincing empirical results on:
+
+Mainly goods, but also services!
+Migrations
+Financial flows
+Direct investments
+...
+
+## Example: US
+
+The Border Effect
+
+Even when there is no tariff between two neighboring countries, trade between provinces of a country will be higher than cross-border trade.
+
+Example of the Canada/US border:
+Both countries are members of NAFTA (formerly USCAN); most Canadians speak English; and individuals can cross the border freely without too many formalities.
+And yet, trade data between Canadian provinces among themselves and with neighboring US states show that, ceteris paribus, there is more trade between Canadian provinces than between Canadian provinces and US states.
+
+## Why a Border Effect?
+
+Tariffs (not US/Canada) and Non-Tariff Measures.
+
+Domestic bias, especially in public markets.
+
+Institutional and legal differences can make contracting difficult.
+
+Different currencies.
+
+## Border Effect as a Measure of Integration
+
+The EU is supposed to be an integrated market.
+In a standard gravity equation, the EU market will be compared to the rest of the world to verify and demonstrate that it is indeed more integrated.
+However, one can adopt the opposite approach: compare the EU market to the most integrated markets, i.e., domestic markets.
+If the EU market is indeed perfectly integrated, the borders within the EU should have no impact (on trade).
+
+## Conclusion
+
+Theoretical models "justify" trade, with (globally and without considering externalities) mutual gains, thanks to:
+An increase in the number of available products (taste for variety, i.e., horizontal differentiation, or products that cannot be produced elsewhere).
+Efficiency gains: resources are used to produce the goods for which the country (i.e., its most efficient firms) is most efficient.
+Econometric estimates confirm the trade structure predicted by the models (gravity models).
+
+
+# Trade Policy
+
+## Theory and Practice...
+
+In theory, trade is _profitable_.
+
+In practices _all countries protect themselves_.
+
+Let's discuss briefly:
+
+- the reasons
+- the tools
+- the effects
+
+of these trade policies
+
+## Justifications
+
+- To protect __infant industries__
+  - Protection of new domestic industries from foreign competition to allow them to develop
+  - because setting up a new industry takes time and has fixed costs
+protections are temporary until the industry is mature
+- To protect/develop __strategic sectors__
+  - Protection from competition in certain strategic sectors: defense, health, energy...
+
+## Justifications (2)
+
+
+- To __avoid dumping__
+  - When _competitors' export prices are lower than the prices they charge_ in their own markets (very difficult to assess).
+- For __macroeconomic reasons__
+  - Large countries can manipulate their terms of trade by changing the price of the goods they import.
+    - PX/PM, i.e., their ability to buy imports based on the price of their exports
+  - Promoting exports allows to accumulate foreign currency
+    - that can be used to stabilize exchange rate
+  - Limiting imports of goods that create an unfavorable balance of payments.
+
+
+## Justifications (3)
+
+- To generate tax revenue
+  - Customs duties provide significant tax revenue
+    - even in the United States before the introduction of value-added tax or income tax
+    - 28% of government revenue in Côte d'Ivoire, for example.
+  - Easier to implement than other taxes, especially in developing countries.
+- For political reasons
+  - Various interests, producer lobbies, consumer lobbies...
+  - Limiting the losses of the "losers of globalization" (unskilled labor).
+  - Role of voting mechanisms, importance of rural areas.
+
+## Justifications (4)
+
+- Market failures theoretically justify public interventions in agriculture
+  - The market is not the most appropriate instrument for the production of certain goods or services that are public goods (health, landscape, rural life...) and to take into account externalities
+  - Strategic sector (and therefore also protection from competition)
+
+## General Theory
+
+- Economic theory has developed a field of analysis of this demand for protection: the __political economy of protectionism__.
+  - An abundant literature.
+  - Reference model: Protection for Sale (Grossman-Helpman (1994))
+
+## Protection For Sale
+
+The Grossman and Helpman model is a __common agency model__ (one agent, several principals) with a *two-stage game*.
+
+The basic analytical framework is that of a model with several production sectors with specific factors. Each sector produces a particular good with labor and a factor of production specific to the sector.
+
+The vector of trade policy determines a tariff (positive or negative) on imports in each sector.
+
+The model features __pressure groups__:
+
+- representing the different production sectors
+- they define their contributions conditionally on the trade policy vector, i.e., conditionally on tariff levels for all sectors of the economy.
+
+It is a __zero-sum__ game
+
+## Protection For Sale
+
+In the first stage, pressure groups define their contribution functions.
+
+Pressure groups choose their contributions non-cooperatively and independently of each other, in order to maximize the welfare of their members.
+
+In the second stage, the incumbent government chooses its political position taking into account the contribution functions defined by the pressure groups.
+
+## Protection For Sale
+
+Formally, the government seeks to maximize an "objective" function that is a weighted average of contributions and general welfare, with the goal of rewarding interest groups and being re-elected in the next election.
+
+Candidates must therefore balance policies that favor particular interest groups with those that align with the general interest.
+
+The equilibrium of this game is characterized by:
+
+- A vector of contribution functions (one for each pressure group) such that each contribution function maximizes the welfare of the members of the respective pressure group, given the contribution functions defined by other pressure groups and the anticipated decision rule of the government;
+- A vector of tariffs (one for each sector) that maximizes the government's "objective" function.
+
+## Protection For Sale
+
+__Theoretical Results__:
+
+_Only production sectors represented by a pressure group benefit from positive protection_, while non-represented sectors face a negative import tariff on the goods they produce.
+
+__Explanation__:
+
+- interest groups pressure the government for high selling prices in their own production sectors and low prices in other sectors, as they are also consumers of goods produced by other sectors.
+
+The influence game thus leads to a redistribution, through a system of taxes, of resources from non-organized sectors to politically organized ones.
+
+## Protection For Sale
+
+__Predictions of the model__:
+
+The level of protection in a sector is higher when:
+
+- The ownership of the specific factor in the concerned sector is _concentrated_.
+- The relative weight of general welfare, compared to the contributions of pressure groups, in the government's "objective" function is low.
+- The larger the production share of the considered sector, the higher its level of protection due to the volume of benefits from the influence game.
+- If the price elasticity of the import function is low (the import level is not very sensitive to an increase in the import tariff), the tariff level for the sector organized into a pressure group is high
+
+## Protection For Sale
+
+__Predictions of the model:(cont'd)__:
+
+- When all sectors of the economy are organized into pressure groups, the government's policy aligns with the general interest
+  - zero import tariff for all sectors
+  - influence groups neutralize each other, and each group's contributions aim to avoid being affected by the influence of other groups
+
+- Even so, the game results in a loss of general welfare
+  - represented by the expenditures of the pressure groups.
+
+## TODO
+
+Could this explain trump policies?
+
+## Various Tools
+
+Many tools are available for trade policy:
+
+- tariffs
+  - ad valorem: a fraction of the import price
+- export subsidies
+- consumption tax
+- quantitative restrictions: quotas
+- export restrictions
+  - export taxes
+- Non Tariff Measures
+
+## Reminder: Surplus in a Closed Economy
+
+
+## Opening: Exports
+
+## Opening: Imports
+
+## Tariffs: Impact
+
+Let's now graphically analyze the consequences of implementing an ad valorem tariff, "t".
+
+We assume a small country, importing a homogeneous good.
+In this situation, the domestic price of the good is equivalent to the international price pm.
+This situation characterizes the initial equilibrium, with international trade but without protection measures.
+We then assume that a tariff "t" is implemented as a percentage of the value of rice imports, for example, 20 or 30 percent.
+
+## Tariffs: Impact
+
+![](assets/droits_douanne.png)
+
+## Tariffs: Impact
+
+Summary: The implementation of this tariff triggers a series of reactions from rice producers (for example), consumers (and traders), until a new equilibrium is reached in the domestic rice market.
+
+If we add up surplus and public revenues (1 Euro gained or lost by the producer = 1 Euro gained or lost by consumers = 1 Euro of public revenue). The tariff has a negative effect: gray areas (triangle = deadweight losses).
+
+Important point: identify the winners and losers.
+
+Conclusion: the tariff mainly serves to protect the producer. If it is per-unit, it helps protect the consumer (from low-priced goods that may be of poor quality). It allows for the collection of tariff revenues.
+
+## Production Subsidy
+
+![](assets/subvention_production.png)
+![](assets/taxe_consommation.png)
+
+## Production Subsidy & Consumption Tax
+
+If we overlay the two graphs and study the imposition of both instruments (production subsidy and consumption tax), we have the same effects as an import tariff: B + D
+decrease in consumer surplus,
+increase in producer surplus,
+growth in public revenues (revenue from the consumption tax > cost of the production subsidy).
+Normal: import tariff = consumption tax + production subsidy.
+
+## Quantitative Restrictions: Quotas
+
+The State can also limit the purchase of foreign products by setting maximum quantities (or maximum values) for imports. This is called a quota or contingent.
+Quotas are defined by the State based on the physical quantity of imports or exports. They can be established unilaterally by a State or negotiated with importing or exporting countries that "voluntarily" agree to restrict their imports or exports.
+If the imported quantity results from an agreement between the importing country and the exporting country, it is called an orderly marketing agreement (OMA) or "voluntary" export restraint (VER).
+The 1970s-80s were characterized by an unprecedented development of such agreements.
+
+## Quantitative Restrictions: Quotas
+
+States generally implement quota systems through licenses.
+These are property titles granting their holder the right to import or export a certain quantity of a given good:
+Sales of licenses or auctions to interested importers and exporters
+Issuing them for free based on administrative criteria.
+Example:
+The United States has implemented an import quota for foreign cheeses.
+Only certain companies are then allowed to import cheese, each having the right (license) to import only a certain quantity per year.
+Each individual quota is set based on the quantities of cheese imported by the company in the past.
+
+## Quantitative Restrictions: Quotas
+
+Impact of an import quota:
+Same effect as a tariff if licenses are granted efficiently.
+
+Otherwise:
+Decrease in consumer surplus,
+Increase in producer surplus,
+Nothing for public revenues,
+Rent for foreign companies,
+Net cost for society, potentially higher than the tariff.
+
+## Price Volatility and Protection
+
+Price volatility is a characteristic of agricultural markets.
+
+This volatility is harmful to both producers and consumers.
+
+Different ways to reduce volatility:
+- Reduce or stabilize production levels (uprooting, slaughter premiums, land freezing, storage, processing premiums…)
+- Isolate the domestic market from international market price fluctuations (variable levies, entry prices…)
+
+## 
+
+![](assets/volat_prix.png)
+
+##
+
+![](assets/volat_prix_2.png)
+
+## Assessment of Import Tariff Protection
+
+Primarily protect domestic producers (in a simplified framework with a homogeneous good, perfect competition, partial equilibrium…). These tools allow for the maintenance of high prices (potentially to the detriment of consumers and/or the government).
+
+Another strategic tool: Anti-dumping and countervailing duties (Same as a tariff, but applied in certain circumstances, possibly in addition to existing tariffs).
+
+## Export Subsidies
+
+An export subsidy is a payment made to an individual or company that ships goods abroad.
+Like tariffs and export taxes, these subsidies can be specific or ad valorem.
+They encourage producers and traders to export by making their foreign sales more profitable, which has the effect of raising the price of this product on the domestic market.
+When a state subsidizes the export of a product, traders will tend to export this product until the domestic price is higher than the sum of the export price and the subsidy. Export subsidies therefore favor producers of export goods and traders, to the detriment of domestic consumers and taxpayers.
+Subsidies are prohibited under the WTO (2015), especially in agriculture.
+
+##
+
+TODO
+
+## Export Restrictions: Export Taxes
+
+Export taxes help reduce the price of export products paid to the producer and decrease the selling price of these products on the domestic market. They tend to discourage domestic production while encouraging domestic consumption of exported products, thus ultimately reducing export quantities.
+Export taxes therefore benefit domestic consumers and public finances at the expense of producers. If the goal is national food security, this measure can be effective.
+Recent example (Argentina):
+Decree 793, published on September 4, 2018, establishes an export tax for all customs nomenclatures.
+It imposes a 12% tax on the FOB value of goods, with a cap equivalent to 4 Argentine pesos (ARS) per USD, on all products exported from Argentina.
+This measure is temporary, it will take effect on January 1, 2019, and is expected to be suspended at the end of 2020. The country being in a severe financial and economic crisis, this decree aims to restore budget balance.
+
+## Discriminatory VAT Reimbursement in China: Export Tax
+
+Principle: China implemented a VAT in 1994 but does not always fully reimburse exporters: incentive to sell on the domestic market!
+
+Average reimbursement level varies greatly: likely used as a mechanism to influence exports.
+
+Rates vary depending on stated objectives: environment, upgrading, food price stability, and hidden (subsidizing downstream industries, keeping rare earths).
+
+## Average VAT Reimbursement
+
+![](assets/remboursement_variable.png)
+
+## Average VAT Reimbursement
+
+![](assets/remboursement_variable_2.png)
+
+## And It Works
+
+Effective system with a certain impact on exports:
+An increase of one percentage point in the rebate (e.g., from 11% VAT to 12%) is associated with a 7% increase in export quantities.
+
+Similarly, a one percentage point decrease in the rate reduces exports by 7%.
+
+Certainly helped maintain Chinese exports during the financial crisis period while global prices declined.
+
+## Non-Tariff Measures
+
+Very complex subject (in terms of quantitative analyses).
+
+Non-tariff measures (NTMs) are policy measures, other than tariffs, that can affect international trade in goods.
+
+The effect of NTMs on trade can be the primary objective of the implemented policy (e.g., quotas or import bans), or it can be a consequence of another policy objective (e.g., product quality control or packaging requirements).
+
+## Non-Tariff Measures
+
+According to WTO agreements, the use of NTMs is allowed under certain circumstances. They include, among others, the Agreement on Technical Barriers to Trade (TBT) or the Agreement on Sanitary and Phytosanitary Measures (SPS), both negotiated during the Uruguay Round.
+
+These agreements allow governments to implement policies with a legitimate objective even if they may increase trade costs.
+
+However, NTMs are sometimes used as a means to circumvent free trade rules and protect domestic industries at the expense of foreign competition. In this case, NTMs are called non-tariff barriers (NTBs).
+
+It is very difficult, if not impossible, to distinguish legitimate NTMs from protectionist NTMs, especially since the same measure can be employed for different reasons.
+
+## Non-Tariff Measures
+
+To facilitate the collection and dissemination of information on NTMs in force in each country, a classification system for NTMs was developed in 2008 by a group of experts from 8 international organizations - FAO, IMF, ITC, OECD, UNCTAD, UNIDO, World Bank, and WTO - and revised in 2009 and 2012.
+
+This classification has a total of 16 chapters ranging from letter A to letter P. It distinguishes between import measures (Chapters A to O) imposed by the importing country and export measures (Chapter P) applied by the exporting country itself. Import measures are then categorized into two main groups, technical measures and non-technical measures.
+
+## Non-Tariff Measures
+
+![](assets/non_tarifaire.png)
+
+## Non-Tariff Measures
+
+Examples of measures classified in Chapter A:
+
+- Ban on importing poultry from countries affected by avian flu;
+- Eggs sold in liquid form must be pasteurized or treated to eliminate microorganisms responsible for salmonellosis;
+- Animals must be quarantined for two weeks before entering the territory.
+
+## Non-Tariff Measures
+
+__Chapter B__: Technical Barriers to Trade (TBT)
+
+  - These measures relate to technical requirements and conformity assessment procedures for products with respect to applicable regulations and standards, excluding measures governed by the SPS Agreement.
+
+__Examples__:
+
+  - Importers of "sensitive products" such as medical products, explosives, weapons, alcohol, tobacco, slot machines, etc., may be required to register in the importing country;
+  - Refrigerators must bear a label indicating their size, weight, and electricity consumption;
+  - For a product to be identified as "chocolate," it must have a minimum concentration of 30% cocoa.
+
+## 
+
+__Chapter C__: Customs inspection and other border crossing formalities in C
+
+__Examples__:
+
+- Imports of live animals must be done through a specific customs office and not others.
+- A good must arrive directly from its country of origin without stopping in a third country.
+- There is a trade facilitation agenda: this covers the full range of border procedures, from electronic data exchange for a shipment of goods to the simplification and harmonization of import-export documents and the possibility of appealing administrative decisions made by border authorities.
+- Notably at the WTO, the TFA (Trade Facilitation Agreement) is the major result obtained during the last negotiation round.
+
+## Non-Tariff Measures
+
+How much NTMs?
+
+- The Kee et al. (2009) database proposes an ad valorem equivalent of non-tariff barriers (NTBs).
+  - The authors first estimate the impacts of NTBs on trade flows.
+  - They then convert these effects into AVEs, using import demand elasticities
+- Large: approx. 90 countries, with about 4,575 products categories
+
+__Results__:
+
+- The average AVE is 12%, considering all lines. If only lines containing NTMs are considered, the average is 45%.
+
+## But Beneficial Effect on Trade for Technical Measures
+
+Because technical NTMs address market imperfections, transparency, negative externalities… and can therefore have a positive effect on demand for imported goods.
+But there is always a negative correlation between the price of the good and imported quantities.
+
+## Trade Policy & GVCs
+
+In a world of GVCs, the trade policy of an economy cannot be exclusively focused on trade barriers between that economy and its direct trading partners.
+The entire value chain and bottlenecks existing upstream and downstream between third countries must be considered.
+The success of an economy in international markets depends as much on its ability to import top-quality inputs as on its ability to export.
+Value-added trade data show how GVCs amplify the costs of customs protection mechanisms: cumulative nature of tariffs since intermediate consumptions cross borders repeatedly.
+
+## Tariffs along the GVC: total tariff affecting the export of a good
+
+![](assets/tarifs_cvm.png)
+
+## Effective Protection
+
+Corden: if a sector uses intermediate goods that are more protected than its own production, the overall tariff policy discourages this production because it increases the cost and/or reduces the availability of intermediate goods.
+Conversely, when all inputs are less protected than the output, the sector receives, in fact, stronger protection than indicated by the declared rate.
+This incentive (or disincentive) to produce in a sector is measured by the change in added value caused by the overall tariff structure.
+This indicator is known as the effective protection rate.
+
+## Effective Protection
+
+Simple case:
+Consider two countries A and B, each buying 80 worth of intermediate consumptions.
+In B, assembly costs 20, so the finished product is put on the international market at a price of 80 + 20 = 100.
+A also wants to produce this product but protects its assembly activity with a 10% import duty on the finished product.
+So A can afford costs of (100 x 1.1) – 80 = 30, thus 50% higher costs than in B thanks to a nominal 10% import duty on finished products.
+The effective protection is 50%.
+
+## Effective Protection Rate in 2009
+
+Higher EPR if the MFN tariff on the finished product is higher and if national production depends on imported inputs (less protection on inputs).
+
+# The Multilateral Trading System
+
+## The Multilateral Trading System
+
+The GATT (1947-1994)
+
+The WTO (1995-2019)
+- Principles and exceptions
+- Negotiations: issues, evaluations
+- Post-Doha
+
+The WTO: Assessment and Challenges
+
+## Historical Context Pre-WWII
+
+- 19th century: period of relative free trade
+
+  - Anticorn laws, Franco-English commercial treaties, colonies, unilateral liberalization...
+
+- Late 19th - early 20th century: first wave of protectionism
+  - Méline Laws 1892
+  - Implementation of higher tariffs, quotas, embargo...
+
+- Between the two wars, Great Depression
+  - Highly protectionist policies
+  - Safeguarding of Industries Act 1921 in Britain
+  - Smoot–Hawley Tariff Act US 1930
+  - Exacerbates the crisis, 40% reduction in American imports, repercussions on international relations...
+
+## The GATT Rounds
+
+## Comments: The GATT Rounds
+
+From 1947 to 1967: negotiations mainly focused on tariffs.
+- Increasing number of goods.
+- By the end of the Kennedy Round, the average global protection rate was 10 times lower than in 1947.
+- But the reductions mainly concerned developed countries and industrial goods.
+
+According to Deardoff and Stern (1983): the average rate after the end of the round was 6.5% for the USA, 4% for Japan, 8% for France, and 9% for Germany.
+
+## Comments: The GATT Rounds
+
+Late 1970s: turbulence in the global economy:
+- 1973 oil shock, abandonment of fixed exchange rates...
+
+However, Tokyo Round:
+- Tariff reductions
+- Regulation of subsidies
+- Allows anti-dumping and countervailing measures
+
+Average tariff (weighted by imports) reduced by a third, especially for industrial products.
+
+## Comments: The GATT Rounds
+
+Uruguay Round (last GATT negotiation round) begins in 1986:
+- Numerous conflicts in the 1980s (EU, USA...).
+- Climate of trade tensions.
+- GATT reached its limits and could not resolve trade disputes (no established schedule, easy blockage, lengthy processes, and no resolutions...).
+- 120 participants – 26,000 pages of legal texts and commitments.
+
+Marrakech Agreement, 1994: Creation of the World Trade Organization (WTO).
+
+## The GATT Assessment
+
+Tariff reduction and consolidation
+- A "club of the rich" that works well: strong trade liberalization
+- Little concern for the interests of developing countries: agriculture and textiles not covered
+- But a ripple effect (growth in the number of members, extension of scope)
+- Ineffective dispute resolution mechanism
+From periodic agreement to permanent institution: Creation of the WTO.
+
+## The WTO Fact Sheet
+
+Headquarters: Geneva
+Created on: January 1, 1995
+Number of members: 164 (September 2019)
+- States
+  - Fully autonomous customs territories
+  - European Union
+  - Observers:
+- States in the process of accession
+  - International organizations (IMF...)
+  - Budget: < 200 million Swiss francs (2018)
+  - Staff: 630 people (2018)
+Leadership: Director-General, Ngozi Okonjo-Iweala
+
+## The WTO - Functions
+
+- Administration of WTO trade agreements
+- Framework for trade negotiations
+- Dispute resolution
+- Monitoring of national trade policies
+- Technical assistance and training for developing countries
+- Cooperation with other international organizations
+
+## The Main Objectives of the WTO
+
+- Promote wealth creation through international trade liberalization, but obstacles:
+  - Political economy: liberalization costs concentrated on a few well-organized sectors. Diffuse benefits (consumers) poorly organized politically with low individual interest.
+  - Limit the "free-rider" effect
+  - Ensure the continuity of the GATT
+Grant special concessions and assistance to developing countries
+
+## General Philosophy
+
+A negotiation framework...
+  - ... governed by a set of rules...
+  - ... to help resolve disputes between states under the aegis of an impartial arbitrator.
+
+Only governments (under influence?) participate in the game
+
+Mercantilism vs. Ricardianism.
+
+## General Principles and Associated Tools
+
+Non-discrimination (clarification of GATT principles)
+
+__Most-Favored-Nation Clause__ ("MFN clause"): any trade advantage granted by one country to another (even if it is not a WTO member) must be immediately extended to all WTO members.
+
+- __National treatment principle__: imported products or services on the territory of a member must not be treated less favorably than domestic products or services.
+
+## General Principles and Associated Tools (2)
+
+- Freer trade: a progressive and negotiated path
+  - Reciprocity: Countries exchange concessions on market access, for example, but also changes in regulations on standards (sanitary, technical...) or property rights
+- Fair competition
+- Transparency and predictability
+  - Consolidation: negotiations focus not on applied tariffs but on bound tariffs (ceilings)
+  - Notification and information obligations
+  - Trade Policy Review Mechanism
+
+## General Principles and Associated Tools (3)
+
+Other negotiation tools:
+
+- Round and associated principle of single undertaking: no à la carte choice, it's all or nothing (exception of plurilateral agreements)
+
+## Main Exceptions to General Principles
+
+- __Regional Trade Agreements__ (RTAs): liberalization of a substantial part of trade, but applied loosely. Article XXIV.
+
+- Safeguard clause, Contingent protection (anti-dumping)
+
+- __Agriculture__ (domestic support and export subsidies)
+
+- Textiles and clothing (multi-fiber agreements)
+
+## Main Exceptions for Developing Countries
+
+- Since the 1960s, but long without a legal framework.
+
+- General framework through the Enabling Clause in 1979 only:
+  - Possibility of differentiated and more favorable treatment for developing countries
+
+- Derogation from reciprocity for developing countries
+
+  - Justifications for non-reciprocal preferences granted by developed countries
+  - __Lesser obligations__ for agreements between developing countries
+
+## WTO Agreements
+
+::: columns
+
+:::: column
+
+General principles:
+
+The General Agreement on Tariffs and Trade (GATT) (for goods)
+
+The General Agreement on Trade in Services (GATS).
+
+The Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS).
+
+::::
+
+:::: column
+
+Additional agreements and annexes:
+
+- For goods (within the GATT framework)
+  - Agriculture (reintroduction into negotiations, tariffing)
+  - Sanitary regulations concerning agricultural products (SPS)
+  - Textiles and clothing (dismantling of MFA)
+  - Product standards (TBT)
+  - Investment measures
+  - Anti-dumping measures
+  - Customs valuation methods
+  - Pre-shipment inspection
+  - Rules of origin
+  - Import licensing
+  - Subsidies and countervailing measures
+  - Safeguards
+- For services (GATS annexes)
+  - Movement of natural persons
+  - Air transport
+  - Financial services
+  - Maritime transport
+  - Telecommunications
+
+::::
+:::
+
+## The Dispute Settlement Body (DSB) Review
+
+Over the past 20 years (1995-2015), nearly 500 disputes have been brought before the WTO.
+About half were settled through bilateral discussions, and the other half were handled through the panel procedure.
+
+The EU and US use this system a lot.
+
+Most often, (the complaint is justified and) the complainant wins: 88% of cases.
+
+The system relies heavily on legal (and economic) expertise.
+
+## Negotiations in Practice: The Case of Tariffs
+
+In multilateral negotiations, countries consider two types of tariffs (for an importing country that is a WTO member):
+
+Bound tariff (or CTS in English): a ceiling that a country commits not to exceed (except in special cases: anti-dumping, for example). Its tariffs can vary between [0, CTS], but vis-à-vis all its partners.
+
+Most-Favored-Nation (MFN) tariff: the lowest tariff a country commits to applying to its WTO partners.
+
+## WTO Tariffs
+
+Negotiations focus on the bound tariff.
+
+That is, if a country commits to reducing a tariff on a product, the reduced tariff will be the ceiling, not the MFN.
+
+Therefore, only reductions resulting in a bound tariff lower than the currently applied MFN tariff will have an impact on trade.
+
+If the tariff cut does not lower the MFN, it will only reduce the binding margin (difference between CTS and MFN). However, this reduction in the margin can translate into reduced uncertainty for the exporter and thus increase trade. Graphically, the stakes of tariff negotiations are therefore:
+
+## The Doha Round
+
+Launch of the Doha Round in November 2001 (6 years after the creation of the WTO).
+
+Under the sign of development (DDA).
+
+The subject is not unilateral liberalization, but the exchange of concessions and the definition of rules.
+
+Many topics: tariff liberalization, services, trade facilitation, geographical indications, environmental agreements (improving rules), intellectual property...
+
+## Points of Disagreement
+
+Feeling of deadlock, great difficulties in finding common ground, for many reasons:
+Differentiated treatment is not appreciated.
+Very ambitious: too many members, too many topics: a single agreement seems complex, seeking a "minimal" agreement.
+Limited benefits for developing countries that already benefit from many tariff advantages through preferential agreements (risk of preference erosion) and, moreover, commitments that are too costly and binding.
+A framework poorly adapted to a multipolar world, there are not only developing and developed countries.
+Very low expected gains as the ambition of the round has eroded.
+For developed countries, competition from preferential agreements (EU starts negotiations as early as 2004).
+The food price crisis (2007-2008), the financial crisis, the Euro crisis, climate issues, etc., have shifted priorities.
+
+## Multilateral Negotiations Today
+
+- Some successes, reduced agenda ("Doha Light" in Bali).
+- Bali, December 3-6, 2013
+  - The Bali Package: 1st multilateral agreement signed since the creation of the WTO.
+  - Trade facilitation: measures aim to reduce bureaucracy at borders.
+  - Aid for the development of least developed countries: increased exemption from customs duties for products from least developed countries.
+  - Agriculture: renewed commitment to reduce export subsidies.
+- Nairobi, December 15-19, 2015
+  - Historic decision to eliminate export subsidies for agricultural products.
+- Buenos Aires, December 10-13, 2017
+  - No agreement was reached.
+- Nur-Sultan (Kazakhstan), June 8-11, 2020
+  - TODO
+
+## The WTO Review, 25 Years Later
+
+- Significant increase in the number of members (with the largest countries within the WTO = attraction power).
+- Strength of the multilateral framework – structured framework for dialogue and negotiation.
+- Effectiveness of the DSB, "until recently."
+- MFN: the rule has become the exception.
+- Difficulty for the poorest countries to be heard.
+- "Relatively" democratic functioning (?)
+
+##
+
+![](assets/measures)
+
+## Challenges for the WTO and Its Future
+
+Questioning of the DSB.
+Consensus vs. vote.
+Failure of the DDA, relative successes of recent ministerial conferences.
+Categorization of countries (developing countries...).
+Trade war, uncertainty.
+Multilateralism and plurilateralism: trade agreements.
+
+## Challenges for the WTO and Its Future
+
+- Two recent particular problems:
+  - Level Playing Field: State intervention in the domestic economy (subsidies, competition, state-owned enterprises, and public procurement).
+- WTO limitations on this subject, particularly in defining subsidies.
+
+- Forced technology transfer:
+  - TRIPS and TRIMS agreements are not enough!
+
+# Trade Wars?
+
+## Today
+
+In the USA:
+Return of protectionist policies?
+Exit from NAFTA (USMCA), WTO... seems difficult but not impossible.
+Trade war with China.
+15-year-old dispute with the EU over subsidies in the aerospace sector.
+Bilateral agreements? Recent US-Japan agreement (October 2019).
+
+In Europe:
+Politicization of trade and trade policy issues.
+Question of European competence.
+Difficulties encountered in ratifying CETA suggest that future EU participation in free trade agreements will be difficult.
+Brexit.
+
+## USA: New Deal
+
+Since taking office in January 2017, President Trump has challenged some regional free trade agreements:
+US withdrawal from the Trans-Pacific Partnership.
+Renegotiation of NAFTA.
+
+Then commercial protection measures announced in March 2018, exceptional in their motivation and importance.
+
+##
+
+The Trump administration: a 58% increase in the number of anti-dumping and anti-subsidy measures between 2016 and 2017.
+With one exception (the first self-initiated case in 25 years), their initiative comes from companies, even if they respond to signals sent by the government.
+The safeguard measure announced in January 2018 against imports of washing machines and photovoltaic modules and panels is less usual in its procedure.
+Not exceptional, however: already used in 2002 and 2009, in line with international agreements.
+
+##
+
+It is different for the two measures announced in March 2018:
+Additional tariffs imposed in the name of national security (i.e., section 232 of the 1962 Trade Act) on steel (25%) and aluminum (10%) imports.
+Retaliation against technology transfers and China's intellectual property protection policy, imposing an additional 25% tariff on various products from China.
+
+##
+
+In principle: provided for by the GATT (exception for national security reasons).
+In form: contrary to commitments because purely political bases.
+Measures especially exceptional by the amounts involved:
+Measures on steel and aluminum initially targeted all partners, about $50 billion in imports (2017).
+Then exemptions for certain countries (Australia, EU, South Korea, Canada, Mexico...).
+So mainly targeting China.
+
+## Short-Term Impacts on Costs and Prices
+
+In the short term, trade tensions create uncertainties detrimental to investor confidence.
+When protection is temporary, it does not justify new investments or new hires.
+Protectionism also has consequences on national production incorporated as intermediate inputs in imports:
+In the United States, this re-imported national value-added accounts for 18.2% of imports from Mexico, but only 1.2% of those from China.
+
+## Quantitative Evaluations
+
+Various evaluations.
+
+Different methodologies.
+
+Presentation of CEPII conclusions.
+
+## CGE Evaluation
+
+CEPII Letter "The Waterer Watered: Trade War and Global Value Chains," Bellora and Fontagné, April 2019.
+
+Use of a global computable general equilibrium model.
+
+Allows accounting for direct and indirect effects (third countries, unaffected sectors, different markets...).
+
+## CGE Evaluation
+
+Scenario 1:
+Activation by the United States of "Section 232" on aluminum and steel (including exemptions, tariff quotas, and retaliation) and "Section 301" on US imports from China (as well as Chinese retaliation).
+Scenario 2:
+Same as Scenario 1, plus:
+Possible US sanctions on automobile and component imports, considered in spring 2019.
+The main automobile exporters to the United States retaliate and increase their tariffs on key products they import from the United States by 25 percentage points (excluding energy and pharmaceutical products), up to the value of their targeted automobile exports.
+Scenario 3:
+Elimination of bilateral tariffs on industrial products between the United States and the EU27 (Brexit), while measures on steel and aluminum against partners other than the EU and those related to Section 301 against China would be maintained.
+
+<!-- # What's a Trade War?
+
+1. Infant Industry Argument
+Proponents: Alexander Hamilton, Friedrich List
+Concept: Emerging industries in developing countries may struggle to compete with well-established foreign competitors. Temporary protection allows these industries to grow, develop economies of scale, and eventually compete on a global level.
+Criticism: Industries often become dependent on protection and may not become competitive as intended.
+
+2. Strategic Trade Theory
+Proponents: Paul Krugman, James Brander, Barbara Spencer
+Concept: In industries with significant economies of scale or network effects (e.g., aerospace, tech), government intervention can help domestic firms gain a competitive advantage.
+Example: Boeing vs. Airbus, where both the U.S. and the EU provided subsidies to help their firms compete in a high-stakes global industry.
+Criticism: Can lead to retaliatory trade wars and inefficiencies in market allocation.
+
+3. National Security Argument
+Concept: Certain industries (e.g., defense, energy, food production, semiconductors) are vital to national security. Relying on foreign suppliers can create vulnerabilities in times of conflict or crisis.
+Example: The U.S. imposing restrictions on Chinese telecom firms (Huawei) to prevent foreign influence in critical infrastructure.
+Criticism: Often used as a political tool rather than a genuine economic necessity.
+
+4. Terms of Trade Argument (Optimal Tariff Theory)
+Proponents: Frank Graham, Harry Johnson
+Concept: If a country has significant market power as a large importer of a good, it can impose tariffs to improve its terms of trade (i.e., reduce the price of imports relative to exports). This allows the country to capture a greater share of global surplus.
+Example: A country like the U.S. imposing tariffs on Chinese goods could theoretically force China to lower export prices.
+Criticism: If trading partners retaliate, the gains may be wiped out, leading to trade wars.
+
+5. Balance of Payments Protectionism
+Concept: If a country runs persistent trade deficits, it may impose tariffs or import restrictions to reduce its dependence on foreign capital and stabilize its economy.
+Example: Many developing countries impose import restrictions to conserve foreign exchange reserves.
+Criticism: Often leads to inefficiencies and consumer price increases.
+
+6. Employment Protection Argument (Keynesian Approach)
+Proponents: John Maynard Keynes (to some extent)
+Concept: Free trade can cause job losses in certain sectors due to cheaper foreign competition. Protectionist policies can shield domestic workers and industries from economic shocks.
+Example: U.S. steel tariffs imposed to protect domestic jobs.
+Criticism: Often leads to higher costs for consumers and downstream industries.
+
+7. Cultural & Strategic Autonomy Arguments
+Concept: Some countries protect industries such as media, agriculture, or tech to preserve national identity and autonomy from foreign influence.
+Example: France's restrictions on foreign media and film imports to preserve French culture.
+Criticism: Can lead to inefficiencies and higher costs for consumers. -->
