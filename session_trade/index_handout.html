@@ -1,0 +1,1983 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.6.40">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Pablo Winant">
+<meta name="dcterms.date" content="2025-03-16">
+
+<title>Trade (Wars)? – Topics in Economics</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-61bc438b86f9809b95d6763f7a7527e6.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="../styles.css">
+</head>
+
+<body>
+
+<div id="quarto-search-results"></div>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#some-news" id="toc-some-news" class="nav-link active" data-scroll-target="#some-news">Some news</a>
+  <ul class="collapse">
+  <li><a href="#section" id="toc-section" class="nav-link" data-scroll-target="#section"></a></li>
+  <li><a href="#facts" id="toc-facts" class="nav-link" data-scroll-target="#facts">Facts</a></li>
+  </ul></li>
+  <li><a href="#quick-intro-refresher-on-international-trade" id="toc-quick-intro-refresher-on-international-trade" class="nav-link" data-scroll-target="#quick-intro-refresher-on-international-trade">Quick Intro / Refresher on International Trade</a>
+  <ul class="collapse">
+  <li><a href="#a-famous-trick-question" id="toc-a-famous-trick-question" class="nav-link" data-scroll-target="#a-famous-trick-question">A famous trick question</a></li>
+  <li><a href="#theories" id="toc-theories" class="nav-link" data-scroll-target="#theories">Theories</a></li>
+  <li><a href="#the-mercantilists" id="toc-the-mercantilists" class="nav-link" data-scroll-target="#the-mercantilists">The Mercantilists</a></li>
+  <li><a href="#absolute-advantage" id="toc-absolute-advantage" class="nav-link" data-scroll-target="#absolute-advantage">Absolute Advantage</a></li>
+  <li><a href="#the-ricardian-model" id="toc-the-ricardian-model" class="nav-link" data-scroll-target="#the-ricardian-model">The Ricardian Model</a></li>
+  <li><a href="#ricardo-example" id="toc-ricardo-example" class="nav-link" data-scroll-target="#ricardo-example">Ricardo example</a></li>
+  <li><a href="#the-hos-model-1" id="toc-the-hos-model-1" class="nav-link" data-scroll-target="#the-hos-model-1">The HOS Model (1)</a></li>
+  <li><a href="#the-hos-model-2" id="toc-the-hos-model-2" class="nav-link" data-scroll-target="#the-hos-model-2">The HOS Model (2)</a></li>
+  <li><a href="#the-hos-model" id="toc-the-hos-model" class="nav-link" data-scroll-target="#the-hos-model">The HOS Model</a></li>
+  <li><a href="#increasing-returns-and-imperfect-competition" id="toc-increasing-returns-and-imperfect-competition" class="nav-link" data-scroll-target="#increasing-returns-and-imperfect-competition">Increasing Returns and Imperfect Competition</a></li>
+  <li><a href="#increasing-returns-and-imperfect-competition-2" id="toc-increasing-returns-and-imperfect-competition-2" class="nav-link" data-scroll-target="#increasing-returns-and-imperfect-competition-2">Increasing Returns and Imperfect Competition (2)</a></li>
+  <li><a href="#firm-heterogeneity-and-international-trade" id="toc-firm-heterogeneity-and-international-trade" class="nav-link" data-scroll-target="#firm-heterogeneity-and-international-trade">Firm Heterogeneity and International Trade</a></li>
+  <li><a href="#explanation-of-trade-flow-volumes" id="toc-explanation-of-trade-flow-volumes" class="nav-link" data-scroll-target="#explanation-of-trade-flow-volumes">Explanation of Trade Flow Volumes</a></li>
+  <li><a href="#explanation-of-trade-flow-volumes-1" id="toc-explanation-of-trade-flow-volumes-1" class="nav-link" data-scroll-target="#explanation-of-trade-flow-volumes-1">Explanation of Trade Flow Volumes</a></li>
+  <li><a href="#empirical-confirmation-of-gravity-models" id="toc-empirical-confirmation-of-gravity-models" class="nav-link" data-scroll-target="#empirical-confirmation-of-gravity-models">Empirical Confirmation of Gravity Models</a></li>
+  <li><a href="#conclusion" id="toc-conclusion" class="nav-link" data-scroll-target="#conclusion">Conclusion</a></li>
+  </ul></li>
+  <li><a href="#trade-policy" id="toc-trade-policy" class="nav-link" data-scroll-target="#trade-policy">Trade Policy</a>
+  <ul class="collapse">
+  <li><a href="#theory-and-practice" id="toc-theory-and-practice" class="nav-link" data-scroll-target="#theory-and-practice">Theory and Practice…</a></li>
+  <li><a href="#justifications" id="toc-justifications" class="nav-link" data-scroll-target="#justifications">Justifications</a></li>
+  <li><a href="#justifications-2" id="toc-justifications-2" class="nav-link" data-scroll-target="#justifications-2">Justifications (2)</a></li>
+  <li><a href="#justifications-3" id="toc-justifications-3" class="nav-link" data-scroll-target="#justifications-3">Justifications (3)</a></li>
+  <li><a href="#justifications-4" id="toc-justifications-4" class="nav-link" data-scroll-target="#justifications-4">Justifications (4)</a></li>
+  <li><a href="#general-theory" id="toc-general-theory" class="nav-link" data-scroll-target="#general-theory">General Theory</a></li>
+  <li><a href="#protection-for-sale" id="toc-protection-for-sale" class="nav-link" data-scroll-target="#protection-for-sale">Protection For Sale</a></li>
+  <li><a href="#protection-for-sale-1" id="toc-protection-for-sale-1" class="nav-link" data-scroll-target="#protection-for-sale-1">Protection For Sale</a></li>
+  <li><a href="#protection-for-sale-2" id="toc-protection-for-sale-2" class="nav-link" data-scroll-target="#protection-for-sale-2">Protection For Sale</a></li>
+  <li><a href="#protection-for-sale-3" id="toc-protection-for-sale-3" class="nav-link" data-scroll-target="#protection-for-sale-3">Protection For Sale</a></li>
+  <li><a href="#protection-for-sale-4" id="toc-protection-for-sale-4" class="nav-link" data-scroll-target="#protection-for-sale-4">Protection For Sale</a></li>
+  <li><a href="#protection-for-sale-5" id="toc-protection-for-sale-5" class="nav-link" data-scroll-target="#protection-for-sale-5">Protection For Sale</a></li>
+  <li><a href="#various-tools" id="toc-various-tools" class="nav-link" data-scroll-target="#various-tools">Various Tools</a></li>
+  <li><a href="#tariffs-impact" id="toc-tariffs-impact" class="nav-link" data-scroll-target="#tariffs-impact">Tariffs: Impact</a></li>
+  <li><a href="#tariffs-impact-1" id="toc-tariffs-impact-1" class="nav-link" data-scroll-target="#tariffs-impact-1">Tariffs: Impact</a></li>
+  <li><a href="#tariffs-impact-2" id="toc-tariffs-impact-2" class="nav-link" data-scroll-target="#tariffs-impact-2">Tariffs: Impact</a></li>
+  <li><a href="#other-measures" id="toc-other-measures" class="nav-link" data-scroll-target="#other-measures">Other measures</a></li>
+  <li><a href="#non-tariff-measures" id="toc-non-tariff-measures" class="nav-link" data-scroll-target="#non-tariff-measures">Non-Tariff Measures</a></li>
+  <li><a href="#non-tariff-measures-1" id="toc-non-tariff-measures-1" class="nav-link" data-scroll-target="#non-tariff-measures-1">Non-Tariff Measures</a></li>
+  <li><a href="#non-tariff-measures-2" id="toc-non-tariff-measures-2" class="nav-link" data-scroll-target="#non-tariff-measures-2">Non-Tariff Measures</a></li>
+  <li><a href="#non-tariff-measures-3" id="toc-non-tariff-measures-3" class="nav-link" data-scroll-target="#non-tariff-measures-3">Non-Tariff Measures</a></li>
+  <li><a href="#non-tariff-measures-4" id="toc-non-tariff-measures-4" class="nav-link" data-scroll-target="#non-tariff-measures-4">Non-Tariff Measures</a></li>
+  <li><a href="#non-tariff-measures-5" id="toc-non-tariff-measures-5" class="nav-link" data-scroll-target="#non-tariff-measures-5">Non-Tariff Measures</a></li>
+  <li><a href="#non-tariff-measures-6" id="toc-non-tariff-measures-6" class="nav-link" data-scroll-target="#non-tariff-measures-6">Non-Tariff Measures</a></li>
+  <li><a href="#non-tariff-measures-7" id="toc-non-tariff-measures-7" class="nav-link" data-scroll-target="#non-tariff-measures-7">Non-Tariff Measures</a></li>
+  <li><a href="#but-beneficial-effect-on-trade-for-technical-measures" id="toc-but-beneficial-effect-on-trade-for-technical-measures" class="nav-link" data-scroll-target="#but-beneficial-effect-on-trade-for-technical-measures">But Beneficial Effect on Trade for Technical Measures</a></li>
+  <li><a href="#trade-policy-gvcs" id="toc-trade-policy-gvcs" class="nav-link" data-scroll-target="#trade-policy-gvcs">Trade Policy &amp; GVCs</a></li>
+  <li><a href="#tariffs-along-the-gvc-total-tariff-affecting-the-export-of-a-good" id="toc-tariffs-along-the-gvc-total-tariff-affecting-the-export-of-a-good" class="nav-link" data-scroll-target="#tariffs-along-the-gvc-total-tariff-affecting-the-export-of-a-good">Tariffs along the GVC: total tariff affecting the export of a good</a></li>
+  </ul></li>
+  <li><a href="#were-are-we-headed" id="toc-were-are-we-headed" class="nav-link" data-scroll-target="#were-are-we-headed">Were are we headed?</a>
+  <ul class="collapse">
+  <li><a href="#historical-context-pre-wwii" id="toc-historical-context-pre-wwii" class="nav-link" data-scroll-target="#historical-context-pre-wwii">Historical Context Pre-WWII</a></li>
+  <li><a href="#the-multilateral-trading-system" id="toc-the-multilateral-trading-system" class="nav-link" data-scroll-target="#the-multilateral-trading-system">The Multilateral Trading System</a></li>
+  <li><a href="#the-main-objectives-of-the-wto" id="toc-the-main-objectives-of-the-wto" class="nav-link" data-scroll-target="#the-main-objectives-of-the-wto">The Main Objectives of the WTO</a></li>
+  <li><a href="#general-philosophy" id="toc-general-philosophy" class="nav-link" data-scroll-target="#general-philosophy">General Philosophy</a></li>
+  <li><a href="#general-principles-and-associated-tools" id="toc-general-principles-and-associated-tools" class="nav-link" data-scroll-target="#general-principles-and-associated-tools">General Principles and Associated Tools</a></li>
+  <li><a href="#general-principles-and-associated-tools-2" id="toc-general-principles-and-associated-tools-2" class="nav-link" data-scroll-target="#general-principles-and-associated-tools-2">General Principles and Associated Tools (2)</a></li>
+  <li><a href="#today" id="toc-today" class="nav-link" data-scroll-target="#today">Today</a></li>
+  <li><a href="#usa-first-trump-mandate" id="toc-usa-first-trump-mandate" class="nav-link" data-scroll-target="#usa-first-trump-mandate">USA: First Trump Mandate</a></li>
+  <li><a href="#usa-first-trump-mandate-1" id="toc-usa-first-trump-mandate-1" class="nav-link" data-scroll-target="#usa-first-trump-mandate-1">USA: First Trump Mandate</a></li>
+  <li><a href="#usa-first-trump-mandate-2" id="toc-usa-first-trump-mandate-2" class="nav-link" data-scroll-target="#usa-first-trump-mandate-2">USA: First Trump Mandate</a></li>
+  <li><a href="#section-1" id="toc-section-1" class="nav-link" data-scroll-target="#section-1"></a></li>
+  </ul></li>
+  </ul>
+<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="index.html"><i class="bi bi-file-slides"></i>RevealJS</a></li></ul></div></nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Trade (Wars)?</h1>
+<p class="subtitle lead">Topics in Economics, ESCP, 2024-2025</p>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Pablo Winant </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">March 16, 2025</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="some-news" class="level1">
+<h1>Some news</h1>
+<section id="section" class="level2">
+<h2 class="anchored" data-anchor-id="section"></h2>
+<p><img src="assets/white_house.png" class="img-fluid"></p>
+<p>The extraordinary threat posed by <em>illegal aliens</em> and <em>drugs</em>, including deadly fentanyl, constitutes a national emergency under the International Emergency Economic Powers Act (IEEPA).</p>
+<p>&nbsp;&nbsp;&nbsp;February 1, 2025</p>
+<p>. . .</p>
+<p>Until the crisis is alleviated, President Donald J. Trump is implementing a <strong>25% additional tariff</strong> on imports from <strong>Canada and Mexico</strong> and a <strong>10% additional tariff</strong> on imports from <strong>China</strong>. Energy resources from Canada will have a lower 10% tariff.</p>
+</section>
+<section id="facts" class="level2">
+<h2 class="anchored" data-anchor-id="facts">Facts</h2>
+<p>The current US president</p>
+<ul>
+<li>threatened to implement some tariffs (25% on Canada and China)</li>
+<li>implemented them (<a href="https://www.canada.ca/en/department-finance/news/2025/03/list-of-products-from-the-united-states-subject-to-25-per-cent-tariffs-effective-march-13-2025.html">see</a>)</li>
+<li>threatened to do more (50% on Aluminum and Steel)</li>
+<li>then cancels it..</li>
+</ul>
+<p>. . .</p>
+<p>But why?</p>
+<p>. . .</p>
+<p>🤷‍♂️ He has done that in the past.</p>
+<p>. . .</p>
+<p>What will hapen next?</p>
+<ul>
+<li>Impossible to know without data and theory</li>
+</ul>
+</section>
+</section>
+<section id="quick-intro-refresher-on-international-trade" class="level1">
+<h1>Quick Intro / Refresher on International Trade</h1>
+<section id="a-famous-trick-question" class="level2">
+<h2 class="anchored" data-anchor-id="a-famous-trick-question">A famous trick question</h2>
+<div class="columns">
+<div class="column">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/Stanislaw_Ulam.tif.jpg" class="img-fluid figure-img"></p>
+<figcaption>Stanislaw Ulam (Mathematician)</figcaption>
+</figure>
+</div>
+</div><div class="column">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/American-economist-Paul-Samuelson-1970.webp" class="img-fluid figure-img"></p>
+<figcaption>Paul Samuelson (Economist)</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<p>. . .</p>
+<p>Ulam: <em>name a principle in the social sciences that is both true and nonobvious</em></p>
+<p>. . .</p>
+<p>Samuelson: <em>Ricardo’s theory of comparative advantage</em></p>
+<p>. . .</p>
+<p><em>That this idea is logically true, need not be argued before a mathematician; that it is not trivial is attested by the thousands of important and intelligent men who have never been able to grasp the doctrine for themselves or to believe it after it was explained to them</em></p>
+</section>
+<section id="theories" class="level2">
+<h2 class="anchored" data-anchor-id="theories">Theories</h2>
+<p>Many theories show, under certain assumptions, the superiority of trade over autarky, in terms of economic well-being:</p>
+<ul>
+<li>The <em>Mercantilists</em> (16th-17th century)</li>
+<li>The theory of <em>absolute advantage</em></li>
+<li>Ricardian analysis: <em>comparative advantage</em></li>
+<li>The HOS model</li>
+<li>The “new” trade theory: Krugman’s model</li>
+<li>The “new new” trade theory: Melitz’s model</li>
+</ul>
+</section>
+<section id="the-mercantilists" class="level2">
+<h2 class="anchored" data-anchor-id="the-mercantilists">The Mercantilists</h2>
+<p>Before Smith, the <strong>Mercantilists</strong> (16th-17th century):</p>
+<ul>
+<li>International trade is a way to increase the inflow of precious metals into the Kingdom (UK).</li>
+<li>Underlying objective: accumulation of gold, wealth.
+<ul>
+<li>Reflects the power of a country.</li>
+<li>A country must export more than it imports.</li>
+</ul></li>
+<li>Protectionism is interesting because international trade is seen as a <em>zero-sum game</em>: what one gains, the other loses.</li>
+</ul>
+</section>
+<section id="absolute-advantage" class="level2">
+<h2 class="anchored" data-anchor-id="absolute-advantage">Absolute Advantage</h2>
+<p><img src="assets/smith.jpg" class="img-fluid"></p>
+<p>Adam Smith (1723-1790): Scottish.</p>
+<p>One of the founding fathers of classical economics. His question: “Why do countries engage in international trade?”</p>
+<p>. . .</p>
+<ul>
+<li>Consider two countries each producing two goods. Each country is characterized by its own productivity for the production of each good.</li>
+<li>A country has an absolute advantage in the production of a good if it can produce that good at a lower cost than another country. Therefore, trade is profitable and each country specializes in the production of the good for which it has an <em>absolute advantage</em>.</li>
+</ul>
+<p>. . .</p>
+<p><strong>Limitation</strong>: In this theoretical framework, a country whose production costs are higher than those of all its partners cannot export profitably.</p>
+<p>. . .</p>
+<p>This theory does not explain why a country that is more efficient in the production of all goods would still benefit from maintaining trade relations with its neighboring countries.</p>
+</section>
+<section id="the-ricardian-model" class="level2">
+<h2 class="anchored" data-anchor-id="the-ricardian-model">The Ricardian Model</h2>
+<p>David Ricardo (1772-1823)</p>
+<p>A country can benefit from specialization by producing the goods for which it has a comparative advantage, even if it has an absolute disadvantage in all the goods it produces (unlike Smith).</p>
+<p><strong>Assumption</strong>: labor is the only factor of production and is mobile within the country but immobile internationally</p>
+<p>. . .</p>
+<p>To show that trade is always preferable, he imagines that Portugal has an absolute advantage over England for two goods, which, according to Adam Smith’s theory, would prevent trade from occurring.</p>
+</section>
+<section id="ricardo-example" class="level2">
+<h2 class="anchored" data-anchor-id="ricardo-example">Ricardo example</h2>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th></th>
+<th>Portugal</th>
+<th>England</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1m cloth</td>
+<td>A=90h</td>
+<td>C=100h</td>
+</tr>
+<tr class="even">
+<td>1L wine</td>
+<td>B=80h</td>
+<td>D=120h</td>
+</tr>
+<tr class="odd">
+<td>Total (h)</td>
+<td>170h</td>
+<td>220h</td>
+</tr>
+</tbody>
+</table>
+<p>In which good should England specialize in? (compare productivity ratios for both countriess)</p>
+<p>. . .</p>
+<ul>
+<li><em>solution</em>: portugal specializes in wine and england in cloth <!-- 
+What 
+
+
+To determine what England should specialize in, let's compare its productivity for each product with that of Portugal:
+Ratio of English wine productivity to Portuguese wine productivity: (1/120) / (1/80) = 0.66
+Ratio of English cloth productivity to Portuguese cloth productivity: (1/100) / (1/90) = 0.9
+England's disadvantage is smaller for cloth than for wine, as its relative productivity is better (0.9 compared to 0.66 for wine).
+
+
+Ratio of Portuguese wine productivity to English wine productivity: (1/80) / (1/120) = 1.5
+
+Ratio of Portuguese cloth productivity to English cloth productivity: (1/90) / (1/100) = 1.11
+
+Portugal therefore has a comparative advantage in wine (productivity of 1.5 compared to 1.11 for cloth).
+
+Before free trade, producing 2m of cloth required 190 hours of work (100+90), and 200 hours of work for 2L of wine (120+80).
+
+Given their comparative advantages, Portugal specializes in wine and England in cloth.
+
+To produce the 2m of cloth, England will take 200 hours, saving 20 hours compared to the previous situation (see Table). It can now devote these 20 additional hours to producing more cloth, for example.
+
+Portugal, abandoning cloth production, will take 160 hours to produce the 2L of wine, thus saving 10 hours of work. In total, 30 hours of work are saved (or used to produce more goods). Both countries benefit from specialization and free trade.
+
+Thus, by reasoning on comparative costs and not absolute costs, he demonstrates (in his theoretical framework) that it is advantageous for each to specialize in the production for which they have the strongest advantage (Portuguese wine), or the smallest disadvantage (English cloth).
+The Ricardian theory of comparative advantage links international trade to differences in production technology between countries (represented by the number of labor units needed to produce a good in a given sector). --></li>
+</ul>
+<p>. . .</p>
+<p>The Ricardo model has two fundamental conclusions: <em>all countries can benefit from (the option) to trade</em>, which allows for more efficient production.</p>
+<p>. . .</p>
+<p>In a trade situation, countries will specialize in the production of the good where they have a <strong>comparative advantage</strong> (higher productivity ratio).</p>
+</section>
+<section id="the-hos-model-1" class="level2">
+<h2 class="anchored" data-anchor-id="the-hos-model-1">The HOS Model (1)</h2>
+<p>First published in a more literary form by Bertil Ohlin, who attributed the co-authorship of the model to his thesis advisor, Eli Heckscher, in 1933.</p>
+<p>In 1941, Paul Samuelson and Wolfgang Stolper deduced an important theorem on factor remuneration, which was systematically incorporated into the presentation of the model, now known by the acronym <strong>HOS</strong>.</p>
+<p>In this model, international trade is based on <strong>differences in factor endowments</strong> (labor, capital, resources, etc.). It thus highlights that differences in productivity between countries (i.e., Ricardo) are not the only explanation for comparative advantages.</p>
+</section>
+<section id="the-hos-model-2" class="level2">
+<h2 class="anchored" data-anchor-id="the-hos-model-2">The HOS Model (2)</h2>
+<p>The conclusions of the HOS model are:</p>
+<ul>
+<li>Partial <em>specialization of each country in the good that is relatively the most intensive in the factor with which the country is relatively best endowed</em> (<strong>better factor endowment</strong>).</li>
+<li>Equalization of relative prices of goods between countries.</li>
+<li>Due to the relationship between relative prices and relative remunerations, <em>the relative remuneration of the relatively rare factor in each country decreases while that of the relatively abundant factor increases</em>.</li>
+</ul>
+</section>
+<section id="the-hos-model" class="level2">
+<h2 class="anchored" data-anchor-id="the-hos-model">The HOS Model</h2>
+<p>Many intuitions and results, but:</p>
+<p>. . .</p>
+<p>Most of its predictions are contradicted by international trade flows:</p>
+<p>. . .</p>
+<div class="incremental">
+<ul class="incremental">
+<li>Although the United States has one of the highest capital per capita rates, it exports relatively labor-intensive products.</li>
+<li>The equalization of relative prices is rarely observed, even within a monetary union like the eurozone.</li>
+<li>Capital mobility leads to a “degenerate” situation: after balancing relative endowments, countries find themselves in autarky!</li>
+<li>Perfect competition.</li>
+</ul>
+</div>
+</section>
+<section id="increasing-returns-and-imperfect-competition" class="level2">
+<h2 class="anchored" data-anchor-id="increasing-returns-and-imperfect-competition">Increasing Returns and Imperfect Competition</h2>
+<p>In the 1970s, Krugman (1980) and Helpman (1981), then Helpman and Krugman (1985), introduced new elements into the theory of comparative advantage, which are <strong>increasing returns to scale</strong> and <strong>imperfect competition</strong>.</p>
+<p>. . .</p>
+<p>This model allows for the consideration of <strong>intra-industry trade between countries with similar levels of development</strong>. Why?</p>
+</section>
+<section id="increasing-returns-and-imperfect-competition-2" class="level2">
+<h2 class="anchored" data-anchor-id="increasing-returns-and-imperfect-competition-2">Increasing Returns and Imperfect Competition (2)</h2>
+<p><strong>Product differentiation</strong> within the same industry.</p>
+<ul>
+<li>Economies of scale.</li>
+<li>Economies of scale allow large firms to produce at a lower unit cost.</li>
+</ul>
+<p>. . .</p>
+<p>The <strong>first entrants</strong> to the market are then advantaged, and the increasing returns (average production cost decreases as the quantity produced increases) that result from this position lead to a monopoly or oligopoly situation in the market, creating <strong>barriers to entry</strong> for new entrants.</p>
+<p>. . .</p>
+<p>Thus, international trade is dominated by these <em>large companies</em>, generally <em>from countries with a lot of capital</em> and operating in <em>markets with very limited competition</em>.</p>
+</section>
+<section id="firm-heterogeneity-and-international-trade" class="level2">
+<h2 class="anchored" data-anchor-id="firm-heterogeneity-and-international-trade">Firm Heterogeneity and International Trade</h2>
+<p>In 2003, Melitz introduced the notion of <strong>heterogeneous firms</strong> (the Melitz model)</p>
+<ul>
+<li>in Krugman’s model, firms are symmetrical, i.e., they all have the same production function</li>
+</ul>
+<p>Heterogeneity contributes to amplifying the gains from liberalization</p>
+<p>Opening up to trade contribute to raising productivity, not only through economies of scale but also through a Darwinian process of <em>firm selection.</em></p>
+</section>
+<section id="explanation-of-trade-flow-volumes" class="level2">
+<h2 class="anchored" data-anchor-id="explanation-of-trade-flow-volumes">Explanation of Trade Flow Volumes</h2>
+<p><img src="assets/microscope.jpeg" class="img-fluid"></p>
+<p>These models are all fascinating but are there supported by the data?</p>
+<p>Empirical approach to explain trade: <em>gravity</em> models</p>
+<ul>
+<li>Statistical description of the “dynamics” of trade flows is based on an intuition from physics and “brought to light” in the 1960s.</li>
+<li>Explanation based on Newton’s universal gravitation model.</li>
+</ul>
+</section>
+<section id="explanation-of-trade-flow-volumes-1" class="level2">
+<h2 class="anchored" data-anchor-id="explanation-of-trade-flow-volumes-1">Explanation of Trade Flow Volumes</h2>
+<div class="columns">
+<div class="column">
+<p><strong>Newton Gravity Model</strong></p>
+<p><img src="assets/newton.png" class="img-fluid"></p>
+</div><div class="column">
+<p><strong>Trade Gravity model</strong></p>
+<p><span class="math display">\[V_ij = G \frac{(M_i)^(\beta_1) (M_j)^(\beta_2)}{(D_ij)^ \beta_3} \eta_ij\]</span></p>
+<ul>
+<li><span class="math inline">\(V_ij\)</span>: exports from country <span class="math inline">\(i\)</span> to country <span class="math inline">\(j\)</span></li>
+<li><span class="math inline">\(M_i\)</span> (resp <span class="math inline">\(M_j\)</span>): GDP of country <span class="math inline">\(i\)</span> (resp <span class="math inline">\(j\)</span>)</li>
+<li><span class="math inline">\(D_ij\)</span>: distance between <span class="math inline">\(i\)</span> and <span class="math inline">\(j\)</span></li>
+<li><span class="math inline">\(\eta_j\)</span>: Differences in factor endowments and technology,</li>
+<li><span class="math inline">\(D_{ij}\)</span>: physical or cultural distance, other trade barriers</li>
+</ul>
+</div>
+</div>
+<p>. . .</p>
+<p>Works fairly well and confirms predictions from the theories.</p>
+</section>
+<section id="empirical-confirmation-of-gravity-models" class="level2">
+<h2 class="anchored" data-anchor-id="empirical-confirmation-of-gravity-models">Empirical Confirmation of Gravity Models</h2>
+<div class="columns">
+<div class="column">
+<p><img src="assets/trade_us_eu.png" class="img-fluid"></p>
+</div><div class="column">
+<p><img src="assets/trade_us_eu_2.png" class="img-fluid"></p>
+</div>
+</div>
+<!-- 
+## Gravity and International Trade
+
+This law of gravitation is also used in economics. The gravity model establishes an empirical relationship (Walter Isard, 1954; Jan Tinbergen, 1962) that explains the value of trade between two countries and sheds light on the determinants and obstacles to trade.
+
+Main determinants:
+
+- The size of the countries,
+- Differences in factor endowments and technology,
+- Geographic characteristics matter a lot (CEPII's distance database): Distance, but also the existence of a common border, or even cultural distance (language, colony...),
+- Other trade barriers (trade policies, time, risks...). -->
+<!-- 
+## Empirical Relationship Supported by Theoretical Justifications:
+
+Ultimately, all trade models predict gravity-type trade, and the role that the size of economies plays in their external trade is well understood.
+For example, Krugman's model (1980) shows how the volume of trade a country has with the rest of the world is proportional to its size and negatively affected by trade barriers.
+Due to increasing returns and transportation costs, firms are incentivized to concentrate their production as close as possible to their market.
+
+Since consumers have a taste for variety, each country has an interest in specializing in a given variety of a good (to benefit from economies of scale) and importing other varieties (to increase the population's welfare), so relatively similar countries still have an interest in trading.
+However, while the importance of distance for trade is empirically verified, it has been difficult to justify theoretically. Several authors have proposed explanations, but these rely on factors (e.g., transportation techniques, tariffs, the nature of traded goods, etc.) that have undergone profound changes over the decades, so none of them truly explain the stability of the distance exponent γ.
+
+## Gravity and International Trade
+
+Chaney (2013): seeks to explain why this exponent is stable over time with the modeling of vertical production chains.
+Firms combine capital and labor with intermediate goods supplied by upstream firms.
+They have two ways to circumvent obstacles related to international trade.
+Either they pay a direct cost to create a contact abroad,
+Or they communicate with their existing contacts and seek to learn more about their own customers, which involves direct interaction and an indirect cost.
+If technological progress affects the first cost and perhaps even the frequency of interactions by facilitating travel and communication, it does not reduce the need for direct interaction. The distribution of a firm's exports in space then depends on how distance influences the direct cost associated with creating contacts.
+
+## Gravity and International Trade
+
+The geographic distribution of a firm's suppliers and customers will evolve over time:
+As a firm acquires more and more suppliers and customers, the suppliers and customers tend to be, on average, increasingly distant.
+Thus, the largest firms import and export over increasingly long average distances.
+The impact of distance on international trade will then depend on the distribution of firm sizes:
+Since large firms trade over long distances, the volume of trade a country conducts with a distant region will ultimately depend on the number of large firms present in its territory.
+In particular, if the distribution of firm sizes is close to Zipf's law (the second-largest firm is half the size of the largest, the third-largest firm is one-third the size of the largest, etc.), then Chaney's model shows that the volume of trade flows is inversely proportional to geographic distance.
+
+## Gravity: Extension
+
+By placing geography at the heart of the analysis, the gravity model has been applied to many other "variables" and generally gives convincing empirical results on:
+
+Mainly goods, but also services!
+Migrations
+Financial flows
+Direct investments
+...
+
+## Example: US
+
+The Border Effect
+
+Even when there is no tariff between two neighboring countries, trade between provinces of a country will be higher than cross-border trade.
+
+Example of the Canada/US border:
+Both countries are members of NAFTA (formerly USCAN); most Canadians speak English; and individuals can cross the border freely without too many formalities.
+And yet, trade data between Canadian provinces among themselves and with neighboring US states show that, ceteris paribus, there is more trade between Canadian provinces than between Canadian provinces and US states.
+
+## Why a Border Effect?
+
+Tariffs (not US/Canada) and Non-Tariff Measures.
+
+Domestic bias, especially in public markets.
+
+Institutional and legal differences can make contracting difficult.
+
+Different currencies.
+
+## Border Effect as a Measure of Integration
+
+The EU is supposed to be an integrated market.
+In a standard gravity equation, the EU market will be compared to the rest of the world to verify and demonstrate that it is indeed more integrated.
+However, one can adopt the opposite approach: compare the EU market to the most integrated markets, i.e., domestic markets.
+If the EU market is indeed perfectly integrated, the borders within the EU should have no impact (on trade). -->
+</section>
+<section id="conclusion" class="level2">
+<h2 class="anchored" data-anchor-id="conclusion">Conclusion</h2>
+<p>Theoretical models “justify” trade, with (globally and without considering externalities) mutual gains, thanks to:</p>
+<ul>
+<li>An increase in the number of available products (taste for variety, i.e., horizontal differentiation, or products that cannot be produced elsewhere).</li>
+<li>Efficiency gains: resources are used to produce the goods for which the country (i.e., its most efficient firms) is most efficient.</li>
+<li>Econometric estimates confirm the trade structure predicted by the models (gravity models).</li>
+</ul>
+</section>
+</section>
+<section id="trade-policy" class="level1">
+<h1>Trade Policy</h1>
+<section id="theory-and-practice" class="level2">
+<h2 class="anchored" data-anchor-id="theory-and-practice">Theory and Practice…</h2>
+<p>In theory, trade is <em>profitable</em>.</p>
+<p>In practices <em>all countries protect themselves</em>.</p>
+<p>Let’s discuss briefly:</p>
+<ul>
+<li>the reasons</li>
+<li>the tools</li>
+<li>the effects</li>
+</ul>
+<p>of these trade policies</p>
+</section>
+<section id="justifications" class="level2">
+<h2 class="anchored" data-anchor-id="justifications">Justifications</h2>
+<p><img src="assets/infant_industry.png" class="img-fluid"></p>
+<div class="incremental">
+<ul class="incremental">
+<li>To protect <strong>infant industries</strong>
+<ul class="incremental">
+<li>Protection of new domestic industries from foreign competition to allow them to develop</li>
+<li>because setting up a new industry takes time and has fixed costs protections are temporary until the industry is mature</li>
+</ul></li>
+<li>To protect/develop <strong>strategic sectors</strong>
+<ul class="incremental">
+<li>Protection from competition in certain strategic sectors: defense, health, energy…</li>
+</ul></li>
+</ul>
+</div>
+</section>
+<section id="justifications-2" class="level2">
+<h2 class="anchored" data-anchor-id="justifications-2">Justifications (2)</h2>
+<div class="incremental">
+<ul class="incremental">
+<li>To <strong>avoid dumping</strong>
+<ul class="incremental">
+<li>When <em>competitors’ export prices are lower than the prices they charge</em> in their own markets (very difficult to assess).</li>
+</ul></li>
+<li>For <strong>macroeconomic reasons</strong>
+<ul class="incremental">
+<li>Large countries can manipulate their terms of trade by changing the price of the goods they import.
+<ul class="incremental">
+<li>PX/PM, i.e., their ability to buy imports based on the price of their exports</li>
+</ul></li>
+<li>Promoting exports allows to accumulate foreign currency
+<ul class="incremental">
+<li>that can be used to stabilize exchange rate</li>
+</ul></li>
+<li>Limiting imports of goods that create an unfavorable balance of payments.</li>
+</ul></li>
+</ul>
+</div>
+</section>
+<section id="justifications-3" class="level2">
+<h2 class="anchored" data-anchor-id="justifications-3">Justifications (3)</h2>
+<div class="incremental">
+<ul class="incremental">
+<li>To generate <strong>tax revenue</strong>
+<ul class="incremental">
+<li>Customs duties provide significant tax revenue
+<ul class="incremental">
+<li>even in the United States before the introduction of value-added tax or income tax</li>
+<li>28% of government revenue in Côte d’Ivoire, for example.</li>
+</ul></li>
+<li>Easier to implement than other taxes, especially in developing countries.</li>
+</ul></li>
+<li>For <strong>political reasons</strong>
+<ul class="incremental">
+<li>Various interests, producer lobbies, consumer lobbies…</li>
+<li>Limiting the losses of the “losers of globalization” (unskilled labor).</li>
+<li>Role of voting mechanisms, importance of rural areas.</li>
+</ul></li>
+</ul>
+</div>
+</section>
+<section id="justifications-4" class="level2">
+<h2 class="anchored" data-anchor-id="justifications-4">Justifications (4)</h2>
+<ul>
+<li><strong>Market failures</strong> theoretically justify public interventions in agriculture
+<ul>
+<li>The market is not the most appropriate instrument for the production of certain goods or services that are public goods (health, landscape, rural life…) and to take into account externalities</li>
+<li>Strategic sector (and therefore also protection from competition)</li>
+</ul></li>
+</ul>
+</section>
+<section id="general-theory" class="level2">
+<h2 class="anchored" data-anchor-id="general-theory">General Theory</h2>
+<p><img src="assets/mafia.png" class="img-fluid"></p>
+<ul>
+<li>Economic theory has developed a field of analysis of this demand for protection: the <strong>political economy of protectionism</strong>.
+<ul>
+<li>An abundant literature.</li>
+<li>Reference model: Protection for Sale (Grossman-Helpman (1994))</li>
+</ul></li>
+</ul>
+</section>
+<section id="protection-for-sale" class="level2">
+<h2 class="anchored" data-anchor-id="protection-for-sale">Protection For Sale</h2>
+<p>The Grossman and Helpman model is a <strong>common agency model</strong> (one agent, several principals) with a <em>two-stage game</em>.</p>
+<p>. . .</p>
+<p>The basic analytical framework is that of a model with several production sectors with specific factors. Each sector produces a particular good with labor and a factor of production specific to the sector.</p>
+<p>. . .</p>
+<p>The vector of trade policy determines a tariff (positive or negative) on imports in each sector.</p>
+<p>The model features <strong>pressure groups</strong>:</p>
+<ul>
+<li>representing the different production sectors</li>
+<li>they define their contributions conditionally on the trade policy vector, i.e., conditionally on tariff levels for all sectors of the economy.</li>
+</ul>
+<p>It is a <strong>zero-sum</strong> game</p>
+</section>
+<section id="protection-for-sale-1" class="level2">
+<h2 class="anchored" data-anchor-id="protection-for-sale-1">Protection For Sale</h2>
+<p>In the first stage, pressure groups define their contribution functions.</p>
+<p>Pressure groups choose their contributions non-cooperatively and independently of each other, in order to maximize the welfare of their members.</p>
+<p>In the second stage, the incumbent government chooses its political position taking into account the contribution functions defined by the pressure groups.</p>
+</section>
+<section id="protection-for-sale-2" class="level2">
+<h2 class="anchored" data-anchor-id="protection-for-sale-2">Protection For Sale</h2>
+<p>Formally, the government seeks to maximize an “objective” function that is a weighted average of contributions and general welfare, with the goal of rewarding interest groups and being re-elected in the next election.</p>
+<p>Candidates must therefore balance policies that favor particular interest groups with those that align with the general interest.</p>
+<p>The equilibrium of this game is characterized by:</p>
+<ul>
+<li>A vector of contribution functions (one for each pressure group) such that each contribution function maximizes the welfare of the members of the respective pressure group, given the contribution functions defined by other pressure groups and the anticipated decision rule of the government;</li>
+<li>A vector of tariffs (one for each sector) that maximizes the government’s “objective” function.</li>
+</ul>
+</section>
+<section id="protection-for-sale-3" class="level2">
+<h2 class="anchored" data-anchor-id="protection-for-sale-3">Protection For Sale</h2>
+<p><strong>Theoretical Results</strong>:</p>
+<p><em>Only production sectors represented by a pressure group benefit from positive protection</em>, while non-represented sectors face a negative import tariff on the goods they produce.</p>
+<p><strong>Explanation</strong>:</p>
+<ul>
+<li>interest groups pressure the government for high selling prices in their own production sectors and low prices in other sectors, as they are also consumers of goods produced by other sectors.</li>
+</ul>
+<p>The influence game thus leads to a redistribution, through a system of taxes, of resources from non-organized sectors to politically organized ones.</p>
+</section>
+<section id="protection-for-sale-4" class="level2">
+<h2 class="anchored" data-anchor-id="protection-for-sale-4">Protection For Sale</h2>
+<p><strong>Predictions of the model</strong>:</p>
+<p>The level of protection in a sector is higher when:</p>
+<ul>
+<li>The ownership of the specific factor in the concerned sector is <em>concentrated</em>.</li>
+<li>The relative weight of general welfare, compared to the contributions of pressure groups, in the government’s “objective” function is low.</li>
+<li>The larger the production share of the considered sector, the higher its level of protection due to the volume of benefits from the influence game.</li>
+<li>If the price elasticity of the import function is low (the import level is not very sensitive to an increase in the import tariff), the tariff level for the sector organized into a pressure group is high</li>
+</ul>
+</section>
+<section id="protection-for-sale-5" class="level2">
+<h2 class="anchored" data-anchor-id="protection-for-sale-5">Protection For Sale</h2>
+<p><strong>Predictions of the model:(cont’d)</strong>:</p>
+<ul>
+<li>When all sectors of the economy are organized into pressure groups, the government’s policy aligns with the general interest
+<ul>
+<li>zero import tariff for all sectors</li>
+<li>influence groups neutralize each other, and each group’s contributions aim to avoid being affected by the influence of other groups</li>
+</ul></li>
+<li>Even so, the game results in a loss of general welfare
+<ul>
+<li>represented by the expenditures of the pressure groups.</li>
+</ul></li>
+</ul>
+<p>. . .</p>
+<p>🤔 Does this sounds like a realistic depiction of US trade policy?</p>
+</section>
+<section id="various-tools" class="level2">
+<h2 class="anchored" data-anchor-id="various-tools">Various Tools</h2>
+<p><em>Tariff: the most beautiful word in the dictionary</em> <a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
+<p>. . .</p>
+<p>But many tools are available for trade policy:</p>
+<ul>
+<li>tariffs
+<ul>
+<li>ad valorem: a fraction of the import price</li>
+</ul></li>
+<li>export subsidies</li>
+<li>consumption tax</li>
+<li>quantitative restrictions: quotas</li>
+<li>export restrictions
+<ul>
+<li>export taxes</li>
+</ul></li>
+<li>Non Tariff Measures</li>
+</ul>
+</section>
+<section id="tariffs-impact" class="level2">
+<h2 class="anchored" data-anchor-id="tariffs-impact">Tariffs: Impact</h2>
+<p>Let’s now graphically analyze the consequences of implementing an ad valorem tariff, “t”.</p>
+<p>We assume a small country, importing a homogeneous good (rice).</p>
+<p>In this situation, the domestic price of the good is equivalent to the international price pm.</p>
+<p>This situation characterizes the initial equilibrium, with international trade but without protection measures.</p>
+<p>We then assume that a tariff “t” is implemented as a percentage of the value of rice imports, for example, 20 or 30 percent.</p>
+</section>
+<section id="tariffs-impact-1" class="level2">
+<h2 class="anchored" data-anchor-id="tariffs-impact-1">Tariffs: Impact</h2>
+<p><img src="assets/droits_douanne.png" class="img-fluid"></p>
+</section>
+<section id="tariffs-impact-2" class="level2">
+<h2 class="anchored" data-anchor-id="tariffs-impact-2">Tariffs: Impact</h2>
+<p>Summary: The implementation of this tariff triggers a series of reactions from rice producers (for example), consumers (and traders), until a new equilibrium is reached in the domestic rice market.</p>
+<p>If we add up surplus and public revenues (1 Euro gained or lost by the producer = 1 Euro gained or lost by consumers = 1 Euro of public revenue). The tariff has a negative effect: gray areas (triangle = deadweight losses).</p>
+<p>Important point: identify the winners and losers.</p>
+<p>Conclusion: the tariff mainly serves to protect the producer. If it is per-unit, it helps protect the consumer (from low-priced goods that may be of poor quality). It allows for the collection of tariff revenues.</p>
+</section>
+<section id="other-measures" class="level2">
+<h2 class="anchored" data-anchor-id="other-measures">Other measures</h2>
+<p>The same analysis can done for all other protection measures.</p>
+<ul>
+<li>All measures ultimately lead to deadweight losses, but with different distribution of the gains between the various actors (producers, consumers, government)</li>
+</ul>
+<p>To measure the distortion of a particular measure they are often converted in <em>ad valorem</em> equivalent.</p>
+<!-- 
+## Production Subsidy
+
+![](assets/subvention_production.png)
+![](assets/taxe_consommation.png) -->
+<!-- 
+## Production Subsidy & Consumption Tax
+
+If we overlay the two graphs and study the imposition of both instruments (production subsidy and consumption tax), we have the same effects as an import tariff: B + D
+decrease in consumer surplus,
+increase in producer surplus,
+growth in public revenues (revenue from the consumption tax > cost of the production subsidy).
+Normal: import tariff = consumption tax + production subsidy. -->
+<!-- 
+## Quantitative Restrictions: Quotas
+
+The State can also *limit the purchase of foreign products* by setting maximum quantities (or maximum values) for imports. This is called a __quota__ or __contingent__.
+
+Quotas are defined by the State based on the physical quantity of imports or exports. They can be established unilaterally by a State or negotiated with importing or exporting countries that "voluntarily" agree to restrict their imports or exports.
+
+If the imported quantity results from an agreement between the importing country and the exporting country, it is called an orderly marketing agreement (OMA) or "voluntary" export restraint (VER).
+
+The 1970s-80s were characterized by an unprecedented development of such agreements.
+
+## Quantitative Restrictions: Quotas
+
+States generally implement quota systems through __licenses__.
+
+These are *property titles* granting their holder the right to import or export a certain quantity of a given good:
+
+- Sales of licenses or auctions to interested importers and exporters
+- Issuing them for free based on administrative criteria.
+
+Example:
+
+- The United States has implemented an import quota for foreign cheeses.
+- Only certain companies are then allowed to import cheese, each having the right (license) to import only a certain quantity per year.
+- Each individual quota is set based on the quantities of cheese imported by the company in the past.
+
+## Quantitative Restrictions: Quotas
+
+Impact of an import quota:
+
+- Same effect as a tariff if licenses are granted efficiently.
+
+Otherwise:
+
+- Decrease in consumer surplus,
+- Increase in producer surplus,
+- Nothing for public revenues,
+- Rent for foreign companies,
+
+Net cost for society, potentially higher than the tariff.
+
+<!-- ## Price Volatility and Protection
+
+Price volatility is a characteristic of agricultural markets.
+
+This volatility is harmful to both producers and consumers.
+
+Different ways to reduce volatility:
+
+- Reduce or stabilize production levels (uprooting, slaughter premiums, land freezing, storage, processing premiums…)
+- Isolate the domestic market from international market price fluctuations (variable levies, entry prices…)
+
+## 
+
+![](assets/volat_prix.png)
+
+##
+
+![](assets/volat_prix_2.png) -->
+<!-- ## Assessment of Import Tariff Protection
+
+Primarily protect domestic producers (in a simplified framework with a homogeneous good, perfect competition, partial equilibrium…). These tools allow for the maintenance of high prices (potentially to the detriment of consumers and/or the government).
+
+Another strategic tool: Anti-dumping and countervailing duties (Same as a tariff, but applied in certain circumstances, possibly in addition to existing tariffs).
+
+## Export Subsidies
+
+An export subsidy is a payment made to an individual or company that ships goods abroad.
+Like tariffs and export taxes, these subsidies can be specific or ad valorem.
+They encourage producers and traders to export by making their foreign sales more profitable, which has the effect of raising the price of this product on the domestic market.
+When a state subsidizes the export of a product, traders will tend to export this product until the domestic price is higher than the sum of the export price and the subsidy. Export subsidies therefore favor producers of export goods and traders, to the detriment of domestic consumers and taxpayers.
+Subsidies are prohibited under the WTO (2015), especially in agriculture. -->
+<!-- 
+
+## Export Restrictions: Export Taxes
+
+Export taxes help reduce the price of export products paid to the producer and decrease the selling price of these products on the domestic market. They tend to discourage domestic production while encouraging domestic consumption of exported products, thus ultimately reducing export quantities.
+
+Export taxes therefore benefit domestic consumers and public finances at the expense of producers. If the goal is national food security, this measure can be effective.
+
+Recent example (Argentina):
+
+- Decree 793, published on September 4, 2018, establishes an export tax for all customs nomenclatures.
+- It imposes a 12% tax on the FOB value of goods, with a cap equivalent to 4 Argentine pesos (ARS) per USD, on all products exported from Argentina.
+- This measure is temporary, it took effect on January 1, 2019, andwas suspended at the end of 2020. The country being in a severe financial and economic crisis, this decree aims to restore budget balance. -->
+<!-- 
+## Discriminatory VAT Reimbursement in China: Export Tax
+
+Principle: China implemented a VAT in 1994 but does not always fully reimburse exporters: incentive to sell on the domestic market!
+
+Average reimbursement level varies greatly: likely used as a mechanism to influence exports.
+
+Rates vary depending on stated objectives: environment, upgrading, food price stability, and hidden (subsidizing downstream industries, keeping rare earths).
+
+## Average VAT Reimbursement
+
+![](assets/remboursement_variable.png)
+
+## Average VAT Reimbursement
+
+![](assets/remboursement_variable_2.png)
+
+## And It Works
+
+Effective system with a certain impact on exports:
+An increase of one percentage point in the rebate (e.g., from 11% VAT to 12%) is associated with a 7% increase in export quantities.
+
+Similarly, a one percentage point decrease in the rate reduces exports by 7%.
+
+Certainly helped maintain Chinese exports during the financial crisis period while global prices declined. -->
+</section>
+<section id="non-tariff-measures" class="level2">
+<h2 class="anchored" data-anchor-id="non-tariff-measures">Non-Tariff Measures</h2>
+<p>Very complex subject (in terms of quantitative analyses).</p>
+<p>Non-tariff measures (NTMs) are <strong>policy measures</strong>, other than tariffs, that can affect international trade in goods.</p>
+<p>The effect of NTMs on trade can be the primary objective of the implemented policy (e.g., quotas or import bans), or it can be a consequence of another policy objective (e.g., product quality control or packaging requirements).</p>
+</section>
+<section id="non-tariff-measures-1" class="level2">
+<h2 class="anchored" data-anchor-id="non-tariff-measures-1">Non-Tariff Measures</h2>
+<p>According to WTO agreements, the <em>use of NTMs is allowed under certain circumstances</em>. They include, among others, the Agreement on Technical Barriers to Trade (TBT) or the Agreement on Sanitary and Phytosanitary Measures (SPS), both negotiated during the Uruguay Round.</p>
+<p>These agreements allow governments to implement policies with a legitimate objective even if they may increase trade costs.</p>
+<p>However, <em>NTMs are sometimes used as a means to circumvent free trade rules</em> and protect domestic industries at the expense of foreign competition. In this case, NTMs are called non-tariff barriers (NTBs).</p>
+<p>It is very difficult, if not impossible, to distinguish legitimate NTMs from protectionist NTMs, especially since the same measure can be employed for different reasons.</p>
+</section>
+<section id="non-tariff-measures-2" class="level2">
+<h2 class="anchored" data-anchor-id="non-tariff-measures-2">Non-Tariff Measures</h2>
+<p>To facilitate the collection and dissemination of information on NTMs in force in each country, a classification system for NTMs was developed in 2008 by a group of experts from 8 international organizations - FAO, IMF, ITC, OECD, UNCTAD, UNIDO, World Bank, and WTO - and revised in 2009 and 2012.</p>
+<p>This classification has a total of 16 chapters ranging from letter A to letter P. It distinguishes between import measures (Chapters A to O) imposed by the importing country and export measures (Chapter P) applied by the exporting country itself. Import measures are then categorized into two main groups, technical measures and non-technical measures.</p>
+</section>
+<section id="non-tariff-measures-3" class="level2">
+<h2 class="anchored" data-anchor-id="non-tariff-measures-3">Non-Tariff Measures</h2>
+<ul>
+<li><p>Technical Measures</p>
+<ul>
+<li>A. Sanitary and phytosanitary measures</li>
+<li>B. Technical barriers to trade</li>
+<li>C. Pre-shipment inspection and other formalities</li>
+</ul></li>
+<li><p>Non-Technical Measures</p>
+<ul>
+<li>D. Contingency measures aimed at protecting trade</li>
+<li>E. Non-automatic licensing, quotas, prohibitions, and other restrictions</li>
+<li>F. Measures related to SPS or TBT reasons</li>
+<li>G. Price control measures (including taxes)</li>
+<li>H. Financial measures</li>
+<li>I. Anti-competitive measures</li>
+<li>J. Trade-related investment measures</li>
+<li>K. Distribution restrictions</li>
+<li>L. Restrictions on after-sales services</li>
+<li>M. Subsidies (not classified elsewhere)</li>
+<li>N. (Not fully visible in the original, often associated with government procurement or intellectual property measures)</li>
+<li>O. Rules of origin</li>
+</ul></li>
+</ul>
+</section>
+<section id="non-tariff-measures-4" class="level2">
+<h2 class="anchored" data-anchor-id="non-tariff-measures-4">Non-Tariff Measures</h2>
+<p>Examples of measures classified in <strong>Chapter A</strong>:</p>
+<ul>
+<li>Ban on importing poultry from countries affected by avian flu;</li>
+<li>Eggs sold in liquid form must be pasteurized or treated to eliminate microorganisms responsible for salmonellosis;</li>
+<li>Animals must be quarantined for two weeks before entering the territory.</li>
+</ul>
+</section>
+<section id="non-tariff-measures-5" class="level2">
+<h2 class="anchored" data-anchor-id="non-tariff-measures-5">Non-Tariff Measures</h2>
+<p><strong>Chapter B</strong>: Technical Barriers to Trade (TBT)</p>
+<ul>
+<li>These measures relate to technical requirements and conformity assessment procedures for products with respect to applicable regulations and standards, excluding measures governed by the SPS Agreement.</li>
+</ul>
+<p><strong>Examples</strong>:</p>
+<ul>
+<li>Importers of “sensitive products” such as medical products, explosives, weapons, alcohol, tobacco, slot machines, etc., may be required to register in the importing country;</li>
+<li>Refrigerators must bear a label indicating their size, weight, and electricity consumption;</li>
+<li>For a product to be identified as “chocolate,” it must have a minimum concentration of 30% cocoa.</li>
+</ul>
+</section>
+<section id="non-tariff-measures-6" class="level2">
+<h2 class="anchored" data-anchor-id="non-tariff-measures-6">Non-Tariff Measures</h2>
+<p><strong>Chapter C</strong>: Customs inspection and other border crossing formalities in C</p>
+<p><strong>Examples</strong>:</p>
+<ul>
+<li>Imports of live animals must be done through a specific customs office and not others.</li>
+<li>A good must arrive directly from its country of origin without stopping in a third country.</li>
+<li>There is a trade facilitation agenda: this covers the full range of border procedures, from electronic data exchange for a shipment of goods to the simplification and harmonization of import-export documents and the possibility of appealing administrative decisions made by border authorities.</li>
+<li>Notably at the WTO, the TFA (Trade Facilitation Agreement) is the major result obtained during the last negotiation round.</li>
+</ul>
+</section>
+<section id="non-tariff-measures-7" class="level2">
+<h2 class="anchored" data-anchor-id="non-tariff-measures-7">Non-Tariff Measures</h2>
+<p>How much NTMs?</p>
+<ul>
+<li>The Kee et al.&nbsp;(2009) database proposes an ad valorem equivalent of non-tariff barriers (NTBs).
+<ul>
+<li>The authors first estimate the impacts of NTBs on trade flows.</li>
+<li>They then convert these effects into AVEs, using import demand elasticities</li>
+</ul></li>
+<li>Large: approx. 90 countries, with about 4,575 products categories</li>
+</ul>
+<p><strong>Results</strong>:</p>
+<ul>
+<li>The average AVE is <strong>12%</strong>, considering all lines. If only lines containing NTMs are considered, the average is <strong>45%</strong>!</li>
+</ul>
+</section>
+<section id="but-beneficial-effect-on-trade-for-technical-measures" class="level2">
+<h2 class="anchored" data-anchor-id="but-beneficial-effect-on-trade-for-technical-measures">But Beneficial Effect on Trade for Technical Measures</h2>
+<p>Because technical NTMs address market imperfections, transparency, negative externalities… and can therefore have a positive effect on demand for imported goods.</p>
+<p>But there is always a negative correlation between the price of the good and imported quantities.</p>
+</section>
+<section id="trade-policy-gvcs" class="level2">
+<h2 class="anchored" data-anchor-id="trade-policy-gvcs">Trade Policy &amp; GVCs</h2>
+<p>In a world of GVCs, the trade policy of an economy cannot be exclusively focused on trade barriers between that economy and its direct trading partners.</p>
+<p>The entire value chain and bottlenecks existing upstream and downstream between third countries must be considered.</p>
+<p>The success of an economy in international markets depends as much on its ability to import top-quality inputs as on its ability to export.</p>
+<p>Value-added trade data show how GVCs amplify the costs of customs protection mechanisms: cumulative nature of tariffs since intermediate consumptions cross borders repeatedly.</p>
+</section>
+<section id="tariffs-along-the-gvc-total-tariff-affecting-the-export-of-a-good" class="level2">
+<h2 class="anchored" data-anchor-id="tariffs-along-the-gvc-total-tariff-affecting-the-export-of-a-good">Tariffs along the GVC: total tariff affecting the export of a good</h2>
+<p><img src="assets/tarifs_cvm.png" class="img-fluid"></p>
+<!-- ## Effective Protection
+
+Corden: if a sector uses intermediate goods that are more protected than its own production, the overall tariff policy discourages this production because it increases the cost and/or reduces the availability of intermediate goods.
+
+Conversely, when all inputs are less protected than the output, the sector receives, in fact, stronger protection than indicated by the declared rate.
+
+This incentive (or disincentive) to produce in a sector is measured by the change in added value caused by the overall tariff structure.
+This indicator is known as the effective protection rate.
+
+## Effective Protection
+
+Simple case:
+Consider two countries A and B, each buying 80 worth of intermediate consumptions.
+In B, assembly costs 20, so the finished product is put on the international market at a price of 80 + 20 = 100.
+A also wants to produce this product but protects its assembly activity with a 10% import duty on the finished product.
+So A can afford costs of (100 x 1.1) – 80 = 30, thus 50% higher costs than in B thanks to a nominal 10% import duty on finished products.
+The effective protection is 50%.
+
+## Effective Protection Rate in 2009
+
+Higher EPR if the MFN tariff on the finished product is higher and if national production depends on imported inputs (less protection on inputs). -->
+<!-- # The Multilateral Trading System
+
+## The Multilateral Trading System
+
+The GATT (1947-1994)
+
+The WTO (1995-2019)
+
+- Principles and exceptions
+- Negotiations: issues, evaluations
+- Post-Doha
+
+The WTO: Assessment and Challenges
+
+## Historical Context Pre-WWII
+
+- 19th century: period of relative free trade
+
+  - Anticorn laws, Franco-English commercial treaties, colonies, unilateral liberalization...
+
+- Late 19th - early 20th century: first wave of protectionism
+  - Méline Laws 1892
+  - Implementation of higher tariffs, quotas, embargo...
+
+- Between the two wars, Great Depression
+
+  - Highly protectionist policies
+  - Safeguarding of Industries Act 1921 in Britain
+  - Smoot–Hawley Tariff Act US 1930
+  - Exacerbates the crisis, 40% reduction in American imports, repercussions on international relations...
+
+## The GATT Rounds
+
+## Comments: The GATT Rounds
+
+From 1947 to 1967: negotiations mainly focused on tariffs.
+
+- Increasing number of goods.
+- By the end of the Kennedy Round, the average global protection rate was 10 times lower than in 1947.
+- But the reductions mainly concerned developed countries and industrial goods.
+
+According to Deardoff and Stern (1983): the average rate after the end of the round was 6.5% for the USA, 4% for Japan, 8% for France, and 9% for Germany.
+
+## Comments: The GATT Rounds
+
+Late 1970s: turbulence in the global economy:
+
+- 1973 oil shock, abandonment of fixed exchange rates...
+
+However, Tokyo Round:
+
+- Tariff reductions
+- Regulation of subsidies
+- Allows anti-dumping and countervailing measures
+
+Average tariff (weighted by imports) reduced by a third, especially for industrial products.
+
+## Comments: The GATT Rounds
+
+Uruguay Round (last GATT negotiation round) begins in 1986:
+
+- Numerous conflicts in the 1980s (EU, USA...).
+- Climate of trade tensions.
+- GATT reached its limits and could not resolve trade disputes (no established schedule, easy blockage, lengthy processes, and no resolutions...).
+- 120 participants – 26,000 pages of legal texts and commitments.
+
+Marrakech Agreement, 1994: Creation of the World Trade Organization (WTO).
+
+## The GATT Assessment
+
+Tariff reduction and consolidation
+
+- A "club of the rich" that works well: strong trade liberalization
+- Little concern for the interests of developing countries: agriculture and textiles not covered
+- But a ripple effect (growth in the number of members, extension of scope)
+- Ineffective dispute resolution mechanism
+From periodic agreement to permanent institution: Creation of the WTO.
+
+## The WTO Fact Sheet
+
+Headquarters: Geneva
+Created on: January 1, 1995
+Number of members: 164 (September 2019)
+
+- States
+  - Fully autonomous customs territories
+  - European Union
+- Observers:
+  - States in the process of accession
+  - International organizations (IMF...)
+- Budget: < 200 million Swiss francs (2018)
+- Staff: about 600 people
+
+Leadership: Director-General, Ngozi Okonjo-Iweala
+
+## The WTO - Functions
+
+- Administration of WTO trade agreements
+- Framework for trade negotiations
+- Dispute resolution
+- Monitoring of national trade policies
+- Technical assistance and training for developing countries
+- Cooperation with other international organizations
+
+## The Main Objectives of the WTO
+
+- Promote wealth creation through international trade liberalization, but obstacles:
+
+  - Political economy: liberalization costs concentrated on a few well-organized sectors. Diffuse benefits (consumers) poorly organized politically with low individual interest.
+  - Limit the "free-rider" effect
+  - Ensure the continuity of the GATT
+
+Grant special concessions and assistance to developing countries
+
+## General Philosophy
+
+A negotiation framework...
+
+  - ... governed by a set of rules...
+  - ... to help resolve disputes between states under the aegis of an impartial arbitrator.
+
+Only governments (under influence?) participate in the game
+
+Mercantilism vs. Ricardianism.
+
+## General Principles and Associated Tools
+
+Non-discrimination (clarification of GATT principles)
+
+__Most-Favored-Nation Clause__ ("MFN clause"): any trade advantage granted by one country to another (even if it is not a WTO member) must be immediately extended to all WTO members.
+
+- __National treatment principle__: imported products or services on the territory of a member must not be treated less favorably than domestic products or services.
+
+## General Principles and Associated Tools (2)
+
+- Freer trade: a progressive and negotiated path
+  - Reciprocity: Countries exchange concessions on market access, for example, but also changes in regulations on standards (sanitary, technical...) or property rights
+- Fair competition
+- Transparency and predictability
+  - Consolidation: negotiations focus not on applied tariffs but on bound tariffs (ceilings)
+  - Notification and information obligations
+  - Trade Policy Review Mechanism
+
+## General Principles and Associated Tools (3)
+
+Other negotiation tools:
+
+- Round and associated principle of single undertaking: no à la carte choice, it's all or nothing (exception of plurilateral agreements)
+
+## Main Exceptions to General Principles
+
+- __Regional Trade Agreements__ (RTAs): liberalization of a substantial part of trade, but applied loosely. Article XXIV.
+
+- Safeguard clause, Contingent protection (anti-dumping)
+
+- __Agriculture__ (domestic support and export subsidies)
+
+- Textiles and clothing (multi-fiber agreements)
+
+## Main Exceptions for Developing Countries
+
+- Since the 1960s, but long without a legal framework.
+
+- General framework through the Enabling Clause in 1979 only:
+  - Possibility of differentiated and more favorable treatment for developing countries
+
+- Derogation from reciprocity for developing countries
+
+  - Justifications for non-reciprocal preferences granted by developed countries
+  - __Lesser obligations__ for agreements between developing countries
+
+## WTO Agreements
+
+::: columns
+
+:::: column
+
+General principles:
+
+The General Agreement on Tariffs and Trade (GATT) (for goods)
+
+The General Agreement on Trade in Services (GATS).
+
+The Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS).
+
+::::
+
+:::: column
+
+Additional agreements and annexes:
+
+- For goods (within the GATT framework)
+  - Agriculture (reintroduction into negotiations, tariffing)
+  - Sanitary regulations concerning agricultural products (SPS)
+  - Textiles and clothing (dismantling of MFA)
+  - Product standards (TBT)
+  - Investment measures
+  - Anti-dumping measures
+  - Customs valuation methods
+  - Pre-shipment inspection
+  - Rules of origin
+  - Import licensing
+  - Subsidies and countervailing measures
+  - Safeguards
+- For services (GATS annexes)
+  - Movement of natural persons
+  - Air transport
+  - Financial services
+  - Maritime transport
+  - Telecommunications
+
+::::
+:::
+
+## The Dispute Settlement Body (DSB) Review
+
+Over the past 20 years (1995-2015), nearly 500 disputes have been brought before the WTO.
+About half were settled through bilateral discussions, and the other half were handled through the panel procedure.
+
+The EU and US use this system a lot.
+
+Most often, (the complaint is justified and) the complainant wins: 88% of cases.
+
+The system relies heavily on legal (and economic) expertise.
+
+## Negotiations in Practice: The Case of Tariffs
+
+In multilateral negotiations, countries consider two types of tariffs (for an importing country that is a WTO member):
+
+Bound tariff (or CTS in English): a ceiling that a country commits not to exceed (except in special cases: anti-dumping, for example). Its tariffs can vary between [0, CTS], but vis-à-vis all its partners.
+
+Most-Favored-Nation (MFN) tariff: the lowest tariff a country commits to applying to its WTO partners.
+
+## WTO Tariffs
+
+Negotiations focus on the bound tariff.
+
+That is, if a country commits to reducing a tariff on a product, the reduced tariff will be the ceiling, not the MFN.
+
+Therefore, only reductions resulting in a bound tariff lower than the currently applied MFN tariff will have an impact on trade.
+
+If the tariff cut does not lower the MFN, it will only reduce the binding margin (difference between CTS and MFN). However, this reduction in the margin can translate into reduced uncertainty for the exporter and thus increase trade. Graphically, the stakes of tariff negotiations are therefore:
+
+## The Doha Round
+
+Launch of the Doha Round in November 2001 (6 years after the creation of the WTO).
+
+Under the sign of development (DDA).
+
+The subject is not unilateral liberalization, but the exchange of concessions and the definition of rules.
+
+Many topics: tariff liberalization, services, trade facilitation, geographical indications, environmental agreements (improving rules), intellectual property...
+
+## Points of Disagreement
+
+Feeling of deadlock, great difficulties in finding common ground, for many reasons:
+Differentiated treatment is not appreciated.
+Very ambitious: too many members, too many topics: a single agreement seems complex, seeking a "minimal" agreement.
+Limited benefits for developing countries that already benefit from many tariff advantages through preferential agreements (risk of preference erosion) and, moreover, commitments that are too costly and binding.
+A framework poorly adapted to a multipolar world, there are not only developing and developed countries.
+Very low expected gains as the ambition of the round has eroded.
+For developed countries, competition from preferential agreements (EU starts negotiations as early as 2004).
+The food price crisis (2007-2008), the financial crisis, the Euro crisis, climate issues, etc., have shifted priorities.
+
+## Multilateral Negotiations Today
+
+- Some successes, reduced agenda ("Doha Light" in Bali).
+- Bali, December 3-6, 2013
+  - The Bali Package: 1st multilateral agreement signed since the creation of the WTO.
+  - Trade facilitation: measures aim to reduce bureaucracy at borders.
+  - Aid for the development of least developed countries: increased exemption from customs duties for products from least developed countries.
+  - Agriculture: renewed commitment to reduce export subsidies.
+- Nairobi, December 15-19, 2015
+  - Historic decision to eliminate export subsidies for agricultural products.
+- Buenos Aires, December 10-13, 2017
+  - No agreement was reached.
+- Nur-Sultan (Kazakhstan), June 8-11, 2020
+  - TODO
+
+## The WTO Review, 25 Years Later
+
+- Significant increase in the number of members (with the largest countries within the WTO = attraction power).
+- Strength of the multilateral framework – structured framework for dialogue and negotiation.
+- Effectiveness of the DSB, "until recently."
+- MFN: the rule has become the exception.
+- Difficulty for the poorest countries to be heard.
+- "Relatively" democratic functioning (?)
+
+##
+
+![](assets/measures)
+
+## Challenges for the WTO and Its Future
+
+Questioning of the DSB.
+Consensus vs. vote.
+Failure of the DDA, relative successes of recent ministerial conferences.
+Categorization of countries (developing countries...).
+Trade war, uncertainty.
+Multilateralism and plurilateralism: trade agreements.
+
+## Challenges for the WTO and Its Future
+
+- Two recent particular problems:
+  - Level Playing Field: State intervention in the domestic economy (subsidies, competition, state-owned enterprises, and public procurement).
+- WTO limitations on this subject, particularly in defining subsidies.
+
+- Forced technology transfer:
+  - TRIPS and TRIMS agreements are not enough! -->
+</section>
+</section>
+<section id="were-are-we-headed" class="level1">
+<h1>Were are we headed?</h1>
+<section id="historical-context-pre-wwii" class="level2">
+<h2 class="anchored" data-anchor-id="historical-context-pre-wwii">Historical Context Pre-WWII</h2>
+<ul>
+<li><p>19th century: period of relative free trade</p>
+<ul>
+<li>Anticorn laws, Franco-English commercial treaties, colonies, unilateral liberalization…</li>
+</ul></li>
+<li><p>Late 19th - early 20th century: first wave of protectionism</p>
+<ul>
+<li>Méline Laws 1892</li>
+<li>Implementation of higher tariffs, quotas, embargo…</li>
+</ul></li>
+<li><p>Between the two wars, Great Depression</p>
+<ul>
+<li>Highly protectionist policies</li>
+<li>Safeguarding of Industries Act 1921 in Britain</li>
+<li>Smoot–Hawley Tariff Act US 1930</li>
+<li>Exacerbates the crisis, 40% reduction in American imports, repercussions on international relations…</li>
+</ul></li>
+</ul>
+</section>
+<section id="the-multilateral-trading-system" class="level2">
+<h2 class="anchored" data-anchor-id="the-multilateral-trading-system">The Multilateral Trading System</h2>
+<p>The GATT (1947-1994)</p>
+<p>The WTO (1995-2025)</p>
+</section>
+<section id="the-main-objectives-of-the-wto" class="level2">
+<h2 class="anchored" data-anchor-id="the-main-objectives-of-the-wto">The Main Objectives of the WTO</h2>
+<ul>
+<li><p>Promote wealth creation through international trade liberalization, but obstacles:</p>
+<ul>
+<li>Political economy: liberalization costs concentrated on a few well-organized sectors. Diffuse benefits (consumers) poorly organized politically with low individual interest.</li>
+<li>Limit the “free-rider” effect</li>
+<li>Ensure the continuity of the GATT</li>
+</ul></li>
+</ul>
+<p>Grant special concessions and assistance to developing countries</p>
+</section>
+<section id="general-philosophy" class="level2">
+<h2 class="anchored" data-anchor-id="general-philosophy">General Philosophy</h2>
+<p>A negotiation framework…</p>
+<ul>
+<li>… governed by a set of rules…</li>
+<li>… to help resolve disputes between states under the aegis of an impartial arbitrator.</li>
+</ul>
+<p>Only governments (under influence?) participate in the game</p>
+<p>Mercantilism vs.&nbsp;Ricardianism.</p>
+</section>
+<section id="general-principles-and-associated-tools" class="level2">
+<h2 class="anchored" data-anchor-id="general-principles-and-associated-tools">General Principles and Associated Tools</h2>
+<p>Non-discrimination (clarification of GATT principles)</p>
+<p><strong>Most-Favored-Nation Clause</strong> (“MFN clause”): any trade advantage granted by one country to another (even if it is not a WTO member) must be immediately extended to all WTO members.</p>
+<ul>
+<li><strong>National treatment principle</strong>: imported products or services on the territory of a member must not be treated less favorably than domestic products or services.</li>
+</ul>
+</section>
+<section id="general-principles-and-associated-tools-2" class="level2">
+<h2 class="anchored" data-anchor-id="general-principles-and-associated-tools-2">General Principles and Associated Tools (2)</h2>
+<ul>
+<li>Freer trade: a progressive and negotiated path
+<ul>
+<li>Reciprocity: Countries exchange concessions on market access, for example, but also changes in regulations on standards (sanitary, technical…) or property rights</li>
+</ul></li>
+<li>Fair competition</li>
+<li>Transparency and predictability
+<ul>
+<li>Consolidation: negotiations focus not on applied tariffs but on bound tariffs (ceilings)</li>
+<li>Notification and information obligations</li>
+<li>Trade Policy Review Mechanism</li>
+</ul></li>
+</ul>
+</section>
+<section id="today" class="level2">
+<h2 class="anchored" data-anchor-id="today">Today</h2>
+<p><strong>In the USA</strong>:</p>
+<ul>
+<li>Return of protectionist policies?
+<ul>
+<li>Exit from NAFTA (USMCA), WTO… seems difficult but not impossible.</li>
+<li>Trade war with China.</li>
+<li>15-year-old dispute with the EU over subsidies in the aerospace sector.</li>
+<li>Bilateral agreements?</li>
+</ul></li>
+</ul>
+<p><strong>In Europe</strong>:</p>
+<ul>
+<li>Politicization of trade and trade policy issues.</li>
+<li>Question of European competence.</li>
+<li>Difficulties encountered in ratifying CETA (free zone with Canada) suggest that future EU participation in free trade agreements will be difficult.</li>
+<li>Brexit.</li>
+</ul>
+</section>
+<section id="usa-first-trump-mandate" class="level2">
+<h2 class="anchored" data-anchor-id="usa-first-trump-mandate">USA: First Trump Mandate</h2>
+<p>Future is hard to predict, but look at the past</p>
+<p>. . .</p>
+<p>When taking office in January 2017, President Trump has challenged some regional free trade agreements:</p>
+<ul>
+<li>US withdrawal from the Trans-Pacific Partnership.</li>
+<li>Renegotiation of NAFTA.</li>
+</ul>
+<p>Then commercial protection measures announced in March 2018, exceptional in their motivation and importance.</p>
+</section>
+<section id="usa-first-trump-mandate-1" class="level2">
+<h2 class="anchored" data-anchor-id="usa-first-trump-mandate-1">USA: First Trump Mandate</h2>
+<p>First Trump administration: a 58% increase in the number of (retaliatory) anti-dumping and anti-subsidy measures between 2016 and 2017.</p>
+<p>With one exception (the first self-initiated case in 25 years), their initiative comes from companies, even if they respond to signals sent by the government.</p>
+<p>Two measures announced in March 2018:</p>
+<ul>
+<li>Additional tariffs imposed in the name of national security (i.e., section 232 of the 1962 Trade Act) on steel (25%) and aluminum (10%) imports.</li>
+<li>Retaliation against technology transfers and China’s intellectual property protection policy, imposing an additional 25% tariff on various products from China.</li>
+</ul>
+</section>
+<section id="usa-first-trump-mandate-2" class="level2">
+<h2 class="anchored" data-anchor-id="usa-first-trump-mandate-2">USA: First Trump Mandate</h2>
+<p><em>In principle</em>: these measures allowed under WTO rules (exception for national security reasons).</p>
+<p><em>In form</em>: contrary to commitments because purely political bases.</p>
+<p>. . .</p>
+<p>Measures especially exceptional by the amounts involved:</p>
+<div class="incremental">
+<ul class="incremental">
+<li>Measures on steel and aluminum initially targeted all partners, about <span class="math inline">\(50\)</span> billion dollars in imports (2017).
+<ul class="incremental">
+<li><em>Then</em> exemptions for certain countries (Australia, EU, South Korea, Canada, Mexico…).</li>
+</ul></li>
+<li>Despite the fuss:
+<ul class="incremental">
+<li>the US stayed in WTO</li>
+<li>measures have maily targeted China</li>
+</ul></li>
+<li>Will it be the case again?</li>
+</ul>
+</div>
+</section>
+<section id="section-1" class="level2">
+<h2 class="anchored" data-anchor-id="section-1"></h2>
+<p><strong>What do you think?</strong></p>
+<p>What is the motivation for Mr Trump?</p>
+<p>Should other countries retaliate?</p>
+<p>Will history repeat itself?</p>
+<!-- 
+## Short-Term Impacts on Costs and Prices
+
+In the short term, trade tensions create uncertainties detrimental to investor confidence.
+When protection is temporary, it does not justify new investments or new hires.
+Protectionism also has consequences on national production incorporated as intermediate inputs in imports:
+In the United States, this re-imported national value-added accounts for 18.2% of imports from Mexico, but only 1.2% of those from China.
+
+## Quantitative Evaluations
+
+Various evaluations.
+
+Different methodologies.
+
+Presentation of CEPII conclusions.
+
+## CGE Evaluation
+
+CEPII Letter "The Waterer Watered: Trade War and Global Value Chains," Bellora and Fontagné, April 2019.
+
+Use of a global computable general equilibrium model.
+
+Allows accounting for direct and indirect effects (third countries, unaffected sectors, different markets...).
+
+## CGE Evaluation
+
+Scenario 1:
+Activation by the United States of "Section 232" on aluminum and steel (including exemptions, tariff quotas, and retaliation) and "Section 301" on US imports from China (as well as Chinese retaliation).
+Scenario 2:
+Same as Scenario 1, plus:
+Possible US sanctions on automobile and component imports, considered in spring 2019.
+The main automobile exporters to the United States retaliate and increase their tariffs on key products they import from the United States by 25 percentage points (excluding energy and pharmaceutical products), up to the value of their targeted automobile exports.
+Scenario 3:
+Elimination of bilateral tariffs on industrial products between the United States and the EU27 (Brexit), while measures on steel and aluminum against partners other than the EU and those related to Section 301 against China would be maintained. -->
+<!-- # What's a Trade War?
+
+1. Infant Industry Argument
+Proponents: Alexander Hamilton, Friedrich List
+Concept: Emerging industries in developing countries may struggle to compete with well-established foreign competitors. Temporary protection allows these industries to grow, develop economies of scale, and eventually compete on a global level.
+Criticism: Industries often become dependent on protection and may not become competitive as intended.
+
+2. Strategic Trade Theory
+Proponents: Paul Krugman, James Brander, Barbara Spencer
+Concept: In industries with significant economies of scale or network effects (e.g., aerospace, tech), government intervention can help domestic firms gain a competitive advantage.
+Example: Boeing vs. Airbus, where both the U.S. and the EU provided subsidies to help their firms compete in a high-stakes global industry.
+Criticism: Can lead to retaliatory trade wars and inefficiencies in market allocation.
+
+3. National Security Argument
+Concept: Certain industries (e.g., defense, energy, food production, semiconductors) are vital to national security. Relying on foreign suppliers can create vulnerabilities in times of conflict or crisis.
+Example: The U.S. imposing restrictions on Chinese telecom firms (Huawei) to prevent foreign influence in critical infrastructure.
+Criticism: Often used as a political tool rather than a genuine economic necessity.
+
+4. Terms of Trade Argument (Optimal Tariff Theory)
+Proponents: Frank Graham, Harry Johnson
+Concept: If a country has significant market power as a large importer of a good, it can impose tariffs to improve its terms of trade (i.e., reduce the price of imports relative to exports). This allows the country to capture a greater share of global surplus.
+Example: A country like the U.S. imposing tariffs on Chinese goods could theoretically force China to lower export prices.
+Criticism: If trading partners retaliate, the gains may be wiped out, leading to trade wars.
+
+5. Balance of Payments Protectionism
+Concept: If a country runs persistent trade deficits, it may impose tariffs or import restrictions to reduce its dependence on foreign capital and stabilize its economy.
+Example: Many developing countries impose import restrictions to conserve foreign exchange reserves.
+Criticism: Often leads to inefficiencies and consumer price increases.
+
+6. Employment Protection Argument (Keynesian Approach)
+Proponents: John Maynard Keynes (to some extent)
+Concept: Free trade can cause job losses in certain sectors due to cheaper foreign competition. Protectionist policies can shield domestic workers and industries from economic shocks.
+Example: U.S. steel tariffs imposed to protect domestic jobs.
+Criticism: Often leads to higher costs for consumers and downstream industries.
+
+7. Cultural & Strategic Autonomy Arguments
+Concept: Some countries protect industries such as media, agriculture, or tech to preserve national identity and autonomy from foreign influence.
+Example: France's restrictions on foreign media and film imports to preserve French culture.
+Criticism: Can lead to inefficiencies and higher costs for consumers. -->
+
+
+</section>
+</section>
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Says president Trump…<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/albop\.github\.io\/tie\/");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>
