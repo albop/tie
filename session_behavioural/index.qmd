@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Behavioral Economics"
-date: 2024/02/12
-subtitle: Topics in Economics, ESCP, 2023-2024
+date: 2025/02/03
+subtitle: Topics in Economics, ESCP, 2024-2025
 author: Pablo Winant
 format:
   revealjs:
@@ -13,9 +13,9 @@ format:
 
 ---
 
-##
+<!-- ##
 
-<iframe width="1120" height="630" src="https://app.wooclap.com/events/IJBNSY/0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" class="stretch" allowfullscreen></iframe>
+<iframe width="1120" height="630" src="https://app.wooclap.com/events/IJBNSY/0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" class="stretch" allowfullscreen></iframe> -->
 
 # Behavioural Economics
 
@@ -401,11 +401,15 @@ __Test__:
 
 - Write down 3 examples of successes that you have had
 - Write down 3 examples of failures
+
+::::
+:::: {.fragment .current-visible}
+
 - What were the causes of the success?
 - What were the causes of the failures?
 
-
 ::::
+
 :::: {.fragment}
 
 __Interpretation__
@@ -465,8 +469,12 @@ People place a higher valuation on an asset, purely by owning it.
 
 __Example__: We tend to think that footballers make more money than dentists, but only because we don't see the failures (there’s a selection bias)
 
+. . .
+
 - Dentistry is a more lucrative profession since it maximises your expected income across all alternative histories
 - *One cannot consider a profession without taking into account the average of the people who enter it, not the sample of those who succeed* Taleb (2001)
+
+. . .
 
 ::: {.callout-important title="Availability Heuristic"}
 
@@ -575,6 +583,6 @@ In principle one could use nudges as an alternative to traditional incentives in
 
 . . .
 
-To be discussed in the next session... 
+If curious:
 
 👉 Read the [working paper](session_nudges/assets/196185119.pdf) *Nudging as an Environmental Policy*

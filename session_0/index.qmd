@@ -1,7 +1,7 @@
 ---
 title: "General Introduction"
-date: 2024/01/15
-subtitle: Topics in Economics, ESCP, 2023-2024
+date: 2025/01/13
+subtitle: Topics in Economics, ESCP, 2024-2025
 author: Pablo Winant
 format:
   revealjs:
@@ -60,14 +60,14 @@ format:
   - make sure you understand their meaning
 - Try to think outside of the box
 
-## Pressing Topics...
+## Pressing Topics... -->
 
 
-![](topics.png)
-<!-- 
+<!-- ![](topics.png) -->
+
 ```{=html}
-<iframe width="90%" height="90%" src="https://app.wooclap.com/events/BIZEJU/0" title="Pressing Topics"></iframe>
-``` -->
+<iframe width="90%" height="90%" src="https://app.wooclap.com/events/PGCTSX" title="Pressing Topics"></iframe>
+```
 
 
 
@@ -103,17 +103,24 @@ Economics studies people's decisions and interactions, usually through markets b
 Check AEA  [website](https://www.aeaweb.org/resources/students/what-is-economics) and [research highlights](https://www.aeaweb.org/research) for many examples of economic applications.
 
 
-## Logistics
+## Evaluation
 
-- Evaluation
-  - group work (40%)
-    - record a 5 min video developing one particular point of the course
-  - final exam (in-class) (60%)
-    - mcq on __econ concepts__
-    - very short essay based on documents
-  - ongoing (up to 20% bonus/malus)
-    - participation & behaviour
-    - mini-tasks if any
+
+- group work (<mark>40%</mark>)
+  - record a 5 min video developing one particular point of the course
+  - 4 students max per group
+  - more detailed instructions upcoming
+  - to be handled two weeks *before* the final exam
+- final exam (in-class) (<mark>60%</mark>)
+  - very short essay based on documents
+  - mcq on:
+    - __econ concepts__
+    - documents
+    - groupwork
+- ongoing (up to 20% bonus/malus)
+  - participation & behaviour
+  - mini-tasks if any
+
 
 ##
 

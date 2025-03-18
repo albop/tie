@@ -1,14 +1,14 @@
 ---
 title: "The Price of Carbon"
-date: 2024/01/22
-subtitle: Topics in Economics, ESCP, 2023-2024
+date: 2025/01/27
+subtitle: Topics in Economics, ESCP, 2024-2025
 author: Pablo Winant
 format:
     revealjs:
         navigation-mode: grid
         layout: wide
-        # width: 1920
-        # height: 1080
+        width: 1360
+        height: 800
         toc: true
         toc-depth: 1
         toc-title: Plan
@@ -24,7 +24,7 @@ format:
 
 . . .
 
-*Donald Trump*
+*Donald Trump, 2012*
 
 . . .
 
@@ -84,8 +84,8 @@ How much is too much?
 
 :::: {.column}
 
- - 4 was *glaciation*. What about >+4?
- - checkout (*ICCP 2022*)
+ - -4 was *glaciation*. What about >+4?
+ - checkout (*IPCC 2022*)
 
 ::::
 :::: {.column}

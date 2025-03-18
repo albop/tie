@@ -1,6 +1,7 @@
 ---
 format: pdf
-title: "Topics in Economics: Final Exam"
+title: "Topics in Economics - Final Exam"
+subtitle: 2023 (2h)
 ---
 
 

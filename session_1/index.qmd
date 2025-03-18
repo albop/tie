@@ -1,7 +1,7 @@
 ---
 title: "The Rise of Artificial Intelligence"
-date: 2024/01/15
-subtitle: Topics in Economics, ESCP, 2023-2024
+date: 2025/01/13
+subtitle: Topics in Economics, ESCP, 2024-2025
 author: Pablo Winant
 format:
   revealjs:
@@ -56,13 +56,12 @@ Will only appear in HTML.
     - *learning*: gets better over time
   - without emotions
 
-## How to make the difference between a robot and a ?
+## How to make the difference between a robot and an AI ?
 
 - Check whether it thinks like a human being
-- Turing test:
-  - a machine discussing with a human must be recognized as a 7 years old human 50% of the time
+- A machine passes the _Turing test_ if it can pass for a 7 years old human 50% of the time in a blind conversation
   - can machines emulate human behaviour?
-- Chinese Room thought experiment:
+- _Chinese Room_ thought experiment:
   - how to differentiate somebody who speaks chinese and somebody who follows rules to speak?
   - turing test cannot determine whether machines think
 - What do you think of these tests?
@@ -80,6 +79,11 @@ Will only appear in HTML.
   - talk
   - reason
   - ... create movies
+  - solve many problems just by completing text (genAI)
+
+##
+
+As an economist, how should we think about AI?
   
 
 <!-- ## AI effect
@@ -257,7 +261,7 @@ Chad Jones and Christopher Tonetti (Stanford) *Nonrivalry and the Economics of D
 
 ::: {.incremental}
 
-- In the very long run, could technology be __bad__?
+- In the very long run, could technology be _bad_?
 - Recall the neoclassical world
   - market economy
   - technological progress reduces production cost

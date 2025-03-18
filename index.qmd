@@ -6,8 +6,14 @@ listing:
   sort-ui: false
   filter-ui: false
   contents: 
-    - session_*/index.qmd
-    
+    - session_0/index.qmd
+    - session_1/index.qmd
+    - session_ai_labour/index.qmd
+    - session_carbon/index.qmd
+    - session_behavioural/index.qmd
+    - session_inequality/index.qmd
+    - session_fragmentation/index.qmd
+    - session_trade/index.qmd
     - prep*/index.qmd
   sort: date
   fields: [date, title]
@@ -15,18 +21,36 @@ listing:
 
 ::: {.callout-note title="Instructions for group work" collapse="true"}
 
-By March 18th, fill the [google sheet](https://docs.google.com/spreadsheets/d/1oQREYkVVM34ezNVtzG2x3EgTWhKwuvvJPP4WOy7Q-uI/edit#gid=0) indicating what topic you work on and listing the emails of the team members.
+Deadline to return the group work: <mark>April 22th</mark>.
+
+By March 17th, fill the [google sheet](https://docs.google.com/spreadsheets/d/1wpXd7njfOHLhm2VKs0iP3Y0kbp2O2LYpmwZ1r5rG6r8/edit?usp=sharing) indicating what topic you work on and listing the emails of the team members.
 
 The project must contain:
+
 - a 5 min video
-- a transcript of the video
+- a written transcript of the video
 - if GPT (or equivalent) was used, include the transcript of all interactions with it
 
-The projects must be uploaded as one zip file to the drive folder: 
+Preferably: uploaded the project as one zip file to the drive [folder](https://drive.google.com/drive/folders/1VL4NtcWSnJ2j_2hIqrHwMg3d1ssz2e1n?usp=drive_link)
 
 :::
 
 ::: {.callout-note title="Instructions for final exam" collapse="true"}
+
+Example from [2023](exam/exam_2023.zip).
+Example from [2024](exam/exam_2024.zip).
+
+Rules:
+
+- no document
+- mcq on the course (2pt)
+- mcq on the documents (2pt)
+- essay on the documents
+  - respect the space limit (less than 2 pages)
+  - focus on clarity
+  - all information to answer is contained in the documents
+  - but some general understanding can help
+
 :::
 
 
@@ -43,9 +67,13 @@ __Practicalities__
     - record a 5 min video developing one particular point of the course
     - 4 students max per group
     - more detailed instructions upcoming
+    - to be handled two weeks *before* the final exam
   - final exam (in-class) (<mark>60%</mark>)
-    - mcq on __econ concepts__
     - very short essay based on documents
+    - __econ concepts__
+    - mcq on:
+      - documents
+      - groupwork
   - ongoing (up to 20% bonus/malus)
     - participation & behaviour
     - mini-tasks if any

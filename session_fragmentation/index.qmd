@@ -1,7 +1,7 @@
 ---
 title: "Countries Pulling Appart: Geoeconomic Fragmentation."
-date: 2024/03/11
-subtitle: Topics in Economics, ESCP, 2023-2024
+date: 2025/03/03
+subtitle: Topics in Economics, ESCP, 2024-2025  
 author: Pablo Winant
 format:
   revealjs:
@@ -12,6 +12,10 @@ format:
     output-file: index_handout.html
 
 ---
+
+##
+
+Read the [document](doc.pdf)
 
 
 # Introduction
@@ -139,19 +143,24 @@ There is a research agenda here...
 # Geo-economic fragmentation and the world economy
 
 
-## 
+##  
 
 Aiyar et al. propose the following definition:
 
-::: {.callout-note}
+::: {.callout-note title="Geoeconomic Fragmentation"}
 
 Policy-driven reversal of global economic integration often guided by strategic considerations.
 
 :::
 
+
+::: {.incremental}
+
 - domestic policy objective
 - no *autonomous* shift in preferences or technology
 - not an effect of *prudential policies*
+
+:::
 
 
 ##
@@ -196,7 +205,7 @@ discuss whether the definition applies.
 
 - big increase in financial services before "Global Financial Crisis"
   - comment on the domino effect of the gfc
-  - banks have limited they cross-border exposure
+  - banks have limited their cross-border exposure
 - big increase in services, since the 80s
   - referred to as servicification of trade
 - for services and goods: slow evolution after 2005
@@ -409,6 +418,7 @@ Is it even possible to measure the gains from integration? Big long-standing deb
 - what is the counterfactual?
 - a model is needed
 
+
 ##
 
 __Trade__
@@ -471,7 +481,7 @@ Four studies:
 
 Different Fragmentation Scenarios:
 
-- In general West + China/US + Non-aligned.
+- In general West + China/Russia + Non-aligned.
 - Nature of trade fragmentation is variable
 
 ::: notes
@@ -511,7 +521,7 @@ Goes and Bekkers:
 
 ## Short term / long-term elasticities
 
-__2021__: can German reduce its dependence on Russian Gas?
+__2021__: can Germany reduce its dependence on Russian Gas?
 
 . . .
   

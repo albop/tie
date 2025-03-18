@@ -1,9 +1,13 @@
 ---
 title: "Gen-AI and the Labour Market. Documents"
-date: 2024/01/29
+date: 2025/01/20
 subtitle: Documents
 format:
-  typst: default
+  pdf:
+    toc: true
+    geometry:
+      - top=10mm
+      - left=20mm
 ---
 
 # IMF Blog Post
@@ -14,7 +18,7 @@ format:
 
 Kristalina Georgieva, January 14, 2024
 
-\ \
+\
 
 We are on the brink of a technological revolution that could jumpstart productivity, boost global growth and raise incomes around the world. Yet it could also replace jobs and deepen inequality.
 
@@ -71,12 +75,14 @@ From [official website](http://www.imf.org/en/About/Factsheets/IMF-Lending):
 Unlike development banks, the IMF does not lend for specific projects. Instead, the IMF provides financial support to countries hit by crises to create breathing room as they implement policies that restore economic stability and growth. It also provides precautionary financing to help prevent crises. IMF lending is continuously refined to meet countries’ changing needs.
 
 
-![This is an image](assets/box1.png)
 
 
 {{< pagebreak >}}
 
-# Working paper
+# Staff Discussion Note
+
+## Gen-AI: Artificial Intelligence and the Future of Work
+![Box 1](assets/box1.png){height=75%}
 
 *Extract from *Labor Market Exposure to AI: Cross-country Differences and Distributional Implications.*
 Prepared by Carlo Pizzinelli, Augustus Panton, Marina M. Tavares, Mauro Cazzaniga, Longji Li
@@ -84,7 +90,11 @@ Authorized for distribution by Florence Jaumotte. October 2023
 
 {{< pagebreak >}}
 
-![](assets/page_1.png){height=100%}
+# Working Paper
+
+## Labor Market Exposure to AI: Cross-country Differences and Distributional Implications
+
+![](assets/page_1.png){height=90%}
 
 ![](assets/page_2.png){height=100%}
 

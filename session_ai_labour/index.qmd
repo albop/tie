@@ -1,7 +1,7 @@
 ---
 title: "Gen-AI and the Labour Market"
-date: 2024/01/29
-subtitle: Topics in Economics, ESCP, 2023-2024
+date: 2025/01/20
+subtitle: Topics in Economics, ESCP, 2024-2025
 author: Pablo Winant
 format:
   revealjs:
@@ -11,6 +11,8 @@ format:
     toc: true
     toc-depth: 1
     toc-title: Plan
+    mermaid:
+      theme: forest
   html:
     output-file: index_handout.html
 
@@ -20,13 +22,13 @@ format:
 
 ::: div
 
-![News](cnn.png)
+![CNN, Jan 14th, 2024](cnn.png)
 
 :::
 
 . . . 
 
-From CNN: *‘Jobs may disappear’: Nearly 40% of global employment could be disrupted by AI, IMF says*
+*‘Jobs may disappear’: Nearly 40% of global employment could be disrupted by AI, IMF says*
 
 . . . 
 
@@ -45,11 +47,14 @@ Check out the [documents](document.pdf)
 
 ## Task
 
-Find some context about the study and the various authors implicated.
+Find some context about the study:
 
-Why is IMF interested in AI?
+- which study predates the others
+- who are various authors implicated?[^google]
 
 :::
+
+[^google]: Google is your friend...
 
 
 ## IMF & AI: a recent stream of activity
@@ -81,6 +86,7 @@ flowchart LR
   A{Staff} -->  A1[Academic Paper]
   A1 --> X[Peer Reviewed Publications]
   A1 --> B[IMF Working Paper]
+  B --> X
   A --> C[IMF Staff Discussion Paper]
   B --> C
   C --> D[Board Official Position]
@@ -105,7 +111,7 @@ The *publication* of research papers in big international institutions has sever
 
 :::
 
-##  Example of Shaping the Narrative
+<!-- ##  Example of Shaping the Narrative
 
 Bank of England, communicates on forward guidance:
 
@@ -115,7 +121,7 @@ Bank of England, communicates on forward guidance:
 
 Andy Haldane, chief economist:
 
-![](maradona.jpg)
+![](maradona.jpg) -->
 
 ##
 
@@ -127,7 +133,17 @@ The IMF is a global organization that works to achieve sustainable growth and pr
 
 :::
 
-. . . Then why is it interested in AI?
+\ \ 
+
+. . .
+
+::: {.callout-note icon=false}
+
+## Think
+
+Why is IMF interested in AI?
+
+:::
 
 
 . . . 
@@ -141,16 +157,11 @@ Check out [the webpage](https://www.imf.org/en/About/Factsheets/IMF-Lending)
 ::: {.incremental}
 
 1. IMF lends in times of crisis
-
   - it is useful to know what might cause the next one (CoVid2, AI, food shortage, global warning...)
-
 2. It pushes for structural reforms (but which ones?)
-
   - so that countries can reimburse loans
-
 3. It sometimes acts as a last-resort multilateral institution
-
-  - where do all finance ministers sit down to discuss ...?
+  - where all finance ministers can sit down to discuss ...?
 
 :::
 
@@ -166,7 +177,9 @@ Check out [the webpage](https://www.imf.org/en/About/Factsheets/IMF-Lending)
 
 Check out the O*NET database.
 
-What is the difference between a skill, an abilty, ...
+What is an occupation?
+
+What is the difference between a skill, an ability, ...
 
 What part of occupational content is more relevant to judge AI exposure?
 
@@ -279,7 +292,7 @@ $$ AIEO_k = \sum_j L_{kj} AI_j $$
 where:
 
 - $L_{kj}$: ability content of task $k$
-- $AI_j$: suitability of task $j$ for ability $j$
+- $AI_j$: suitability of AI for ability $j$
 
 . . . 
 
@@ -405,7 +418,7 @@ What are the limits with the task-based approach? -->
 
 ## Question 3
 
-How does the SDN distinguish between jobs that are more or less complement to AI.
+How does the SDN / the WP distinguish between jobs that are more or less complement to AI.
 What are the contexts? How is the complementarity score computed?
 
 
