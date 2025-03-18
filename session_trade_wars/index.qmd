@@ -1,0 +1,15 @@
+---
+title: "Trade Wars"
+date: 2025/03/17
+subtitle: Topics in Economics, ESCP, 2024-2025
+author: Pablo Winant
+format:
+  revealjs:
+    menu:
+      side: left
+      width: normal
+    width: 1920
+    height: 1080
+  html:
+    output-file: index_handout.html
+---
