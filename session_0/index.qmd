@@ -1,10 +1,12 @@
 ---
 title: "General Introduction"
 date: 2025/01/13
-subtitle: Topics in Economics, ESCP, 2024-2025
+subtitle: Topics in Economics, ESCP, 2025-2026
 author: Pablo Winant
 format:
   revealjs:
+    logo: assets/antai_escp.png
+    css: logo.css
     width: 1920
     height: 1080
     menu:
@@ -14,62 +16,27 @@ format:
     output-file: index_handout.html
   beamer:
     aspectratio: 169
-
-  #   width: 1920
-  #   height: 1080
+listing:
+  id: course-listing
+  type: table
+  sort-ui: false
+  filter-ui: false
+  contents: 
+    - ../session_0/index.qmd
+    - ../session_1/index.qmd
+    - ../session_ai_labour/index.qmd
+    - ../session_carbon/index.qmd
+    - ../session_behavioural/index.qmd
+    - ../session_inequality/index.qmd
+    - ../session_fragmentation/index.qmd
+    - ../session_trade/index.qmd
+    # - ../prep*/index.qmd
+  sort: date
+  fields: [date, title]
 ---
 
 
 # Topics in Economics
-
-
-## About myself
-
-::: {.columns}
-
-:::: {.column width=60%}
-
-![Pablo Winant](0_girafes.jpg){width=100% height=100%}
-
-::::
-:::: {.column width=40%}
-
-- Professional experience
-  - IMF
-  - Bank of England
-- Teaching
-  - ESCP Business School
-  - Ecole Polytechnique
-- Research
-  - inequalities
-  - international finance
-  - monetary policy
-  - computational economics
-  - artificial intelligence
-
-::::
-
-:::
-
-## This course
-
-- Start with hot topics
-  - e.g. ChatGPT, job market, ecological transition, ...
-- Connect with economic theories and concepts
-  - they appear in __bold__
-  - make sure you understand their meaning
-- Try to think outside of the box
-
-## Pressing Topics... -->
-
-
-<!-- ![](topics.png) -->
-
-```{=html}
-<iframe width="90%" height="90%" src="https://app.wooclap.com/events/PGCTSX" title="Pressing Topics"></iframe>
-```
-
-
 
 
 ## How do you define "Economics" ?
@@ -103,6 +70,27 @@ Economics studies people's decisions and interactions, usually through markets b
 Check AEA  [website](https://www.aeaweb.org/resources/students/what-is-economics) and [research highlights](https://www.aeaweb.org/research) for many examples of economic applications.
 
 
+
+## Pressing Topics...
+
+
+<!-- ![](topics.png) -->
+
+```{=html}
+<iframe width="90%" height="90%" src="https://app.wooclap.com/events/PGCTSX" title="Pressing Topics"></iframe>
+```
+
+
+## This course
+
+- Start with hot topics
+  - e.g. ChatGPT, job market, ecological transition, ...
+- Connect with economic theories and concepts
+  - they appear in __bold__
+  - make sure you understand their meaning
+- Try to think outside of the box
+
+
 ## Evaluation
 
 
@@ -121,6 +109,56 @@ Check AEA  [website](https://www.aeaweb.org/resources/students/what-is-economics
   - participation & behaviour
   - mini-tasks if any
 
+
+
+
+## Your Teachers
+
+::: {.columns}
+
+:::: {.column width=45%}
+
+![Pablo Winant](0_girafes.jpg){width=50%}
+
+- Research
+  - inequalities
+  - international finance
+  - monetary policy
+  - artificial intelligence
+
+::::
+
+:::: {.column width=45%}
+
+
+![Raphael Epperson](assets/raphael.jpg){width=40%}
+
+- Research
+  - things
+  - other things
+  - monetary policy
+  - artificial intelligence
+
+
+::::
+
+:::
+
++  + some other guests
+
+
+## A New Teaching Assistant {auto-animate="true"}
+
+
+![Ant AI](assets/antai_bs.png){width=100%}
+
+Check out our new [Ant AI](https://chatgpt.com/g/g-692037ef2b688191af8ea8776a544032-topics-in-economics-ant-ai)
+
+## The Plan
+
+::: {#course-listing}
+
+:::
 
 ##
 

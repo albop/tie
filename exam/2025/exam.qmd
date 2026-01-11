@@ -1,0 +1,66 @@
+---
+format: pdf
+title: "Topics in Economics: Final Exam"
+subtitle: 24/03/2025 (2h)
+---
+
+
+__Circle the only correct answer(s) to the following questions (2 points)__
+
+1. Increasing returns to scale lead to:
+    a. natural monopolies
+    b. faster productivity gains
+    d. a reduction in trade
+
+2. There is more income inequality than consumption inequality because: (*find the wrong answer*)
+
+    a. agents use savings to smooth their consumption over time
+    c. consumption also depends on wealth and wealth inequality is lower than income inequality
+    b. there is intra-family consumption sharing    
+
+{{< pagebreak >}}
+
+__*After* reading the supplied documents[^footnote], find the best answer(s) to the following questions__
+
+3. What is the main purpose of the EU’s proposed Carbon Border Adjustment Mechanism (CBAM)? (1 point)
+
+    a. To reduce the price of imports
+    b. To help EU firms relocate abroad
+    c. To charge foreign companies for their carbon emissions
+    d. To ban carbon-intensive products from the EU
+
+4. What explains over 50% of the differences in countries' carbon emissions? (1 point)
+
+    a. Environmental taxes
+    b. Structural factors like geography and climate
+    c. The level of green policies
+    d. Population size alone
+
+5. Global temperature changes? (1 point)
+
+    a. have little effect on large economies
+    b. are less damaging than local temperature changes
+    c. can cause major economic damage, justifying climate action
+    d. only affect developing countries
+
+[^footnote]: You should have received three documents untitled *The EU must stop carbon leakage at the border to become climate neutral*, *Sovereign emissions: Circumstances versus effort*, *Why unilateral decarbonisation can pay for itself*, 
+
+{{< pagebreak >}}
+
+__What are some challenges the EU faces in making its climate policies fair and effective? Use the documents and respond in less than two pages.__ (15 points)
+
+
+\vspace*{\fill}
+
+---
+
+{{< pagebreak >}}
+
+---
+
+\vspace*{\fill}
+
+---
+
+{{< pagebreak >}}
+

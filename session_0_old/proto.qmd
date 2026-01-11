@@ -1,0 +1,214 @@
+---
+title: "AI and the Labour Market (proto)"
+date: 2024/01/22
+subtitle: Topics in Economics, ESCP, 2023-2024
+author: Pablo Winant
+format:
+  html: default
+  revealjs:
+    output-file: slides.html
+    slides-level: 3
+  # revealjs:
+  #   menu:
+  #     side: left
+  #     width: normal
+  # html:
+  #   output-file: index_handout.html
+  # typst: default
+---
+
+# What's in the report?
+
+How research is done?
+
+##  The context...
+
+## The report
+
+[Authors]()
+
+Research Papers
+
+[Official Blog post](https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity)
+
+Olivier Gourinchas
+Gita Gopinath
+Kristalina Goeorgieva
+
+
+## How Research is done at IMF
+
+```{mermaid}
+flowchart LR
+  A{Staff} -->  A1[Academic Paper]
+  A1 --> X[Peer Reviewed Publications]
+  A1 --> B[IMF Working Paper]
+  A --> C[IMF Staff Discussion Paper]
+  B --> C
+  C --> D[Board Official Position]
+  E{Member States} ==> D
+```
+
+What do you conclude from that?
+
+
+## IMF Blog
+
+Points to:
+
+[IMF F&D December](https://www.imf.org/en/Publications/fandd/issues)
+
+[Generative AI at Work](https://www.nber.org/papers/w31161)
+
+## 
+::: {layout-ncol=2}
+
+![](ai_exposure.png)
+
+![](ae_advantage.png)
+
+:::
+
+AE advantage: which ones are most at risk?
+
+
+## 
+
+
+## Shape the narrative...
+
+The Marradona policy...
+
+GDP growth forecasts...
+
+
+
+
+# How to think about the technological frontier?
+
+# What do we learn from past episodes of technological change?
+
+# How do we measure the impact of AI?
+
+# What are the effects on society?
+
+
+
+What is a job?
+- cf O*NET database
+
+Job complementarity
+
+AI preparedness
+
+
+
+
+
+# Gen-AI: Artificial Intelligence and the Future of Work
+
+
+## Excec Summary
+
+- industrial revolution: productivity shock, replace some workers, complement others
+
+- 40% of employment at risk
+  - more in advanced countries than emerging than developing (60/40/26)
+  - but advanced countries more ready 
+
+- effect on income / wealth inequality
+  - whole population is affected by ai risk
+  - but high income more likely to be positive complement
+  - model simulation-> beneficial to top earners
+
+- positive effect on income for all woekers
+
+- college-educated workers more prepared to move from jobs
+
+- AI preparedness index
+  - advanced: invest in AI innovation and rgulation
+  - less developped: infrastructure and digital traning
+  - all social safety nets
+
+
+## AI Exposure and Complementarity
+
+
+O*NET:
+- job
+- occupation
+- ability
+
+(what is importance?, prevalence?)
+
+(example with a graph)
+
+(problem: O*NET is only for the US)
+
+Labor Market Exposure to AI: Cross-country Differences  and Distributional Implicationss
+
+
+Countries: UK/US + Brazil, Columbia, India, South Africa
+
+Go beyond tasks by adding social and physical context
+
+
+Subjectivity of social point of view.
+
+
+Given the high degree
+of uncertainty over the future of this fast-pacing and broadly applicable technology, the
+concept of exposure is purposely framed as agnostic on the likelihood of AI complementing
+or replacing labor in the performance of a given task or occupation.
+
+
+Idea: provide specific tables /graphs to students
+
+
+Data: ILO for all countries
+microdata for some
+
+
+
+__Problem__: concept of complementarity, not the same
+
+
+Occupational transitions:
+
+- concept of social mobility
+- markov chain
+
+What prevents transition?
+
+cf paper
+
+Why are older workers less willing to switch?
+(many reality checks in the paper).
+
+
+
+* Who is mostly helped with AI?*
+
+- young college-educated
+On the other hand, AI may enable young college-educated workers to become experienced more
+quickly as they leverage their familiarity with new technologies to enhance their productivity. With the
+introduction of generative AI, the use of AI has itself become much easier. A recent study shows that the
+productivity impact of an AI-based conversational assistant was greatest for less experienced and low-skilled
+customer support workers; the effect on experienced and highly skilled workers was minimal (Brynjolfsson,
+Danielle, and Raymond 2023).
+
+Same with Code Assistant
+
+
+
+## AI Productivity, Inequality
+
+Model-based
+
+copmlementarity effect vs displacement effect
+
+
+## AI Preparedness
+
+
+

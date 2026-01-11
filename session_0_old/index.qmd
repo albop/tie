@@ -1,0 +1,129 @@
+---
+title: "General Introduction"
+date: 2025/01/13
+subtitle: Topics in Economics, ESCP, 2024-2025
+author: Pablo Winant
+format:
+  revealjs:
+    width: 1920
+    height: 1080
+    menu:
+      side: left
+      width: normal
+  html:
+    output-file: index_handout.html
+  beamer:
+    aspectratio: 169
+
+  #   width: 1920
+  #   height: 1080
+---
+
+
+# Topics in Economics
+
+
+## About myself
+
+::: {.columns}
+
+:::: {.column width=60%}
+
+![Pablo Winant](0_girafes.jpg){width=100% height=100%}
+
+::::
+:::: {.column width=40%}
+
+- Professional experience
+  - IMF
+  - Bank of England
+- Teaching
+  - ESCP Business School
+  - Ecole Polytechnique
+- Research
+  - inequalities
+  - international finance
+  - monetary policy
+  - computational economics
+  - artificial intelligence
+
+::::
+
+:::
+
+## This course
+
+- Start with hot topics
+  - e.g. ChatGPT, job market, ecological transition, ...
+- Connect with economic theories and concepts
+  - they appear in __bold__
+  - make sure you understand their meaning
+- Try to think outside of the box
+
+## Pressing Topics... -->
+
+
+<!-- ![](topics.png) -->
+
+```{=html}
+<iframe width="90%" height="90%" src="https://app.wooclap.com/events/PGCTSX" title="Pressing Topics"></iframe>
+```
+
+
+
+
+## How do you define "Economics" ?
+
+
+::: {.callout-tip title="Wikipedia"}
+
+Economics is a social science that studies the production, distribution, and consumption of goods and services.
+
+:::
+
+. . .
+
+::: {.callout-tip title="American Economic Association"}
+
+It can be defined in different ways. It’s the study of scarcity, the study of how people use resources and respond to incentives, or the study of decision-making. It often involves topics like wealth and finance, but it’s not all about money.
+
+::: 
+
+
+.  .  . 
+
+::: {.callout-tip title="Redux"}
+
+Economics studies people's decisions and interactions, usually through markets but not always
+
+:::
+
+. . . 
+
+Check AEA  [website](https://www.aeaweb.org/resources/students/what-is-economics) and [research highlights](https://www.aeaweb.org/research) for many examples of economic applications.
+
+
+## Evaluation
+
+
+- group work (<mark>40%</mark>)
+  - record a 5 min video developing one particular point of the course
+  - 4 students max per group
+  - more detailed instructions upcoming
+  - to be handled two weeks *before* the final exam
+- final exam (in-class) (<mark>60%</mark>)
+  - very short essay based on documents
+  - mcq on:
+    - __econ concepts__
+    - documents
+    - groupwork
+- ongoing (up to 20% bonus/malus)
+  - participation & behaviour
+  - mini-tasks if any
+
+
+##
+
+![](ea0.jpg)
+
+[Let's go](../index.html)

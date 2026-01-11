@@ -1,0 +1,18 @@
+---
+title: "Trade  wars (TBC)"
+date: 2025/03/17
+subtitle: Topics in Economics, ESCP, 2024-2025
+author: Pablo Winant
+format:
+  revealjs:
+    menu:
+      side: left
+      width: normal
+  html:
+    output-file: index_handout.html
+
+---
+
+![](wip.png)
+
+Come back later!.

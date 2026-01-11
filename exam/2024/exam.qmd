@@ -1,0 +1,57 @@
+---
+format: pdf
+title: "Topics in Economics: Final Exam"
+subtitle: 18/03/2024 (2h)
+---
+
+
+__Circle the right answer(s) to the following questions.__
+
+1. The ultimatum game experiment shows that: (1 point)
+
+    a. economic agents readily engage in blackmail when they don't fear the consequences
+    b. economic agents perform altruistic actions because of peer pressure
+    c. economic agents feature some form of other-regarding preferences
+
+2. According to the classical point of view: (1 point)
+
+    
+    a. a carbon tax can be chosen so as to cancel exactly the social externality of carbon emission
+    b. the price of emitting carbon should be set lower for firms that engage in green production
+    c. big carbon emitters should be discouraged by paying higher taxes
+
+{{< pagebreak >}}
+
+__*After* reading the supplied documents[^footnote], find the right answer(s) to the following questions__
+
+3. Which of the following statement(s) is true? (1 point)
+
+    a. after workers and firms have learned the good practices, working from home is more efficient than working in the office
+    b. over time, the productivity of working from home has decreased for all firms
+    c. the willingness to work from home by many workers will tend to decrease wage rates
+
+4. Which of the following statement(s) is true? (1 point)
+
+    a. the current low level of average hours per worker is a consequence of the pandemic
+    b. as countries reach higher development stages, hours worked tend to decrease
+    c. in average, men with young children wish they could work more
+
+5. Which of the following statement(s) is true? (1 point)
+
+    a. since green jobs are paid more in average, there is high competition among workers to get them
+    b. low-skill workers are more exposed to the transition to green jobs than high-skill workers
+    c. a green job, is defined as a carbon-neutral job
+
+[^footnote]: You should have received three documents untitled *Productivity, amenity value, and the future of remote work*, *Why the reduction in European workers’ hours after the pandemic is here to stay*, *Labour markets in the green economy*, 
+
+{{< pagebreak >}}
+
+__Using the documents and the graph, explain why the job market is currently abnormally tight. Respond in less than two pages.__ (15 points)
+
+{{< pagebreak >}}
+
+---
+
+{{< pagebreak >}}
+
+![Labour Market Tightness](labour_tightness.png)
