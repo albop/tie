@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Ant-AI Pure Reveal.js Test</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.0.0/dist/reveal.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.0.0/dist/theme/white.css">
+    
+    <!-- Ant-AI CSS -->
+    <link rel="stylesheet" href="_extensions/elephanteau/antai/antai.css">
+  </head>
+  <body>
+    <div class="reveal">
+      <div class="slides">
+        <section>Slide 1</section>
+        <section>Slide 2</section>
+      </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js@5.0.0/dist/reveal.js"></script>
+    
+    <!-- Ant-AI JS -->
+    <script src="_extensions/elephanteau/antai/antai.js"></script>
+
+    <script>
+      Reveal.initialize({
+        controls: true,
+        progress: true,
+        history: true,
+        center: true,
+        
+        // Ant-AI Configuration
+        antai: {
+          serverUrl: 'http://localhost:1234/v1/chat/completions',
+          model: 'llama3'
+        }
+      });
+    </script>
+  </body>
+</html>

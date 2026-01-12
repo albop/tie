@@ -1,0 +1,10 @@
+title: Ant-AI
+author: Elephanteau
+version: 1.0.0
+contributes:
+  format:
+    revealjs:
+      include-after-body: embed.html
+      lua: [antai.lua]
+    html:
+      include-after-body: embed.html

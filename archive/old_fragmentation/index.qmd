@@ -1,0 +1,686 @@
+---
+title: "Countries Pulling Appart: Geoeconomic Fragmentation."
+date: 2025/03/03
+subtitle: Topics in Economics, ESCP, 2024-2025  
+author: Pablo Winant
+format:
+  revealjs:
+    menu:
+      side: left
+      width: normal
+  html:
+    output-file: index_handout.html
+
+---
+
+##
+
+Read the [document](doc.pdf)
+
+
+# Introduction
+
+##
+
+How do you define Globalization?
+
+[IMF Staff](https://www.imf.org/external/np/exr/ib/2002/031502.htm#:~:text=Globalization%E2%80%94the%20process%20through%20which,IMF%20and%20the%20World%20Bank.) __2002__:
+
+    Globalization—the process through which an increasingly free flow of ideas, people, goods, services, and capital leads to the integration of economies and societies—is often viewed as an irreversible force, which is being imposed upon the world by some countries and institutions such as the IMF and the World Bank.
+
+. . .
+
+    However, that is not so: globalization represents a political choice in favor of international economic integration, which for the most part has gone hand-in-hand with the consolidation of democracy. 
+
+
+## 
+
+::: {.callout-note title="Globalization"}
+
+the process through which an increasingly free flow of ideas, people, goods, services, and capital leads to the integration of economies and societies
+
+:::
+
+*globalization is a* __political choice__ 
+
+. . .
+
+Several economic dimensions:
+
+- increased trade
+- financial flows
+- migration
+
+. . .
+
+How do you measure Globalization?
+
+## Balance of Payments
+
+The  main source of data is the [*Balance of Payments*](https://apps.bea.gov/iTable/?reqid=62&step=6&isuri=1&tablelist=48&product=1).
+
+It has three components
+
+::: {.incremental}
+
+- __current account__ 
+  - aka trade balance (exports - imports)
+- __financial account__
+  - change in ownwership in domestic/foreign assets
+- __capital account__
+  - nonproduced nonfinancial assets and capital transfers between residents and nonresidents
+
+:::
+
+
+## 
+
+![Exports / GDP](assets/trade_openness.png)
+
+. . .
+
+::: r-stack
+
+:::: {.fragment .current-visible}
+Explosion of international trade in long 19th century.
+::::
+
+
+:::: {.fragment .current-visible}
+
+Abrupt end after WWI. Economic Hardship. Rise of populism.
+
+::::
+
+:::: {.fragment .current-visible}
+
+Cold War 50s - Late 80s. Trade liberalization + Fragmentation in two blocks.
+::::
+
+:::: {.fragment .current-visible}
+
+After crisis. Globalization has stagnated: __slowbalization__
+
+::::
+
+:::: {.fragment .current-visible}
+
+But latest news are not too good: some indicators of __geoeconomic fragmentation__.
+::::
+
+
+
+:::
+
+##
+
+::: columns
+
+:::: {.column width=30%}
+
+![](assets/agenda.png)
+
+There is a research agenda here...
+
+::::
+
+:::: {.column width=70%}
+
+::::: {.incremental}
+
+- January 2023: [IMF Staff Discussion Note](https://www.imf.org/en/Publications/Staff-Discussion-Notes/Issues/2023/01/11/Geo-Economic-Fragmentation-and-the-Future-of-Multilateralism-527266): *Geoeconomic Fragmentation and the Future of Multilateralism*
+
+- March 2023: Series of blog posts by Aiyar and Alina ([1](https://cepr.org/voxeu/columns/geo-economic-fragmentation-and-world-economy), [2](https://cepr.org/voxeu/columns/geo-economic-fragmentation-implications-international-monetary-system), [3](https://cepr.org/voxeu/columns/geo-economic-fragmentation-what-it-means-multilateralism))
+
+- May 2023: Conference on [Geoeconomic Fragmentation](https://www.imf.org/en/News/Seminars/Conferences/2023/05/25/imf-workshop-on-geoeconomic-fragmentation), edited as [CEPR ebook](https://cepr.org/publications/books-and-reports/geoeconomic-fragmentation-economic-risks-fractured-world-economy)
+
+- December 2023: [Gita Gopinath]((https://www.imf.org/en/News/Articles/2023/12/11/sp121123-cold-war-ii-preserving-economic-cooperation-amid-geoeconomic-fragmentation)) on *Cold War II? Preserving Economic Cooperation Amid Geoeconomic Fragmentation*
+
+:::::
+::::
+:::
+
+# Geo-economic fragmentation and the world economy
+
+
+##  
+
+Aiyar et al. propose the following definition:
+
+::: {.callout-note title="Geoeconomic Fragmentation"}
+
+Policy-driven reversal of global economic integration often guided by strategic considerations.
+
+:::
+
+
+::: {.incremental}
+
+- domestic policy objective
+- no *autonomous* shift in preferences or technology
+- not an effect of *prudential policies*
+
+:::
+
+
+##
+
+Which were the more recent geopolitical shocks?
+
+. . .
+
+
+::: r-stack
+
+
+![ ](assets/brexit.png){.fragment width=50%}
+
+![ ](assets/trade_war.jpg){.fragment width=50%}
+
+![ ](assets/covid19.jpg){.fragment width=50%}
+
+![ ](assets/ukaraine_war.webp){.fragment width=50%}
+
+
+:::
+
+. . .
+
+Do they fit the definition of a geo-economic fragmentation shock?
+
+
+::: notes
+
+trump set tariffs on China: (unfair trade practices and intellectual property theft)
+discuss whether the definition applies.
+
+:::
+
+## {auto-animate="true"}
+
+![A Closer Look at the Trade Balance](assets/trade_restrictions.png)
+
+
+::: {.notes}
+
+- big increase in financial services before "Global Financial Crisis"
+  - comment on the domino effect of the gfc
+  - banks have limited their cross-border exposure
+- big increase in services, since the 80s
+  - referred to as servicification of trade
+- for services and goods: slow evolution after 2005
+
+:::
+
+## {auto-animate="true"}
+
+::: columns
+
+:::: {.column width=30%}
+
+![A Closer Look at the Trade Balance](assets/trade_restrictions.png)
+
+::::
+
+:::: {.column width=70%}
+
+<!-- TODO: rewrite -->
+
+::::: {.enumerate}
+
+- big increase in financial services before "Global Financial Crisis"
+  - domino effect of the gfc
+  - banks have limited they cross-border exposure
+- big increase in services, since the 80s
+  - aka servicification
+  - common interpretation: goods are now *bundled* with services
+- for services and goods: slow evolution after 2005
+
+:::::
+
+::::
+
+:::
+
+##
+
+What drove the change?
+
+## {auto-animate="true"}
+
+![Number of Trade Restrictions](assets/global_trade_alerts.png)
+
+## {auto-animate="true"}
+
+::: columns
+
+:::: {.column width=10%}
+
+![Nb. of Trade Restr.](assets/global_trade_alerts.png)
+
+::::
+:::: {.column width=80%}
+
+!["National security" mentions in IMF AREAER reports[^footnote]](assets/key_terms.png)
+
+[^footnote]: IMF AREAER: [Annual Report on Exchange Arrangements and Exchange Restrictions](https://www.elibrary-areaer.imf.org/Pages/Home.aspx)
+
+::::
+
+:::
+
+## {auto-animate="true"}
+
+::: columns
+
+:::: {.column width=10%}
+
+![Nb. of Trade Restr.](assets/global_trade_alerts.png)
+
+
+!["National security"](assets/key_terms.png)
+
+::::
+
+:::: {.column width=90%}
+
+![Mentions of key terms in corporate earning reports](assets/reshoring_onshoring.png)
+
+::::
+
+:::
+
+
+## {auto-animate="true"}
+
+::: columns
+
+:::: {.column width=10%}
+
+
+![Nb. Trade Restrictions](assets/global_trade_alerts.png)
+
+!["National security"](assets/key_terms.png)
+
+![Earning Reports](assets/reshoring_onshoring.png)
+
+::::
+
+:::: {.column width=90%}
+
+What drove the change ?
+
+:::: {.incremental}
+
+- protectionnism
+- motivated by security issues ...
+- and the willingness to reoptimize supply chains
+  - both public and private decisions
+
+:::::
+
+
+::::
+
+:::
+
+##
+
+__Relocation Decisions__ in international business and management literature (from ![European Parliement](https://www.europarl.europa.eu/RegData/etudes/STUD/2021/653626/EXPO_STU(2021)653626_EN.pdf)):
+
+- __reshoring__: bringing industries and value-creating activities ‘home’ to a specific location 
+- __backshoring__: activities return to their initial country of origin
+- __nearshoring__: occurs when manufacturing is relocated to a country closer to ‘home’
+
+
+##
+
+What are the costs of fragmentation?
+
+. . .
+
+Essentially the opposite of the gains from trade and financial integration?[^authors_point_of_view]
+
+. . .
+
+What are they?
+
+
+[^authors_point_of_view]: this is the point of view from the authors...
+
+
+## Neo-Classical Gains
+
+:::{.incremental}
+
+- international trade:
+  
+  - in final goods: increase welfare thanks to the preference for variety of consumers
+  - in intermediary goods: optimize supply chain
+
+- international finance:
+
+  - allocate capital more efficiently
+  - provide risk-sharing
+
+- migration:
+
+  - reallocate labour force more efficiently
+
+:::
+
+::: notes
+
+Explain Comparative Advantage
+
+:::
+
+## {auto-animate="true"}
+
+Can we measure those gains?
+
+. . .
+
+![Exports vs Growth](assets/gdp_vs_exports.png)
+
+## {auto-animate="true"}
+
+::: columns
+
+:::: {.column width=30%}
+
+![Exports vs Growth](assets/gdp_vs_exports.png)
+
+::::
+:::: {.column width=70%}
+
+::::: {.incremental}
+
+Just a motivational plot:
+
+- Lots of outliers
+- What about reverse causality?
+- Common result in international trade:
+  - integration benefits the country producing the good that that is more valued (and more exported)...
+  - ... and export more
+  
+
+:::::
+
+::::
+
+:::
+
+## 
+
+Is it even possible to measure the gains from integration? Big long-standing debate:
+
+- what is the counterfactual?
+- a model is needed
+
+
+##
+
+__Trade__
+
+::: {.enumerate}
+
+- static models: (gravity model, CGE, new trade models)
+  - direct sizable gains
+  - short term analysis
+- recent studies focus on (unequal) distribution of gains
+  - among countries
+  - within countries
+- all effects are dwarfed compared with dynamic effects
+  - productivity gains / technology diffusion
+  - but few recent empirical studies
+
+:::
+
+## Does trade cause inequality?
+
+::: r-stack
+
+![](assets/globalization_growth.png){.fragment .current-visible width=60%}
+
+![](assets/globalization_inequality.png){.fragment .current-visible width=60%}
+
+![](assets/globaliztion_inequality_regression.png){.fragment .current-visible width=60%}
+
+:::
+
+From *The Distribution of Gains from Globalization* 2018, by Lang and Tavares.
+
+## 
+
+__Finance / Capital Allocation__
+
+- gains are rather small in classical theoretical models at odd with economists' beliefs
+  - *The Elusive Gains from International Financial Integration*, Gourinchas and Jeanne, 2004
+  - *Financial Integration in a Risky World*, Coeurdacier, Rey and Winant, 2020
+    - Small welfare gains from capital reallocation and risk-sharing. And and developped, safe, countries benefit more...
+
+## 
+
+__Finance / Capital Allocation__
+
+
+- and financial integration might have even have increased correlation between asset prices across borders
+  - see *Global Financial Cycle*, Miranda-Aggripino, Rey, 2022
+
+
+
+## What would be the cost of Cold War II?
+
+Four studies:
+
+- IMF2022
+- [Bolhuis et al](https://www.imf.org/en/Publications/WP/Issues/2023/03/24/Fragmentation-in-Global-Trade-Accounting-for-Commodities-531327) (2023)
+- Cerdeiro et al. (2021)
+- [Goes and Bekkers](https://www.wto.org/english/res_e/reser_e/ersd202209_e.htm) (2022)
+
+Different Fragmentation Scenarios:
+
+- In general West + China/Russia + Non-aligned.
+- Nature of trade fragmentation is variable
+
+::: notes
+
+Take Bolhuis as example.
+- basic CGE
+Goes and Bekkers: 
+
+:::
+
+##
+
+![](assets/gdp_losses.png)
+
+
+##
+
+::: columns
+
+:::: {.column width=30%}
+
+![](assets/gdp_losses.png)
+
+::::
+
+:::: {.column width=70%}
+
+- Losses (in the worst and best cases) are large
+  
+  - compare to the welfare costs/ gains in the Nordhaus model
+
+- A big uncertainty is the calibration of __elasticities__
+
+::::
+
+:::
+
+## Short term / long-term elasticities
+
+__2021__: can Germany reduce its dependence on Russian Gas?
+
+. . .
+  
+![Germany's dependence on Russian Gas](assets/germany_gas.png){width=40%}
+
+## Short term / long-term elasticities
+
+__2021__: can Germany reduce its dependence on Russian Gas?
+
+- industry: Imp-Pos-Sible
+- top economists [What if Germany is cut off from Russian energy?](https://cepr.org/voxeu/columns/what-if-germany-cut-russian-energy)
+  - cost: 0.2/0.3% of gdp / 80E per citizen
+  - depends on elasticity
+
+. . .
+
+__2023__: (second-winter) Germany buys all its gas on world markets
+  
+. . .
+
+__2030__: green transition ???
+
+
+
+
+# Geo-economic fragmentation: Implications for the international monetary system
+
+
+##
+
+![Role of major currencies in the international monetary system](assets/major_currencies.png)
+
+
+##
+
+::: columns
+
+:::: {.column}
+
+![Role of major currencies in the international monetary system](assets/major_currencies.png)
+
+:::: 
+:::: {.column}
+
+::::: {.enumerate}
+
+- Dollar was by far the dominant international currency (data from 2020/2021)
+- Historically changes in dominant currencies have been slow.
+- But reshoring or reshoring might change the situation
+
+:::::
+
+::::
+
+:::
+
+
+##
+
+![Dollar Share in FX Reserves](assets/dollar_share.png)
+
+
+##
+
+::: columns
+
+:::: {.column}
+
+![Dollar Share in FX Reserves](assets/dollar_share.png)
+
+
+:::: 
+:::: {.column}
+
+- The dollar is quickly loosing ground as a reserve currency
+
+::::
+
+:::
+
+
+##
+
+![Treasury Bond Holdings](assets/demand_for_gold.png)
+
+
+
+- The investor's base of US treasuries is also shifting
+- Reducing the role of US as liquidity provider
+- Potentially causing financing isssues to US govt
+
+## Who lends to emerging markets?
+
+![](assets/creditor_base.png)
+
+
+## Global Safety Net {auto-animate="true"}
+
+![](assets/global_safety_net.png)
+
+Sources of financial insurance.
+
+## Global Safety Net  {auto-animate="true"}
+
+::: columns
+
+:::: {.column}
+
+![](assets/global_safety_net.png)
+
+::::
+
+::::  {.column}
+
+- __Self-Insurance__ has increased (see reserves)
+- __Regional Financial Arrangements__ have become more prominent since 2008
+- IMF is only global lender with global rich.
+
+::::
+
+:::
+
+
+
+# Conclusion
+
+
+##
+
+![](assets/globalization_threatened.png)
+
+
+##
+
+Globalization has been *organized* through multilateral organizations
+
+. . . 
+
+- Trade: GATT (1945) then WTO
+- Finance: IMF (1945)
+
+. . .
+
+These instutions have survived even though member states, have sometimes diverged politically.
+
+##
+
+
+<mark>1 trillions dollar question</mark>: how to save multilateralism when countries are pulling appart?
+
+. . .
+
+There are still big challenges that require a multilateral approach:
+
+- green transition
+  - cf Nordhaus, green clubs
+- financing developing countries
+- responding to a world pandemia
+
+. . .
+
+Options: diplomacy, green corridors...

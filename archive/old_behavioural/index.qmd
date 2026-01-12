@@ -1,0 +1,588 @@
+---
+title: "Introduction to Behavioral Economics"
+date: 2025/02/03
+subtitle: Topics in Economics, ESCP, 2024-2025
+author: Pablo Winant
+format:
+  revealjs:
+    menu:
+      side: left
+      width: normal
+  html:
+    output-file: index_handout.html
+
+---
+
+<!-- ##
+
+<iframe width="1120" height="630" src="https://app.wooclap.com/events/IJBNSY/0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" class="stretch" allowfullscreen></iframe> -->
+
+# Behavioural Economics
+
+## Behavioural Economics
+
+*Behavioral economics combines elements of economics and psychology to understand how and why people behave the way they do in the real world. It differs from neoclassical economics, which assumes that most people have well-defined preferences and make well-informed, self-interested decisions based on those preferences.* ([intro from university of Chicago](https://news.uchicago.edu/explainer/what-is-behavioral-economics))
+
+
+## Behavioural Economists
+
+::: r-stack
+
+:::: {.fragment .current-visible}
+
+
+::::: {layout-ncol=3}
+
+![Amon Tversky](assets/tversky.jpg){width=100%}
+
+![Daniel Kahneman](assets/kahneman.jpg){width=100%}
+
+![Richard Thaler](assets/thaler.jpg){width=100%}
+
+:::::
+
+::::
+
+:::: {.fragment .current-visible}
+
+- identify *actual* patterns in agent's decisions 
+  - measured as deviations to idealized, rational, utility-maximizing economic behaviour
+- develop theories that can, consistently predict these patterns
+- patterns and theories are tested empirically in labs
+
+::::
+:::: {.fragment .current-visible}
+
+![](assets/Thinking,_Fast_and_Slow.jpg)
+
+Good introduction: *Thinking Fast and Slow*
+
+::::
+
+:::
+
+## The lab
+
+<img src=assets/lab1.jpg width=30%> <img src=assets/lab2.png width=30%>
+
+Behavioural economists recruit participants for their experiments.
+
+- they perform some specific tasks or play a specifically designed game
+- they are usually paid and incentivized (skin in the game)
+
+
+## Experiments
+
+- experiments try to recreate conditions so as to expose specific features of human choices
+- usually *one* determinant of choice is randomized so as to measure its effect cleanly
+- more participants lead to better results (if representative)
+
+
+## The Marshmallow Experiment
+
+### Instant Gratification
+
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/QX_oy9614HQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" class="stretch" allowfullscreen></iframe>
+
+# Deviations from rationality
+
+## The (neo)-classical view
+
+- Agents are perfectly rational...
+  - they don't make errors
+- ...and pursue their self interest
+  - specified by preferences
+
+
+$$\max_{x} U(x)$$
+
+## The ultimatum game
+
+::: {.center}
+
+![Split the Bill](assets/ultimatum.jpeg){width="60%"}
+
+:::
+
+##
+
+__Setup__
+
+Two players negotiate over a fixed amount of money (the pie):
+
+- player 1 demands a proportion of the pie
+- player 2 sees the size and player's 1 demand and either rejects or accepts it
+  - accept: split is implemented
+  - reject: both players get 0
+
+## {auto-animate="true"}
+
+![Results](assets/ultimatum.png)
+
+
+## {auto-animate="true"}
+
+![Results](assets/ultimatum.png){width=60%}
+
+- hundreds of papers since original one by Guth et al.
+- consistent results: average offer is 40%, offers below 20% have high chances to be rejected, lots of 50-50
+- note that the "rational choice" for both agents would be 99-1!
+- it is an example of __other regarding preferences__ (aka altruism)
+
+
+## 
+
+What determines the split? What influences altruism?
+
+. . .
+
+![altruism](assets/dilbert.gif)
+
+. . .
+
+
+Can you devise an experiment to measure the effect of "shame"? 
+
+
+## The ultimatum game: measuring shame
+
+Improved protocol
+
+- for half of the candidates, exactly as before (*control group*)
+- for the other half (*treatment group*), the two players, don't see each other don't have any contact. Only the demand from player one is communicated to player 2.
+
+Result:
+
+- -> players are less generous but the result holds
+
+## Reflection Effect or Loss Aversion
+
+::: columns
+
+:::: column
+
+![](assets/loss_aversion.PNG)
+
+::::
+:::: column
+
+::::: r-stack
+
+:::::: {.fragment .current-visible}
+
+__Result__ from literature
+
+- first lottery: 92% chose B
+- second lottery: 80% chose A
+
+::::::
+:::::: {.fragment .current-visible}
+
+__Intepretation__:
+
+- agents are risk-seekers when it is about loosing money
+- agents are risk-averse when it is about winning money
+
+::::::
+
+:::::
+
+::::
+:::
+
+## The Certainty effect / The Allais paradox
+
+
+::: columns
+
+:::: column
+
+![](assets/certainty_effect.PNG)
+
+::::
+:::: column
+
+::::: r-stack
+
+:::::: {.fragment .current-visible}
+
+__Result__ from literature
+
+- first lottery: most people choose A
+- second lottery: most people choose B
+
+::::::
+::::::  {.fragment .current-visible}
+
+__Intepretation__: people underweigh outcomes that are merely probable compared to those that are certain
+
+::::::
+:::::
+::::
+:::
+## Expected utility
+
+- Expected utility framework
+  - simple assumptions on people's preferences
+  - agents maximize $U(x)$ where  $U$ is increasing and concave
+  - standard in economics and finance
+- Concavity implies that agents are risk agents are risk averse
+
+## Prospect theory
+
+::: columns
+
+:::: column
+
+![](assets/prospect.webp)
+
+::::
+
+:::: column
+
+- Prospect[^prospect] theory was proposed by *Kahneman and Tversky in 1979*
+- Attempts to describe realistically how humans evaluate losses and gains 
+
+[^prospect]:  *Prospect* is a close synonym for *gamble*
+
+::::
+
+:::
+
+# Some Behavioural Anomalies
+
+
+## Behavioural anomalies
+
+We classically distinguish two kinds of behavioural anomalies
+
+- predisposition towards error
+- mental shortcuts (aka __heuristics__)
+
+They have been studied by psychologists for a while
+
+- And are being revisited systematically by economists/psychologists
+- ...following the "replication crisis"[^replication]
+
+[^replication]: for details, see the (excellent) video from  [veritasium](https://www.youtube.com/watch?v=42QuXLucH3Q)
+
+## {.smaller}
+
+__Instructions__: You are vice president of product development and are evaluating 8 new product proposals. You have asked two people from R&D (in whom you have equal confidence) to give independent forecasts of the R&D __costs__.
+
+| Project no. | A’s forecast | B’s forecast | Your forecast |
+|-------------|--------------|--------------|---------------|
+| 1           |  167,000     |    272,000   |               |
+| 2           |  274,000     |    783,000   |               |
+| 3           |  529,000     |    433,000   |               |
+| 4           |  357,000     |    866,000   |               |
+| 5           |  146,000     |    659,000   |               |
+| 6           |  937,000     |    446,000   |               |
+| 7           |  906,000     |    811,000   |               |
+| 8           |  483,000     |    379,000   |               |
+
+
+## {.smaller}
+
+| Project no. | A’s forecast | B’s forecast | Your forecast | Midpoint | Median forecast |
+|-------------|--------------|--------------|---------------|----------|-----------------|
+| 1           |  167,000     |    272,000   |               | 219,500  | 250,000         |
+| 2           |  274,000     |    783,000   |               | 528,500  | 600,000         |
+| 3           |  529,000     |    433,000   |               | 481,000  | 500,000         |
+| 4           |  357,000     |    866,000   |               | 611,500  | 697,110         |
+| 5           |  146,000     |    659,000   |               | 402,500  | 458,850         |
+| 6           |  937,000     |    446,000   |               | 691,500  | 788,310         |
+| 7           |  906,000     |    811,000   |               | 858,500  | 875,000         |
+| 8           |  483,000     |    379,000   |               | 431,000  | 450,000         |
+
+
+. . .
+
+::: incremental
+
+- If A and B’s forecasts are unbiased, your best estimate would be the midpoint
+- If your forecast is above the midpoint, you are implicitly assuming that R&D personnel underestimate the costs 
+- The median forecast shows the typical response of MBA students with 10 years of executive experience: they have __excessive optimism__.
+
+
+
+:::
+
+##
+
+
+Compared to the rest of this group, how would you rate your driving skills?
+
+- A. Above average
+- B. Below average
+
+. . .
+
+::: {.callout-important title="Over confidence"}
+
+Overestimating our own abilities
+
+:::
+
+
+
+##
+
+![Hindsight Bias](assets/bali.png)
+
+. . .
+
+
+::: {.callout-important title="Hindsight Bias"}
+
+When you search for or interpret new information in a way that supports existing beliefs as opposed to challenge them. ???
+
+:::
+
+----
+
+##
+
+![The Riddler](assets/riddle.jpg){width=20%o}
+
+. . .
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vKA4w2O61Xo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+##
+
+::: {.r-stack}
+
+:::: {.fragment .current-visible}
+
+__Setup__ (Study from Lord, Ross & Leeper, 1979)
+
+::::: {.smaller}
+
+*48 undergraduates supporting and opposing capital punishment were exposed to 2 purported studies, one seemingly confirming and one seemingly disconfirming their existing beliefs about the deterrent efficacy of the death penalty. As predicted, both proponents and opponents of capital punishment rated those results and procedures that confirmed their own beliefs to be the more convincing and probative ones.*
+
+:::::
+
+
+::::
+
+:::: fragment
+
+__Result__
+
+
+::::: {.smaller}
+
+*Participants gave higher ratings to studies that confirmed their initial point of view even when studies on both sides had been carried out by the same method. In the end though everyone had read all the same studies, both those who initially supported the death penalty and those who initially opposed it reported that reading the studies had strengthened their beliefs*.
+
+:::::
+
+::::
+
+:::
+
+. . .
+
+::: {.callout-important title="Confirmation Bias"}
+
+When you search for or interpret new information in a way that supports existing beliefs as opposed to challenge them.
+
+:::
+
+
+##
+
+::: r-stack
+
+:::: {.fragment .current-visible}
+
+__Test__:
+
+- Write down 3 examples of successes that you have had
+- Write down 3 examples of failures
+
+::::
+:::: {.fragment .current-visible}
+
+- What were the causes of the success?
+- What were the causes of the failures?
+
+::::
+
+:::: {.fragment}
+
+__Interpretation__
+
+::::: {.smaller}
+
+- Attribution bias *occurs when people attribute their success to skills, and their failures to randomness* (Taleb 2001)
+- It is when we attribute praise/blame to the person rather than the situation.
+*However, successful people can also mistake hard work for luck. Timing can be important but so is developing the skills
+to be able to take opportunities when presented. After all, “the harder you practice, the luckier you get”* Gary Player
+
+:::::
+
+::::
+:::
+
+. . .
+
+::: {.callout-important title="Attribution bias"}
+
+Overestimating how much control we have over events
+
+:::
+
+
+##
+
+<!-- TODO: Image -->
+
+__Example__:
+
+::: {.incremental}
+
+- People are given a mug worth 10$
+- Then the opportunity to exchange it for pens worth 11$
+- Most people don't take the deal
+
+:::
+
+. . .
+
+A striking [example](https://twitter.com/businessinsider/status/1034762586938433536?s=11)
+
+Do you see other examples? Implications
+
+. . .
+
+::: {.callout-important title="Ownership Bias / Endowment Effect Heuristic"}
+
+People place a higher valuation on an asset, purely by owning it.
+
+:::
+
+
+##
+
+
+__Example__: We tend to think that footballers make more money than dentists, but only because we don't see the failures (there’s a selection bias)
+
+. . .
+
+- Dentistry is a more lucrative profession since it maximises your expected income across all alternative histories
+- *One cannot consider a profession without taking into account the average of the people who enter it, not the sample of those who succeed* Taleb (2001)
+
+. . .
+
+::: {.callout-important title="Availability Heuristic"}
+
+Judgement based on the ease with which instances come to mind
+
+:::
+
+
+## 
+
+### Question:
+
+What percentage of members of the United Nations are countries in Africa?
+
+
+##
+
+
+::: r-stack
+
+:::: {.fragment .current-visible}
+
+__Experiment__:
+
+-  <!-- .element: class="fragment" -->Show a number: e.g. 65
+-  <!-- .element: class="fragment" -->Ask participants: "What percentage of members of the United Nations are countries in Africa?"
+
+::::
+
+:::: {.fragment}
+
+__Result__
+
+-  People who saw a 10 had an average guess of 25%
+-  People who saw a 65 had an average guess of 45%
+-  Correct answer: 28%. There are 54 African countries, and 192 UN member states
+
+::::
+
+:::
+
+. . .
+
+::: {.callout-important title="Anchoring Heuristic"}
+
+Viewing things in relation to an irrelevant comparison point
+
+:::
+
+
+::: {.notes}
+
+Don't forget to add 65 on the board before.
+
+:::
+
+##
+
+![](assets/oil_spill.jpg)
+
+How oil spills harm birds, dolphins, sea lions and other wildlife
+
+## 
+
+__Example__: Following the Exxon Valdez oil spill, people were asked how much they were willing to pay for equipment that would do the following:
+
+- Save 2,000 birds: <span class="fragment data-fragment-index=2"> $80 </span>
+- Save 20,000 birds:  <span class="fragment data-fragment-index=3">  $78 </span>
+- Save 200,000 birds: <span class="fragment data-fragment-index=4">  $88 </span>
+
+. . .
+
+The almost complete neglect of quantities in such *emotional contexts* has been confirmed many times
+
+. . .
+
+::: {.callout-important title="Affect Heuristic"}
+
+__Definition__: Over-reliance on our immediate emotional reaction
+
+:::
+
+# Conclusion
+
+
+## Conclusion
+
+So we know that people deviate from rationality in many ways that can be measured and / or related to theory.
+
+. . .
+
+Policy-makers can exploit the knowledge to design better policies.
+
+## Nudges
+
+A *nudge* is a way to change agent's decision by changing the decision context, without changing the preferences or the constraints in a meaningful way.
+
+. . .
+
+In principle one could use nudges as an alternative to traditional incentives in order to favour green behaviour:
+
+. . .
+ 
+- Does it work?
+- Is it ethical?
+
+. . .
+
+If curious:
+
+👉 Read the [working paper](session_nudges/assets/196185119.pdf) *Nudging as an Environmental Policy*

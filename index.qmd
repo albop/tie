@@ -7,16 +7,17 @@ listing:
   filter-ui: false
   contents: 
     - session_0/index.qmd
-    - session_1/index.qmd
-    - session_ai_labour/index.qmd
-    - session_carbon/index.qmd
-    - session_behavioural/index.qmd
-    - session_inequality/index.qmd
-    - session_fragmentation/index.qmd
-    - session_trade/index.qmd
-    - prep*/index.qmd
+    - session_1_ai/index.qmd
+    - session_2_ai_labour/index.qmd
+    - session_3/index.qmd
+    - session_4/index.qmd
+    - session_5/index.qmd
+    - session_6/index.qmd
+    - session_7/index.qmd
+    - reveal-antai/check.qmd
+    - exam/index.qmd
   sort: date
-  fields: [date, title]
+  fields: [date, title, author]
 ---
 
 ::: {.callout-note title="Instructions for group work" collapse="true"}
@@ -53,14 +54,8 @@ Rules:
 
 :::
 
+::: {.callout-note title="Practicalities" collapse="true"}
 
-__Schedule__
-
-::: {#course-listing}
-
-:::
-
-__Practicalities__
 
 - Evaluation
   - group work (<mark>40%</mark>)
@@ -78,3 +73,12 @@ __Practicalities__
     - participation & behaviour
     - mini-tasks if any
 
+
+:::
+
+
+__Schedule__
+
+::: {#course-listing}
+
+:::

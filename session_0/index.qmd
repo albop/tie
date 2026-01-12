@@ -1,6 +1,6 @@
 ---
 title: "General Introduction"
-date: 2025/01/13
+date: 2026/01/12
 subtitle: Topics in Economics, ESCP, 2025-2026
 author: Pablo Winant
 format:

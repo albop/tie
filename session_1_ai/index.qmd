@@ -1,0 +1,463 @@
+---
+title: "The Rise of Artificial Intelligence"
+date: 2026/01/12
+subtitle: Topics in Economics, ESCP, 2025-2026
+author: Pablo Winant
+format:
+  revealjs:
+    width: 1920
+    height: 1080
+    menu:
+      side: left
+      width: normal
+  html:
+    output-file: index_handout.html
+
+---
+
+
+# Introduction
+
+::: {.content-visible unless-format="revealjs"}
+ 
+Will only appear in HTML.
+
+:::
+
+## How do *you* see the *future* of AI ?
+
+. . .
+
+![Blade Runner (1982) still](Blade-Runner.jpg)
+
+. . .
+
+- Science Fiction has explored many issues associated with AI.
+  - what happens to individuals, markets, firms, government?
+  - who wins, who loses?
+- Very often economic future is bleak... 
+- Why is that so? 
+
+
+<!-- ## Stop & think (2 minutes)
+
+Pick one AI application you use (or fear). In pairs:
+
+::: {.incremental}
+
+- What does it *predict*?
+- What does it *not* predict (preferences/values/judgment)?
+- Who benefits immediately (consumer, worker, firm, state)?
+
+::: -->
+
+
+# What is AI?
+
+## A simple definition (enough for this course)
+
+AI is a set of methods that learns from data to produce useful outputs (predictions, classifications, text/images, actions).
+
+::: {.incremental}
+
+- Key idea: it improves with experience/training, not just explicit rules
+- We do *not* need AI to “think like a human” for it to matter economically
+
+:::
+
+## Why it is hard to say what AI will *never* do
+
+Two recurring facts:
+
+::: {.incremental}
+
+- The frontier moves: tasks once seen as “uniquely human” become routine (translation, chess, image recognition, writing)
+- Our labels move too: once a task is solved reliably, we stop calling it “AI”
+  - (Tesler’s theorem / “AI is whatever hasn’t been done yet”)
+
+:::
+
+So claims like “AI will never do X” usually age badly.
+
+## What we can be more confident about
+
+Even if we cannot bound capabilities, we *can* analyze economic mechanisms:
+
+::: {.incremental}
+
+- which tasks become cheaper (prediction, drafting, search, monitoring)
+- which inputs become valuable (data, compute, human attention)
+- who captures rents (owners of complements and bottlenecks)
+
+:::
+  
+
+<!-- ## AI effect
+
+- people have a way to discount achievments of AI as "not AI"
+  - because not impressive enough
+  - because humans do it in "a different way"
+- Larry Tesler theorem: "AI is whatever hasn't been done yet"
+- Nick Bostrom: "once something becomes useful enough and common enough it's not labeled AI anymore"
+- keep human special
+  - interestingly that didn't seem to be a concern before the 70s
+ -->
+
+
+# The Classical View
+
+## "This Time it's Different" or "Same old, same old..."?  
+
+
+![David Ricardo](Ricardo.jpg){width=33%}
+![Adam Smith](smith.webp){width=33%}
+
+. . . 
+
+Do you remember the neoclassical production function?
+
+  
+##  The (neo)classical production function
+
+What are its main properties?
+
+- production takes several __factors__ as inputs
+  - capital
+  - labour
+  - ... (natural resources, land, ...)
+- each factor has a __market price__
+- marginal returns w.r.t. each factor are __decreasing__
+- factors are paid according to their __marginal productivity__
+- the __technology__ is the particular process through which inputs are combined
+
+
+##  AI and the (neo)classical production function
+
+![Production function with AI shift (illustration)](production_function/pf_1.png)
+
+
+- the precise description depends on the problem under consideration
+- what could you change to take into account the effect of AI?
+  - data, technological change ? 
+
+
+## Three hypotheses about the economic nature of AI
+
+- A technological change
+- A new kind of factor: Data
+- Yet another kind of factor: Robots
+- Something else Completely
+
+
+# AI is a change in the cost structure
+
+![AI as a shift in cost structure (illustration)](production_function/pf_2.png)
+
+
+##
+
+![](prediction_machines.jpg){width=25%}
+
+Ajy Agrawal, Joshua Gans and Avi Goldfarb: *Prediction Machines: The Simple Economics of Artificial Intelligence* 2018
+
+
+## Prediction Machines
+
+![](regression.svg)
+
+- many production tasks can be formulated as __prediction problems__
+- examples:
+  - regression, classification: predict Y as a function of X
+  - student -> pass or fail ?
+  - should I invest in A or B ?
+  - even chatbot: what is the appropriate continuation for an ongoing conversation?
+
+
+## Stop & think (tasks)
+
+Choose one job you know well (yours, parents, friends). List 5 tasks it contains.
+
+::: {.incremental}
+
+- Which tasks are *substitutes* for cheap prediction?
+- Which tasks are *complements* (they become more valuable when prediction is cheaper)?
+- What happens to the job if only 2/5 tasks are automated?
+
+:::
+
+
+## Will I lose my job ?
+ 
+- AI is a decrease in the __cost__ of predictions
+- The demand for all prediction-intensive tasks will rise (__law of demand__)
+- The salary of workers with prediction-intensive tasks will rise (__market price__)
+- Value of other tasks will fall (__general equilibrium effect__)
+- More precisely:
+  - demand for tasks that are __substitute__ to predictions will be low
+  - demand for tasks that are __complement__ to predictions will be high
+
+
+## A simple tasks-model framing (why employment effects are ambiguous)
+
+::: {.incremental}
+
+- Jobs are bundles of tasks; AI rarely replaces *entire* occupations at once
+- If AI substitutes for tasks you do, your marginal product may fall
+- If AI complements tasks you do (e.g., better targeting, better diagnostics), your marginal product may rise
+- Aggregate employment depends on substitution, new tasks/products, demand expansion, and reallocation frictions
+- Distributional effects (who owns the complements/data/capital) are usually first-order
+
+:::
+
+
+# AI is Data
+
+
+![Data added to the production function (illustration)](production_function/pf_3.png)
+
+
+----
+
+::: {layout-ncol=2}
+
+![Chad Jones](chad.jpg){width=80%}
+
+![Christopher Tonetti](tonetti.webp){width=80%}
+
+:::
+
+Chad Jones and Christopher Tonetti (Stanford) *Nonrivalry and the Economics of Data* (Sep 2020, American Economic Review)
+
+
+## Data is a factor not a technology
+
+- Data is a __factor__, not a __technology__
+  - Can you explain it ?
+- The difference between an idea and a factor? Examples:
+  - idea: use machine learning to build self driving cars
+  - factor: each car-maker gathering his own data to train cars
+- Data (even anonymous) improves quality of existing products
+
+
+## What kind of good is data ?
+
+
+::: {.incremental}
+
+- Remember the __classification of goods__? 
+  - __nonrival__: can be used with leftovers
+  - __excludable__: use can be limited to paying customers
+  - data is a: __club good__
+
+-  Nonrivality implies <b>increasing returns to scale</b>
+  - marginal value of new data increases more than proportionally
+
+:::
+
+
+## AI: adds data to the production function (consequences)
+
+
+::: {.incremental}
+
+- increasing returns to scale implies <b>natural monopoly</b>
+  - ->GAFAMs
+  - increasing suboptimal __monopoly rents__ (already a problem before existence of AI...)
+  - should you regulate a monopoly?
+    - it depends what is the barrier to entry: data-gathering or data-processing
+- other relevant questions
+  - where are the markets? (empirically it seems "undertraded")
+  - who owns the data ? Consumer, producer.
+
+:::
+
+
+## How do you regulate a Data-monopoly ?
+
+::: {.incremental}
+
+- solutions:
+  - split the monopolies (if deadweight loss is too big)
+  - outlaw data gathering (big productivity loss)
+  - force data-sharing: make it a public good
+  - let the consumer be free to decide whether to rent their data (remove externalities)
+
+:::
+
+## A quick policy 2×2 (what is the bottleneck?)
+
+Barrier to entry for AI-intensive markets:
+
+::: {.incremental}
+
+- **Data access is the bottleneck** → interoperability, portability, data trusts, targeted sharing mandates
+- **Compute/cloud scale is the bottleneck** → cloud competition, procurement, switching costs, access to chips/compute
+- If both matter: expect strong increasing returns and durable market power
+
+:::
+
+# AI: competition between humans and robots 
+
+![Robots substituting for labour in production (illustration)](production_function/pf_4.png)
+
+
+## Economic singularity
+
+::: {.incremental}
+
+- In the very long run, could technology be _bad_?
+- Recall the neoclassical world
+  - market economy
+  - technological progress reduces production cost
+  - always good for consumers. Increase (real) total income.
+  - becomes an inequality problem
+- But
+  - whether technology reduces salaries depends on whether growth is __labour augmenting__ or __capital augmenting__
+  - if AI is a close enough substitute, salaries of "humans" as a whole are at risk
+  - there is an economic *singularity* when the wage of humans falls below the __subsistence level__
+
+:::
+
+----
+
+![Anton Korinek](korinek.jpg){width=25%}
+![Joe Stiglitz Korinek](stiglitz.jpg){width=25%}
+![Gilles Saint Paul](saint_paul.jpg){width=25%}
+
+
+- Two sets of authors reach very similar conclusions
+  - Anton Korinek and Joseph Stiglitz (left): more complete/technical
+  - Gilles Saint Paul (right): more __political economy__
+
+## Some very long run scenarios
+
+::: {.incremental}
+
+- Analysis taken from Gilles Saint Paul
+- *Main hypothesis*: all humans can be replaced by more productive robots
+- __Comparative advantage__ logic:
+  - humans specialize in work where their comparative disadvantage is lowest (services, art, crafting...)
+
+:::
+
+## Scenario 1: society redistributes income from robots
+
+Four political subscenarios:
+
+::: {.columns}
+
+:::: {.column}
+
+\ 
+
+__Welfare state__
+
+- robot-owners are taxed, income is redistributed
+- for instance as universal income
+- some productivity losses
+- what about international competitiveness?
+
+\ 
+__Rentiers society__
+
+- robot owners invest the rent over many generations
+- capital concentration increases
+
+::::
+:::: {.column}
+
+\ \ \ 
+
+__Neo-Fordism__
+
+- firms pay huge salaries for essentially useless jobs (powerpoint presentations, 😉 ...)
+- useful to sustain demand
+
+\ 
+
+__New roman empire__
+
+- robot owners: *patricians* (top 2%)
+- rest of population: *plebeians*
+  - survive thanks to clientelism
+- robots: slaves
+
+::::
+:::
+
+## Scenario 2: wars, starvation, epidemic
+
+
+::: {.columns}
+
+:::: {.column width=30%}
+::::: {.incremental}
+
+\ \ 
+
+- human income (marginal productivity) falls below subsistance levels
+- malthusian effect: population growth decreases
+- not unheard of (Leontief): consider population of draft horses
+
+:::::
+::::
+:::: {.column width=70%}
+
+![](horses_population.png){.fragment}
+
+::::
+:::
+
+## Scenario 3: the Matrix
+
+![](matrix.jpg){width=60%}
+
+- human wage decrease
+- subsistence level *decreases* dramatically too
+
+
+<!---- Carbon emissions decreased by 26% during CoVid ---->
+
+# Something Else Completely?
+
+- Right now AI is a technology (or a factor)
+- What if it becomes another intelligent agent?
+  - has its own goals
+  - its own preferences
+  - with superhuman thinking abilities...
+- Response in the literature (if curious):
+  - Anton Korinek: *if* market economy survives
+    - malthusian and non-malthusian scenarios
+  - At that stage humans might be something different completely
+    - transhumanism
+
+## Conclusion 
+
+- Research on AI is very speculative: especially about the long run
+- But concepts from classical economics still help
+- For next time:
+  - make sure you understand all concepts in bold
+
+
+## Takeaways (one-slide summary)
+
+::: {.incremental}
+
+- Short run: AI often looks like a big drop in the cost of prediction
+- Medium run: data nonrivalry can create increasing returns → market power
+- Labour market: focus on tasks (substitutes vs complements), not “jobs disappear” headlines
+- Long run: scenarios depend as much on institutions/politics as on technology
+
+:::
+
+
+## More Readings
+
+- Chad Jones and Christopher Tonetti: *Nonrivalry and the Economics of Data*, American Economic Review
+
+- Avi GoldFarb: *Prediction Machines: The Simple Economics of Artificial Intelligence* 2018
+
+- Gilles Saint Paul: *Robots Vers la fin du travail ?*
+
+- Anton Korinek, Joseph E. Stiglitz: *Artificial Intelligence and Its Implications for Income Distribution and Unemployment*, chapter in *Artificial Intelligence and Its Implications ..., NBER*
+  - also on [coursera](https://fr.coursera.org/learn/economics-of-ai)
