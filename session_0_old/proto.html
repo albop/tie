@@ -1,0 +1,688 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.8.27">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Pablo Winant">
+<meta name="dcterms.date" content="2024-01-22">
+
+<title>AI and the Labour Market (proto) – Topics in Economics</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-363086988b58cff9dfba135b2aa85955.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<script src="../site_libs/quarto-diagram/mermaid.min.js"></script>
+<script src="../site_libs/quarto-diagram/mermaid-init.js"></script>
+<link href="../site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
+
+
+<link rel="stylesheet" href="../styles.css">
+</head>
+
+<body class="quarto-light">
+
+<div id="quarto-search-results"></div>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#whats-in-the-report" id="toc-whats-in-the-report" class="nav-link active" data-scroll-target="#whats-in-the-report">What’s in the report?</a>
+  <ul class="collapse">
+  <li><a href="#the-context" id="toc-the-context" class="nav-link" data-scroll-target="#the-context">The context…</a></li>
+  <li><a href="#the-report" id="toc-the-report" class="nav-link" data-scroll-target="#the-report">The report</a></li>
+  <li><a href="#how-research-is-done-at-imf" id="toc-how-research-is-done-at-imf" class="nav-link" data-scroll-target="#how-research-is-done-at-imf">How Research is done at IMF</a></li>
+  <li><a href="#imf-blog" id="toc-imf-blog" class="nav-link" data-scroll-target="#imf-blog">IMF Blog</a></li>
+  <li><a href="#section" id="toc-section" class="nav-link" data-scroll-target="#section"></a></li>
+  <li><a href="#section-1" id="toc-section-1" class="nav-link" data-scroll-target="#section-1"></a></li>
+  <li><a href="#shape-the-narrative" id="toc-shape-the-narrative" class="nav-link" data-scroll-target="#shape-the-narrative">Shape the narrative…</a></li>
+  </ul></li>
+  <li><a href="#how-to-think-about-the-technological-frontier" id="toc-how-to-think-about-the-technological-frontier" class="nav-link" data-scroll-target="#how-to-think-about-the-technological-frontier">How to think about the technological frontier?</a></li>
+  <li><a href="#what-do-we-learn-from-past-episodes-of-technological-change" id="toc-what-do-we-learn-from-past-episodes-of-technological-change" class="nav-link" data-scroll-target="#what-do-we-learn-from-past-episodes-of-technological-change">What do we learn from past episodes of technological change?</a></li>
+  <li><a href="#how-do-we-measure-the-impact-of-ai" id="toc-how-do-we-measure-the-impact-of-ai" class="nav-link" data-scroll-target="#how-do-we-measure-the-impact-of-ai">How do we measure the impact of AI?</a></li>
+  <li><a href="#what-are-the-effects-on-society" id="toc-what-are-the-effects-on-society" class="nav-link" data-scroll-target="#what-are-the-effects-on-society">What are the effects on society?</a></li>
+  <li><a href="#gen-ai-artificial-intelligence-and-the-future-of-work" id="toc-gen-ai-artificial-intelligence-and-the-future-of-work" class="nav-link" data-scroll-target="#gen-ai-artificial-intelligence-and-the-future-of-work">Gen-AI: Artificial Intelligence and the Future of Work</a>
+  <ul class="collapse">
+  <li><a href="#excec-summary" id="toc-excec-summary" class="nav-link" data-scroll-target="#excec-summary">Excec Summary</a></li>
+  <li><a href="#ai-exposure-and-complementarity" id="toc-ai-exposure-and-complementarity" class="nav-link" data-scroll-target="#ai-exposure-and-complementarity">AI Exposure and Complementarity</a></li>
+  <li><a href="#ai-productivity-inequality" id="toc-ai-productivity-inequality" class="nav-link" data-scroll-target="#ai-productivity-inequality">AI Productivity, Inequality</a></li>
+  <li><a href="#ai-preparedness" id="toc-ai-preparedness" class="nav-link" data-scroll-target="#ai-preparedness">AI Preparedness</a></li>
+  </ul></li>
+  </ul>
+<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="slides.html"><i class="bi bi-file-slides"></i>RevealJS</a></li></ul></div></nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">AI and the Labour Market (proto)</h1>
+<p class="subtitle lead">Topics in Economics, ESCP, 2023-2024</p>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Pablo Winant </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">January 22, 2024</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="whats-in-the-report" class="level1">
+<h1>What’s in the report?</h1>
+<p>How research is done?</p>
+<section id="the-context" class="level2">
+<h2 class="anchored" data-anchor-id="the-context">The context…</h2>
+</section>
+<section id="the-report" class="level2">
+<h2 class="anchored" data-anchor-id="the-report">The report</h2>
+<p><a href="">Authors</a></p>
+<p>Research Papers</p>
+<p><a href="https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity">Official Blog post</a></p>
+<p>Olivier Gourinchas Gita Gopinath Kristalina Goeorgieva</p>
+</section>
+<section id="how-research-is-done-at-imf" class="level2">
+<h2 class="anchored" data-anchor-id="how-research-is-done-at-imf">How Research is done at IMF</h2>
+<div class="cell" data-layout-align="default">
+<div class="cell-output-display">
+<div>
+<p></p><figure class="figure"><p></p>
+<div>
+<pre class="mermaid mermaid-js">flowchart LR
+  A{Staff} --&gt;  A1[Academic Paper]
+  A1 --&gt; X[Peer Reviewed Publications]
+  A1 --&gt; B[IMF Working Paper]
+  A --&gt; C[IMF Staff Discussion Paper]
+  B --&gt; C
+  C --&gt; D[Board Official Position]
+  E{Member States} ==&gt; D
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
+</div>
+<p>What do you conclude from that?</p>
+</section>
+<section id="imf-blog" class="level2">
+<h2 class="anchored" data-anchor-id="imf-blog">IMF Blog</h2>
+<p>Points to:</p>
+<p><a href="https://www.imf.org/en/Publications/fandd/issues">IMF F&amp;D December</a></p>
+<p><a href="https://www.nber.org/papers/w31161">Generative AI at Work</a></p>
+</section>
+<section id="section" class="level2">
+<h2 class="anchored" data-anchor-id="section"></h2>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="ai_exposure.png" class="img-fluid"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="ae_advantage.png" class="img-fluid"></p>
+</div>
+</div>
+</div>
+<p>AE advantage: which ones are most at risk?</p>
+</section>
+<section id="section-1" class="level2">
+<h2 class="anchored" data-anchor-id="section-1"></h2>
+</section>
+<section id="shape-the-narrative" class="level2">
+<h2 class="anchored" data-anchor-id="shape-the-narrative">Shape the narrative…</h2>
+<p>The Marradona policy…</p>
+<p>GDP growth forecasts…</p>
+</section>
+</section>
+<section id="how-to-think-about-the-technological-frontier" class="level1">
+<h1>How to think about the technological frontier?</h1>
+</section>
+<section id="what-do-we-learn-from-past-episodes-of-technological-change" class="level1">
+<h1>What do we learn from past episodes of technological change?</h1>
+</section>
+<section id="how-do-we-measure-the-impact-of-ai" class="level1">
+<h1>How do we measure the impact of AI?</h1>
+</section>
+<section id="what-are-the-effects-on-society" class="level1">
+<h1>What are the effects on society?</h1>
+<p>What is a job? - cf O*NET database</p>
+<p>Job complementarity</p>
+<p>AI preparedness</p>
+</section>
+<section id="gen-ai-artificial-intelligence-and-the-future-of-work" class="level1">
+<h1>Gen-AI: Artificial Intelligence and the Future of Work</h1>
+<section id="excec-summary" class="level2">
+<h2 class="anchored" data-anchor-id="excec-summary">Excec Summary</h2>
+<ul>
+<li><p>industrial revolution: productivity shock, replace some workers, complement others</p></li>
+<li><p>40% of employment at risk</p>
+<ul>
+<li>more in advanced countries than emerging than developing (60/40/26)</li>
+<li>but advanced countries more ready</li>
+</ul></li>
+<li><p>effect on income / wealth inequality</p>
+<ul>
+<li>whole population is affected by ai risk</li>
+<li>but high income more likely to be positive complement</li>
+<li>model simulation-&gt; beneficial to top earners</li>
+</ul></li>
+<li><p>positive effect on income for all woekers</p></li>
+<li><p>college-educated workers more prepared to move from jobs</p></li>
+<li><p>AI preparedness index</p>
+<ul>
+<li>advanced: invest in AI innovation and rgulation</li>
+<li>less developped: infrastructure and digital traning</li>
+<li>all social safety nets</li>
+</ul></li>
+</ul>
+</section>
+<section id="ai-exposure-and-complementarity" class="level2">
+<h2 class="anchored" data-anchor-id="ai-exposure-and-complementarity">AI Exposure and Complementarity</h2>
+<p>O*NET: - job - occupation - ability</p>
+<p>(what is importance?, prevalence?)</p>
+<p>(example with a graph)</p>
+<p>(problem: O*NET is only for the US)</p>
+<p>Labor Market Exposure to AI: Cross-country Differences and Distributional Implicationss</p>
+<p>Countries: UK/US + Brazil, Columbia, India, South Africa</p>
+<p>Go beyond tasks by adding social and physical context</p>
+<p>Subjectivity of social point of view.</p>
+<p>Given the high degree of uncertainty over the future of this fast-pacing and broadly applicable technology, the concept of exposure is purposely framed as agnostic on the likelihood of AI complementing or replacing labor in the performance of a given task or occupation.</p>
+<p>Idea: provide specific tables /graphs to students</p>
+<p>Data: ILO for all countries microdata for some</p>
+<p><strong>Problem</strong>: concept of complementarity, not the same</p>
+<p>Occupational transitions:</p>
+<ul>
+<li>concept of social mobility</li>
+<li>markov chain</li>
+</ul>
+<p>What prevents transition?</p>
+<p>cf paper</p>
+<p>Why are older workers less willing to switch? (many reality checks in the paper).</p>
+<ul>
+<li><p>Who is mostly helped with AI?*</p></li>
+<li><p>young college-educated On the other hand, AI may enable young college-educated workers to become experienced more quickly as they leverage their familiarity with new technologies to enhance their productivity. With the introduction of generative AI, the use of AI has itself become much easier. A recent study shows that the productivity impact of an AI-based conversational assistant was greatest for less experienced and low-skilled customer support workers; the effect on experienced and highly skilled workers was minimal (Brynjolfsson, Danielle, and Raymond 2023).</p></li>
+</ul>
+<p>Same with Code Assistant</p>
+</section>
+<section id="ai-productivity-inequality" class="level2">
+<h2 class="anchored" data-anchor-id="ai-productivity-inequality">AI Productivity, Inequality</h2>
+<p>Model-based</p>
+<p>copmlementarity effect vs displacement effect</p>
+</section>
+<section id="ai-preparedness" class="level2">
+<h2 class="anchored" data-anchor-id="ai-preparedness">AI Preparedness</h2>
+
+
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp("https:\/\/albop\.github\.io\/tie\/");
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

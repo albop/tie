@@ -1,0 +1,1146 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.8.27">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Pablo Winant">
+<meta name="dcterms.date" content="2026-01-19">
+
+<title>Gen-AI and the Labour Market – Topics in Economics</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-363086988b58cff9dfba135b2aa85955.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<script src="../site_libs/quarto-diagram/mermaid.min.js"></script>
+<script src="../site_libs/quarto-diagram/mermaid-init.js"></script>
+<link href="../site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="../styles.css">
+</head>
+
+<body class="quarto-light">
+
+<div id="quarto-search-results"></div>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#section" id="toc-section" class="nav-link active" data-scroll-target="#section"></a></li>
+  <li><a href="#introduction" id="toc-introduction" class="nav-link" data-scroll-target="#introduction">Introduction</a>
+  <ul class="collapse">
+  <li><a href="#imf-ai-a-recent-stream-of-activity" id="toc-imf-ai-a-recent-stream-of-activity" class="nav-link" data-scroll-target="#imf-ai-a-recent-stream-of-activity">IMF &amp; AI: a recent stream of activity</a></li>
+  <li><a href="#how-research-is-done-at-imf" id="toc-how-research-is-done-at-imf" class="nav-link" data-scroll-target="#how-research-is-done-at-imf">How Research is done at IMF</a></li>
+  <li><a href="#research-in-big-institutions" id="toc-research-in-big-institutions" class="nav-link" data-scroll-target="#research-in-big-institutions">Research in Big Institutions</a></li>
+  <li><a href="#section-1" id="toc-section-1" class="nav-link" data-scroll-target="#section-1"></a></li>
+  <li><a href="#why-is-imf-interested-in-ai" id="toc-why-is-imf-interested-in-ai" class="nav-link" data-scroll-target="#why-is-imf-interested-in-ai">Why is IMF interested in AI?</a></li>
+  </ul></li>
+  <li><a href="#what-is-it-exactly-that-you-do-can-ai-do-your-job" id="toc-what-is-it-exactly-that-you-do-can-ai-do-your-job" class="nav-link" data-scroll-target="#what-is-it-exactly-that-you-do-can-ai-do-your-job">What is it exactly that you do? Can AI do your job?</a>
+  <ul class="collapse">
+  <li><a href="#section-2" id="toc-section-2" class="nav-link" data-scroll-target="#section-2"></a></li>
+  <li><a href="#section-3" id="toc-section-3" class="nav-link" data-scroll-target="#section-3"></a></li>
+  <li><a href="#onet" id="toc-onet" class="nav-link" data-scroll-target="#onet">O*NET</a></li>
+  <li><a href="#how-can-you-measure-ai-fitness-for-a-job" id="toc-how-can-you-measure-ai-fitness-for-a-job" class="nav-link" data-scroll-target="#how-can-you-measure-ai-fitness-for-a-job">How can you measure AI fitness for a job?</a></li>
+  <li><a href="#earlier-work-has-focused-on-tasks" id="toc-earlier-work-has-focused-on-tasks" class="nav-link" data-scroll-target="#earlier-work-has-focused-on-tasks">Earlier work has focused on tasks</a></li>
+  <li><a href="#example" id="toc-example" class="nav-link" data-scroll-target="#example">Example</a></li>
+  <li><a href="#human-judgment" id="toc-human-judgment" class="nav-link" data-scroll-target="#human-judgment">Human Judgment</a></li>
+  <li><a href="#example-result-1" id="toc-example-result-1" class="nav-link" data-scroll-target="#example-result-1">Example: Result (1)</a></li>
+  <li><a href="#example-result-2" id="toc-example-result-2" class="nav-link" data-scroll-target="#example-result-2">Example: Result (2)</a></li>
+  <li><a href="#examples-conclusions" id="toc-examples-conclusions" class="nav-link" data-scroll-target="#examples-conclusions">Examples: Conclusions</a></li>
+  <li><a href="#abilities" id="toc-abilities" class="nav-link" data-scroll-target="#abilities">Abilities</a></li>
+  <li><a href="#construct-ai-suitability-index" id="toc-construct-ai-suitability-index" class="nav-link" data-scroll-target="#construct-ai-suitability-index">Construct AI suitability index</a></li>
+  <li><a href="#section-4" id="toc-section-4" class="nav-link" data-scroll-target="#section-4"></a></li>
+  <li><a href="#eff-application-definitions" id="toc-eff-application-definitions" class="nav-link" data-scroll-target="#eff-application-definitions">EFF application definitions</a></li>
+  <li><a href="#mapping-eff-application-definitions-to-onet-abilities" id="toc-mapping-eff-application-definitions-to-onet-abilities" class="nav-link" data-scroll-target="#mapping-eff-application-definitions-to-onet-abilities">Mapping EFF application definitions to ONET abilities</a></li>
+  </ul></li>
+  <li><a href="#or-will-it-work-for-you" id="toc-or-will-it-work-for-you" class="nav-link" data-scroll-target="#or-will-it-work-for-you">Or will it work for you?</a>
+  <ul class="collapse">
+  <li><a href="#section-5" id="toc-section-5" class="nav-link" data-scroll-target="#section-5"></a></li>
+  <li><a href="#complementarity-augmented-ai-exposure" id="toc-complementarity-augmented-ai-exposure" class="nav-link" data-scroll-target="#complementarity-augmented-ai-exposure">Complementarity-augmented AI-exposure</a></li>
+  <li><a href="#section-6" id="toc-section-6" class="nav-link" data-scroll-target="#section-6"></a></li>
+  <li><a href="#complementarity-measure" id="toc-complementarity-measure" class="nav-link" data-scroll-target="#complementarity-measure">Complementarity measure</a></li>
+  <li><a href="#exposure-complementarity" id="toc-exposure-complementarity" class="nav-link" data-scroll-target="#exposure-complementarity">Exposure / Complementarity</a></li>
+  <li><a href="#comments" id="toc-comments" class="nav-link" data-scroll-target="#comments">Comments?</a></li>
+  </ul></li>
+  <li><a href="#who-will-be-affected-who-will-win-loose" id="toc-who-will-be-affected-who-will-win-loose" class="nav-link" data-scroll-target="#who-will-be-affected-who-will-win-loose">Who will be affected? Who will win / loose?</a>
+  <ul class="collapse">
+  <li><a href="#section-7" id="toc-section-7" class="nav-link" data-scroll-target="#section-7"></a></li>
+  <li><a href="#within-a-country" id="toc-within-a-country" class="nav-link" data-scroll-target="#within-a-country">Within a Country</a></li>
+  <li><a href="#effect-on-inequalities" id="toc-effect-on-inequalities" class="nav-link" data-scroll-target="#effect-on-inequalities">Effect on inequalities</a></li>
+  <li><a href="#section-8" id="toc-section-8" class="nav-link" data-scroll-target="#section-8"></a></li>
+  <li><a href="#across-countries" id="toc-across-countries" class="nav-link" data-scroll-target="#across-countries">Across Countries</a></li>
+  <li><a href="#ai-preparedness-index" id="toc-ai-preparedness-index" class="nav-link" data-scroll-target="#ai-preparedness-index">AI Preparedness Index</a></li>
+  </ul></li>
+  <li><a href="#conclusion" id="toc-conclusion" class="nav-link" data-scroll-target="#conclusion">Conclusion</a>
+  <ul class="collapse">
+  <li><a href="#conclusion-1" id="toc-conclusion-1" class="nav-link" data-scroll-target="#conclusion-1">Conclusion</a></li>
+  <li><a href="#section-9" id="toc-section-9" class="nav-link" data-scroll-target="#section-9"></a></li>
+  </ul></li>
+  </ul>
+<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="index.html"><i class="bi bi-file-slides"></i>RevealJS</a></li></ul></div></nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Gen-AI and the Labour Market</h1>
+<p class="subtitle lead">Topics in Economics, ESCP, 2025-2026</p>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Pablo Winant </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">January 19, 2026</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="section" class="level2">
+<h2 class="anchored" data-anchor-id="section"></h2>
+<div class="div">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="cnn.png" class="img-fluid figure-img"></p>
+<figcaption>CNN, Jan 14th, 2024</figcaption>
+</figure>
+</div>
+</div>
+<p>. . .</p>
+<p><em>‘Jobs may disappear’: Nearly 40% of global employment could be disrupted by AI, IMF says</em></p>
+<p>. . .</p>
+<p>🤔 How do they know that?</p>
+<p>. . .</p>
+<p>Check out the <a href="document.pdf">documents</a></p>
+</section>
+<section id="introduction" class="level1">
+<h1>Introduction</h1>
+<section id="imf-ai-a-recent-stream-of-activity" class="level2">
+<h2 class="anchored" data-anchor-id="imf-ai-a-recent-stream-of-activity">IMF &amp; AI: a recent stream of activity</h2>
+<div class="incremental">
+<ul class="incremental">
+<li><a href="https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity">Blog Post</a>. written by Kristalina Goeorgieva Head of IMF</li>
+<li><a href="https://www.imf.org/en/Publications/Staff-Discussion-Notes/Issues/2024/01/14/Gen-AI-Artificial-Intelligence-and-the-Future-of-Work-542379?cid=bl-com-SDNEA2024001">Staff Discussion Note</a>: by Cazzaniga et al.&nbsp;validated by Pierre-Olivier Gourinchas, Head of Research</li>
+<li><a href="https://www.imf.org/en/Publications/WP/Issues/2023/10/04/Labor-Market-Exposure-to-AI-Cross-country-Differences-and-Distributional-Implications-539656">IMF Working Paper</a>: <em>Labor Market Exposure to AI: Cross-country Differences and Distributional Implications</em> by Pizzinelli et al.&nbsp;</li>
+</ul>
+</div>
+<p>. . .</p>
+<p>Blog also points to:</p>
+<ul>
+<li><p><a href="https://www.imf.org/en/Publications/fandd/issues">IMF F&amp;D December</a></p></li>
+<li><p><a href="https://www.nber.org/papers/w31161">Generative AI at Work</a></p></li>
+</ul>
+<p>Many other references in the SDN.</p>
+</section>
+<section id="how-research-is-done-at-imf" class="level2">
+<h2 class="anchored" data-anchor-id="how-research-is-done-at-imf">How Research is done at IMF</h2>
+<div class="cell" data-layout-align="default">
+<div class="cell-output-display">
+<div>
+<p></p><figure class="figure"><p></p>
+<div>
+<pre class="mermaid mermaid-js">flowchart LR
+  A{Staff} --&gt;  A1[Academic Paper]
+  A1 --&gt; X[Peer Reviewed Publications]
+  A1 --&gt; B[IMF Working Paper]
+  B --&gt; X
+  A --&gt; C[IMF Staff Discussion Paper]
+  B --&gt; C
+  C --&gt; D[Board Official Position]
+  E{Member States} ==&gt; D
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
+</div>
+<p>How does it impact what you read?</p>
+</section>
+<section id="research-in-big-institutions" class="level2">
+<h2 class="anchored" data-anchor-id="research-in-big-institutions">Research in Big Institutions</h2>
+<p>The <em>publication</em> of research papers in big international institutions has several goals:</p>
+<div class="incremental">
+<ul class="incremental">
+<li>disseminate research
+<ul class="incremental">
+<li>usually from researchers that are closest to policy circles</li>
+</ul></li>
+<li>build a common narrative that countries can build on to negotiate with the same language
+<ul class="incremental">
+<li>provide a discussion forum when there isn’t one</li>
+</ul></li>
+<li>(usually not) state an official position of the institution</li>
+</ul>
+</div>
+<!-- ##  Example of Shaping the Narrative
+
+Bank of England, communicates on forward guidance:
+
+- Delphic vs Odyssean forward guidance
+
+. . . 
+
+Andy Haldane, chief economist:
+
+![](maradona.jpg) -->
+</section>
+<section id="section-1" class="level2">
+<h2 class="anchored" data-anchor-id="section-1"></h2>
+<div class="callout callout-style-default callout-tip no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span>About the IMF
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>The IMF is a global organization that works to achieve sustainable growth and prosperity for all of its 190 member countries. It does so by supporting economic policies that promote financial stability and monetary cooperation, which are essential to increase productivity, job creation, and economic well-being. The IMF is governed by and accountable to its member countries.</p>
+</div>
+</div>
+<p>&nbsp;&nbsp;</p>
+<p>. . .</p>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Think
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Why is IMF interested in AI?</p>
+</div>
+</div>
+<p>. . .</p>
+<p>Check out <a href="https://www.imf.org/en/About/Factsheets/IMF-Lending">the webpage</a></p>
+</section>
+<section id="why-is-imf-interested-in-ai" class="level2">
+<h2 class="anchored" data-anchor-id="why-is-imf-interested-in-ai">Why is IMF interested in AI?</h2>
+<div class="incremental">
+<ol class="incremental" type="1">
+<li>IMF lends in times of crisis</li>
+</ol>
+<ul class="incremental">
+<li>it is useful to know what might cause the next one (CoVid2, AI, food shortage, global warning…)</li>
+</ul>
+<ol class="incremental" start="2" type="1">
+<li>It pushes for structural reforms (but which ones?)</li>
+</ol>
+<ul class="incremental">
+<li>so that countries can reimburse loans</li>
+</ul>
+<ol class="incremental" start="3" type="1">
+<li>It sometimes acts as a last-resort multilateral institution</li>
+</ol>
+<ul class="incremental">
+<li>where all finance ministers can sit down to discuss …?</li>
+</ul>
+</div>
+</section>
+</section>
+<section id="what-is-it-exactly-that-you-do-can-ai-do-your-job" class="level1">
+<h1>What is it exactly that you do? Can AI do your job?</h1>
+<section id="section-2" class="level2">
+<h2 class="anchored" data-anchor-id="section-2"></h2>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Question 2
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Check out the O*NET database.</p>
+<p>What is an occupation?</p>
+<p>What is the difference between a skill, an ability, …</p>
+<p>What part of occupational content is more relevant to judge AI exposure?</p>
+</div>
+</div>
+</section>
+<section id="section-3" class="level2">
+<h2 class="anchored" data-anchor-id="section-3"></h2>
+<p><img src="assets/onet.png" class="img-fluid"></p>
+</section>
+<section id="onet" class="level2">
+<h2 class="anchored" data-anchor-id="onet">O*NET</h2>
+<div class="incremental">
+<ul class="incremental">
+<li><p>Conceptual framework: O*NET content model</p>
+<ul class="incremental">
+<li>an occupation (a job) is associated with a particular content (skills, abilities, tasks, activities, context)</li>
+<li>some content relates to the worker, some to the nature of the occupation</li>
+<li>data comes from incumbents and experts</li>
+</ul></li>
+</ul>
+</div>
+</section>
+<section id="how-can-you-measure-ai-fitness-for-a-job" class="level2">
+<h2 class="anchored" data-anchor-id="how-can-you-measure-ai-fitness-for-a-job">How can you measure AI fitness for a job?</h2>
+<p>Which content is more relevant to judge AI fitness?</p>
+<ul>
+<li>skills</li>
+<li>abilities</li>
+<li>tasks</li>
+</ul>
+<p>A growing body of literature (led by Autor, Levy, Murnane 2003) is using contents of jobs to assess the potential effect of new technologies.</p>
+</section>
+<section id="earlier-work-has-focused-on-tasks" class="level2">
+<h2 class="anchored" data-anchor-id="earlier-work-has-focused-on-tasks">Earlier work has focused on tasks</h2>
+<p>Earlier work has focused on tasks.</p>
+<ul>
+<li>… for automation</li>
+<li>… for machine learning</li>
+</ul>
+</section>
+<section id="example" class="level2">
+<h2 class="anchored" data-anchor-id="example">Example</h2>
+<p><em>What Can Machines Learn and What Does It Mean for Occupations and the Economy?</em>, 2018 Erik Brynjolfsson, Tom Mitchell, and Daniel Rock</p>
+<p>From O*NET database (occupational information)</p>
+<ul>
+<li>964 <em>occupations</em>,decomposed 18,156 <em>tasks</em></li>
+<li>Tasks aggregated into of 2,069 work activities
+<ul>
+<li>ex: sort information, show empathy</li>
+</ul></li>
+</ul>
+<p>Use human judgment to measure the suitability for machine learning of each task.</p>
+</section>
+<section id="human-judgment" class="level2">
+<h2 class="anchored" data-anchor-id="human-judgment">Human Judgment</h2>
+<p><img src="assets/mturk.webp" class="img-fluid"></p>
+<p>. . .</p>
+<p>In practice, human judgment is replaced with Amazon Turk or CrowdFlower</p>
+</section>
+<section id="example-result-1" class="level2">
+<h2 class="anchored" data-anchor-id="example-result-1">Example: Result (1)</h2>
+<p><img src="assets/result__occupations.png" style="height:100.0%"></p>
+</section>
+<section id="example-result-2" class="level2">
+<h2 class="anchored" data-anchor-id="example-result-2">Example: Result (2)</h2>
+<p><img src="assets/result__distribution.png" class="img-fluid" style="width:100.0%"></p>
+</section>
+<section id="examples-conclusions" class="level2">
+<h2 class="anchored" data-anchor-id="examples-conclusions">Examples: Conclusions</h2>
+<p>Results from from Brynjolfsson et al., 2018:</p>
+<ul>
+<li><p>Almost no</p>
+<ul>
+<li>fully replaceable occupation</li>
+<li>fully ML immune occupation</li>
+</ul></li>
+<li><p>All the distribution of income is exposed.</p></li>
+</ul>
+<p>The results are typical from the literature on the future of work.</p>
+</section>
+<section id="abilities" class="level2">
+<h2 class="anchored" data-anchor-id="abilities">Abilities</h2>
+<p>IMF Paper looks at <strong>abilities</strong></p>
+<p>Paper builds on <em>Occupational, industry, and geographic exposure to artificial intelligence: A novel dataset and its potential uses</em>, by Felten, Raj, and Seamans 2021.</p>
+<p>Main idea: try to assess the adequacy of AI for each ability.</p>
+</section>
+<section id="construct-ai-suitability-index" class="level2">
+<h2 class="anchored" data-anchor-id="construct-ai-suitability-index">Construct AI suitability index</h2>
+<p>AI exposure of ability <span class="math inline">\(k\)</span>:</p>
+<p><span class="math display">\[ AIEO_k = \sum_j L_{kj} AI_j \]</span></p>
+<p>where:</p>
+<ul>
+<li><span class="math inline">\(L_{kj}\)</span>: ability content of task <span class="math inline">\(k\)</span></li>
+<li><span class="math inline">\(AI_j\)</span>: suitability of AI for ability <span class="math inline">\(j\)</span></li>
+</ul>
+<p>. . .</p>
+<p>How do we measure AI abilities?</p>
+</section>
+<section id="section-4" class="level2">
+<h2 class="anchored" data-anchor-id="section-4"></h2>
+<p><img src="assets/eff.png" class="img-fluid"></p>
+<p>The Electronic Frontier Foundation (EFF) is a well-regarded digital rights nonprofit that was founded in 1990,</p>
+<p>As one of its activities, the EFF collects and maintains statistics about the progress of AI across separate artificial intelligence applications.</p>
+<p>Each AI application has an index corresponding to AI development.</p>
+</section>
+<section id="eff-application-definitions" class="level2" data-scrollable="true">
+<h2 data-scrollable="true" class="anchored" data-anchor-id="eff-application-definitions">EFF application definitions</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 24%">
+<col style="width: 75%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>AI application</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Abstract strategy games</td>
+<td>The ability to play abstract games involving sometimes complex strategy and reasoning ability, such as chess, go, or checkers, at a high level.</td>
+</tr>
+<tr class="even">
+<td>Real-time video games</td>
+<td>The ability to play a variety of real-time video games of increasing complexity at a high level.</td>
+</tr>
+<tr class="odd">
+<td>Image recognition</td>
+<td>The determination of what objects are present in a still image.</td>
+</tr>
+<tr class="even">
+<td>Visual question answering</td>
+<td>The recognition of events, relationships, and context from a still image.</td>
+</tr>
+<tr class="odd">
+<td>Image generation</td>
+<td>The creation of complex images</td>
+</tr>
+<tr class="even">
+<td>Reading comprehension</td>
+<td>The ability to answer simple reasoning questions based on an understanding of text.</td>
+</tr>
+<tr class="odd">
+<td>Language modeling</td>
+<td>The ability to model, predict, or mimic human language.</td>
+</tr>
+<tr class="even">
+<td>Translation</td>
+<td>The translation of words or text from one language into another.</td>
+</tr>
+<tr class="odd">
+<td>Speech recognition</td>
+<td>The recognition of spoken language into text.</td>
+</tr>
+<tr class="even">
+<td>Instrumental track recognition</td>
+<td>The recognition of instrumental musical tracks.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="mapping-eff-application-definitions-to-onet-abilities" class="level2">
+<h2 class="anchored" data-anchor-id="mapping-eff-application-definitions-to-onet-abilities">Mapping EFF application definitions to ONET abilities</h2>
+<p>Human Judgment (mturk) is used to associate each of the <span class="math inline">\(l\in[1,10]\)</span> EFF application to the <span class="math inline">\(j\in[1,51]\)</span> O*NET categories: <span class="math inline">\(x_{l,j}\)</span></p>
+<p>AI suitability for ability <span class="math inline">\(j\)</span> is then defined as <span class="math display">\[AI_j = \sum_{l=1}^{10} x_{l,j}\]</span></p>
+<!-- 
+
+
+
+Task-substitution == displacement effect (Acemoglu and Restrepo ARTIFICIAL INTELLIGENCE, AUTOMATION AND WORK)
+
+Counter-balancing effects:
+- productivity-effect
+- capital accumulation
+- deepening of automation
+
+Reinstatement Effect
+
+ -->
+<!-- 
+##  Past Studies
+
+
+- Approach
+  - decompose occupations in tasks
+  - for each task, find a way to evaluate the extent to which it can be replaced by the new technology
+  - several appoaches:
+    - use human judgement
+ -->
+<!-- 
+
+- Rise of automation was detrimental middle jobs. Same here?
+  - AI technology is potentially very pervasive because it doesn't require much formalism
+  - Polanyi's paradox: we know more than we can tell
+
+- Consider technology available today: Machine Learning (including DL)
+- Is it susceptible to replace workers ? is your work at risk ?
+- Paper considers only displacement feasibility -->
+<!-- 
+
+## Who is going to be replaced?
+
+*What Can Machines Learn and What Does It Mean for Occupations and the Economy?* Erik Brynjolfsson, Tom Mitchell, and Daniel Rock
+
+- Rise of automation was detrimental middle jobs. Same here?
+  - AI technology is potentially very pervasive because it doesn't require much formalism
+  - Polanyi's paradox: we know more than we can tell
+
+- Consider technology available today: Machine Learning (including DL)
+- Is it susceptible to replace workers ? is your work at risk ?
+- Paper considers only displacement feasibility
+
+ -->
+<!-- 
+## Can AI do what you do?
+
+Which jobs are AI-susceptible?
+
+We need to associate AI-susceptibility to tasks.
+
+Several approaches:
+- human judgement
+  - 
+- ask AI
+- 
+ -->
+<!-- 
+## Limits
+
+What are the limits with the task-based approach? -->
+</section>
+</section>
+<section id="or-will-it-work-for-you" class="level1">
+<h1>Or will it work for you?</h1>
+<section id="section-5" class="level2">
+<h2 class="anchored" data-anchor-id="section-5"></h2>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Question 3
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>How does the SDN / the WP distinguish between jobs that are more or less complement to AI. What are the contexts? How is the complementarity score computed?</p>
+</div>
+</div>
+</section>
+<section id="complementarity-augmented-ai-exposure" class="level2">
+<h2 class="anchored" data-anchor-id="complementarity-augmented-ai-exposure">Complementarity-augmented AI-exposure</h2>
+<p>The main contribution from the Pizzinelli et al.&nbsp;paper: use more content from O*NET:</p>
+<ul>
+<li>work context: physical and social factors that influence the nature of work</li>
+<li>job zones: groups of occupations characterized by similar levels of education, on-the-job training, and professional experience needed to perform the work</li>
+</ul>
+<p>Some contexts <em>shield</em> workers from being replaced by AI</p>
+</section>
+<section id="section-6" class="level2">
+<h2 class="anchored" data-anchor-id="section-6"></h2>
+<p>Each O*NET occupation is associated with each of the following contexts by a 0-100 score:</p>
+<ul>
+<li>Communication</li>
+<li>Responsibility</li>
+<li>Physical Conditions</li>
+<li>Criticality</li>
+<li>Routine</li>
+<li>Skills</li>
+</ul>
+<p>. . .</p>
+<p>The final complementarity score is the average of all contexts, normalized to be between 0 and 1.</p>
+</section>
+<section id="complementarity-measure" class="level2">
+<h2 class="anchored" data-anchor-id="complementarity-measure">Complementarity measure</h2>
+<p><img src="assets/complementarity.png" class="img-fluid"></p>
+</section>
+<section id="exposure-complementarity" class="level2">
+<h2 class="anchored" data-anchor-id="exposure-complementarity">Exposure / Complementarity</h2>
+<p><img src="assets/exposure_complementarity.png" class="img-fluid"></p>
+</section>
+<section id="comments" class="level2">
+<h2 class="anchored" data-anchor-id="comments">Comments?</h2>
+</section>
+</section>
+<section id="who-will-be-affected-who-will-win-loose" class="level1">
+<h1>Who will be affected? Who will win / loose?</h1>
+<section id="section-7" class="level2">
+<h2 class="anchored" data-anchor-id="section-7"></h2>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Question 4
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>According to the article who is most likely to be affected?</p>
+<p>What would be the effect on inequalities?</p>
+<p>Which countries will suffer most?</p>
+</div>
+</div>
+</section>
+<section id="within-a-country" class="level2">
+<h2 class="anchored" data-anchor-id="within-a-country">Within a Country</h2>
+<p><img src="assets/loosers_winners.png" class="img-fluid"></p>
+</section>
+<section id="effect-on-inequalities" class="level2">
+<h2 class="anchored" data-anchor-id="effect-on-inequalities">Effect on inequalities</h2>
+<p>The behavior of top earners is crucial:</p>
+<p>AI will increase inequalities increase if:</p>
+<ul>
+<li>top earners are (comparatively) less exposed</li>
+<li>top earners capture high returns on AI capital accumulation</li>
+</ul>
+<p>Social Mobility is important</p>
+</section>
+<section id="section-8" class="level2">
+<h2 class="anchored" data-anchor-id="section-8"></h2>
+<p><img src="assets/transition.png" class="img-fluid"></p>
+</section>
+<section id="across-countries" class="level2">
+<h2 class="anchored" data-anchor-id="across-countries">Across Countries</h2>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="assets/ai_exposure.png" class="img-fluid"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="assets/ae_advantage.png" class="img-fluid"></p>
+</div>
+</div>
+</div>
+</section>
+<section id="ai-preparedness-index" class="level2">
+<h2 class="anchored" data-anchor-id="ai-preparedness-index">AI Preparedness Index</h2>
+<p><img src="assets/preparedness.png" class="img-fluid"></p>
+</section>
+</section>
+<section id="conclusion" class="level1">
+<h1>Conclusion</h1>
+<section id="conclusion-1" class="level2">
+<h2 class="anchored" data-anchor-id="conclusion-1">Conclusion</h2>
+<div class="r-stack">
+<div class="fragment current-visible">
+<p>How do we measure the disruptive effect of technologies on the labor market in the short term?</p>
+</div>
+<div class="fragment current-visible">
+<p>The task-based approach has pioneered the use of detailed data about the content of jobs to determine whether a particular job is at risk of being replaced:</p>
+<ul>
+<li>for automation: routine jobs were especially exposed</li>
+<li>for machine learning or AI:
+<ul>
+<li>a relatively high proportion of jobs are exposed</li>
+<li>it affects many different kinds of jobs (low-income, high-income…)</li>
+</ul></li>
+</ul>
+</div>
+<div class="fragment current-visible">
+<p>A series of recent papers, advertised by the IMF has developed the analysis in several directions:</p>
+<ul>
+<li><p>use data on <em>abilities</em> to capture the potential of AI, even for tasks that have not been done by AI before</p></li>
+<li><p>use job <em>context</em> data to assess which AI-exposed occupations will be shielded from AI competition</p></li>
+<li><p>extend the analysis to many developed and emerging countries</p></li>
+</ul>
+</div>
+</div>
+</section>
+<section id="section-9" class="level2">
+<h2 class="anchored" data-anchor-id="section-9"></h2>
+<p><img src="assets/question_mark.png" class="img-fluid"></p>
+<p>So 40% of world employment are at risk?</p>
+<p>. . .</p>
+<p>Yes, but half of it <em>might</em> be protected by society.</p>
+<p>. . .</p>
+<p>More advanced countries are more at risk (especially college-educated workers)…</p>
+<p>. . .</p>
+<p>but are more prepared in many dimensions (technological advance, regulation, …)</p>
+
+
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp("https:\/\/albop\.github\.io\/tie\/");
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

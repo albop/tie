@@ -2,16 +2,14 @@
   {
     "listing": "/index.html",
     "items": [
-      "/session_0/index_handout.html",
-      "/session_1/index_handout.html",
-      "/session_ai_labour/index_handout.html",
-      "/session_carbon/index.html",
-      "/session_behavioural/index_handout.html",
-      "/session_inequality/index.html",
-      "/session_fragmentation/index_handout.html",
-      "/session_trade/index_handout.html",
-      "/prep_7/index_handout.html",
-      "/prep_8/index_handout.html"
+      "/session_1_ai/index_handout.html",
+      "/session_2_ai_labour/index_handout.html",
+      "/session_3/index_handout.html",
+      "/session_4/index_handout.html",
+      "/session_5/index_handout.html",
+      "/session_6/index_handout.html",
+      "/session_7/index_handout.html",
+      "/exam/index_handout.html"
     ]
   }
 ]
