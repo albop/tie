@@ -1,5 +1,5 @@
 ---
-title: "TBC"
+title: "Behavioral Economics"
 date: 2026/02/16
 subtitle: Topics in Economics, ESCP, 2025-2026
 author: Raphael Epperson

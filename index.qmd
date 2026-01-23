@@ -6,7 +6,8 @@ listing:
   sort-ui: false
   filter-ui: false
   contents: 
-    - session_0/index.qmd
+    # - session_0/index.qmd
+    - reveal_antai/index.qmd
     - session_1_ai/index.qmd
     - session_2_ai_labour/index.qmd
     - session_3/index.qmd
@@ -14,7 +15,6 @@ listing:
     - session_5/index.qmd
     - session_6/index.qmd
     - session_7/index.qmd
-    - reveal-antai/check.qmd
     - exam/index.qmd
   sort: date
   fields: [date, title, author]

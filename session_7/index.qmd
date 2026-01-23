@@ -1,5 +1,5 @@
 ---
-title: "TBC"
+title: "The Economics of Fake News"
 date: 2026/03/2
 subtitle: Topics in Economics, ESCP, 2025-2026
 author: Raphael Epperson

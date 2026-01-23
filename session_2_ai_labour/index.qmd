@@ -41,21 +41,6 @@ Check out the [documents](document.pdf)
 
 # Introduction
 
-## 
-
-::: {.callout-note icon=false}
-
-## Task
-
-Find some context about the study:
-
-- which study predates the others
-- who are various authors implicated?[^google]
-
-:::
-
-[^google]: Google is your friend...
-
 
 ## IMF & AI: a recent stream of activity
 
@@ -230,7 +215,7 @@ Earlier work has focused on tasks.
 
 From O*NET database (occupational information)
 
-  - 964 *occupations* ,decomposed 18,156 *tasks*
+  - 964 *occupations*,decomposed 18,156 *tasks*
   - Tasks aggregated into of 2,069 work activities
     - ex: sort information, show empathy
 

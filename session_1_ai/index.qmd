@@ -77,7 +77,10 @@ Two recurring facts:
 
 :::
 
+. . .
+
 So claims like “AI will never do X” usually age badly.
+
 
 ## What we can be more confident about
 
@@ -172,7 +175,7 @@ Ajy Agrawal, Joshua Gans and Avi Goldfarb: *Prediction Machines: The Simple Econ
   - should I invest in A or B ?
   - even chatbot: what is the appropriate continuation for an ongoing conversation?
 
-
+<!-- 
 ## Stop & think (tasks)
 
 Choose one job you know well (yours, parents, friends). List 5 tasks it contains.
@@ -183,7 +186,7 @@ Choose one job you know well (yours, parents, friends). List 5 tasks it contains
 - Which tasks are *complements* (they become more valuable when prediction is cheaper)?
 - What happens to the job if only 2/5 tasks are automated?
 
-:::
+::: -->
 
 
 ## Will I lose my job ?
@@ -208,6 +211,10 @@ Choose one job you know well (yours, parents, friends). List 5 tasks it contains
 - Distributional effects (who owns the complements/data/capital) are usually first-order
 
 :::
+
+. . .
+
+👉 More on it next week.
 
 
 # AI is Data
@@ -249,7 +256,9 @@ Chad Jones and Christopher Tonetti (Stanford) *Nonrivalry and the Economics of D
   - __excludable__: use can be limited to paying customers
   - data is a: __club good__
 
--  Nonrivality implies <b>increasing returns to scale</b>
+-  Nonrivality implies
+  - <b>increasing returns to scale</b>
+    - 🤔: check why
   - marginal value of new data increases more than proportionally
 
 :::
@@ -264,9 +273,9 @@ Chad Jones and Christopher Tonetti (Stanford) *Nonrivalry and the Economics of D
   - ->GAFAMs
   - increasing suboptimal __monopoly rents__ (already a problem before existence of AI...)
   - should you regulate a monopoly?
-    - it depends what is the barrier to entry: data-gathering or data-processing
+    - it depends what is the barrier to entry: data-gathering or data-processing (cloud)
 - other relevant questions
-  - where are the markets? (empirically it seems "undertraded")
+  - where are the markets? (empirically seems to be "undertraded")
   - who owns the data ? Consumer, producer.
 
 :::
@@ -283,7 +292,7 @@ Chad Jones and Christopher Tonetti (Stanford) *Nonrivalry and the Economics of D
   - let the consumer be free to decide whether to rent their data (remove externalities)
 
 :::
-
+<!-- 
 ## A quick policy 2×2 (what is the bottleneck?)
 
 Barrier to entry for AI-intensive markets:
@@ -294,7 +303,7 @@ Barrier to entry for AI-intensive markets:
 - **Compute/cloud scale is the bottleneck** → cloud competition, procurement, switching costs, access to chips/compute
 - If both matter: expect strong increasing returns and durable market power
 
-:::
+::: -->
 
 # AI: competition between humans and robots 
 
@@ -313,7 +322,7 @@ Barrier to entry for AI-intensive markets:
   - becomes an inequality problem
 - But
   - whether technology reduces salaries depends on whether growth is __labour augmenting__ or __capital augmenting__
-  - if AI is a close enough substitute, salaries of "humans" as a whole are at risk
+  - if AI is a close enough substitute for labour, salaries of "humans" as a whole are at risk
   - there is an economic *singularity* when the wage of humans falls below the __subsistence level__
 
 :::
@@ -435,11 +444,12 @@ __New roman empire__
 
 - Research on AI is very speculative: especially about the long run
 - But concepts from classical economics still help
+- Very important assumption: "*if* market economy survives"
 - For next time:
   - make sure you understand all concepts in bold
 
 
-## Takeaways (one-slide summary)
+<!-- ## Takeaways (one-slide summary)
 
 ::: {.incremental}
 
@@ -448,7 +458,7 @@ __New roman empire__
 - Labour market: focus on tasks (substitutes vs complements), not “jobs disappear” headlines
 - Long run: scenarios depend as much on institutions/politics as on technology
 
-:::
+::: -->
 
 
 ## More Readings

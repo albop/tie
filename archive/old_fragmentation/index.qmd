@@ -333,6 +333,8 @@ __Relocation Decisions__ in international business and management literature (fr
 - __nearshoring__: occurs when manufacturing is relocated to a country closer to ‘home’
 
 
+# The costs of fragmentation
+
 ##
 
 What are the costs of fragmentation?
@@ -347,6 +349,49 @@ What are they?
 
 
 [^authors_point_of_view]: this is the point of view from the authors...
+
+## Elasticity of Substitution in Production
+
+
+::: columns
+
+:::: column
+
+::::: {.callout-important title="Key Concept"}
+
+The elasticity of substitution measures how easily one input can replace another when relative prices change.
+
+:::::
+
+Suppose an economy has a production function with two inputs:
+
+$$Q = f(\text{Russian Gas}, \text{Renewable Energy})$$
+
+::::
+
+:::: column
+
+**Elasticity of Substitution** $(\sigma)$:
+
+$$\sigma = \frac{\% \text{ change in input ratio}}{\% \text{ change in relative prices}}$$
+
+. . .
+
+::::: {.incremental}
+
+- If $\sigma$ is **high**: inputs are easily replaceable → fragmentation costs are **low**
+- If $\sigma$ is **low**: inputs are difficult to replace → fragmentation costs are **high**
+
+:::::
+
+::::
+:::
+
+::: notes
+
+In the context of geoeconomic fragmentation, if energy sources are not easily substitutable (low σ), then restricting access to Russian gas creates large efficiency losses. If renewable energy can easily substitute (high σ), the cost of reorienting supply chains is lower.
+
+:::
 
 
 ## Neo-Classical Gains
@@ -445,7 +490,7 @@ __Trade__
 
 ![](assets/globalization_inequality.png){.fragment .current-visible width=60%}
 
-![](assets/globaliztion_inequality_regression.png){.fragment .current-visible width=60%}
+![](assets/globalization_inequality_regression.png){.fragment .current-visible width=60%}
 
 :::
 
@@ -518,6 +563,10 @@ Goes and Bekkers:
 ::::
 
 :::
+
+## Side-note: Elasticities
+
+
 
 ## Short term / long-term elasticities
 
@@ -665,7 +714,7 @@ Globalization has been *organized* through multilateral organizations
 
 . . .
 
-These instutions have survived even though member states, have sometimes diverged politically.
+These institutions have survived even though member states, have sometimes diverged politically.
 
 ##
 
