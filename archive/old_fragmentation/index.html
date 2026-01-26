@@ -454,6 +454,11 @@ Pablo Winant
 <li><strong>backshoring</strong>: activities return to their initial country of origin</li>
 <li><strong>nearshoring</strong>: occurs when manufacturing is relocated to a country closer to ‘home’</li>
 </ul>
+</section></section>
+<section>
+<section id="the-costs-of-fragmentation" class="title-slide slide level1 center">
+<h1>The costs of fragmentation</h1>
+
 </section>
 <section id="section-15" class="slide level2">
 <h2></h2>
@@ -465,6 +470,50 @@ Pablo Winant
 <p>What are they?</p>
 </div>
 <aside><ol class="aside-footnotes"><li id="fn2"><p>this is the point of view from the authors…</p></li></ol></aside></section>
+<section id="elasticity-of-substitution-in-production" class="slide level2">
+<h2>Elasticity of Substitution in Production</h2>
+<div class="columns">
+<div class="column">
+<div title="Key Concept">
+<div class="callout callout-important callout-titled callout-style-default">
+<div class="callout-body">
+<div class="callout-title">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<p><strong>Key Concept</strong></p>
+</div>
+<div class="callout-content">
+<p>The elasticity of substitution measures how easily one input can replace another when relative prices change.</p>
+</div>
+</div>
+</div>
+</div>
+<p>Suppose an economy has a production function with two inputs:</p>
+<p><span class="math display">\[Q = f(\text{Russian Gas}, \text{Renewable Energy})\]</span></p>
+</div><div class="column">
+<p><strong>Elasticity of Substitution</strong> <span class="math inline">\((\sigma)\)</span>:</p>
+<p><span class="math display">\[\sigma = \frac{\% \text{ change in input ratio}}{\% \text{ change in relative prices}}\]</span></p>
+<p>. . .</p>
+<ul>
+<li class="fragment">If <span class="math inline">\(\sigma\)</span> is <strong>high</strong>: inputs are easily replaceable → fragmentation costs are <strong>low</strong></li>
+<li class="fragment">If <span class="math inline">\(\sigma\)</span> is <strong>low</strong>: inputs are difficult to replace → fragmentation costs are <strong>high</strong></li>
+</ul>
+</div></div>
+<aside class="notes">
+<p>In the context of geoeconomic fragmentation, if energy sources are not easily substitutable (low σ), then restricting access to Russian gas creates large efficiency losses. If renewable energy can easily substitute (high σ), the cost of reorienting supply chains is lower.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
 <section id="neo-classical-gains" class="slide level2">
 <h2>Neo-Classical Gains</h2>
 <ul>
@@ -568,7 +617,7 @@ Pablo Winant
 <div class="r-stack">
 <p><img data-src="assets/globalization_growth.png" class="fragment current-visible" style="width:60.0%"></p>
 <p><img data-src="assets/globalization_inequality.png" class="fragment current-visible" style="width:60.0%"></p>
-<p><img data-src="assets/globaliztion_inequality_regression.png" class="fragment current-visible" style="width:60.0%"></p>
+<p><img data-src="assets/globalization_inequality_regression.png" class="fragment current-visible" style="width:60.0%"></p>
 </div>
 <p>From <em>The Distribution of Gains from Globalization</em> 2018, by Lang and Tavares.</p>
 </section>
@@ -642,6 +691,9 @@ Pablo Winant
 <li><p>A big uncertainty is the calibration of <strong>elasticities</strong></p></li>
 </ul>
 </div></div>
+</section>
+<section id="side-note-elasticities" class="slide level2">
+<h2>Side-note: Elasticities</h2>
 </section>
 <section id="short-term-long-term-elasticities" class="slide level2">
 <h2>Short term / long-term elasticities</h2>
@@ -772,7 +824,7 @@ Pablo Winant
 </ul>
 </div>
 <div class="fragment">
-<p>These instutions have survived even though member states, have sometimes diverged politically.</p>
+<p>These institutions have survived even though member states, have sometimes diverged politically.</p>
 </div>
 </section>
 <section id="section-31" class="slide level2">
@@ -1081,7 +1133,7 @@ Pablo Winant
         }
           var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
           var mailtoRegex = new RegExp(/^mailto:/);
-            var filterRegex = new RegExp("https:\/\/albop\.github\.io\/tie\/");
+            var filterRegex = new RegExp('/' + window.location.host + '/');
           var isInternal = (href) => {
               return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
           }
