@@ -1442,55 +1442,6 @@
     "text": "Paper 1.\nhttps://youtu.be/PgA4Bb_LnQE?feature=shared\nBöhm, R., Gürerk, Ö., & Lauer, T. (2020). Nudging climate change mitigation: A laboratory experiment with inter-generational public goods. Games, 11, 42.\n\n\nPaper 2\nNudging as an Environmental Policy Instrument\nFredrik Carlsson Christina Annette Gravert Verena Kurz Olof Johansson-Stenman\n\n\nPaper 2 (marketing)\nFactors of effectiveness of green nudges for more eco-responsible behaviour – Systematic review and research directions\nClément Carrel marie-laure gavard-perret Cindy Caldara\n\n\nPaper 3.\nThe Effectiveness of a Green Default Nudge in Achieving Resource Conservation\nRecherche et Applications en Marketing\nJimena González-Ramírez\n-&gt; Paper conservation (double sided printing)"
   },
   {
-    "objectID": "archive/old_inequality/assets/group_1_3_inequalities_slides.html#other-dimensions-of-inequality-measure",
-    "href": "archive/old_inequality/assets/group_1_3_inequalities_slides.html#other-dimensions-of-inequality-measure",
-    "title": "Introduction to Macroeconomics",
-    "section": "Other Dimensions of Inequality (measure)",
-    "text": "Other Dimensions of Inequality (measure)\n\nMeasure:\n\npre-tax income\nafter-tax income\nconsumption\nwealth\n\nPopulation\n\ngenerational gap\ngender gap\nracial gap"
-  },
-  {
-    "objectID": "archive/old_inequality/assets/group_1_3_inequalities_slides.html#pre-tax-vs-post-tax-inequality",
-    "href": "archive/old_inequality/assets/group_1_3_inequalities_slides.html#pre-tax-vs-post-tax-inequality",
-    "title": "Introduction to Macroeconomics",
-    "section": "Pre-tax vs post-tax inequality",
-    "text": "Pre-tax vs post-tax inequality\n\n\n\nGini before and after taxes"
-  },
-  {
-    "objectID": "archive/old_inequality/assets/group_1_3_inequalities_slides.html#consumption-inequality",
-    "href": "archive/old_inequality/assets/group_1_3_inequalities_slides.html#consumption-inequality",
-    "title": "Introduction to Macroeconomics",
-    "section": "Consumption Inequality",
-    "text": "Consumption Inequality\nConsumption inequality much lower than income inequality."
-  },
-  {
-    "objectID": "archive/old_inequality/assets/group_1_3_inequalities_slides.html#other-dimensions-of-inequality-population",
-    "href": "archive/old_inequality/assets/group_1_3_inequalities_slides.html#other-dimensions-of-inequality-population",
-    "title": "Introduction to Macroeconomics",
-    "section": "Other Dimensions of Inequality (population)",
-    "text": "Other Dimensions of Inequality (population)\n\nRacial gap\nGender gap\n\nEU: women get paid in average 15% less than men. 10% less for same work.\n\nGenerational inequality (France)\n\nbaby-boomers had rising income profiles and high pensions\nnew generations have flatter income profiles and (expected) lower pensions"
-  },
-  {
-    "objectID": "archive/old_inequality/assets/group_1_3_inequalities_slides.html#can-we-bear-inequality",
-    "href": "archive/old_inequality/assets/group_1_3_inequalities_slides.html#can-we-bear-inequality",
-    "title": "Introduction to Macroeconomics",
-    "section": "Can we bear inequality ?",
-    "text": "Can we bear inequality ?\n\nYes if:\n\nit is associated with higher economic efficiency (??)\nthe economic cost of reducing inequality is important (??)\nit is associated with high social mobility (???)\n\nNo if: reducing inequality is an objective per se"
-  },
-  {
-    "objectID": "archive/old_inequality/assets/group_1_3_inequalities_slides.html#takeways",
-    "href": "archive/old_inequality/assets/group_1_3_inequalities_slides.html#takeways",
-    "title": "Introduction to Macroeconomics",
-    "section": "Takeways",
-    "text": "Takeways\n\nBasic inequality measure: quantile ratios, gini coefficient\nSeveral dimensions of inequality"
-  },
-  {
-    "objectID": "archive/old_inequality/nodes.html",
-    "href": "archive/old_inequality/nodes.html",
-    "title": "Topics in Economics",
-    "section": "",
-    "text": "brainstorming\ninequality-growth : the old question\nOf the tendencies that are harmful to sound economics, the most seductive, and in my opinion the most poisonous, is to focus on questions of distribution.”\nBob Lucas\ninequality in what? - income - consumption - well-being?\nsecond theorem of welfare economics\nshould you be against deficit reduction?\ngreat gatsby curve - data from miles corak - alan krueger - mankiw: problem with the unit of analysis\nare people payed their marginal productivity? - elon musk: double CEO - carlos ghoson\nbe againt inequality:\nMankiw: - inefficient - equality of opportunities\n\npreferences\n\nokun in Mankiw: tradeoff inequality and growth - taxes and transfers are a leaky bucket - redistribution equalises marginal utility / productivity - but only income is observed, not wl (productivityeffort)"
-  },
-  {
     "objectID": "session_2_ai_labour/wip.html",
     "href": "session_2_ai_labour/wip.html",
     "title": "Topics in Economics",
@@ -2604,305 +2555,613 @@
     "text": "Footnotes\n\n\nIMF AREAER: Annual Report on Exchange Arrangements and Exchange Restrictions↩︎\nthis is the point of view from the authors…↩︎"
   },
   {
-    "objectID": "session_4/index_handout.html",
-    "href": "session_4/index_handout.html",
-    "title": "Inequalities: Should We tax the Super-Riches?",
-    "section": "",
-    "text": "Come back later!."
-  },
-  {
-    "objectID": "session_0_old/proto.html",
-    "href": "session_0_old/proto.html",
-    "title": "AI and the Labour Market (proto)",
-    "section": "",
-    "text": "How research is done?\n\n\n\n\n\nAuthors\nResearch Papers\nOfficial Blog post\nOlivier Gourinchas Gita Gopinath Kristalina Goeorgieva\n\n\n\n\n\n\n\n\nflowchart LR\n  A{Staff} --&gt;  A1[Academic Paper]\n  A1 --&gt; X[Peer Reviewed Publications]\n  A1 --&gt; B[IMF Working Paper]\n  A --&gt; C[IMF Staff Discussion Paper]\n  B --&gt; C\n  C --&gt; D[Board Official Position]\n  E{Member States} ==&gt; D\n\n\n\n\n\n\nWhat do you conclude from that?\n\n\n\nPoints to:\nIMF F&D December\nGenerative AI at Work\n\n\n\n\n\n\n\n\n\n\n\n\n\nAE advantage: which ones are most at risk?\n\n\n\n\n\n\nThe Marradona policy…\nGDP growth forecasts…"
-  },
-  {
-    "objectID": "session_0_old/proto.html#the-report",
-    "href": "session_0_old/proto.html#the-report",
-    "title": "AI and the Labour Market (proto)",
-    "section": "",
-    "text": "Authors\nResearch Papers\nOfficial Blog post\nOlivier Gourinchas Gita Gopinath Kristalina Goeorgieva"
-  },
-  {
-    "objectID": "session_0_old/proto.html#how-research-is-done-at-imf",
-    "href": "session_0_old/proto.html#how-research-is-done-at-imf",
-    "title": "AI and the Labour Market (proto)",
-    "section": "",
-    "text": "flowchart LR\n  A{Staff} --&gt;  A1[Academic Paper]\n  A1 --&gt; X[Peer Reviewed Publications]\n  A1 --&gt; B[IMF Working Paper]\n  A --&gt; C[IMF Staff Discussion Paper]\n  B --&gt; C\n  C --&gt; D[Board Official Position]\n  E{Member States} ==&gt; D\n\n\n\n\n\n\nWhat do you conclude from that?"
-  },
-  {
-    "objectID": "session_0_old/proto.html#imf-blog",
-    "href": "session_0_old/proto.html#imf-blog",
-    "title": "AI and the Labour Market (proto)",
-    "section": "",
-    "text": "Points to:\nIMF F&D December\nGenerative AI at Work"
-  },
-  {
-    "objectID": "session_0_old/proto.html#section",
-    "href": "session_0_old/proto.html#section",
-    "title": "AI and the Labour Market (proto)",
-    "section": "",
-    "text": "AE advantage: which ones are most at risk?"
-  },
-  {
-    "objectID": "session_0_old/proto.html#shape-the-narrative",
-    "href": "session_0_old/proto.html#shape-the-narrative",
-    "title": "AI and the Labour Market (proto)",
-    "section": "",
-    "text": "The Marradona policy…\nGDP growth forecasts…"
-  },
-  {
-    "objectID": "session_0_old/proto.html#excec-summary",
-    "href": "session_0_old/proto.html#excec-summary",
-    "title": "AI and the Labour Market (proto)",
-    "section": "Excec Summary",
-    "text": "Excec Summary\n\nindustrial revolution: productivity shock, replace some workers, complement others\n40% of employment at risk\n\nmore in advanced countries than emerging than developing (60/40/26)\nbut advanced countries more ready\n\neffect on income / wealth inequality\n\nwhole population is affected by ai risk\nbut high income more likely to be positive complement\nmodel simulation-&gt; beneficial to top earners\n\npositive effect on income for all woekers\ncollege-educated workers more prepared to move from jobs\nAI preparedness index\n\nadvanced: invest in AI innovation and rgulation\nless developped: infrastructure and digital traning\nall social safety nets"
-  },
-  {
-    "objectID": "session_0_old/proto.html#ai-exposure-and-complementarity",
-    "href": "session_0_old/proto.html#ai-exposure-and-complementarity",
-    "title": "AI and the Labour Market (proto)",
-    "section": "AI Exposure and Complementarity",
-    "text": "AI Exposure and Complementarity\nO*NET: - job - occupation - ability\n(what is importance?, prevalence?)\n(example with a graph)\n(problem: O*NET is only for the US)\nLabor Market Exposure to AI: Cross-country Differences and Distributional Implicationss\nCountries: UK/US + Brazil, Columbia, India, South Africa\nGo beyond tasks by adding social and physical context\nSubjectivity of social point of view.\nGiven the high degree of uncertainty over the future of this fast-pacing and broadly applicable technology, the concept of exposure is purposely framed as agnostic on the likelihood of AI complementing or replacing labor in the performance of a given task or occupation.\nIdea: provide specific tables /graphs to students\nData: ILO for all countries microdata for some\nProblem: concept of complementarity, not the same\nOccupational transitions:\n\nconcept of social mobility\nmarkov chain\n\nWhat prevents transition?\ncf paper\nWhy are older workers less willing to switch? (many reality checks in the paper).\n\nWho is mostly helped with AI?*\nyoung college-educated On the other hand, AI may enable young college-educated workers to become experienced more quickly as they leverage their familiarity with new technologies to enhance their productivity. With the introduction of generative AI, the use of AI has itself become much easier. A recent study shows that the productivity impact of an AI-based conversational assistant was greatest for less experienced and low-skilled customer support workers; the effect on experienced and highly skilled workers was minimal (Brynjolfsson, Danielle, and Raymond 2023).\n\nSame with Code Assistant"
-  },
-  {
-    "objectID": "session_0_old/proto.html#ai-productivity-inequality",
-    "href": "session_0_old/proto.html#ai-productivity-inequality",
-    "title": "AI and the Labour Market (proto)",
-    "section": "AI Productivity, Inequality",
-    "text": "AI Productivity, Inequality\nModel-based\ncopmlementarity effect vs displacement effect"
-  },
-  {
-    "objectID": "session_0_old/proto.html#ai-preparedness",
-    "href": "session_0_old/proto.html#ai-preparedness",
-    "title": "AI and the Labour Market (proto)",
-    "section": "AI Preparedness",
-    "text": "AI Preparedness"
-  },
-  {
-    "objectID": "session_0_old/slides.html#the-context",
-    "href": "session_0_old/slides.html#the-context",
-    "title": "AI and the Labour Market (proto)",
-    "section": "The context…",
-    "text": "The context…"
-  },
-  {
-    "objectID": "session_0_old/slides.html#the-report",
-    "href": "session_0_old/slides.html#the-report",
-    "title": "AI and the Labour Market (proto)",
-    "section": "The report",
-    "text": "The report\nAuthors\nResearch Papers\nOfficial Blog post\nOlivier Gourinchas Gita Gopinath Kristalina Goeorgieva"
-  },
-  {
-    "objectID": "session_0_old/slides.html#how-research-is-done-at-imf",
-    "href": "session_0_old/slides.html#how-research-is-done-at-imf",
-    "title": "AI and the Labour Market (proto)",
-    "section": "How Research is done at IMF",
-    "text": "How Research is done at IMF\n\n\n\n\n\nflowchart LR\n  A{Staff} --&gt;  A1[Academic Paper]\n  A1 --&gt; X[Peer Reviewed Publications]\n  A1 --&gt; B[IMF Working Paper]\n  A --&gt; C[IMF Staff Discussion Paper]\n  B --&gt; C\n  C --&gt; D[Board Official Position]\n  E{Member States} ==&gt; D\n\n\n\n\n\n\nWhat do you conclude from that?"
-  },
-  {
-    "objectID": "session_0_old/slides.html#imf-blog",
-    "href": "session_0_old/slides.html#imf-blog",
-    "title": "AI and the Labour Market (proto)",
-    "section": "IMF Blog",
-    "text": "IMF Blog\nPoints to:\nIMF F&D December\nGenerative AI at Work"
-  },
-  {
-    "objectID": "session_0_old/slides.html#section",
-    "href": "session_0_old/slides.html#section",
-    "title": "AI and the Labour Market (proto)",
-    "section": "",
-    "text": "AE advantage: which ones are most at risk?"
-  },
-  {
-    "objectID": "session_0_old/slides.html#shape-the-narrative",
-    "href": "session_0_old/slides.html#shape-the-narrative",
-    "title": "AI and the Labour Market (proto)",
-    "section": "Shape the narrative…",
-    "text": "Shape the narrative…\nThe Marradona policy…\nGDP growth forecasts…"
-  },
-  {
-    "objectID": "session_0_old/slides.html#excec-summary",
-    "href": "session_0_old/slides.html#excec-summary",
-    "title": "AI and the Labour Market (proto)",
-    "section": "Excec Summary",
-    "text": "Excec Summary\n\nindustrial revolution: productivity shock, replace some workers, complement others\n40% of employment at risk\n\nmore in advanced countries than emerging than developing (60/40/26)\nbut advanced countries more ready\n\neffect on income / wealth inequality\n\nwhole population is affected by ai risk\nbut high income more likely to be positive complement\nmodel simulation-&gt; beneficial to top earners\n\npositive effect on income for all woekers\ncollege-educated workers more prepared to move from jobs\nAI preparedness index\n\nadvanced: invest in AI innovation and rgulation\nless developped: infrastructure and digital traning\nall social safety nets"
-  },
-  {
-    "objectID": "session_0_old/slides.html#ai-exposure-and-complementarity",
-    "href": "session_0_old/slides.html#ai-exposure-and-complementarity",
-    "title": "AI and the Labour Market (proto)",
-    "section": "AI Exposure and Complementarity",
-    "text": "AI Exposure and Complementarity\nO*NET: - job - occupation - ability\n(what is importance?, prevalence?)\n(example with a graph)\n(problem: O*NET is only for the US)\nLabor Market Exposure to AI: Cross-country Differences and Distributional Implicationss\nCountries: UK/US + Brazil, Columbia, India, South Africa\nGo beyond tasks by adding social and physical context\nSubjectivity of social point of view.\nGiven the high degree of uncertainty over the future of this fast-pacing and broadly applicable technology, the concept of exposure is purposely framed as agnostic on the likelihood of AI complementing or replacing labor in the performance of a given task or occupation.\nIdea: provide specific tables /graphs to students\nData: ILO for all countries microdata for some\nProblem: concept of complementarity, not the same\nOccupational transitions:\n\nconcept of social mobility\nmarkov chain\n\nWhat prevents transition?\ncf paper\nWhy are older workers less willing to switch? (many reality checks in the paper).\n\nWho is mostly helped with AI?*\nyoung college-educated On the other hand, AI may enable young college-educated workers to become experienced more quickly as they leverage their familiarity with new technologies to enhance their productivity. With the introduction of generative AI, the use of AI has itself become much easier. A recent study shows that the productivity impact of an AI-based conversational assistant was greatest for less experienced and low-skilled customer support workers; the effect on experienced and highly skilled workers was minimal (Brynjolfsson, Danielle, and Raymond 2023).\n\nSame with Code Assistant"
-  },
-  {
-    "objectID": "session_0_old/slides.html#ai-productivity-inequality",
-    "href": "session_0_old/slides.html#ai-productivity-inequality",
-    "title": "AI and the Labour Market (proto)",
-    "section": "AI Productivity, Inequality",
-    "text": "AI Productivity, Inequality\nModel-based\ncopmlementarity effect vs displacement effect"
-  },
-  {
-    "objectID": "session_0_old/slides.html#ai-preparedness",
-    "href": "session_0_old/slides.html#ai-preparedness",
-    "title": "AI and the Labour Market (proto)",
-    "section": "AI Preparedness",
-    "text": "AI Preparedness"
-  },
-  {
-    "objectID": "session_1_ai/pre_class_quiz.html",
-    "href": "session_1_ai/pre_class_quiz.html",
-    "title": "Pre-Class Warmup: The Economics of AI",
-    "section": "",
-    "text": "Instructions: These questions are designed to get you thinking about the economic impact of AI before we dive into the theory. There are no “wrong” answers at this stage, but try to use your economic intuition.\n\n\nWhen ChatGPT writes an essay or Netflix recommends a movie, what is it primarily doing from a mathematical/economic perspective? A. It is “understanding” the concepts like a human. B. It is performing a low-cost prediction (predicting the next word, or your likely rating) based on past data. C. It is accessing a fixed database of facts. D. It is generating random noise.\n\n\n\n\nThe Industrial Revolution replaced human physical muscle with steam and electric power. What is the fundamental shift offered by the current AI revolution? A. It replaces physical movement with robots. B. It replaces cognitive and creative labor (prediction, generation, reasoning) with cheap compute. C. It reduces the need for energy. D. It increases the cost of information.\n\n\n\n\nWhy are AI markets (like Search or LLMs) often dominated by one or two giant firms? A. Because they bribe the government. B. Because of Data Network Effects: More users \\(\\to\\) More Data \\(\\to\\) Better Product \\(\\to\\) More Users. C. Because these companies existed before the Internet. D. Because AI requires no capital investment.\n\n\n\n\nThink of the job you want to have in 5 years. Name ONE specific task in that job that you believe AI will NEVER be able to do well.\n(Max 1 sentence)\n\n\n\n\nWhat occurs once in a minute, twice in a moment, but never in a thousand years? (Hint: Don’t think about time. Look closer at the words themselves.)\nA. A thought B. The letter ‘M’ C. A second D. The present\nCorrect Answer: B (This tests your ability to process data (characters) rather than just semantic meaning—much like how an LLM tokenizes text!)"
-  },
-  {
-    "objectID": "session_1_ai/pre_class_quiz.html#question-1-the-core-mechanism",
-    "href": "session_1_ai/pre_class_quiz.html#question-1-the-core-mechanism",
-    "title": "Pre-Class Warmup: The Economics of AI",
-    "section": "",
-    "text": "When ChatGPT writes an essay or Netflix recommends a movie, what is it primarily doing from a mathematical/economic perspective? A. It is “understanding” the concepts like a human. B. It is performing a low-cost prediction (predicting the next word, or your likely rating) based on past data. C. It is accessing a fixed database of facts. D. It is generating random noise."
-  },
-  {
-    "objectID": "session_1_ai/pre_class_quiz.html#question-2-historical-comparison",
-    "href": "session_1_ai/pre_class_quiz.html#question-2-historical-comparison",
-    "title": "Pre-Class Warmup: The Economics of AI",
-    "section": "",
-    "text": "The Industrial Revolution replaced human physical muscle with steam and electric power. What is the fundamental shift offered by the current AI revolution? A. It replaces physical movement with robots. B. It replaces cognitive and creative labor (prediction, generation, reasoning) with cheap compute. C. It reduces the need for energy. D. It increases the cost of information."
-  },
-  {
-    "objectID": "session_1_ai/pre_class_quiz.html#question-3-winner-takes-all",
-    "href": "session_1_ai/pre_class_quiz.html#question-3-winner-takes-all",
-    "title": "Pre-Class Warmup: The Economics of AI",
-    "section": "",
-    "text": "Why are AI markets (like Search or LLMs) often dominated by one or two giant firms? A. Because they bribe the government. B. Because of Data Network Effects: More users \\(\\to\\) More Data \\(\\to\\) Better Product \\(\\to\\) More Users. C. Because these companies existed before the Internet. D. Because AI requires no capital investment."
-  },
-  {
-    "objectID": "session_1_ai/pre_class_quiz.html#question-4-open-reflection-short-response",
-    "href": "session_1_ai/pre_class_quiz.html#question-4-open-reflection-short-response",
-    "title": "Pre-Class Warmup: The Economics of AI",
-    "section": "",
-    "text": "Think of the job you want to have in 5 years. Name ONE specific task in that job that you believe AI will NEVER be able to do well.\n(Max 1 sentence)"
-  },
-  {
-    "objectID": "session_1_ai/pre_class_quiz.html#question-5-a-language-riddle-pattern-recognition",
-    "href": "session_1_ai/pre_class_quiz.html#question-5-a-language-riddle-pattern-recognition",
-    "title": "Pre-Class Warmup: The Economics of AI",
-    "section": "",
-    "text": "What occurs once in a minute, twice in a moment, but never in a thousand years? (Hint: Don’t think about time. Look closer at the words themselves.)\nA. A thought B. The letter ‘M’ C. A second D. The present\nCorrect Answer: B (This tests your ability to process data (characters) rather than just semantic meaning—much like how an LLM tokenizes text!)"
-  },
-  {
-    "objectID": "exam/index_handout.html",
-    "href": "exam/index_handout.html",
-    "title": "Final Exam ☠",
-    "section": "",
-    "text": "Come back later!."
-  },
-  {
-    "objectID": "NOTES.html",
-    "href": "NOTES.html",
+    "objectID": "session_4/assets/inequalities.html",
+    "href": "session_4/assets/inequalities.html",
     "title": "Topics in Economics",
     "section": "",
-    "text": "Topics in Economics: 26/01 with Erica"
+    "text": "import dbnomics\nfrom matplotlib import pyplot as plt\nplt.style.use('ggplot')\nplt.rcParams['axes.facecolor']='w'\nplt.rcParams.update({\"axes.grid\" : True, \"grid.color\": \"grey\"})\nimport pandas as pd\nimport numpy as np\n\n\n\nls gid-excel-2018\n\n\ngid-codebook.txt  gid-previewexcel.csv  __MACOSX/\n\n\n\n\n\nimport pandas as pd\n\n\nfilename =\"gid-excel-2018/gid-previewexcel.csv\"\n\n\ndf = pd.read_csv(filename, engine=\"python\")\n\n\nimport altair as alt\n\n\ndf.columns\n\nIndex(['country', 'coun3', 'year', 'atkinson2', 'gini', 'm2mratio',\n       'palmaratio', 'income1', 'income2', 'income3', 'income4', 'income5',\n       'income6', 'income7', 'income8', 'income9', 'income10', 'incomeatperc1',\n       'incomeatperc10', 'incomeatperc20', 'incomeatperc30', 'incomeatperc40',\n       'incomeatperc50', 'incomeatperc60', 'incomeatperc70', 'incomeatperc80',\n       'incomeatperc90', 'incomeatperc95', 'incomeatperc99', 'incomeatperc100',\n       'mean', 'mean2011PPP', 'mld', 'ratio90to10levels', 'share1', 'share2',\n       'share3', 'share4', 'share5', 'share6', 'share7', 'share8', 'share9',\n       'share10', 'growthrate', 'incdefn', 'population', 'databasesource',\n       'sharetop1', 'sharetop5', 'source1', 'sqcoeffvariation',\n       'surveysource2', 'surveyyears', 'consumptionsurvey', 'theil'],\n      dtype='object')\n\n\n\ndef get_value(country, year, name):\n    dd = df[(df['country']==country) & (df['year']==(year))]\n    return float(dd[name])\n\n\n\ndef get_gini(country, year):\n    dd = df[(df['country']==country) & (df['year']==(year))]\n    return float(dd[\"gini\"])\n\n\ndef get_series(country, year):\n    dd = df[(df['country']==country) & (df['year']==(year))]\n    avg_inc = float(dd['mean2011PPP'])\n    shares = [float(dd[f\"share{i}\"]) for i in range(1,11)]\n    income = [avg_inc*float(e)*10 for e in shares]\n    return shares, income\n    \n\n\nqts = [0.1*i for i in range(1,11)]\n\n\nget_series(\"France\", 2011)[1]\n\n[510.4986655176001,\n 727.3399498380002,\n 905.8840429176001,\n 1068.2271030276002,\n 1228.3058492892,\n 1399.0707211716003,\n 1598.4519968700001,\n 1862.1965167956002,\n 2298.2995205244,\n 4283.845316406]\n\n\n\nget_gini(\"France\", 2011)\n\nFrance\n\n\n0.33292484\n\n\n\ncountries = [\"France\", \"China\", \"United States\", \"United Kingdom\", \"Brazil\"]\nincome_per_quantile = {c: get_series(c, 2011)[1] for c in countries}\nshare_per_quantile = {c: get_series(c, 2011)[0] for c in countries}\n\n# Source Core Econ\n\nFrance\nChina\nUnited States\nUnited Kingdom\nBrazil\nFrance\nChina\nUnited States\nUnited Kingdom\nBrazil\n\n\n\nquantiles = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7 , 0.8,  0.9, 1.0]\n\n\ninc = np.array(income_per_quantile['France'])\ncs = inc.cumsum()\n\ninc_US = np.array(income_per_quantile['United States'])\n# cs_US = inc.cumsum()\n\nfig = plt.figure(figsize=(8, 6))\nplt.bar([e-0.1 for e in quantiles], inc, width=0.09, align='center', tick_label=[f'{e*100:.0f}%' for e in quantiles], alpha=0.5)\nplt.ylim(0)\nplt.xlim(-0.1,1.2)\nplt.grid( axis='x')\nplt.xlabel(\"Quantile\")\nplt.ylabel(\"Income\")\nplt.savefig(\"income_inequality_1.png\")\ndisplay(fig)\n\n\nfig = plt.figure(figsize=(8, 6))\nplt.bar([e-0.1 for e in quantiles], inc, width=0.09, align='center', tick_label=[f'{e*100:.0f}%' for e in quantiles], alpha=0.5, label='France')\nplt.bar([e-0.1 for e in quantiles], inc_US, width=0.09, align='center', tick_label=[f'{e*100:.0f}%' for e in quantiles], alpha=0.5, label= 'US')\nplt.ylim(0)\nplt.xlim(-0.1,1.2)\nplt.grid( axis='x')\nplt.xlabel(\"Quantile\")\nplt.ylabel(\"Income\")\nplt.legend(loc='upper left')\nplt.savefig(\"income_inequality_1_comparison.png\")\ndisplay(fig)\n\n\n\n\nfig = plt.figure(figsize=(8, 6))\nplt.bar([e-0. for e in quantiles], cs, width=0.09, align='center', tick_label=[f'{e*100:.0f}%' for e in quantiles], alpha=0.5)\nplt.ylim(0)\nplt.xlim(-0.1,1.2)\nplt.grid( axis='x')\nplt.xlabel(\"Quantile\")\nplt.ylabel(\"Cumulated Income\")\nplt.savefig(\"income_inequality_2.png\")\ndisplay(fig)\n\n## inequality measure : top 10% over bottom 10%\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nsh = cs/cs[-1]\nfig3 = plt.figure(figsize=(8, 6))\nplt.bar([e for e in quantiles],(cs/cs[-1]).tolist(), width=0.09, align='center', tick_label=[f'{e*100:.0f}%' for e in quantiles], alpha=0.5)\nplt.plot([0.0]+quantiles,  [0.0]+ (cs/cs[-1]).tolist(), color='C1')\nplt.ylim(0, 1.1)\nplt.xlim(-0.1,1.2)\nplt.grid( axis='x')\nplt.xlabel(\"Quantile\")\nplt.ylabel(\"Cumulated Income\")\nplt.savefig(\"income_inequality_3.png\")\nfig3\n\n# we can read the 10% poorest have 3.1%\n# while the 10% richest earn 25%\n# inequality measure: top10% over top20% = \n\n\n\n\n\n\n\n\n\nsh = cs/cs[-1]\nfig3 = plt.figure(figsize=(8, 6))\n# plt.bar([e for e in quantiles],(cs/cs[-1]).tolist(), width=0.09, align='center', tick_label=[f'{e*100:.0f}%' for e in quantiles], alpha=0.5)\nplt.plot([0.0]+quantiles,  [0.0]+quantiles, color='black', linestyle='--')\nplt.fill_between([0.0]+quantiles,  [e*0 for e in ([0.0]+quantiles)], [0.0]+quantiles, color='black', alpha=0.1)\nplt.plot([0.0]+quantiles,  [0.0]+ (cs/cs[-1]).tolist(), color='C1')\nplt.fill_between([0.0]+quantiles,  [e*0 for e in ([0.0]+quantiles)], [0.0]+ (cs/cs[-1]).tolist(), color='C1', alpha=0.2)\n\nplt.ylim(0, 1.1)\nplt.xlim(-0.1,1.2)\nplt.grid( axis='x')\nplt.xlabel(\"Quantile\")\nplt.ylabel(\"Cumulated Income\")\nplt.savefig(\"gini.png\")\nplt.text(0.55, 0.45, \"A\", fontdict={\"size\": 16})\nplt.text(0.7, 0.3, \"B\", fontdict={\"size\": 16})\nB = sum( [0.0]+ (cs/cs[-1]).tolist() )/1\nprint('Gini: ', (1-2*B ))\nprint(\"it should be 0.33\")\nfig3\n\n\nGini:  -6.757369935147398\nit should be 0.33\n\n\n\n\n\n\n\n\n\n\nincome_per_quantile\n\n{'France': [510.4986655176001,\n  727.3399498380002,\n  905.8840429176001,\n  1068.2271030276002,\n  1228.3058492892,\n  1399.0707211716003,\n  1598.4519968700001,\n  1862.1965167956002,\n  2298.2995205244,\n  4283.845316406],\n 'China': [45.92616406559999,\n  95.07738346080001,\n  147.76284945240002,\n  206.01037747679996,\n  272.8685765208,\n  353.4260517216,\n  457.32411165480005,\n  606.4540846728,\n  869.3027064227999,\n  1917.5676945516],\n 'United States': [350.7690341904,\n  619.9808561568001,\n  864.7120830168001,\n  1102.2915414408,\n  1347.5906722512002,\n  1618.1163159816003,\n  1941.5423451144002,\n  2375.6458925328006,\n  3093.4462178064005,\n  5603.425230684001],\n 'United Kingdom': [406.6649287554,\n  620.1000463248,\n  800.425416867,\n  966.9183441114001,\n  1132.6065687429,\n  1310.1921632253002,\n  1517.6133321312,\n  1790.3849683071003,\n  2232.0367535079,\n  3677.9274780270002],\n 'Brazil': [57.832885405439995,\n  116.12704198464,\n  164.25351435455997,\n  213.53656694976,\n  268.78778410175994,\n  335.4778012032,\n  422.87455794816,\n  551.49833850624,\n  785.9866597113601,\n  2050.47270082944]}\n\n\n\nplt.clf()\nfig3 = plt.figure(figsize=(8, 6))\nfor c in countries:\n    sh = np.array(share_per_quantile[c]).cumsum()\n    gini = get_gini(c, 2011)\n    plt.plot([0.0]+quantiles,  [0.0]+ sh.tolist(), label=f\"{c} | Gini: {gini:.2f}\")\n\n# plt.bar([e for e in quantiles],(cs/cs[-1]).tolist(), width=0.09, align='center', tick_label=[f'{e*100:.0f}%' for e in quantiles], alpha=0.5)\nplt.plot([0, 1], [0, 1], color='black', linestyle='--')\n\nplt.ylim(0, 1.1)\nplt.xlim(-0.,1.)\nplt.grid( axis='x')\nplt.xlabel(\"Quantile\")\nplt.ylabel(\"Cumulated Income\")\nplt.legend(loc='upper left')\nplt.savefig(\"income_inequality_comparison.png\", transparent=True, bbox_inches='tight')\n\n&lt;Figure size 432x288 with 0 Axes&gt;\n\n\n\n\n\n\n\n\n\n\nsh9 = get_value(\"France\", 2010, \"share9\")\nsh10 = get_value(\"France\", 2010, 'share10')\nt5 = get_value(\"France\", 2010, 'sharetop5')\nt1 = get_value(\"France\", 2010, 'sharetop1')\n# get_value(\"France\", 2010, 'sharetop10')\n\nFrance\nFrance\nFrance\nFrance\n\n\n\ntotal = sh9 + sh10\n\n\nx = np.array([0.0, 10, 15, 19, 20])/20\ny = np.array([0.0, sh9/total, (sh10-t5)/total, (t5-t1)/total, t1/total])\nc = y.cumsum()\n\n\nsh = np.array(share_per_quantile[\"France\"]).cumsum()\nplt.plot([0.0]+quantiles,  [0.0]+ sh.tolist(), label=f\"Full Distribution\")\nplt.plot(x,c, label=\"Top 20%\")\nplt.legend(loc='upper left')\n\n\n\n\n\n\n\n\n\ndef get_all_gini(country):\n    dates = []\n    indices = []\n    for year in range(1900, 2020):\n        try:\n            gin = get_gini(country, year)\n            dates.append(year)\n            indices.append(gin)\n        except:\n            pass\n    return dates, indices\n\n\ndates0, indices0 = get_all_gini(\"France\")\ndates1, indices1 = get_all_gini(\"United States\")\n\n\nplt.plot(dates0, indices0)\nplt.plot(dates1, indices1)\nplt.xlim(1970)\n\n\n\n\n\n\n\n\nINSEE: Gini index\n\ngini_france = [[1970, 0.337],\n[1975, 0.323],\n[1979, 0.303],\n[1984, 0.297],\n[1990, 0.283],\n[1996, 0.282],\n[1997, 0.281],\n[1998, 0.279],\n[1999, 0.286],\n[2000, 0.289],\n[2001, 0.288],\n[2002, 0.284],\n[2003, 0.283],\n[2004, 0.283],\n[2005, 0.289],\n[2006, 0.293],\n[2007, 0.292],\n[2008, 0.292],\n[2009, 0.293],\n[2010, 0.302],\n[2011, 0.305],\n[2012, 0.302],\n[2013, 0.288],\n[2014, 0.289],\n[2015, 0.292],\n[2016, 0.288],\n[2017, 0.289]]\n\n\ndates, gini = [*zip(*gini_france)]\n\n\nginis_us = [[1974, 35.3],\n[1979, 34.6],\n[1986, 37.5],\n[1991, 38.2],\n[1994, 40.2],\n[1997, 40.7],\n[2000, 40.3],\n[2004, 40.5],\n[2007, 41.0],\n[2010, 40.3],\n[2013, 41.0],\n[2016, 41.4]]\ndates_us, gini_us = [*zip(*ginis_us)]\ngini_us  = np.array(gini_us)/100\n\n\nplt.figure(figsize=(12, 6))\nplt.plot(dates, gini, label='France')\nplt.plot(dates_us, gini_us, label='United states')\nplt.legend(loc='upper left')\nplt.savefig(\"gini_evolution.png\", transparent=True, bbox_inches='tight')"
   },
   {
-    "objectID": "session_0/index.html#how-do-you-define-economics",
-    "href": "session_0/index.html#how-do-you-define-economics",
+    "objectID": "session_4/index.html#gdp",
+    "href": "session_4/index.html#gdp",
+    "title": "Inequalities",
+    "section": "GDP",
+    "text": "GDP\n\n\n\n\n\n\n\nGDP = Total Revenue\n\na proxy for well-being\n\nBut GDP says nothing about distribution\nThough there is data about it…\n\n\n\n\nSort agents by revenue levels, in equal groups\nThose groups are called quantiles\nTake the average per quantile"
+  },
+  {
+    "objectID": "session_4/index.html#income-inequality",
+    "href": "session_4/index.html#income-inequality",
+    "title": "Inequalities",
+    "section": "Income Inequality",
+    "text": "Income Inequality\n\n\n\n\n\n\n\n\n\n\n\nHere is the result for France with 10 quantiles (deciles)\n\nAfter-tax revenue for France in 2011:\n\nlower decile (bottom 10): 522 dollars/month on average\nhigher decile (top 10): 4226 dollars/month on average\n\nRatio top 10 / bottom 10: 8\n\nratios between quantile neutralize average revenue allowing for international comparisons\n\n\n\n\n\nLorenz Curve\n\nCumulative Distribution, Normalized (sums to 1) of income\n\n\n\n\n\nThe Lorenz curve shows graphically the deviation of the distribution from an equal benchmark\n\nGini Index: A/(A+B)\n\nGini=0: perfect equality\nGini=1: perfect inequality\n\nRemark: there is a formula for the Gini index, as a function of cumulative quantiles (\\(X_k\\)) and cumulative revenues (\\(Y_k\\)) \\[G=1-\\sum_{k=0}^{n-1}(X_{k+1}-X_k)(Y_{k+1}+Y_k)\\]\n\n\n\n\nA first international comparison:\n\nFrance and UK have (today) similar levels of inequality\nUnited States: a more unequal country\nChina and Brasil: very unequal\n\n\n\n\nMore gini indices:\n\nwhich do you think are the most unequal countries?\nhas it changed recently ?\n\ncheck out the World Inequality Ranking By Country 2022"
+  },
+  {
+    "objectID": "session_4/index.html#section",
+    "href": "session_4/index.html#section",
+    "title": "Inequalities",
+    "section": "",
+    "text": "Do you think inequalities are rising?"
+  },
+  {
+    "objectID": "session_4/index.html#source",
+    "href": "session_4/index.html#source",
+    "title": "Inequalities",
+    "section": "Source",
+    "text": "Source\n\n\n\nWhere to find historical Data about inequality ?\nThe best source: World Inequality Database\n\nThomas Piketty\nLucas Chancel\nEmmanuel Saez\nGabriel Zucman\n…\n\nA team of very serious researchers behind World Inequality Lab"
+  },
+  {
+    "objectID": "session_4/index.html#section-1",
+    "href": "session_4/index.html#section-1",
+    "title": "Inequalities",
+    "section": "",
+    "text": "Global income inequality, 1820-2020"
+  },
+  {
+    "objectID": "session_4/index.html#section-4",
+    "href": "session_4/index.html#section-4",
+    "title": "Inequalities",
+    "section": "",
+    "text": "Summary:\n\n⇒ Global inequality rose between 1820 and 1910, and stabilized at a high level since then\n⇒ No difference between 1910 and now, except increase in middle 40%\n⇒ Level of inequality that we currently observe in the most unequal countries in the world, such as South Africa, Brazil, Mexico and the United Arab Emirates (see Chapter 1). In brief: in terms of inequality and concentration of resources and economic power, the world today is and has long been like a giant South Africa."
+  },
+  {
+    "objectID": "session_4/index.html#section-5",
+    "href": "session_4/index.html#section-5",
+    "title": "Inequalities",
+    "section": "",
+    "text": "Between-country: assume everybody in the country has the same income\nWithin-country: averages between countries, weighted by country sizes\n\n\n⇒ For both series: same level in 1920 as in 2020\n\n\n⇒ But inequality within countries were lower in the 40s-80s"
+  },
+  {
+    "objectID": "session_4/index.html#section-7",
+    "href": "session_4/index.html#section-7",
+    "title": "Inequalities",
+    "section": "",
+    "text": "Let’s focus on the between dimension:\n\n\ndevelopment has raised per capita income everywhere\nthe catchup effect is fairly elusive"
+  },
+  {
+    "objectID": "session_4/index.html#section-8",
+    "href": "session_4/index.html#section-8",
+    "title": "Inequalities",
+    "section": "",
+    "text": "Shall we focus also on the super rich?"
+  },
+  {
+    "objectID": "session_4/index.html#section-9",
+    "href": "session_4/index.html#section-9",
+    "title": "Inequalities",
+    "section": "",
+    "text": "Income of the 1% and 0.1% top earners was highest in 1910 then decreased until all time low in the 60s and rose again, but not as high."
+  },
+  {
+    "objectID": "session_4/index.html#section-10",
+    "href": "session_4/index.html#section-10",
+    "title": "Inequalities",
+    "section": "",
+    "text": "From WID (Chancel and Piketty 2020)\n\nOur new series reveal that, around the turn of the 21st century, the within- country component of global inequality has become greater than the between-country component. In contemporary capitalism, an individual’s income group (i.e. whether they belong to the bottom 50%, top 1%, etc. in their own country) now matters more than their nationality (where they live) in the determination of global inequality levels."
+  },
+  {
+    "objectID": "session_4/index.html#the-psz-auten-splinter-debate",
+    "href": "session_4/index.html#the-psz-auten-splinter-debate",
+    "title": "Inequalities",
+    "section": "The PSZ / Auten-Splinter Debate",
+    "text": "The PSZ / Auten-Splinter Debate\n\nPSZ DebateIn Income Inequality in the United States: Using Tax Data to Measure Long-Term Trends (JPE, 2024), Auten and Splinter challenge Piketty, Saez and Zucman’s estimates of US income inequality trends."
+  },
+  {
+    "objectID": "session_4/index.html#what-are-they-measuring",
+    "href": "session_4/index.html#what-are-they-measuring",
+    "title": "Inequalities",
+    "section": "What are they measuring?",
+    "text": "What are they measuring?\n\nShared goal: estimate the distribution of (broad) U.S. national income, not just “taxable income”\nPSZ (DINA approach): combine tax + survey + national accounts so the distribution sums to 100% of national income\n\nProduces series of pre-tax and post-tax income shares consistent with macro totals[^1]\n\nAuten–Splinter (AS): start from tax data but adjust for\n\ntax-base and reporting changes over time\ndemographic/social changes (tax units vs persons, filing behavior)\n“missing” income not on returns\nConclude top shares are lower and rise less\n\nCore point: both agree tax returns are incomplete → disagreement is about how to correct and allocate what’s missing\n\n\nFraming: not “who can do arithmetic,” but “what is the target concept + what assumptions map observed data to that concept?”"
+  },
+  {
+    "objectID": "session_4/index.html#disagreement-allocating-missing-income",
+    "href": "session_4/index.html#disagreement-allocating-missing-income",
+    "title": "Inequalities",
+    "section": "Disagreement: allocating “missing” income",
+    "text": "Disagreement: allocating “missing” income\nBig moving parts (each changes top shares materially):\n\nUntaxed / under-taxed business & capital income\n\ne.g., how to allocate partnership/pass-through income that is large and unevenly reported\n\nCorporate profits / retained earnings & incidence\n\nwho “receives” retained earnings (shareholders vs pensions/nonprofits/foreigners) and how to assign corporate taxes\n\nUnit & splitting rules\n\ntax unit vs individual adults; splitting within couples; treatment of non-filers\n\nTransfers and noncash items (for post-tax/post-transfer inequality)\n\nvaluation and assignment of in-kind benefits; timing of pandemic-era transfers\n\nEvasion / underreporting assumptions\n\nwhether (and how strongly) underreporting is concentrated at the top"
+  },
+  {
+    "objectID": "session_4/index.html#disagreement-allocating-missing-income-1",
+    "href": "session_4/index.html#disagreement-allocating-missing-income-1",
+    "title": "Inequalities",
+    "section": "Disagreement: allocating “missing” income",
+    "text": "Disagreement: allocating “missing” income\nWhat each side claims:\n\nPSZ: AS mis-allocates large amounts of untaxed income away from the top → mechanically lowers the top 1% share\nAS: PSZ reallocations rely on problematic back-of-envelope adjustments and inappropriate distributions → AS allocations are more defensible\n\nTakeaway: series are model-based reconstructions:\n\ncrucial: what is “income”? what’s missing? how is it allocated? how sensitive are conclusions to alternatives?"
+  },
+  {
+    "objectID": "session_4/index.html#section-11",
+    "href": "session_4/index.html#section-11",
+    "title": "Inequalities",
+    "section": "",
+    "text": "What kind of inequality do we care about?\nShould we really focus on income?"
+  },
+  {
+    "objectID": "session_4/index.html#other-types-of-inequality",
+    "href": "session_4/index.html#other-types-of-inequality",
+    "title": "Inequalities",
+    "section": "Other types of inequality",
+    "text": "Other types of inequality\n\n\n\nincome (net of taxes)\nincome (gross)\nconsumption\nwealth\nchance of being unemployed\nhealth\n\n\n\nlife-expectancy\nwell-being\ncarbon emissions\ndecision power\nbeauty\nenvironmental exposition\nprovision of public goods"
+  },
+  {
+    "objectID": "session_4/index.html#net-vs-gross-inequalities",
+    "href": "session_4/index.html#net-vs-gross-inequalities",
+    "title": "Inequalities",
+    "section": "Net vs Gross Inequalities",
+    "text": "Net vs Gross Inequalities\n\n\nGini index for several countries before and after taxes in 2014\n\nFrance and United states: same pretax inequality level: 0.51\nIn France, redistribution brings it to 0.29,0.39 aux US\nEuropean countries tend to redistribute more\nsome small european countries (Ireland, Portugal, Greece) have similar, very high levels of inequalities"
+  },
+  {
+    "objectID": "session_4/index.html#consumption-inequality",
+    "href": "session_4/index.html#consumption-inequality",
+    "title": "Inequalities",
+    "section": "Consumption Inequality",
+    "text": "Consumption Inequality\n\n\n\nFrom Measuring and Comparing Consumption Inequality between France and the United States, Aliocha Accardo, Sylvérie Herbert, Cristina Jude, Adrian Penalver \n\n\nConsumption Inequality is much lower than income inequality. Why?\nTwo main reasons\n\nConsumption sharing within a household or a family\nConsumption smoothing with borrowing or saving\n\nto absorb temporary shocks\nto smooth consumption over the life cycle"
+  },
+  {
+    "objectID": "session_4/index.html#consumption-inequality-life-cycle",
+    "href": "session_4/index.html#consumption-inequality-life-cycle",
+    "title": "Inequalities",
+    "section": "Consumption Inequality: Life-Cycle",
+    "text": "Consumption Inequality: Life-Cycle\n\n\n🤔 Do we want to reduce it?"
+  },
+  {
+    "objectID": "session_4/index.html#wealth-inequality",
+    "href": "session_4/index.html#wealth-inequality",
+    "title": "Inequalities",
+    "section": "Wealth Inequality",
+    "text": "Wealth Inequality"
+  },
+  {
+    "objectID": "session_4/index.html#wealth-inequality-1",
+    "href": "session_4/index.html#wealth-inequality-1",
+    "title": "Inequalities",
+    "section": "Wealth Inequality",
+    "text": "Wealth Inequality\n\n\nIt is very hard to get precise data about wealth. Authors used many different strategies (tax receipts, surveys, …)"
+  },
+  {
+    "objectID": "session_4/index.html#wealth-inequality-2",
+    "href": "session_4/index.html#wealth-inequality-2",
+    "title": "Inequalities",
+    "section": "Wealth Inequality",
+    "text": "Wealth Inequality\n\n\n\nWhat is the problem with Wealth Inequality?\n\nit is very persistent\nit is still an instrument of power (less so than in the past…)\n\nSince richer individuals get access to higher returns on investment, by itself, wealth inequality tends to increase until it is taxed\nMost economic models find that wealth is not automatically mean-reverting"
+  },
+  {
+    "objectID": "session_4/index.html#inequality-dimensions",
+    "href": "session_4/index.html#inequality-dimensions",
+    "title": "Inequalities",
+    "section": "Inequality Dimensions",
+    "text": "Inequality Dimensions\nFor a given welfare target, one can get different inequality measures.\n\n\n\nby changing the overall population. Within\n\ncountry\nregion\npeers, …\n\n\n\n\nby comparing several subcategories. Between\n\ncountries\nrace\ngender\nage or generation?\neducation level"
+  },
+  {
+    "objectID": "session_4/index.html#intra-population",
+    "href": "session_4/index.html#intra-population",
+    "title": "Inequalities",
+    "section": "Intra-population",
+    "text": "Intra-population\n\nRacial gap\n\nin the US, whites earn 30% more than afro-americans who earn 20% more than hispanics\nnot just about racism\n\ndifferent job types\ndifferences in education\ngeographic segregation\n\n\nGender gap\nEU: women receive on average 15% less than men\nThey earn 10% for equivalent work (European Commission).\n\nIn both cases, one must distinguish a pure measure of inequality from a measure of discrimination."
+  },
+  {
+    "objectID": "session_4/index.html#inter-generational-inequality",
+    "href": "session_4/index.html#inter-generational-inequality",
+    "title": "Inequalities",
+    "section": "Inter-Generational Inequality",
+    "text": "Inter-Generational Inequality\n\nA common narrative: for the age gap\n\nbaby-boomers saw their income rise during their life and enjoy rather high pensions\nnew generations have lower life-income profiles and lower expected pensions\neven more problematic for wealth inequality: average age for retirement is 60 years\n\nAccording to D’Albis and Badji, this is not true in France"
+  },
+  {
+    "objectID": "session_4/index.html#inter-generational-inequality-1",
+    "href": "session_4/index.html#inter-generational-inequality-1",
+    "title": "Inequalities",
+    "section": "Inter-Generational Inequality",
+    "text": "Inter-Generational Inequality"
+  },
+  {
+    "objectID": "session_4/index.html#inter-generational-inequality-2",
+    "href": "session_4/index.html#inter-generational-inequality-2",
+    "title": "Inequalities",
+    "section": "Inter-Generational Inequality",
+    "text": "Inter-Generational Inequality\n\n\nThis is even more dubious when looking at consumption.\n… and there were a lot of other material improvements (like life expectancy)"
+  },
+  {
+    "objectID": "session_4/index.html#section-13",
+    "href": "session_4/index.html#section-13",
+    "title": "Inequalities",
+    "section": "",
+    "text": "What improves the circumstances of the greater part can never be regarded as an inconveniency to the whole. No society can surely be flourishing and happy, of which the far greater part of the members are poor and miserable.\n\n\nAdam Smith, The Wealth Of Nations, Book I Chapter VIII, p.96"
+  },
+  {
+    "objectID": "session_4/index.html#political-philosophy-1",
+    "href": "session_4/index.html#political-philosophy-1",
+    "title": "Inequalities",
+    "section": "Political Philosophy (1)",
+    "text": "Political Philosophy (1)\nUtilitarianism: the state should maximize total utility of all citizens(Bentham, Stuart Mill)\n\nmarginal utility implies the need for some distribution (because rich citizens derive less utility from an additional consumption unit than the poors)\nit does not imply perfect redistribution because\n\nthere is a cost to redistribution\ntoo much equality can induce bad incentives which is detrimental to everybody\n\nModern version: Pareto weights \\(\\omega_i\\) \\[\\max \\sum_i \\omega_i U(c_i)\\]"
+  },
+  {
+    "objectID": "session_4/index.html#political-philosophy-2",
+    "href": "session_4/index.html#political-philosophy-2",
+    "title": "Inequalities",
+    "section": "Political Philosophy (2)",
+    "text": "Political Philosophy (2)\nLiberalism: the state should choose fair policies as evaluated by an objective observer hidden behind a veil of ignorance\n\nJohn Rawls proposes a mental experiment where one evaluates the rules of the society (including the economic system) from an original position untainted by the ultimate place of the observer in the society\nreducing inequalities could be seen as insurance against a bad draw\nbut what is the risk? when probabilities are unknown one talks about ambiguity, or radical uncertainty\nit is not clear what is the aversion to this kind of risk\n\nRawls/Knight: one maximizes utility in the worst case (maximin criterion)\n\nmore redistribution than in the utilitarian case\n\nbut not 100% equal either"
+  },
+  {
+    "objectID": "session_4/index.html#political-philosophy-3",
+    "href": "session_4/index.html#political-philosophy-3",
+    "title": "Inequalities",
+    "section": "Political Philosophy (3)",
+    "text": "Political Philosophy (3)\nLibertarianism: state should punish crimes, and help secure voluntary contracts between willing individuals, but it should not redistribute income\n\ninequality is not relevant at a state’s level\n\nin the same way that granting the same grade to all students is not a valid objective\n\nit doesn’t mean libertarians are not altruistic\nstate must guarantee that the allocation procedure be legal\n\nconcretely: grant property rights"
+  },
+  {
+    "objectID": "session_4/index.html#section-15",
+    "href": "session_4/index.html#section-15",
+    "title": "Inequalities",
+    "section": "",
+    "text": "Among the three philosophies, what do you think is the better description of international relations between countries?"
+  },
+  {
+    "objectID": "session_4/index.html#the-ultimatum-game",
+    "href": "session_4/index.html#the-ultimatum-game",
+    "title": "Inequalities",
+    "section": "The ultimatum game",
+    "text": "The ultimatum game\nDo people actually care about inequality?\n\n\n\n\n\nThe Ultimatum Game: Split the Bill"
+  },
+  {
+    "objectID": "session_4/index.html#section-16",
+    "href": "session_4/index.html#section-16",
+    "title": "Inequalities",
+    "section": "",
+    "text": "Setup\nTwo players negotiate over a fixed amount of money (the pie):\n\nplayer 1 demands a proportion of the pie\nplayer 2 sees the size and player’s 1 demand and either rejects or accepts it\n\naccept: split is implemented\nreject: both players get 0"
+  },
+  {
+    "objectID": "session_4/index.html#section-17",
+    "href": "session_4/index.html#section-17",
+    "title": "Inequalities",
+    "section": "",
+    "text": "Results"
+  },
+  {
+    "objectID": "session_4/index.html#section-18",
+    "href": "session_4/index.html#section-18",
+    "title": "Inequalities",
+    "section": "",
+    "text": "Results\nhundreds of papers since original one by Guth et al.\nconsistent results: average offer is 40%, offers below 20% have high chances to be rejected, lots of 50-50\nnote that the “rational choice” for both agents would be 99-1!\nit is an example of other regarding preferences (aka altruism)"
+  },
+  {
+    "objectID": "session_4/index.html#section-19",
+    "href": "session_4/index.html#section-19",
+    "title": "Inequalities",
+    "section": "",
+    "text": "What determines the split? What influences altruism?\n\n\n\n\naltruism\n\n\n\n\nCan you devise an experiment to measure the effect of “shame”?"
+  },
+  {
+    "objectID": "session_4/index.html#the-ultimatum-game-measuring-shame",
+    "href": "session_4/index.html#the-ultimatum-game-measuring-shame",
+    "title": "Inequalities",
+    "section": "The ultimatum game: measuring shame",
+    "text": "The ultimatum game: measuring shame\nImproved protocol\n\nfor half of the candidates, exactly as before (control group)\nfor the other half (treatment group), the two players, don’t see each other don’t have any contact. Only the demand from player one is communicated to player 2.\n\nResult:\n\n-&gt; players are less generous but the result holds"
+  },
+  {
+    "objectID": "session_4/index.html#other-regarding-preferences-are-not-only-about-money",
+    "href": "session_4/index.html#other-regarding-preferences-are-not-only-about-money",
+    "title": "Inequalities",
+    "section": "Other regarding preferences are not only about money?",
+    "text": "Other regarding preferences are not only about money?\n\n\nDo you find it scandalous?\nWhat if big carbon emitters were paying for it?"
+  },
+  {
+    "objectID": "session_4/index.html#classical-efficiency-argument",
+    "href": "session_4/index.html#classical-efficiency-argument",
+    "title": "Inequalities",
+    "section": "Classical Efficiency Argument",
+    "text": "Classical Efficiency Argument\n\n\n\n\n\nAdam Smith\n\n\n\nAdam Smith view (according to Debora Boucoyannis)\n\nindividuals should be paid according to their marginal productivity\n\ni.e. what they bring to the society\nmore productive individuals should be paid more to produce more\n\nbut because marginal returns are decreasing no one will get very high salary\n\nnot even entrepreneurs because profits are decreasing\n\n\n\n\n⇒ High inequality is a sign that markets are not functioning properly"
+  },
+  {
+    "objectID": "session_4/index.html#section-20",
+    "href": "session_4/index.html#section-20",
+    "title": "Inequalities",
+    "section": "",
+    "text": "Of the tendencies that are harmful to sound economics, the most seductive, and in my opinion the most poisonous, is to focus on questions of distribution… The potential for improving the lives of poor people by finding different ways of distributing current production is nothing compared to the apparently limitless potential of increasing production.\n\nBob Lucas (2004)"
+  },
+  {
+    "objectID": "session_4/index.html#inequality-and-development",
+    "href": "session_4/index.html#inequality-and-development",
+    "title": "Inequalities",
+    "section": "Inequality and Development",
+    "text": "Inequality and Development\n\n\n\n\nKuznets has studied the relationship between the level of development and inequality.\nHe asserted that countries develop in two phases:\n\nin developing economies: entrepreneurs accumulate wealth by hiring cheap workers migrating from the country-side to the cities\nin mature economies: salaries rise and growth in human capital becomes central to economic growth"
+  },
+  {
+    "objectID": "session_4/index.html#inequality-and-growth-1",
+    "href": "session_4/index.html#inequality-and-growth-1",
+    "title": "Inequalities",
+    "section": "Inequality and Growth (1)",
+    "text": "Inequality and Growth (1)\nWhat if there was a trade-off between growth and inequality:\n\ntrickle-down economics:\n\ntransferring money to the rich benefits everyone because it is reinvested in the economy\npopular with some conservative politicians\n…but not defended by any serious economist\n\nsome growth economists (Paul Romer, Philippe Aghion) have studied how growth induces more inequality\n\nthrough skill-biased technical changes\nthrough the unequal distribution of the rents from innovation"
+  },
+  {
+    "objectID": "session_4/index.html#inequality-and-growth-2",
+    "href": "session_4/index.html#inequality-and-growth-2",
+    "title": "Inequalities",
+    "section": "Inequality and Growth (2)",
+    "text": "Inequality and Growth (2)\n\nEmpirically, several studies have been carried out see whether there was a systematic relationship between growth of inequalities.\n\nDeininger and Squire 1998, Barro 2000, Forbes 2000, …: inconclusive\nBanerjee and Duflo 2003: inverted U-shape"
+  },
+  {
+    "objectID": "session_4/index.html#section-21",
+    "href": "session_4/index.html#section-21",
+    "title": "Inequalities",
+    "section": "",
+    "text": "Response to Lucas\n\nIt’s fairly common for conservative economists to try and shout down any discussion of income distribution by claiming that distribution is a trivial matter compared with the huge gains from economic growth. For example, Robert Lucas: “Of the tendencies that are harmful to sound economics, the most seductive, and in my opinion the most poisonous, is to focus on questions of distribution.” The usual answer to this is to point out that we don’t actually know much about how to produce rapid economic growth — conservatives may think they know (low taxes and all that), but there is no evidence to back up their certainty. And on the other hand, we know how to make a big difference to income distribution, especially how to reduce extreme poverty. So why not work on what we know, as at least part of our economic strategy?\n\nKrugman"
+  },
+  {
+    "objectID": "session_4/index.html#modern-version-mankiws-defense-of-the-top-1",
+    "href": "session_4/index.html#modern-version-mankiws-defense-of-the-top-1",
+    "title": "Inequalities",
+    "section": "Modern version: Mankiw’s defense of the top 1%",
+    "text": "Modern version: Mankiw’s defense of the top 1%\n\n\nGreg Mankiw:\n\nNew Keynesian\nconservative\nauthor of the (very consensual) textbook “Principles of Economics”\n\nMost economists today belong to the classical school of thought.\n\n\n\n💦: Defending the One Percent in Journal of Economic Perspectives, 2013\n\n\nKrugman Response"
+  },
+  {
+    "objectID": "session_4/index.html#why-is-it-crucial-to-control-inequalities-now",
+    "href": "session_4/index.html#why-is-it-crucial-to-control-inequalities-now",
+    "title": "Inequalities",
+    "section": "Why is it crucial to control inequalities now?",
+    "text": "Why is it crucial to control inequalities now?\nThere are two big reasons why not tackling inequalities could have huge impact\n\nin an unequal society, negative shocks are borne disproportionately by the bottom of the distribution\nactual and perceived changes in inequalities are strong drivers for doing / undoing coalitions\n\nfor big reforms we need strong coalitions\n\nex: pension reforms, carbon tax, international climate coalition\n\n\nwealth inequality is tomorrow’s income inequality\n\nrecently it seems to be on a fairly divergent trend, and it could get worse because of high returns on new technologies"
+  },
+  {
+    "objectID": "session_4/index.html#can-we-do-more",
+    "href": "session_4/index.html#can-we-do-more",
+    "title": "Inequalities",
+    "section": "Can we do more?",
+    "text": "Can we do more?"
+  },
+  {
+    "objectID": "session_4/index.html#can-we-do-more-2",
+    "href": "session_4/index.html#can-we-do-more-2",
+    "title": "Inequalities",
+    "section": "Can we do more? (2)",
+    "text": "Can we do more? (2)"
+  },
+  {
+    "objectID": "session_5/index_handout.html",
+    "href": "session_5/index_handout.html",
+    "title": "TBC",
+    "section": "",
+    "text": "Come back later!."
+  },
+  {
+    "objectID": "session_0_old/index.html#about-myself",
+    "href": "session_0_old/index.html#about-myself",
     "title": "General Introduction",
-    "section": "How do you define “Economics” ?",
-    "text": "How do you define “Economics” ?\n\n\n\n\n\n\n\nWikipedia\n\n\nEconomics is a social science that studies the production, distribution, and consumption of goods and services.\n\n\n\n\n\n\n\n\n\n\n\n\nAmerican Economic Association\n\n\nIt can be defined in different ways. It’s the study of scarcity, the study of how people use resources and respond to incentives, or the study of decision-making. It often involves topics like wealth and finance, but it’s not all about money.\n\n\n\n\n\n\n\n\n\n\n\n\n\nRedux\n\n\nEconomics studies people’s decisions and interactions, usually through markets but not always\n\n\n\n\n\n\nCheck AEA website and research highlights for many examples of economic applications."
+    "section": "About myself",
+    "text": "About myself\n\n\n\n\n\nPablo Winant\n\n\n\n\nProfessional experience\n\nIMF\nBank of England\n\nTeaching\n\nESCP Business School\nEcole Polytechnique\n\nResearch\n\ninequalities\ninternational finance\nmonetary policy\ncomputational economics\nartificial intelligence"
   },
   {
-    "objectID": "session_0/index.html#pressing-topics",
-    "href": "session_0/index.html#pressing-topics",
-    "title": "General Introduction",
-    "section": "Pressing Topics…",
-    "text": "Pressing Topics…"
-  },
-  {
-    "objectID": "session_0/index.html#this-course",
-    "href": "session_0/index.html#this-course",
+    "objectID": "session_0_old/index.html#this-course",
+    "href": "session_0_old/index.html#this-course",
     "title": "General Introduction",
     "section": "This course",
     "text": "This course\n\nStart with hot topics\n\ne.g. ChatGPT, job market, ecological transition, …\n\nConnect with economic theories and concepts\n\nthey appear in bold\nmake sure you understand their meaning\n\nTry to think outside of the box"
   },
   {
-    "objectID": "session_0/index.html#evaluation",
-    "href": "session_0/index.html#evaluation",
+    "objectID": "session_0_old/index.html#pressing-topics",
+    "href": "session_0_old/index.html#pressing-topics",
+    "title": "General Introduction",
+    "section": "Pressing Topics… –>",
+    "text": "Pressing Topics… –&gt;"
+  },
+  {
+    "objectID": "session_0_old/index.html#how-do-you-define-economics",
+    "href": "session_0_old/index.html#how-do-you-define-economics",
+    "title": "General Introduction",
+    "section": "How do you define “Economics” ?",
+    "text": "How do you define “Economics” ?\n\n\n\n\n\n\n\nWikipedia\n\n\nEconomics is a social science that studies the production, distribution, and consumption of goods and services.\n\n\n\n\n\n\n\n\n\n\n\n\nAmerican Economic Association\n\n\nIt can be defined in different ways. It’s the study of scarcity, the study of how people use resources and respond to incentives, or the study of decision-making. It often involves topics like wealth and finance, but it’s not all about money.\n\n\n\n\n\n\n\n\n\n\n\n\n\nRedux\n\n\nEconomics studies people’s decisions and interactions, usually through markets but not always\n\n\n\n\n\n\nCheck AEA website and research highlights for many examples of economic applications."
+  },
+  {
+    "objectID": "session_0_old/index.html#evaluation",
+    "href": "session_0_old/index.html#evaluation",
     "title": "General Introduction",
     "section": "Evaluation",
     "text": "Evaluation\n\ngroup work (40%)\n\nrecord a 5 min video developing one particular point of the course\n4 students max per group\nmore detailed instructions upcoming\nto be handled two weeks before the final exam\n\nfinal exam (in-class) (60%)\n\nvery short essay based on documents\nmcq on:\n\necon concepts\ndocuments\ngroupwork\n\n\nongoing (up to 20% bonus/malus)\n\nparticipation & behaviour\nmini-tasks if any"
   },
   {
-    "objectID": "session_0/index.html#your-teachers",
-    "href": "session_0/index.html#your-teachers",
-    "title": "General Introduction",
-    "section": "Your Teachers",
-    "text": "Your Teachers\n\n\n\n\n\nPablo Winant\n\n\n\nResearch\n\ninequalities\ninternational finance\nmonetary policy\nartificial intelligence\n\n\n\n\n\n\nRaphael Epperson\n\n\n\nResearch\n\nbehavioral economics\nenvironment\nmicro theory"
-  },
-  {
-    "objectID": "session_0/index.html#ant-ai",
-    "href": "session_0/index.html#ant-ai",
-    "title": "General Introduction",
-    "section": "Ant AI",
-    "text": "Ant AI\n\n\n\n\n\nAnt AI\n\n\nCheck out our new AI Teaching Assistant\n\n\nA retrieval augmented generator (RAG)\nBased on GPT-5.2\nMuch nicer than a regular teacher\n\nask any question\nany time\nwill not do your own work though…"
-  },
-  {
-    "objectID": "session_0/index.html#the-plan",
-    "href": "session_0/index.html#the-plan",
-    "title": "General Introduction",
-    "section": "The Plan",
-    "text": "The Plan\n\n\n\n\nDate\nTitle\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "session_0/index.html#section",
-    "href": "session_0/index.html#section",
+    "objectID": "session_0_old/index.html#section",
+    "href": "session_0_old/index.html#section",
     "title": "General Introduction",
     "section": "",
     "text": "Let’s go"
   },
   {
-    "objectID": "session_1_ai/mcq.html",
-    "href": "session_1_ai/mcq.html",
-    "title": "Multiple Choice Questions: Economics of AI",
+    "objectID": "session_0_old/index_handout.html",
+    "href": "session_0_old/index_handout.html",
+    "title": "General Introduction",
     "section": "",
-    "text": "In the “Prediction Machines” framework (Agrawal et al.), how is the current wave of AI best described economically? A. A new form of sentient intelligence. B. A technological shock that drastically lowers the cost of prediction. C. A capital asset that depreciates faster than machinery. D. A substitute for all human judgment.\nCorrect Answer: B Explanation: AI makes prediction cheap; this shifts value to complements like data, judgment, and action.\n\n\n\n\nEconomists consider Data to be a “Non-Rival” good. What does this imply? A. It is impossible to prevent others from accessing it (it is non-excludable). B. One person’s usage of the data does not reduce its availability to others. C. Data markets are always perfectly competitive. D. Data has no value unless it is shared.\nCorrect Answer: B Explanation: Non-rivalry means consumption doesn’t deplete the good (unlike an apple). This property often leads to increasing returns to scale.\n\n\n\n\nWhen AI automates a specific task within your job (e.g., an LLM drafting a standard email), what determines if your wage rises or falls? A. Whether the AI is “smart” enough to pass the Turing test. B. Whether the task is dirty or dangerous. C. Whether the remaining tasks you perform are complements (become more valuable) or solely substitutes. D. Wages always fall when any part of a job is automated.\nCorrect Answer: C Explanation: If the AI makes you more productive at the remaining tasks (complementarity), your value likely rises. If it replaces your main contribution (substitution), it falls.\n\n\n\n\nHow does Generative AI (e.g., ChatGPT, Midjourney) primarily differ from earlier waves of automation? A. It requires less data to train. B. It primarily targets “blue-collar” physical tasks. C. It exposes “creative” and “cognitive” non-routine tasks to potential automation. D. It cannot make mistakes (hallucinate).\nCorrect Answer: C Explanation: Previous automation targeted routine manual or cognitive tasks. GenAI unlocks the automation of non-routine cognitive tasks (writing, coding, image generation).\n\n\n\n\nWhat is “So-So Automation” (Acemoglu & Restrepo)? A. Technology that is broken half the time. B. Automation that replaces workers but creates very little productivity gain to offset the labor displacement. C. AI that is regulated by the government to be less efficient. D. Automation that increases wages for everyone equally.\nCorrect Answer: B Explanation: So-So automation is dangerous because it lowers demand for labor without generating the “productivity dividend” that usually lowers prices and creates new demand/jobs."
+    "text": "Pablo Winant\n\n\n\n\nProfessional experience\n\nIMF\nBank of England\n\nTeaching\n\nESCP Business School\nEcole Polytechnique\n\nResearch\n\ninequalities\ninternational finance\nmonetary policy\ncomputational economics\nartificial intelligence\n\n\n\n\n\n\n\n\nStart with hot topics\n\ne.g. ChatGPT, job market, ecological transition, …\n\nConnect with economic theories and concepts\n\nthey appear in bold\nmake sure you understand their meaning\n\nTry to think outside of the box\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTipWikipedia\n\n\n\nEconomics is a social science that studies the production, distribution, and consumption of goods and services.\n\n\n. . .\n\n\n\n\n\n\nTipAmerican Economic Association\n\n\n\nIt can be defined in different ways. It’s the study of scarcity, the study of how people use resources and respond to incentives, or the study of decision-making. It often involves topics like wealth and finance, but it’s not all about money.\n\n\n. . .\n\n\n\n\n\n\nTipRedux\n\n\n\nEconomics studies people’s decisions and interactions, usually through markets but not always\n\n\n. . .\nCheck AEA website and research highlights for many examples of economic applications.\n\n\n\n\ngroup work (40%)\n\nrecord a 5 min video developing one particular point of the course\n4 students max per group\nmore detailed instructions upcoming\nto be handled two weeks before the final exam\n\nfinal exam (in-class) (60%)\n\nvery short essay based on documents\nmcq on:\n\necon concepts\ndocuments\ngroupwork\n\n\nongoing (up to 20% bonus/malus)\n\nparticipation & behaviour\nmini-tasks if any\n\n\n\n\n\n\nLet’s go"
   },
   {
-    "objectID": "session_1_ai/mcq.html#question-1-the-economic-definition-of-ai",
-    "href": "session_1_ai/mcq.html#question-1-the-economic-definition-of-ai",
-    "title": "Multiple Choice Questions: Economics of AI",
+    "objectID": "session_0_old/index_handout.html#about-myself",
+    "href": "session_0_old/index_handout.html#about-myself",
+    "title": "General Introduction",
     "section": "",
-    "text": "In the “Prediction Machines” framework (Agrawal et al.), how is the current wave of AI best described economically? A. A new form of sentient intelligence. B. A technological shock that drastically lowers the cost of prediction. C. A capital asset that depreciates faster than machinery. D. A substitute for all human judgment.\nCorrect Answer: B Explanation: AI makes prediction cheap; this shifts value to complements like data, judgment, and action."
+    "text": "Pablo Winant\n\n\n\n\nProfessional experience\n\nIMF\nBank of England\n\nTeaching\n\nESCP Business School\nEcole Polytechnique\n\nResearch\n\ninequalities\ninternational finance\nmonetary policy\ncomputational economics\nartificial intelligence"
   },
   {
-    "objectID": "session_1_ai/mcq.html#question-2-the-nature-of-data",
-    "href": "session_1_ai/mcq.html#question-2-the-nature-of-data",
-    "title": "Multiple Choice Questions: Economics of AI",
+    "objectID": "session_0_old/index_handout.html#this-course",
+    "href": "session_0_old/index_handout.html#this-course",
+    "title": "General Introduction",
     "section": "",
-    "text": "Economists consider Data to be a “Non-Rival” good. What does this imply? A. It is impossible to prevent others from accessing it (it is non-excludable). B. One person’s usage of the data does not reduce its availability to others. C. Data markets are always perfectly competitive. D. Data has no value unless it is shared.\nCorrect Answer: B Explanation: Non-rivalry means consumption doesn’t deplete the good (unlike an apple). This property often leads to increasing returns to scale."
+    "text": "Start with hot topics\n\ne.g. ChatGPT, job market, ecological transition, …\n\nConnect with economic theories and concepts\n\nthey appear in bold\nmake sure you understand their meaning\n\nTry to think outside of the box"
   },
   {
-    "objectID": "session_1_ai/mcq.html#question-3-tasks-and-labor",
-    "href": "session_1_ai/mcq.html#question-3-tasks-and-labor",
-    "title": "Multiple Choice Questions: Economics of AI",
+    "objectID": "session_0_old/index_handout.html#how-do-you-define-economics",
+    "href": "session_0_old/index_handout.html#how-do-you-define-economics",
+    "title": "General Introduction",
     "section": "",
-    "text": "When AI automates a specific task within your job (e.g., an LLM drafting a standard email), what determines if your wage rises or falls? A. Whether the AI is “smart” enough to pass the Turing test. B. Whether the task is dirty or dangerous. C. Whether the remaining tasks you perform are complements (become more valuable) or solely substitutes. D. Wages always fall when any part of a job is automated.\nCorrect Answer: C Explanation: If the AI makes you more productive at the remaining tasks (complementarity), your value likely rises. If it replaces your main contribution (substitution), it falls."
+    "text": "TipWikipedia\n\n\n\nEconomics is a social science that studies the production, distribution, and consumption of goods and services.\n\n\n. . .\n\n\n\n\n\n\nTipAmerican Economic Association\n\n\n\nIt can be defined in different ways. It’s the study of scarcity, the study of how people use resources and respond to incentives, or the study of decision-making. It often involves topics like wealth and finance, but it’s not all about money.\n\n\n. . .\n\n\n\n\n\n\nTipRedux\n\n\n\nEconomics studies people’s decisions and interactions, usually through markets but not always\n\n\n. . .\nCheck AEA website and research highlights for many examples of economic applications."
   },
   {
-    "objectID": "session_1_ai/mcq.html#question-4-generative-ai-shifts",
-    "href": "session_1_ai/mcq.html#question-4-generative-ai-shifts",
-    "title": "Multiple Choice Questions: Economics of AI",
+    "objectID": "session_0_old/index_handout.html#evaluation",
+    "href": "session_0_old/index_handout.html#evaluation",
+    "title": "General Introduction",
     "section": "",
-    "text": "How does Generative AI (e.g., ChatGPT, Midjourney) primarily differ from earlier waves of automation? A. It requires less data to train. B. It primarily targets “blue-collar” physical tasks. C. It exposes “creative” and “cognitive” non-routine tasks to potential automation. D. It cannot make mistakes (hallucinate).\nCorrect Answer: C Explanation: Previous automation targeted routine manual or cognitive tasks. GenAI unlocks the automation of non-routine cognitive tasks (writing, coding, image generation)."
+    "text": "group work (40%)\n\nrecord a 5 min video developing one particular point of the course\n4 students max per group\nmore detailed instructions upcoming\nto be handled two weeks before the final exam\n\nfinal exam (in-class) (60%)\n\nvery short essay based on documents\nmcq on:\n\necon concepts\ndocuments\ngroupwork\n\n\nongoing (up to 20% bonus/malus)\n\nparticipation & behaviour\nmini-tasks if any"
   },
   {
-    "objectID": "session_1_ai/mcq.html#question-5-the-productivity-paradox",
-    "href": "session_1_ai/mcq.html#question-5-the-productivity-paradox",
-    "title": "Multiple Choice Questions: Economics of AI",
+    "objectID": "session_0_old/index_handout.html#section",
+    "href": "session_0_old/index_handout.html#section",
+    "title": "General Introduction",
     "section": "",
-    "text": "What is “So-So Automation” (Acemoglu & Restrepo)? A. Technology that is broken half the time. B. Automation that replaces workers but creates very little productivity gain to offset the labor displacement. C. AI that is regulated by the government to be less efficient. D. Automation that increases wages for everyone equally.\nCorrect Answer: B Explanation: So-So automation is dangerous because it lowers demand for labor without generating the “productivity dividend” that usually lowers prices and creates new demand/jobs."
+    "text": "Let’s go"
+  },
+  {
+    "objectID": "session_1_ai/index.html#how-do-you-see-the-future-of-ai",
+    "href": "session_1_ai/index.html#how-do-you-see-the-future-of-ai",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "How do you see the future of AI ?",
+    "text": "How do you see the future of AI ?\n\n\n\n\nBlade Runner (1982) still\n\n\n\n\n\nScience Fiction has explored many issues associated with AI.\n\nwhat happens to individuals, markets, firms, government?\nwho wins, who loses?\n\nVery often economic future is bleak…\nWhy is that so?"
+  },
+  {
+    "objectID": "session_1_ai/index.html#a-simple-definition-enough-for-this-course",
+    "href": "session_1_ai/index.html#a-simple-definition-enough-for-this-course",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "A simple definition (enough for this course)",
+    "text": "A simple definition (enough for this course)\nAI is a set of methods that learns from data to produce useful outputs (predictions, classifications, text/images, actions).\n\nKey idea: it improves with experience/training, not just explicit rules\nWe do not need AI to “think like a human” for it to matter economically"
+  },
+  {
+    "objectID": "session_1_ai/index.html#why-it-is-hard-to-say-what-ai-will-never-do",
+    "href": "session_1_ai/index.html#why-it-is-hard-to-say-what-ai-will-never-do",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "Why it is hard to say what AI will never do",
+    "text": "Why it is hard to say what AI will never do\nTwo recurring facts:\n\nThe frontier moves: tasks once seen as “uniquely human” become routine (translation, chess, image recognition, writing)\nOur labels move too: once a task is solved reliably, we stop calling it “AI”\n\n(Tesler’s theorem / “AI is whatever hasn’t been done yet”)\n\n\n\nSo claims like “AI will never do X” usually age badly."
+  },
+  {
+    "objectID": "session_1_ai/index.html#what-we-can-be-more-confident-about",
+    "href": "session_1_ai/index.html#what-we-can-be-more-confident-about",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "What we can be more confident about",
+    "text": "What we can be more confident about\nEven if we cannot bound capabilities, we can analyze economic mechanisms:\n\nwhich tasks become cheaper (prediction, drafting, search, monitoring)\nwhich inputs become valuable (data, compute, human attention)\nwho captures rents (owners of complements and bottlenecks)"
+  },
+  {
+    "objectID": "session_1_ai/index.html#this-time-its-different-or-same-old-same-old",
+    "href": "session_1_ai/index.html#this-time-its-different-or-same-old-same-old",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "“This Time it’s Different” or “Same old, same old…”?",
+    "text": "“This Time it’s Different” or “Same old, same old…”?\n \n\nDo you remember the neoclassical production function?"
+  },
+  {
+    "objectID": "session_1_ai/index.html#the-neoclassical-production-function",
+    "href": "session_1_ai/index.html#the-neoclassical-production-function",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "The (neo)classical production function",
+    "text": "The (neo)classical production function\nWhat are its main properties?\n\nproduction takes several factors as inputs\n\ncapital\nlabour\n… (natural resources, land, …)\n\neach factor has a market price\nmarginal returns w.r.t. each factor are decreasing\nfactors are paid according to their marginal productivity\nthe technology is the particular process through which inputs are combined"
+  },
+  {
+    "objectID": "session_1_ai/index.html#ai-and-the-neoclassical-production-function",
+    "href": "session_1_ai/index.html#ai-and-the-neoclassical-production-function",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "AI and the (neo)classical production function",
+    "text": "AI and the (neo)classical production function\n\nProduction function with AI shift (illustration)\nthe precise description depends on the problem under consideration\nwhat could you change to take into account the effect of AI?\n\ndata, technological change ?"
+  },
+  {
+    "objectID": "session_1_ai/index.html#three-hypotheses-about-the-economic-nature-of-ai",
+    "href": "session_1_ai/index.html#three-hypotheses-about-the-economic-nature-of-ai",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "Three hypotheses about the economic nature of AI",
+    "text": "Three hypotheses about the economic nature of AI\n\nA technological change\nA new kind of factor: Data\nYet another kind of factor: Robots\nSomething else Completely"
+  },
+  {
+    "objectID": "session_1_ai/index.html#section",
+    "href": "session_1_ai/index.html#section",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "",
+    "text": "Ajy Agrawal, Joshua Gans and Avi Goldfarb: Prediction Machines: The Simple Economics of Artificial Intelligence 2018"
+  },
+  {
+    "objectID": "session_1_ai/index.html#prediction-machines",
+    "href": "session_1_ai/index.html#prediction-machines",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "Prediction Machines",
+    "text": "Prediction Machines\n\n\nmany production tasks can be formulated as prediction problems\nexamples:\n\nregression, classification: predict Y as a function of X\nstudent -&gt; pass or fail ?\nshould I invest in A or B ?\neven chatbot: what is the appropriate continuation for an ongoing conversation?"
+  },
+  {
+    "objectID": "session_1_ai/index.html#will-i-lose-my-job",
+    "href": "session_1_ai/index.html#will-i-lose-my-job",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "Will I lose my job ?",
+    "text": "Will I lose my job ?\n\nAI is a decrease in the cost of predictions\nThe demand for all prediction-intensive tasks will rise (law of demand)\nThe salary of workers with prediction-intensive tasks will rise (market price)\nValue of other tasks will fall (general equilibrium effect)\nMore precisely:\n\ndemand for tasks that are substitute to predictions will be low\ndemand for tasks that are complement to predictions will be high"
+  },
+  {
+    "objectID": "session_1_ai/index.html#a-simple-tasks-model-framing-why-employment-effects-are-ambiguous",
+    "href": "session_1_ai/index.html#a-simple-tasks-model-framing-why-employment-effects-are-ambiguous",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "A simple tasks-model framing (why employment effects are ambiguous)",
+    "text": "A simple tasks-model framing (why employment effects are ambiguous)\n\nJobs are bundles of tasks; AI rarely replaces entire occupations at once\nIf AI substitutes for tasks you do, your marginal product may fall\nIf AI complements tasks you do (e.g., better targeting, better diagnostics), your marginal product may rise\nAggregate employment depends on substitution, new tasks/products, demand expansion, and reallocation frictions\nDistributional effects (who owns the complements/data/capital) are usually first-order\n\n\n👉 More on it next week."
+  },
+  {
+    "objectID": "session_1_ai/index.html#data-is-a-factor-not-a-technology",
+    "href": "session_1_ai/index.html#data-is-a-factor-not-a-technology",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "Data is a factor not a technology",
+    "text": "Data is a factor not a technology\n\nData is a factor, not a technology\n\nCan you explain it ?\n\nThe difference between an idea and a factor? Examples:\n\nidea: use machine learning to build self driving cars\nfactor: each car-maker gathering his own data to train cars\n\nData (even anonymous) improves quality of existing products"
+  },
+  {
+    "objectID": "session_1_ai/index.html#what-kind-of-good-is-data",
+    "href": "session_1_ai/index.html#what-kind-of-good-is-data",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "What kind of good is data ?",
+    "text": "What kind of good is data ?\n\nRemember the classification of goods?\n\nnonrival: can be used with leftovers\nexcludable: use can be limited to paying customers\ndata is a: club good\n\nNonrivality implies\nincreasing returns to scale\n\n🤔: check why\n\nmarginal value of new data increases more than proportionally"
+  },
+  {
+    "objectID": "session_1_ai/index.html#ai-adds-data-to-the-production-function-consequences",
+    "href": "session_1_ai/index.html#ai-adds-data-to-the-production-function-consequences",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "AI: adds data to the production function (consequences)",
+    "text": "AI: adds data to the production function (consequences)\n\nincreasing returns to scale implies natural monopoly\n\n-&gt;GAFAMs\nincreasing suboptimal monopoly rents (already a problem before existence of AI…)\nshould you regulate a monopoly?\n\nit depends what is the barrier to entry: data-gathering or data-processing (cloud)\n\n\nother relevant questions\n\nwhere are the markets? (empirically seems to be “undertraded”)\nwho owns the data ? Consumer, producer."
+  },
+  {
+    "objectID": "session_1_ai/index.html#how-do-you-regulate-a-data-monopoly",
+    "href": "session_1_ai/index.html#how-do-you-regulate-a-data-monopoly",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "How do you regulate a Data-monopoly ?",
+    "text": "How do you regulate a Data-monopoly ?\n\nsolutions:\n\nsplit the monopolies (if deadweight loss is too big)\noutlaw data gathering (big productivity loss)\nforce data-sharing: make it a public good\nlet the consumer be free to decide whether to rent their data (remove externalities)"
+  },
+  {
+    "objectID": "session_1_ai/index.html#economic-singularity",
+    "href": "session_1_ai/index.html#economic-singularity",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "Economic singularity",
+    "text": "Economic singularity\n\nIn the very long run, could technology be bad?\nRecall the neoclassical world\n\nmarket economy\ntechnological progress reduces production cost\nalways good for consumers. Increase (real) total income.\nbecomes an inequality problem\n\nBut\n\nwhether technology reduces salaries depends on whether growth is labour augmenting or capital augmenting\nif AI is a close enough substitute for labour, salaries of “humans” as a whole are at risk\nthere is an economic singularity when the wage of humans falls below the subsistence level"
+  },
+  {
+    "objectID": "session_1_ai/index.html#some-very-long-run-scenarios",
+    "href": "session_1_ai/index.html#some-very-long-run-scenarios",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "Some very long run scenarios",
+    "text": "Some very long run scenarios\n\nAnalysis taken from Gilles Saint Paul\nMain hypothesis: all humans can be replaced by more productive robots\nComparative advantage logic:\n\nhumans specialize in work where their comparative disadvantage is lowest (services, art, crafting…)"
+  },
+  {
+    "objectID": "session_1_ai/index.html#scenario-1-society-redistributes-income-from-robots",
+    "href": "session_1_ai/index.html#scenario-1-society-redistributes-income-from-robots",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "Scenario 1: society redistributes income from robots",
+    "text": "Scenario 1: society redistributes income from robots\nFour political subscenarios:\n\n\n \nWelfare state\n\nrobot-owners are taxed, income is redistributed\nfor instance as universal income\nsome productivity losses\nwhat about international competitiveness?\n\n  Rentiers society\n\nrobot owners invest the rent over many generations\ncapital concentration increases\n\n\n   \nNeo-Fordism\n\nfirms pay huge salaries for essentially useless jobs (powerpoint presentations, 😉 …)\nuseful to sustain demand\n\n \nNew roman empire\n\nrobot owners: patricians (top 2%)\nrest of population: plebeians\n\nsurvive thanks to clientelism\n\nrobots: slaves"
+  },
+  {
+    "objectID": "session_1_ai/index.html#scenario-2-wars-starvation-epidemic",
+    "href": "session_1_ai/index.html#scenario-2-wars-starvation-epidemic",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "Scenario 2: wars, starvation, epidemic",
+    "text": "Scenario 2: wars, starvation, epidemic\n\n\n  \n\nhuman income (marginal productivity) falls below subsistance levels\nmalthusian effect: population growth decreases\nnot unheard of (Leontief): consider population of draft horses"
+  },
+  {
+    "objectID": "session_1_ai/index.html#scenario-3-the-matrix",
+    "href": "session_1_ai/index.html#scenario-3-the-matrix",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "Scenario 3: the Matrix",
+    "text": "Scenario 3: the Matrix\n\n\nhuman wage decrease\nsubsistence level decreases dramatically too"
+  },
+  {
+    "objectID": "session_1_ai/index.html#conclusion",
+    "href": "session_1_ai/index.html#conclusion",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "Conclusion",
+    "text": "Conclusion\n\nResearch on AI is very speculative: especially about the long run\nBut concepts from classical economics still help\nVery important assumption: “if market economy survives”\nFor next time:\n\nmake sure you understand all concepts in bold"
+  },
+  {
+    "objectID": "session_1_ai/index.html#more-readings",
+    "href": "session_1_ai/index.html#more-readings",
+    "title": "The Rise of Artificial Intelligence",
+    "section": "More Readings",
+    "text": "More Readings\n\nChad Jones and Christopher Tonetti: Nonrivalry and the Economics of Data, American Economic Review\nAvi GoldFarb: Prediction Machines: The Simple Economics of Artificial Intelligence 2018\nGilles Saint Paul: Robots Vers la fin du travail ?\nAnton Korinek, Joseph E. Stiglitz: Artificial Intelligence and Its Implications for Income Distribution and Unemployment, chapter in Artificial Intelligence and Its Implications …, NBER\n\nalso on coursera"
   },
   {
     "objectID": "session_1_ai/index_handout.html",
@@ -3073,256 +3332,347 @@
     "text": "More Readings\n\nChad Jones and Christopher Tonetti: Nonrivalry and the Economics of Data, American Economic Review\nAvi GoldFarb: Prediction Machines: The Simple Economics of Artificial Intelligence 2018\nGilles Saint Paul: Robots Vers la fin du travail ?\nAnton Korinek, Joseph E. Stiglitz: Artificial Intelligence and Its Implications for Income Distribution and Unemployment, chapter in Artificial Intelligence and Its Implications …, NBER\n\nalso on coursera"
   },
   {
-    "objectID": "session_1_ai/index.html#how-do-you-see-the-future-of-ai",
-    "href": "session_1_ai/index.html#how-do-you-see-the-future-of-ai",
-    "title": "The Rise of Artificial Intelligence",
-    "section": "How do you see the future of AI ?",
-    "text": "How do you see the future of AI ?\n\n\n\n\nBlade Runner (1982) still\n\n\n\n\n\nScience Fiction has explored many issues associated with AI.\n\nwhat happens to individuals, markets, firms, government?\nwho wins, who loses?\n\nVery often economic future is bleak…\nWhy is that so?"
-  },
-  {
-    "objectID": "session_1_ai/index.html#a-simple-definition-enough-for-this-course",
-    "href": "session_1_ai/index.html#a-simple-definition-enough-for-this-course",
-    "title": "The Rise of Artificial Intelligence",
-    "section": "A simple definition (enough for this course)",
-    "text": "A simple definition (enough for this course)\nAI is a set of methods that learns from data to produce useful outputs (predictions, classifications, text/images, actions).\n\nKey idea: it improves with experience/training, not just explicit rules\nWe do not need AI to “think like a human” for it to matter economically"
-  },
-  {
-    "objectID": "session_1_ai/index.html#why-it-is-hard-to-say-what-ai-will-never-do",
-    "href": "session_1_ai/index.html#why-it-is-hard-to-say-what-ai-will-never-do",
-    "title": "The Rise of Artificial Intelligence",
-    "section": "Why it is hard to say what AI will never do",
-    "text": "Why it is hard to say what AI will never do\nTwo recurring facts:\n\nThe frontier moves: tasks once seen as “uniquely human” become routine (translation, chess, image recognition, writing)\nOur labels move too: once a task is solved reliably, we stop calling it “AI”\n\n(Tesler’s theorem / “AI is whatever hasn’t been done yet”)\n\n\n\nSo claims like “AI will never do X” usually age badly."
-  },
-  {
-    "objectID": "session_1_ai/index.html#what-we-can-be-more-confident-about",
-    "href": "session_1_ai/index.html#what-we-can-be-more-confident-about",
-    "title": "The Rise of Artificial Intelligence",
-    "section": "What we can be more confident about",
-    "text": "What we can be more confident about\nEven if we cannot bound capabilities, we can analyze economic mechanisms:\n\nwhich tasks become cheaper (prediction, drafting, search, monitoring)\nwhich inputs become valuable (data, compute, human attention)\nwho captures rents (owners of complements and bottlenecks)"
-  },
-  {
-    "objectID": "session_1_ai/index.html#this-time-its-different-or-same-old-same-old",
-    "href": "session_1_ai/index.html#this-time-its-different-or-same-old-same-old",
-    "title": "The Rise of Artificial Intelligence",
-    "section": "“This Time it’s Different” or “Same old, same old…”?",
-    "text": "“This Time it’s Different” or “Same old, same old…”?\n \n\nDo you remember the neoclassical production function?"
-  },
-  {
-    "objectID": "session_1_ai/index.html#the-neoclassical-production-function",
-    "href": "session_1_ai/index.html#the-neoclassical-production-function",
-    "title": "The Rise of Artificial Intelligence",
-    "section": "The (neo)classical production function",
-    "text": "The (neo)classical production function\nWhat are its main properties?\n\nproduction takes several factors as inputs\n\ncapital\nlabour\n… (natural resources, land, …)\n\neach factor has a market price\nmarginal returns w.r.t. each factor are decreasing\nfactors are paid according to their marginal productivity\nthe technology is the particular process through which inputs are combined"
-  },
-  {
-    "objectID": "session_1_ai/index.html#ai-and-the-neoclassical-production-function",
-    "href": "session_1_ai/index.html#ai-and-the-neoclassical-production-function",
-    "title": "The Rise of Artificial Intelligence",
-    "section": "AI and the (neo)classical production function",
-    "text": "AI and the (neo)classical production function\n\nProduction function with AI shift (illustration)\nthe precise description depends on the problem under consideration\nwhat could you change to take into account the effect of AI?\n\ndata, technological change ?"
-  },
-  {
-    "objectID": "session_1_ai/index.html#three-hypotheses-about-the-economic-nature-of-ai",
-    "href": "session_1_ai/index.html#three-hypotheses-about-the-economic-nature-of-ai",
-    "title": "The Rise of Artificial Intelligence",
-    "section": "Three hypotheses about the economic nature of AI",
-    "text": "Three hypotheses about the economic nature of AI\n\nA technological change\nA new kind of factor: Data\nYet another kind of factor: Robots\nSomething else Completely"
-  },
-  {
-    "objectID": "session_1_ai/index.html#section",
-    "href": "session_1_ai/index.html#section",
-    "title": "The Rise of Artificial Intelligence",
+    "objectID": "session_1_ai/mcq.html",
+    "href": "session_1_ai/mcq.html",
+    "title": "Multiple Choice Questions: Economics of AI",
     "section": "",
-    "text": "Ajy Agrawal, Joshua Gans and Avi Goldfarb: Prediction Machines: The Simple Economics of Artificial Intelligence 2018"
+    "text": "In the “Prediction Machines” framework (Agrawal et al.), how is the current wave of AI best described economically? A. A new form of sentient intelligence. B. A technological shock that drastically lowers the cost of prediction. C. A capital asset that depreciates faster than machinery. D. A substitute for all human judgment.\nCorrect Answer: B Explanation: AI makes prediction cheap; this shifts value to complements like data, judgment, and action.\n\n\n\n\nEconomists consider Data to be a “Non-Rival” good. What does this imply? A. It is impossible to prevent others from accessing it (it is non-excludable). B. One person’s usage of the data does not reduce its availability to others. C. Data markets are always perfectly competitive. D. Data has no value unless it is shared.\nCorrect Answer: B Explanation: Non-rivalry means consumption doesn’t deplete the good (unlike an apple). This property often leads to increasing returns to scale.\n\n\n\n\nWhen AI automates a specific task within your job (e.g., an LLM drafting a standard email), what determines if your wage rises or falls? A. Whether the AI is “smart” enough to pass the Turing test. B. Whether the task is dirty or dangerous. C. Whether the remaining tasks you perform are complements (become more valuable) or solely substitutes. D. Wages always fall when any part of a job is automated.\nCorrect Answer: C Explanation: If the AI makes you more productive at the remaining tasks (complementarity), your value likely rises. If it replaces your main contribution (substitution), it falls.\n\n\n\n\nHow does Generative AI (e.g., ChatGPT, Midjourney) primarily differ from earlier waves of automation? A. It requires less data to train. B. It primarily targets “blue-collar” physical tasks. C. It exposes “creative” and “cognitive” non-routine tasks to potential automation. D. It cannot make mistakes (hallucinate).\nCorrect Answer: C Explanation: Previous automation targeted routine manual or cognitive tasks. GenAI unlocks the automation of non-routine cognitive tasks (writing, coding, image generation).\n\n\n\n\nWhat is “So-So Automation” (Acemoglu & Restrepo)? A. Technology that is broken half the time. B. Automation that replaces workers but creates very little productivity gain to offset the labor displacement. C. AI that is regulated by the government to be less efficient. D. Automation that increases wages for everyone equally.\nCorrect Answer: B Explanation: So-So automation is dangerous because it lowers demand for labor without generating the “productivity dividend” that usually lowers prices and creates new demand/jobs."
   },
   {
-    "objectID": "session_1_ai/index.html#prediction-machines",
-    "href": "session_1_ai/index.html#prediction-machines",
-    "title": "The Rise of Artificial Intelligence",
-    "section": "Prediction Machines",
-    "text": "Prediction Machines\n\n\nmany production tasks can be formulated as prediction problems\nexamples:\n\nregression, classification: predict Y as a function of X\nstudent -&gt; pass or fail ?\nshould I invest in A or B ?\neven chatbot: what is the appropriate continuation for an ongoing conversation?"
-  },
-  {
-    "objectID": "session_1_ai/index.html#will-i-lose-my-job",
-    "href": "session_1_ai/index.html#will-i-lose-my-job",
-    "title": "The Rise of Artificial Intelligence",
-    "section": "Will I lose my job ?",
-    "text": "Will I lose my job ?\n\nAI is a decrease in the cost of predictions\nThe demand for all prediction-intensive tasks will rise (law of demand)\nThe salary of workers with prediction-intensive tasks will rise (market price)\nValue of other tasks will fall (general equilibrium effect)\nMore precisely:\n\ndemand for tasks that are substitute to predictions will be low\ndemand for tasks that are complement to predictions will be high"
-  },
-  {
-    "objectID": "session_1_ai/index.html#a-simple-tasks-model-framing-why-employment-effects-are-ambiguous",
-    "href": "session_1_ai/index.html#a-simple-tasks-model-framing-why-employment-effects-are-ambiguous",
-    "title": "The Rise of Artificial Intelligence",
-    "section": "A simple tasks-model framing (why employment effects are ambiguous)",
-    "text": "A simple tasks-model framing (why employment effects are ambiguous)\n\nJobs are bundles of tasks; AI rarely replaces entire occupations at once\nIf AI substitutes for tasks you do, your marginal product may fall\nIf AI complements tasks you do (e.g., better targeting, better diagnostics), your marginal product may rise\nAggregate employment depends on substitution, new tasks/products, demand expansion, and reallocation frictions\nDistributional effects (who owns the complements/data/capital) are usually first-order\n\n\n👉 More on it next week."
-  },
-  {
-    "objectID": "session_1_ai/index.html#data-is-a-factor-not-a-technology",
-    "href": "session_1_ai/index.html#data-is-a-factor-not-a-technology",
-    "title": "The Rise of Artificial Intelligence",
-    "section": "Data is a factor not a technology",
-    "text": "Data is a factor not a technology\n\nData is a factor, not a technology\n\nCan you explain it ?\n\nThe difference between an idea and a factor? Examples:\n\nidea: use machine learning to build self driving cars\nfactor: each car-maker gathering his own data to train cars\n\nData (even anonymous) improves quality of existing products"
-  },
-  {
-    "objectID": "session_1_ai/index.html#what-kind-of-good-is-data",
-    "href": "session_1_ai/index.html#what-kind-of-good-is-data",
-    "title": "The Rise of Artificial Intelligence",
-    "section": "What kind of good is data ?",
-    "text": "What kind of good is data ?\n\nRemember the classification of goods?\n\nnonrival: can be used with leftovers\nexcludable: use can be limited to paying customers\ndata is a: club good\n\nNonrivality implies\nincreasing returns to scale\n\n🤔: check why\n\nmarginal value of new data increases more than proportionally"
-  },
-  {
-    "objectID": "session_1_ai/index.html#ai-adds-data-to-the-production-function-consequences",
-    "href": "session_1_ai/index.html#ai-adds-data-to-the-production-function-consequences",
-    "title": "The Rise of Artificial Intelligence",
-    "section": "AI: adds data to the production function (consequences)",
-    "text": "AI: adds data to the production function (consequences)\n\nincreasing returns to scale implies natural monopoly\n\n-&gt;GAFAMs\nincreasing suboptimal monopoly rents (already a problem before existence of AI…)\nshould you regulate a monopoly?\n\nit depends what is the barrier to entry: data-gathering or data-processing (cloud)\n\n\nother relevant questions\n\nwhere are the markets? (empirically seems to be “undertraded”)\nwho owns the data ? Consumer, producer."
-  },
-  {
-    "objectID": "session_1_ai/index.html#how-do-you-regulate-a-data-monopoly",
-    "href": "session_1_ai/index.html#how-do-you-regulate-a-data-monopoly",
-    "title": "The Rise of Artificial Intelligence",
-    "section": "How do you regulate a Data-monopoly ?",
-    "text": "How do you regulate a Data-monopoly ?\n\nsolutions:\n\nsplit the monopolies (if deadweight loss is too big)\noutlaw data gathering (big productivity loss)\nforce data-sharing: make it a public good\nlet the consumer be free to decide whether to rent their data (remove externalities)"
-  },
-  {
-    "objectID": "session_1_ai/index.html#economic-singularity",
-    "href": "session_1_ai/index.html#economic-singularity",
-    "title": "The Rise of Artificial Intelligence",
-    "section": "Economic singularity",
-    "text": "Economic singularity\n\nIn the very long run, could technology be bad?\nRecall the neoclassical world\n\nmarket economy\ntechnological progress reduces production cost\nalways good for consumers. Increase (real) total income.\nbecomes an inequality problem\n\nBut\n\nwhether technology reduces salaries depends on whether growth is labour augmenting or capital augmenting\nif AI is a close enough substitute for labour, salaries of “humans” as a whole are at risk\nthere is an economic singularity when the wage of humans falls below the subsistence level"
-  },
-  {
-    "objectID": "session_1_ai/index.html#some-very-long-run-scenarios",
-    "href": "session_1_ai/index.html#some-very-long-run-scenarios",
-    "title": "The Rise of Artificial Intelligence",
-    "section": "Some very long run scenarios",
-    "text": "Some very long run scenarios\n\nAnalysis taken from Gilles Saint Paul\nMain hypothesis: all humans can be replaced by more productive robots\nComparative advantage logic:\n\nhumans specialize in work where their comparative disadvantage is lowest (services, art, crafting…)"
-  },
-  {
-    "objectID": "session_1_ai/index.html#scenario-1-society-redistributes-income-from-robots",
-    "href": "session_1_ai/index.html#scenario-1-society-redistributes-income-from-robots",
-    "title": "The Rise of Artificial Intelligence",
-    "section": "Scenario 1: society redistributes income from robots",
-    "text": "Scenario 1: society redistributes income from robots\nFour political subscenarios:\n\n\n \nWelfare state\n\nrobot-owners are taxed, income is redistributed\nfor instance as universal income\nsome productivity losses\nwhat about international competitiveness?\n\n  Rentiers society\n\nrobot owners invest the rent over many generations\ncapital concentration increases\n\n\n   \nNeo-Fordism\n\nfirms pay huge salaries for essentially useless jobs (powerpoint presentations, 😉 …)\nuseful to sustain demand\n\n \nNew roman empire\n\nrobot owners: patricians (top 2%)\nrest of population: plebeians\n\nsurvive thanks to clientelism\n\nrobots: slaves"
-  },
-  {
-    "objectID": "session_1_ai/index.html#scenario-2-wars-starvation-epidemic",
-    "href": "session_1_ai/index.html#scenario-2-wars-starvation-epidemic",
-    "title": "The Rise of Artificial Intelligence",
-    "section": "Scenario 2: wars, starvation, epidemic",
-    "text": "Scenario 2: wars, starvation, epidemic\n\n\n  \n\nhuman income (marginal productivity) falls below subsistance levels\nmalthusian effect: population growth decreases\nnot unheard of (Leontief): consider population of draft horses"
-  },
-  {
-    "objectID": "session_1_ai/index.html#scenario-3-the-matrix",
-    "href": "session_1_ai/index.html#scenario-3-the-matrix",
-    "title": "The Rise of Artificial Intelligence",
-    "section": "Scenario 3: the Matrix",
-    "text": "Scenario 3: the Matrix\n\n\nhuman wage decrease\nsubsistence level decreases dramatically too"
-  },
-  {
-    "objectID": "session_1_ai/index.html#conclusion",
-    "href": "session_1_ai/index.html#conclusion",
-    "title": "The Rise of Artificial Intelligence",
-    "section": "Conclusion",
-    "text": "Conclusion\n\nResearch on AI is very speculative: especially about the long run\nBut concepts from classical economics still help\nVery important assumption: “if market economy survives”\nFor next time:\n\nmake sure you understand all concepts in bold"
-  },
-  {
-    "objectID": "session_1_ai/index.html#more-readings",
-    "href": "session_1_ai/index.html#more-readings",
-    "title": "The Rise of Artificial Intelligence",
-    "section": "More Readings",
-    "text": "More Readings\n\nChad Jones and Christopher Tonetti: Nonrivalry and the Economics of Data, American Economic Review\nAvi GoldFarb: Prediction Machines: The Simple Economics of Artificial Intelligence 2018\nGilles Saint Paul: Robots Vers la fin du travail ?\nAnton Korinek, Joseph E. Stiglitz: Artificial Intelligence and Its Implications for Income Distribution and Unemployment, chapter in Artificial Intelligence and Its Implications …, NBER\n\nalso on coursera"
-  },
-  {
-    "objectID": "session_0_old/index_handout.html",
-    "href": "session_0_old/index_handout.html",
-    "title": "General Introduction",
+    "objectID": "session_1_ai/mcq.html#question-1-the-economic-definition-of-ai",
+    "href": "session_1_ai/mcq.html#question-1-the-economic-definition-of-ai",
+    "title": "Multiple Choice Questions: Economics of AI",
     "section": "",
-    "text": "Pablo Winant\n\n\n\n\nProfessional experience\n\nIMF\nBank of England\n\nTeaching\n\nESCP Business School\nEcole Polytechnique\n\nResearch\n\ninequalities\ninternational finance\nmonetary policy\ncomputational economics\nartificial intelligence\n\n\n\n\n\n\n\n\nStart with hot topics\n\ne.g. ChatGPT, job market, ecological transition, …\n\nConnect with economic theories and concepts\n\nthey appear in bold\nmake sure you understand their meaning\n\nTry to think outside of the box\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTipWikipedia\n\n\n\nEconomics is a social science that studies the production, distribution, and consumption of goods and services.\n\n\n. . .\n\n\n\n\n\n\nTipAmerican Economic Association\n\n\n\nIt can be defined in different ways. It’s the study of scarcity, the study of how people use resources and respond to incentives, or the study of decision-making. It often involves topics like wealth and finance, but it’s not all about money.\n\n\n. . .\n\n\n\n\n\n\nTipRedux\n\n\n\nEconomics studies people’s decisions and interactions, usually through markets but not always\n\n\n. . .\nCheck AEA website and research highlights for many examples of economic applications.\n\n\n\n\ngroup work (40%)\n\nrecord a 5 min video developing one particular point of the course\n4 students max per group\nmore detailed instructions upcoming\nto be handled two weeks before the final exam\n\nfinal exam (in-class) (60%)\n\nvery short essay based on documents\nmcq on:\n\necon concepts\ndocuments\ngroupwork\n\n\nongoing (up to 20% bonus/malus)\n\nparticipation & behaviour\nmini-tasks if any\n\n\n\n\n\n\nLet’s go"
+    "text": "In the “Prediction Machines” framework (Agrawal et al.), how is the current wave of AI best described economically? A. A new form of sentient intelligence. B. A technological shock that drastically lowers the cost of prediction. C. A capital asset that depreciates faster than machinery. D. A substitute for all human judgment.\nCorrect Answer: B Explanation: AI makes prediction cheap; this shifts value to complements like data, judgment, and action."
   },
   {
-    "objectID": "session_0_old/index_handout.html#about-myself",
-    "href": "session_0_old/index_handout.html#about-myself",
-    "title": "General Introduction",
+    "objectID": "session_1_ai/mcq.html#question-2-the-nature-of-data",
+    "href": "session_1_ai/mcq.html#question-2-the-nature-of-data",
+    "title": "Multiple Choice Questions: Economics of AI",
     "section": "",
-    "text": "Pablo Winant\n\n\n\n\nProfessional experience\n\nIMF\nBank of England\n\nTeaching\n\nESCP Business School\nEcole Polytechnique\n\nResearch\n\ninequalities\ninternational finance\nmonetary policy\ncomputational economics\nartificial intelligence"
+    "text": "Economists consider Data to be a “Non-Rival” good. What does this imply? A. It is impossible to prevent others from accessing it (it is non-excludable). B. One person’s usage of the data does not reduce its availability to others. C. Data markets are always perfectly competitive. D. Data has no value unless it is shared.\nCorrect Answer: B Explanation: Non-rivalry means consumption doesn’t deplete the good (unlike an apple). This property often leads to increasing returns to scale."
   },
   {
-    "objectID": "session_0_old/index_handout.html#this-course",
-    "href": "session_0_old/index_handout.html#this-course",
-    "title": "General Introduction",
+    "objectID": "session_1_ai/mcq.html#question-3-tasks-and-labor",
+    "href": "session_1_ai/mcq.html#question-3-tasks-and-labor",
+    "title": "Multiple Choice Questions: Economics of AI",
     "section": "",
-    "text": "Start with hot topics\n\ne.g. ChatGPT, job market, ecological transition, …\n\nConnect with economic theories and concepts\n\nthey appear in bold\nmake sure you understand their meaning\n\nTry to think outside of the box"
+    "text": "When AI automates a specific task within your job (e.g., an LLM drafting a standard email), what determines if your wage rises or falls? A. Whether the AI is “smart” enough to pass the Turing test. B. Whether the task is dirty or dangerous. C. Whether the remaining tasks you perform are complements (become more valuable) or solely substitutes. D. Wages always fall when any part of a job is automated.\nCorrect Answer: C Explanation: If the AI makes you more productive at the remaining tasks (complementarity), your value likely rises. If it replaces your main contribution (substitution), it falls."
   },
   {
-    "objectID": "session_0_old/index_handout.html#how-do-you-define-economics",
-    "href": "session_0_old/index_handout.html#how-do-you-define-economics",
-    "title": "General Introduction",
+    "objectID": "session_1_ai/mcq.html#question-4-generative-ai-shifts",
+    "href": "session_1_ai/mcq.html#question-4-generative-ai-shifts",
+    "title": "Multiple Choice Questions: Economics of AI",
     "section": "",
-    "text": "TipWikipedia\n\n\n\nEconomics is a social science that studies the production, distribution, and consumption of goods and services.\n\n\n. . .\n\n\n\n\n\n\nTipAmerican Economic Association\n\n\n\nIt can be defined in different ways. It’s the study of scarcity, the study of how people use resources and respond to incentives, or the study of decision-making. It often involves topics like wealth and finance, but it’s not all about money.\n\n\n. . .\n\n\n\n\n\n\nTipRedux\n\n\n\nEconomics studies people’s decisions and interactions, usually through markets but not always\n\n\n. . .\nCheck AEA website and research highlights for many examples of economic applications."
+    "text": "How does Generative AI (e.g., ChatGPT, Midjourney) primarily differ from earlier waves of automation? A. It requires less data to train. B. It primarily targets “blue-collar” physical tasks. C. It exposes “creative” and “cognitive” non-routine tasks to potential automation. D. It cannot make mistakes (hallucinate).\nCorrect Answer: C Explanation: Previous automation targeted routine manual or cognitive tasks. GenAI unlocks the automation of non-routine cognitive tasks (writing, coding, image generation)."
   },
   {
-    "objectID": "session_0_old/index_handout.html#evaluation",
-    "href": "session_0_old/index_handout.html#evaluation",
-    "title": "General Introduction",
+    "objectID": "session_1_ai/mcq.html#question-5-the-productivity-paradox",
+    "href": "session_1_ai/mcq.html#question-5-the-productivity-paradox",
+    "title": "Multiple Choice Questions: Economics of AI",
     "section": "",
-    "text": "group work (40%)\n\nrecord a 5 min video developing one particular point of the course\n4 students max per group\nmore detailed instructions upcoming\nto be handled two weeks before the final exam\n\nfinal exam (in-class) (60%)\n\nvery short essay based on documents\nmcq on:\n\necon concepts\ndocuments\ngroupwork\n\n\nongoing (up to 20% bonus/malus)\n\nparticipation & behaviour\nmini-tasks if any"
+    "text": "What is “So-So Automation” (Acemoglu & Restrepo)? A. Technology that is broken half the time. B. Automation that replaces workers but creates very little productivity gain to offset the labor displacement. C. AI that is regulated by the government to be less efficient. D. Automation that increases wages for everyone equally.\nCorrect Answer: B Explanation: So-So automation is dangerous because it lowers demand for labor without generating the “productivity dividend” that usually lowers prices and creates new demand/jobs."
   },
   {
-    "objectID": "session_0_old/index_handout.html#section",
-    "href": "session_0_old/index_handout.html#section",
-    "title": "General Introduction",
-    "section": "",
-    "text": "Let’s go"
-  },
-  {
-    "objectID": "session_0_old/index.html#about-myself",
-    "href": "session_0_old/index.html#about-myself",
-    "title": "General Introduction",
-    "section": "About myself",
-    "text": "About myself\n\n\n\n\n\nPablo Winant\n\n\n\n\nProfessional experience\n\nIMF\nBank of England\n\nTeaching\n\nESCP Business School\nEcole Polytechnique\n\nResearch\n\ninequalities\ninternational finance\nmonetary policy\ncomputational economics\nartificial intelligence"
-  },
-  {
-    "objectID": "session_0_old/index.html#this-course",
-    "href": "session_0_old/index.html#this-course",
-    "title": "General Introduction",
-    "section": "This course",
-    "text": "This course\n\nStart with hot topics\n\ne.g. ChatGPT, job market, ecological transition, …\n\nConnect with economic theories and concepts\n\nthey appear in bold\nmake sure you understand their meaning\n\nTry to think outside of the box"
-  },
-  {
-    "objectID": "session_0_old/index.html#pressing-topics",
-    "href": "session_0_old/index.html#pressing-topics",
-    "title": "General Introduction",
-    "section": "Pressing Topics… –>",
-    "text": "Pressing Topics… –&gt;"
-  },
-  {
-    "objectID": "session_0_old/index.html#how-do-you-define-economics",
-    "href": "session_0_old/index.html#how-do-you-define-economics",
+    "objectID": "session_0/index.html#how-do-you-define-economics",
+    "href": "session_0/index.html#how-do-you-define-economics",
     "title": "General Introduction",
     "section": "How do you define “Economics” ?",
     "text": "How do you define “Economics” ?\n\n\n\n\n\n\n\nWikipedia\n\n\nEconomics is a social science that studies the production, distribution, and consumption of goods and services.\n\n\n\n\n\n\n\n\n\n\n\n\nAmerican Economic Association\n\n\nIt can be defined in different ways. It’s the study of scarcity, the study of how people use resources and respond to incentives, or the study of decision-making. It often involves topics like wealth and finance, but it’s not all about money.\n\n\n\n\n\n\n\n\n\n\n\n\n\nRedux\n\n\nEconomics studies people’s decisions and interactions, usually through markets but not always\n\n\n\n\n\n\nCheck AEA website and research highlights for many examples of economic applications."
   },
   {
-    "objectID": "session_0_old/index.html#evaluation",
-    "href": "session_0_old/index.html#evaluation",
+    "objectID": "session_0/index.html#pressing-topics",
+    "href": "session_0/index.html#pressing-topics",
+    "title": "General Introduction",
+    "section": "Pressing Topics…",
+    "text": "Pressing Topics…"
+  },
+  {
+    "objectID": "session_0/index.html#this-course",
+    "href": "session_0/index.html#this-course",
+    "title": "General Introduction",
+    "section": "This course",
+    "text": "This course\n\nStart with hot topics\n\ne.g. ChatGPT, job market, ecological transition, …\n\nConnect with economic theories and concepts\n\nthey appear in bold\nmake sure you understand their meaning\n\nTry to think outside of the box"
+  },
+  {
+    "objectID": "session_0/index.html#evaluation",
+    "href": "session_0/index.html#evaluation",
     "title": "General Introduction",
     "section": "Evaluation",
     "text": "Evaluation\n\ngroup work (40%)\n\nrecord a 5 min video developing one particular point of the course\n4 students max per group\nmore detailed instructions upcoming\nto be handled two weeks before the final exam\n\nfinal exam (in-class) (60%)\n\nvery short essay based on documents\nmcq on:\n\necon concepts\ndocuments\ngroupwork\n\n\nongoing (up to 20% bonus/malus)\n\nparticipation & behaviour\nmini-tasks if any"
   },
   {
-    "objectID": "session_0_old/index.html#section",
-    "href": "session_0_old/index.html#section",
+    "objectID": "session_0/index.html#your-teachers",
+    "href": "session_0/index.html#your-teachers",
+    "title": "General Introduction",
+    "section": "Your Teachers",
+    "text": "Your Teachers\n\n\n\n\n\nPablo Winant\n\n\n\nResearch\n\ninequalities\ninternational finance\nmonetary policy\nartificial intelligence\n\n\n\n\n\n\nRaphael Epperson\n\n\n\nResearch\n\nbehavioral economics\nenvironment\nmicro theory"
+  },
+  {
+    "objectID": "session_0/index.html#ant-ai",
+    "href": "session_0/index.html#ant-ai",
+    "title": "General Introduction",
+    "section": "Ant AI",
+    "text": "Ant AI\n\n\n\n\n\nAnt AI\n\n\nCheck out our new AI Teaching Assistant\n\n\nA retrieval augmented generator (RAG)\nBased on GPT-OSS\nMuch nicer than a regular teacher\n\nask any question\nany time\nwill not do your homework though…"
+  },
+  {
+    "objectID": "session_0/index.html#the-plan",
+    "href": "session_0/index.html#the-plan",
+    "title": "General Introduction",
+    "section": "The Plan",
+    "text": "The Plan\n\n\n\n\nDate\nTitle\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "session_0/index.html#section",
+    "href": "session_0/index.html#section",
     "title": "General Introduction",
     "section": "",
     "text": "Let’s go"
   },
   {
-    "objectID": "session_5/index_handout.html",
-    "href": "session_5/index_handout.html",
-    "title": "TBC",
+    "objectID": "NOTES.html",
+    "href": "NOTES.html",
+    "title": "Topics in Economics",
+    "section": "",
+    "text": "Topics in Economics: 26/01 with Erica"
+  },
+  {
+    "objectID": "exam/index_handout.html",
+    "href": "exam/index_handout.html",
+    "title": "Final Exam ☠",
     "section": "",
     "text": "Come back later!."
+  },
+  {
+    "objectID": "session_1_ai/pre_class_quiz.html",
+    "href": "session_1_ai/pre_class_quiz.html",
+    "title": "Pre-Class Warmup: The Economics of AI",
+    "section": "",
+    "text": "Instructions: These questions are designed to get you thinking about the economic impact of AI before we dive into the theory. There are no “wrong” answers at this stage, but try to use your economic intuition.\n\n\nWhen ChatGPT writes an essay or Netflix recommends a movie, what is it primarily doing from a mathematical/economic perspective? A. It is “understanding” the concepts like a human. B. It is performing a low-cost prediction (predicting the next word, or your likely rating) based on past data. C. It is accessing a fixed database of facts. D. It is generating random noise.\n\n\n\n\nThe Industrial Revolution replaced human physical muscle with steam and electric power. What is the fundamental shift offered by the current AI revolution? A. It replaces physical movement with robots. B. It replaces cognitive and creative labor (prediction, generation, reasoning) with cheap compute. C. It reduces the need for energy. D. It increases the cost of information.\n\n\n\n\nWhy are AI markets (like Search or LLMs) often dominated by one or two giant firms? A. Because they bribe the government. B. Because of Data Network Effects: More users \\(\\to\\) More Data \\(\\to\\) Better Product \\(\\to\\) More Users. C. Because these companies existed before the Internet. D. Because AI requires no capital investment.\n\n\n\n\nThink of the job you want to have in 5 years. Name ONE specific task in that job that you believe AI will NEVER be able to do well.\n(Max 1 sentence)\n\n\n\n\nWhat occurs once in a minute, twice in a moment, but never in a thousand years? (Hint: Don’t think about time. Look closer at the words themselves.)\nA. A thought B. The letter ‘M’ C. A second D. The present\nCorrect Answer: B (This tests your ability to process data (characters) rather than just semantic meaning—much like how an LLM tokenizes text!)"
+  },
+  {
+    "objectID": "session_1_ai/pre_class_quiz.html#question-1-the-core-mechanism",
+    "href": "session_1_ai/pre_class_quiz.html#question-1-the-core-mechanism",
+    "title": "Pre-Class Warmup: The Economics of AI",
+    "section": "",
+    "text": "When ChatGPT writes an essay or Netflix recommends a movie, what is it primarily doing from a mathematical/economic perspective? A. It is “understanding” the concepts like a human. B. It is performing a low-cost prediction (predicting the next word, or your likely rating) based on past data. C. It is accessing a fixed database of facts. D. It is generating random noise."
+  },
+  {
+    "objectID": "session_1_ai/pre_class_quiz.html#question-2-historical-comparison",
+    "href": "session_1_ai/pre_class_quiz.html#question-2-historical-comparison",
+    "title": "Pre-Class Warmup: The Economics of AI",
+    "section": "",
+    "text": "The Industrial Revolution replaced human physical muscle with steam and electric power. What is the fundamental shift offered by the current AI revolution? A. It replaces physical movement with robots. B. It replaces cognitive and creative labor (prediction, generation, reasoning) with cheap compute. C. It reduces the need for energy. D. It increases the cost of information."
+  },
+  {
+    "objectID": "session_1_ai/pre_class_quiz.html#question-3-winner-takes-all",
+    "href": "session_1_ai/pre_class_quiz.html#question-3-winner-takes-all",
+    "title": "Pre-Class Warmup: The Economics of AI",
+    "section": "",
+    "text": "Why are AI markets (like Search or LLMs) often dominated by one or two giant firms? A. Because they bribe the government. B. Because of Data Network Effects: More users \\(\\to\\) More Data \\(\\to\\) Better Product \\(\\to\\) More Users. C. Because these companies existed before the Internet. D. Because AI requires no capital investment."
+  },
+  {
+    "objectID": "session_1_ai/pre_class_quiz.html#question-4-open-reflection-short-response",
+    "href": "session_1_ai/pre_class_quiz.html#question-4-open-reflection-short-response",
+    "title": "Pre-Class Warmup: The Economics of AI",
+    "section": "",
+    "text": "Think of the job you want to have in 5 years. Name ONE specific task in that job that you believe AI will NEVER be able to do well.\n(Max 1 sentence)"
+  },
+  {
+    "objectID": "session_1_ai/pre_class_quiz.html#question-5-a-language-riddle-pattern-recognition",
+    "href": "session_1_ai/pre_class_quiz.html#question-5-a-language-riddle-pattern-recognition",
+    "title": "Pre-Class Warmup: The Economics of AI",
+    "section": "",
+    "text": "What occurs once in a minute, twice in a moment, but never in a thousand years? (Hint: Don’t think about time. Look closer at the words themselves.)\nA. A thought B. The letter ‘M’ C. A second D. The present\nCorrect Answer: B (This tests your ability to process data (characters) rather than just semantic meaning—much like how an LLM tokenizes text!)"
+  },
+  {
+    "objectID": "session_0_old/slides.html#the-context",
+    "href": "session_0_old/slides.html#the-context",
+    "title": "AI and the Labour Market (proto)",
+    "section": "The context…",
+    "text": "The context…"
+  },
+  {
+    "objectID": "session_0_old/slides.html#the-report",
+    "href": "session_0_old/slides.html#the-report",
+    "title": "AI and the Labour Market (proto)",
+    "section": "The report",
+    "text": "The report\nAuthors\nResearch Papers\nOfficial Blog post\nOlivier Gourinchas Gita Gopinath Kristalina Goeorgieva"
+  },
+  {
+    "objectID": "session_0_old/slides.html#how-research-is-done-at-imf",
+    "href": "session_0_old/slides.html#how-research-is-done-at-imf",
+    "title": "AI and the Labour Market (proto)",
+    "section": "How Research is done at IMF",
+    "text": "How Research is done at IMF\n\n\n\n\n\nflowchart LR\n  A{Staff} --&gt;  A1[Academic Paper]\n  A1 --&gt; X[Peer Reviewed Publications]\n  A1 --&gt; B[IMF Working Paper]\n  A --&gt; C[IMF Staff Discussion Paper]\n  B --&gt; C\n  C --&gt; D[Board Official Position]\n  E{Member States} ==&gt; D\n\n\n\n\n\n\nWhat do you conclude from that?"
+  },
+  {
+    "objectID": "session_0_old/slides.html#imf-blog",
+    "href": "session_0_old/slides.html#imf-blog",
+    "title": "AI and the Labour Market (proto)",
+    "section": "IMF Blog",
+    "text": "IMF Blog\nPoints to:\nIMF F&D December\nGenerative AI at Work"
+  },
+  {
+    "objectID": "session_0_old/slides.html#section",
+    "href": "session_0_old/slides.html#section",
+    "title": "AI and the Labour Market (proto)",
+    "section": "",
+    "text": "AE advantage: which ones are most at risk?"
+  },
+  {
+    "objectID": "session_0_old/slides.html#shape-the-narrative",
+    "href": "session_0_old/slides.html#shape-the-narrative",
+    "title": "AI and the Labour Market (proto)",
+    "section": "Shape the narrative…",
+    "text": "Shape the narrative…\nThe Marradona policy…\nGDP growth forecasts…"
+  },
+  {
+    "objectID": "session_0_old/slides.html#excec-summary",
+    "href": "session_0_old/slides.html#excec-summary",
+    "title": "AI and the Labour Market (proto)",
+    "section": "Excec Summary",
+    "text": "Excec Summary\n\nindustrial revolution: productivity shock, replace some workers, complement others\n40% of employment at risk\n\nmore in advanced countries than emerging than developing (60/40/26)\nbut advanced countries more ready\n\neffect on income / wealth inequality\n\nwhole population is affected by ai risk\nbut high income more likely to be positive complement\nmodel simulation-&gt; beneficial to top earners\n\npositive effect on income for all woekers\ncollege-educated workers more prepared to move from jobs\nAI preparedness index\n\nadvanced: invest in AI innovation and rgulation\nless developped: infrastructure and digital traning\nall social safety nets"
+  },
+  {
+    "objectID": "session_0_old/slides.html#ai-exposure-and-complementarity",
+    "href": "session_0_old/slides.html#ai-exposure-and-complementarity",
+    "title": "AI and the Labour Market (proto)",
+    "section": "AI Exposure and Complementarity",
+    "text": "AI Exposure and Complementarity\nO*NET: - job - occupation - ability\n(what is importance?, prevalence?)\n(example with a graph)\n(problem: O*NET is only for the US)\nLabor Market Exposure to AI: Cross-country Differences and Distributional Implicationss\nCountries: UK/US + Brazil, Columbia, India, South Africa\nGo beyond tasks by adding social and physical context\nSubjectivity of social point of view.\nGiven the high degree of uncertainty over the future of this fast-pacing and broadly applicable technology, the concept of exposure is purposely framed as agnostic on the likelihood of AI complementing or replacing labor in the performance of a given task or occupation.\nIdea: provide specific tables /graphs to students\nData: ILO for all countries microdata for some\nProblem: concept of complementarity, not the same\nOccupational transitions:\n\nconcept of social mobility\nmarkov chain\n\nWhat prevents transition?\ncf paper\nWhy are older workers less willing to switch? (many reality checks in the paper).\n\nWho is mostly helped with AI?*\nyoung college-educated On the other hand, AI may enable young college-educated workers to become experienced more quickly as they leverage their familiarity with new technologies to enhance their productivity. With the introduction of generative AI, the use of AI has itself become much easier. A recent study shows that the productivity impact of an AI-based conversational assistant was greatest for less experienced and low-skilled customer support workers; the effect on experienced and highly skilled workers was minimal (Brynjolfsson, Danielle, and Raymond 2023).\n\nSame with Code Assistant"
+  },
+  {
+    "objectID": "session_0_old/slides.html#ai-productivity-inequality",
+    "href": "session_0_old/slides.html#ai-productivity-inequality",
+    "title": "AI and the Labour Market (proto)",
+    "section": "AI Productivity, Inequality",
+    "text": "AI Productivity, Inequality\nModel-based\ncopmlementarity effect vs displacement effect"
+  },
+  {
+    "objectID": "session_0_old/slides.html#ai-preparedness",
+    "href": "session_0_old/slides.html#ai-preparedness",
+    "title": "AI and the Labour Market (proto)",
+    "section": "AI Preparedness",
+    "text": "AI Preparedness"
+  },
+  {
+    "objectID": "session_0_old/proto.html",
+    "href": "session_0_old/proto.html",
+    "title": "AI and the Labour Market (proto)",
+    "section": "",
+    "text": "How research is done?\n\n\n\n\n\nAuthors\nResearch Papers\nOfficial Blog post\nOlivier Gourinchas Gita Gopinath Kristalina Goeorgieva\n\n\n\n\n\n\n\n\nflowchart LR\n  A{Staff} --&gt;  A1[Academic Paper]\n  A1 --&gt; X[Peer Reviewed Publications]\n  A1 --&gt; B[IMF Working Paper]\n  A --&gt; C[IMF Staff Discussion Paper]\n  B --&gt; C\n  C --&gt; D[Board Official Position]\n  E{Member States} ==&gt; D\n\n\n\n\n\n\nWhat do you conclude from that?\n\n\n\nPoints to:\nIMF F&D December\nGenerative AI at Work\n\n\n\n\n\n\n\n\n\n\n\n\n\nAE advantage: which ones are most at risk?\n\n\n\n\n\n\nThe Marradona policy…\nGDP growth forecasts…"
+  },
+  {
+    "objectID": "session_0_old/proto.html#the-report",
+    "href": "session_0_old/proto.html#the-report",
+    "title": "AI and the Labour Market (proto)",
+    "section": "",
+    "text": "Authors\nResearch Papers\nOfficial Blog post\nOlivier Gourinchas Gita Gopinath Kristalina Goeorgieva"
+  },
+  {
+    "objectID": "session_0_old/proto.html#how-research-is-done-at-imf",
+    "href": "session_0_old/proto.html#how-research-is-done-at-imf",
+    "title": "AI and the Labour Market (proto)",
+    "section": "",
+    "text": "flowchart LR\n  A{Staff} --&gt;  A1[Academic Paper]\n  A1 --&gt; X[Peer Reviewed Publications]\n  A1 --&gt; B[IMF Working Paper]\n  A --&gt; C[IMF Staff Discussion Paper]\n  B --&gt; C\n  C --&gt; D[Board Official Position]\n  E{Member States} ==&gt; D\n\n\n\n\n\n\nWhat do you conclude from that?"
+  },
+  {
+    "objectID": "session_0_old/proto.html#imf-blog",
+    "href": "session_0_old/proto.html#imf-blog",
+    "title": "AI and the Labour Market (proto)",
+    "section": "",
+    "text": "Points to:\nIMF F&D December\nGenerative AI at Work"
+  },
+  {
+    "objectID": "session_0_old/proto.html#section",
+    "href": "session_0_old/proto.html#section",
+    "title": "AI and the Labour Market (proto)",
+    "section": "",
+    "text": "AE advantage: which ones are most at risk?"
+  },
+  {
+    "objectID": "session_0_old/proto.html#shape-the-narrative",
+    "href": "session_0_old/proto.html#shape-the-narrative",
+    "title": "AI and the Labour Market (proto)",
+    "section": "",
+    "text": "The Marradona policy…\nGDP growth forecasts…"
+  },
+  {
+    "objectID": "session_0_old/proto.html#excec-summary",
+    "href": "session_0_old/proto.html#excec-summary",
+    "title": "AI and the Labour Market (proto)",
+    "section": "Excec Summary",
+    "text": "Excec Summary\n\nindustrial revolution: productivity shock, replace some workers, complement others\n40% of employment at risk\n\nmore in advanced countries than emerging than developing (60/40/26)\nbut advanced countries more ready\n\neffect on income / wealth inequality\n\nwhole population is affected by ai risk\nbut high income more likely to be positive complement\nmodel simulation-&gt; beneficial to top earners\n\npositive effect on income for all woekers\ncollege-educated workers more prepared to move from jobs\nAI preparedness index\n\nadvanced: invest in AI innovation and rgulation\nless developped: infrastructure and digital traning\nall social safety nets"
+  },
+  {
+    "objectID": "session_0_old/proto.html#ai-exposure-and-complementarity",
+    "href": "session_0_old/proto.html#ai-exposure-and-complementarity",
+    "title": "AI and the Labour Market (proto)",
+    "section": "AI Exposure and Complementarity",
+    "text": "AI Exposure and Complementarity\nO*NET: - job - occupation - ability\n(what is importance?, prevalence?)\n(example with a graph)\n(problem: O*NET is only for the US)\nLabor Market Exposure to AI: Cross-country Differences and Distributional Implicationss\nCountries: UK/US + Brazil, Columbia, India, South Africa\nGo beyond tasks by adding social and physical context\nSubjectivity of social point of view.\nGiven the high degree of uncertainty over the future of this fast-pacing and broadly applicable technology, the concept of exposure is purposely framed as agnostic on the likelihood of AI complementing or replacing labor in the performance of a given task or occupation.\nIdea: provide specific tables /graphs to students\nData: ILO for all countries microdata for some\nProblem: concept of complementarity, not the same\nOccupational transitions:\n\nconcept of social mobility\nmarkov chain\n\nWhat prevents transition?\ncf paper\nWhy are older workers less willing to switch? (many reality checks in the paper).\n\nWho is mostly helped with AI?*\nyoung college-educated On the other hand, AI may enable young college-educated workers to become experienced more quickly as they leverage their familiarity with new technologies to enhance their productivity. With the introduction of generative AI, the use of AI has itself become much easier. A recent study shows that the productivity impact of an AI-based conversational assistant was greatest for less experienced and low-skilled customer support workers; the effect on experienced and highly skilled workers was minimal (Brynjolfsson, Danielle, and Raymond 2023).\n\nSame with Code Assistant"
+  },
+  {
+    "objectID": "session_0_old/proto.html#ai-productivity-inequality",
+    "href": "session_0_old/proto.html#ai-productivity-inequality",
+    "title": "AI and the Labour Market (proto)",
+    "section": "AI Productivity, Inequality",
+    "text": "AI Productivity, Inequality\nModel-based\ncopmlementarity effect vs displacement effect"
+  },
+  {
+    "objectID": "session_0_old/proto.html#ai-preparedness",
+    "href": "session_0_old/proto.html#ai-preparedness",
+    "title": "AI and the Labour Market (proto)",
+    "section": "AI Preparedness",
+    "text": "AI Preparedness"
+  },
+  {
+    "objectID": "session_4/nodes.html",
+    "href": "session_4/nodes.html",
+    "title": "Topics in Economics",
+    "section": "",
+    "text": "brainstorming\ninequality-growth : the old question\nOf the tendencies that are harmful to sound economics, the most seductive, and in my opinion the most poisonous, is to focus on questions of distribution.”\nBob Lucas\ninequality in what? - income - consumption - well-being?\nsecond theorem of welfare economics\nshould you be against deficit reduction?\ngreat gatsby curve - data from miles corak - alan krueger - mankiw: problem with the unit of analysis\nare people payed their marginal productivity? - elon musk: double CEO - carlos ghoson\nbe againt inequality:\nMankiw: - inefficient - equality of opportunities\n\npreferences\n\nokun in Mankiw: tradeoff inequality and growth - taxes and transfers are a leaky bucket - redistribution equalises marginal utility / productivity - but only income is observed, not wl (productivityeffort)"
+  },
+  {
+    "objectID": "session_4/assets/group_1_3_inequalities_slides.html#other-dimensions-of-inequality-measure",
+    "href": "session_4/assets/group_1_3_inequalities_slides.html#other-dimensions-of-inequality-measure",
+    "title": "Introduction to Macroeconomics",
+    "section": "Other Dimensions of Inequality (measure)",
+    "text": "Other Dimensions of Inequality (measure)\n\nMeasure:\n\npre-tax income\nafter-tax income\nconsumption\nwealth\n\nPopulation\n\ngenerational gap\ngender gap\nracial gap"
+  },
+  {
+    "objectID": "session_4/assets/group_1_3_inequalities_slides.html#pre-tax-vs-post-tax-inequality",
+    "href": "session_4/assets/group_1_3_inequalities_slides.html#pre-tax-vs-post-tax-inequality",
+    "title": "Introduction to Macroeconomics",
+    "section": "Pre-tax vs post-tax inequality",
+    "text": "Pre-tax vs post-tax inequality\n\n\n\nGini before and after taxes"
+  },
+  {
+    "objectID": "session_4/assets/group_1_3_inequalities_slides.html#consumption-inequality",
+    "href": "session_4/assets/group_1_3_inequalities_slides.html#consumption-inequality",
+    "title": "Introduction to Macroeconomics",
+    "section": "Consumption Inequality",
+    "text": "Consumption Inequality\nConsumption inequality much lower than income inequality."
+  },
+  {
+    "objectID": "session_4/assets/group_1_3_inequalities_slides.html#other-dimensions-of-inequality-population",
+    "href": "session_4/assets/group_1_3_inequalities_slides.html#other-dimensions-of-inequality-population",
+    "title": "Introduction to Macroeconomics",
+    "section": "Other Dimensions of Inequality (population)",
+    "text": "Other Dimensions of Inequality (population)\n\nRacial gap\nGender gap\n\nEU: women get paid in average 15% less than men. 10% less for same work.\n\nGenerational inequality (France)\n\nbaby-boomers had rising income profiles and high pensions\nnew generations have flatter income profiles and (expected) lower pensions"
+  },
+  {
+    "objectID": "session_4/assets/group_1_3_inequalities_slides.html#can-we-bear-inequality",
+    "href": "session_4/assets/group_1_3_inequalities_slides.html#can-we-bear-inequality",
+    "title": "Introduction to Macroeconomics",
+    "section": "Can we bear inequality ?",
+    "text": "Can we bear inequality ?\n\nYes if:\n\nit is associated with higher economic efficiency (??)\nthe economic cost of reducing inequality is important (??)\nit is associated with high social mobility (???)\n\nNo if: reducing inequality is an objective per se"
+  },
+  {
+    "objectID": "session_4/assets/group_1_3_inequalities_slides.html#takeways",
+    "href": "session_4/assets/group_1_3_inequalities_slides.html#takeways",
+    "title": "Introduction to Macroeconomics",
+    "section": "Takeways",
+    "text": "Takeways\n\nBasic inequality measure: quantile ratios, gini coefficient\nSeveral dimensions of inequality"
   },
   {
     "objectID": "session_3/notes.html",
@@ -3336,7 +3686,7 @@
     "href": "index.html",
     "title": "Topics in Economics",
     "section": "",
-    "text": "NoteInstructions for group work\n\n\n\n\n\nDeadline to return the group work: April 22th.\nBy March 17th, fill the google sheet indicating what topic you work on and listing the emails of the team members.\nThe project must contain:\n\na 5 min video\na written transcript of the video\nif GPT (or equivalent) was used, include the transcript of all interactions with it\n\nPreferably: uploaded the project as one zip file to the drive folder\n\n\n\n\n\n\n\n\n\nNoteInstructions for final exam\n\n\n\n\n\nExample from 2023. Example from 2024.\nRules:\n\nno document\nmcq on the course (2pt)\nmcq on the documents (2pt)\nessay on the documents\n\nrespect the space limit (less than 2 pages)\nfocus on clarity\nall information to answer is contained in the documents\nbut some general understanding can help\n\n\n\n\n\n\n\n\n\n\n\nNotePracticalities\n\n\n\n\n\n\nEvaluation\n\ngroup work (40%)\n\nrecord a 5 min video developing one particular point of the course\n4 students max per group\nmore detailed instructions upcoming\nto be handled two weeks before the final exam\n\nfinal exam (in-class) (60%)\n\nvery short essay based on documents\necon concepts\nmcq on:\n\ndocuments\ngroupwork\n\n\nongoing (up to 20% bonus/malus)\n\nparticipation & behaviour\nmini-tasks if any\n\n\n\n\n\n\nSchedule\n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\n\n\n\n\n\nJan 12, 2026\n\n\nThe Rise of Artificial Intelligence\n\n\nPablo Winant\n\n\n\n\n\n\nJan 19, 2026\n\n\nGen-AI and the Labour Market\n\n\nPablo Winant\n\n\n\n\n\n\nJan 26, 2026\n\n\nCountries Pulling Appart: Geoeconomic Fragmentation.\n\n\nPablo Winant\n\n\n\n\n\n\nFeb 2, 2026\n\n\nInequalities: Should We tax the Super-Riches?\n\n\nPablo Winant\n\n\n\n\n\n\nFeb 9, 2026\n\n\nTBC\n\n\nPablo Winant\n\n\n\n\n\n\nFeb 16, 2026\n\n\nBehavioral Economics\n\n\nRaphael Epperson\n\n\n\n\n\n\nMar 2, 2026\n\n\nThe Economics of Fake News\n\n\nRaphael Epperson\n\n\n\n\n\n\nMar 16, 2026\n\n\nFinal Exam ☠\n\n\n \n\n\n\n\n\n\nNo matching items"
+    "text": "NoteInstructions for group work\n\n\n\n\n\nDeadline to return the group work: March 30th.\nBy February 9th, fill the google sheet indicating what topic you work on and listing the emails of the team members.\nThe project must contain:\n\na 5 min video\na written transcript of the video\nif GPT (or equivalent) was used, include the transcript of all interactions with it\n\nImportant: the project as one zip file to the drive folder\n\n\n\n\n\n\n\n\n\nNoteInstructions for final exam\n\n\n\n\n\nExample from 2023. Example from 2024. Example from 2025.\nRules:\n\nno document\nmcq on the course (2pt)\nmcq on the documents (2pt)\nessay on the documents\n\nrespect the space limit (less than 2 pages)\nfocus on clarity\nall information to answer is contained in the documents\nbut some general understanding can help\n\n\n\n\n\n\n\n\n\n\n\nNotePracticalities\n\n\n\n\n\n\nEvaluation\n\ngroup work (40%)\n\nrecord a 5 min video developing one particular point of the course\n4 students max per group\nmore detailed instructions upcoming\nto be handled two weeks before the final exam\n\nfinal exam (in-class) (60%)\n\nvery short essay based on documents\necon concepts\nmcq on:\n\ndocuments\ngroupwork\n\n\nongoing (up to 20% bonus/malus)\n\nparticipation & behaviour\nmini-tasks if any\n\n\n\n\n\n\nSchedule\n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\n\n\n\n\n\nJan 12, 2026\n\n\nThe Rise of Artificial Intelligence\n\n\nPablo Winant\n\n\n\n\n\n\nJan 19, 2026\n\n\nGen-AI and the Labour Market\n\n\nPablo Winant\n\n\n\n\n\n\nJan 26, 2026\n\n\nCountries Pulling Appart: Geoeconomic Fragmentation.\n\n\nPablo Winant\n\n\n\n\n\n\nFeb 9, 2026\n\n\nTBC\n\n\nPablo Winant\n\n\n\n\n\n\nFeb 16, 2026\n\n\nBehavioral Economics\n\n\nRaphael Epperson\n\n\n\n\n\n\nFeb 17, 2026\n\n\nInequalities\n\n\nPablo Winant\n\n\n\n\n\n\nMar 2, 2026\n\n\nThe Economics of Fake News\n\n\nRaphael Epperson\n\n\n\n\n\n\nMar 16, 2026\n\n\nFinal Exam ☠\n\n\n \n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "session_2_ai_labour/prep_handout.html",
@@ -3365,300 +3715,6 @@
     "title": "The Economics of Fake News",
     "section": "",
     "text": "Come back later!."
-  },
-  {
-    "objectID": "archive/old_inequality/index.html#gdp",
-    "href": "archive/old_inequality/index.html#gdp",
-    "title": "Inequalities",
-    "section": "GDP",
-    "text": "GDP\n\n\n\n\n\n\n\nGDP = Total Revenue\n\na proxy for well-being\n\nBut GDP says nothing about distribution\nThough there is data about it…\n\n\n\n\nSort agents by revenue levels, in equal groups\nThose groups are called quantiles\nTake the average per quantile"
-  },
-  {
-    "objectID": "archive/old_inequality/index.html#income-inequality",
-    "href": "archive/old_inequality/index.html#income-inequality",
-    "title": "Inequalities",
-    "section": "Income Inequality",
-    "text": "Income Inequality\n\n\n\n\n\n\n\n\n\n\n\nHere is the result for France with 10 quantiles (deciles)\n\nAfter-tax revenue for France in 2011:\n\nlower decile (bbottom 10): 522 dollars/month in average\nhigher decile (top 10): 4226 dollars/month in average\n\nRatio top 10 / bottom 10: 8\n\nratios between quantile neutralize average revenue allowing for international comparisons\n\n\n\n\n\nLorenz Curve\n\nCumulative Distribution, Normalized (sums to 1) of income\n\n\n\n\n\nThe Lorenz curve shows graphically the deviation of the distribution from an equal benchmark\n\nGini Index: A/(A+B)\n\nGini=0: perfect equality\nGini=1: perfect inequality\n\nRemark: there is a formula for the Gini index, as a function of cumulative quantiles (\\(X_k\\)) and cumulative revenues (\\(Y_k\\)) \\[G=1-\\sum_{k=0}^{n-1}(X_{k+1}-X_k)(Y_{k+1}+Y_k)\\]\n\n\n\n\nA first international comparison:\n\nFrance and UK have (today) similar levels of inequality\nUnited States: a more unequal country\nChina and Brasil: very unequal\n\n\n\n\nMore gini indices:\n\nwhich do you think are the most unequal countries?\nhas it changed recenctly ?\n\ncheck out the World Inequality Ranking By Country 2022"
-  },
-  {
-    "objectID": "archive/old_inequality/index.html#section",
-    "href": "archive/old_inequality/index.html#section",
-    "title": "Inequalities",
-    "section": "",
-    "text": "Do you think inequalities are rising?"
-  },
-  {
-    "objectID": "archive/old_inequality/index.html#source",
-    "href": "archive/old_inequality/index.html#source",
-    "title": "Inequalities",
-    "section": "Source",
-    "text": "Source\n\n\n\nWhere to find historical Data about inequality ?\nThe best source: World Inequality Database\n\nThomas Piketty\nLucas Chancel\nEmmanuel Saez\nGabriel Zucman\n…\n\nA team of very serious researchers behind World Inequality Lab"
-  },
-  {
-    "objectID": "archive/old_inequality/index.html#section-1",
-    "href": "archive/old_inequality/index.html#section-1",
-    "title": "Inequalities",
-    "section": "",
-    "text": "Global income inequality, 1820-2020"
-  },
-  {
-    "objectID": "archive/old_inequality/index.html#section-4",
-    "href": "archive/old_inequality/index.html#section-4",
-    "title": "Inequalities",
-    "section": "",
-    "text": "Summary:\n\n⇒ Global inequality rose between 1820 and 1910, and stabilized at a high level since then\n⇒ No difference between 1910 and now, except increase in middle 40%\n⇒ Level of inequality that we currently observe in the most unequal countries in the world, such as South Africa, Brazil, Mexico and the United Arab Emirates (see Chapter 1). In brief: in terms of inequality and concentration of resources and economic power, the world today is and has long been like a giant South Africa."
-  },
-  {
-    "objectID": "archive/old_inequality/index.html#section-5",
-    "href": "archive/old_inequality/index.html#section-5",
-    "title": "Inequalities",
-    "section": "",
-    "text": "Between-country: assume everybody in the country has the same income\nWithin-country: averages between countries, weighted by country sizes\n\n\n⇒ For both series: same level in 1920 as in 2020"
-  },
-  {
-    "objectID": "archive/old_inequality/index.html#section-7",
-    "href": "archive/old_inequality/index.html#section-7",
-    "title": "Inequalities",
-    "section": "",
-    "text": "Evolution of the between dimension:\n\n\ndevelopment has raised per capita income everywhere\ncatchup effect is harder to measure"
-  },
-  {
-    "objectID": "archive/old_inequality/index.html#section-8",
-    "href": "archive/old_inequality/index.html#section-8",
-    "title": "Inequalities",
-    "section": "",
-    "text": "Shall we focus also on the super rich?"
-  },
-  {
-    "objectID": "archive/old_inequality/index.html#section-9",
-    "href": "archive/old_inequality/index.html#section-9",
-    "title": "Inequalities",
-    "section": "",
-    "text": "Income of the 1% and 0.1% top earners was highest in 1910 then decreased until all time low in the 60s and rose again, but not as high."
-  },
-  {
-    "objectID": "archive/old_inequality/index.html#section-10",
-    "href": "archive/old_inequality/index.html#section-10",
-    "title": "Inequalities",
-    "section": "",
-    "text": "From WID (Chancel and Piketty 2020)\n\nOur new series reveal that, around the turn of the 21st century, the within- country component of global inequality has become greater than the between-country component. In contemporary capitalism, an individual’s income group (i.e. whether they belong to the bottom 50%, top 1%, etc. in their own country) now matters more than their nationality (where they live) in the determination of global inequality levels."
-  },
-  {
-    "objectID": "archive/old_inequality/index.html#section-11",
-    "href": "archive/old_inequality/index.html#section-11",
-    "title": "Inequalities",
-    "section": "",
-    "text": "What kind of inequality do we care about?\nShould we really focus on income?"
-  },
-  {
-    "objectID": "archive/old_inequality/index.html#other-types-of-inequality",
-    "href": "archive/old_inequality/index.html#other-types-of-inequality",
-    "title": "Inequalities",
-    "section": "Other types of inequality",
-    "text": "Other types of inequality\n\n\n\nincome (net of taxes)\nincome (gross)\nconsumption\nwealth\nchance of being unemployed\nhealth\n\n\n\nlife-expectancy\nwell-being\ncarbon emissions\ndecision power\nbeauty\nenvironmental exposition\nprovision of public goods"
-  },
-  {
-    "objectID": "archive/old_inequality/index.html#net-vs-gross-inequalities",
-    "href": "archive/old_inequality/index.html#net-vs-gross-inequalities",
-    "title": "Inequalities",
-    "section": "Net vs Gross Inequalities",
-    "text": "Net vs Gross Inequalities\n\n\nGini index for several countries before and after taxes in 2014\n\nFrance and United states: same pretax inequality level: 0.51\nIn France, redistribution brings it to 0.29,0.39 aux US\nEuropean countries tend to redistribute more\nsome small european countries (Ireland, Portugal, Greece) have similar, very high levels of inequalities"
-  },
-  {
-    "objectID": "archive/old_inequality/index.html#consumption-inequality",
-    "href": "archive/old_inequality/index.html#consumption-inequality",
-    "title": "Inequalities",
-    "section": "Consumption Inequality",
-    "text": "Consumption Inequality\n\n\n\nFrom Measuring and Comparing Consumption Inequality between France and the United States, Aliocha Accardo, Sylvérie Herbert, Cristina Jude, Adrian Penalver \n\n\nConsumption Inequality is much lower than income inequality. Why?\nTwo main reasons\n\nConsumption sharing within a household or a family\nConsumption smoothing with borrowing or saving\n\nto absorb temporary shocks\nto smooth consumption over the life cycle"
-  },
-  {
-    "objectID": "archive/old_inequality/index.html#consumption-inequality-life-cycle",
-    "href": "archive/old_inequality/index.html#consumption-inequality-life-cycle",
-    "title": "Inequalities",
-    "section": "Consumption Inequality: Life-Cycle",
-    "text": "Consumption Inequality: Life-Cycle\n\n\nDo we actually want to reduce it?"
-  },
-  {
-    "objectID": "archive/old_inequality/index.html#wealth-inequality",
-    "href": "archive/old_inequality/index.html#wealth-inequality",
-    "title": "Inequalities",
-    "section": "Wealth Inequality",
-    "text": "Wealth Inequality"
-  },
-  {
-    "objectID": "archive/old_inequality/index.html#wealth-inequality-1",
-    "href": "archive/old_inequality/index.html#wealth-inequality-1",
-    "title": "Inequalities",
-    "section": "Wealth Inequality",
-    "text": "Wealth Inequality\n\n\nIt is very hard to get precise data about wealth. Authors used many different strategies (tax receipts, surveys, …)"
-  },
-  {
-    "objectID": "archive/old_inequality/index.html#wealth-inequality-2",
-    "href": "archive/old_inequality/index.html#wealth-inequality-2",
-    "title": "Inequalities",
-    "section": "Wealth Inequality",
-    "text": "Wealth Inequality\n\n\nWhat is the problem with Wealth Inequality?\n\nit is very persistent\nit is still an instrument of power (less so than in the past…)\n\nSince richer individuals get access to higher returns on investment, by itself, wealth inequality tends to increase until it is taxed\nMost economic models find that wealth is not automatically mean-reverting"
-  },
-  {
-    "objectID": "archive/old_inequality/index.html#inequality-dimensions",
-    "href": "archive/old_inequality/index.html#inequality-dimensions",
-    "title": "Inequalities",
-    "section": "Inequality Dimensions",
-    "text": "Inequality Dimensions\nFor a given welfare target, one can get different inequality measures.\n\n\n\nby changing the overall population. Within\n\ncountry\nregion\npeers, …\n\n\n\n\nby comparing several subcategories. Between\n\ncountries\nrace\ngender\nage or generation?\neducation level"
-  },
-  {
-    "objectID": "archive/old_inequality/index.html#intra-population",
-    "href": "archive/old_inequality/index.html#intra-population",
-    "title": "Inequalities",
-    "section": "Intra-population",
-    "text": "Intra-population\n\nRacial gap\n\nin the US, whites earn 30% more than afro-americans who earn 20% more than hispanics\nnot just about racism\n\ndifferent job types\ndifferences in education\ngeographic segregation\n…\n\n\nGender gap\n\nEU: women receive in average 15% less than men\nThey earn 10% for equivalent work (European Commision).\n\n\nIn both cases, one must distinguish a pure measure of inequality from a measure of discrimination."
-  },
-  {
-    "objectID": "archive/old_inequality/index.html#inter-generational-inequality",
-    "href": "archive/old_inequality/index.html#inter-generational-inequality",
-    "title": "Inequalities",
-    "section": "Inter-Generational Inequality",
-    "text": "Inter-Generational Inequality\n\nA common narrative: for the age gap\n\nbaby-boomers saw their income rise during their life and enjoy rather high pensions\nnew generations have lower life-income profiles and lower expected pensions\neven more problematic for wealth inequality: average age for retirement is 60 years\n\nAccording to D’Albis and Badji, this is not true in France"
-  },
-  {
-    "objectID": "archive/old_inequality/index.html#inter-generational-inequality-1",
-    "href": "archive/old_inequality/index.html#inter-generational-inequality-1",
-    "title": "Inequalities",
-    "section": "Inter-Generational Inequality",
-    "text": "Inter-Generational Inequality"
-  },
-  {
-    "objectID": "archive/old_inequality/index.html#inter-generational-inequality-2",
-    "href": "archive/old_inequality/index.html#inter-generational-inequality-2",
-    "title": "Inequalities",
-    "section": "Inter-Generational Inequality",
-    "text": "Inter-Generational Inequality\n\n\nThis is even more dubious when looking at consumption.\n… and there were a lot of other material improvements (like life expectancy)"
-  },
-  {
-    "objectID": "archive/old_inequality/index.html#section-13",
-    "href": "archive/old_inequality/index.html#section-13",
-    "title": "Inequalities",
-    "section": "",
-    "text": "What improves the circumstances of the greater part can never be regarded as an inconveniency to the whole. No society can surely be flourishing and happy, of which the far greater part of the members are poor and miserable.\n\n\nAdam Smith, The Wealth Of Nations, Book I Chapter VIII, p.96"
-  },
-  {
-    "objectID": "archive/old_inequality/index.html#political-philosophy-1",
-    "href": "archive/old_inequality/index.html#political-philosophy-1",
-    "title": "Inequalities",
-    "section": "Political Philosophy (1)",
-    "text": "Political Philosophy (1)\nUtilitarianism: the state should maximize total utility of all citizens(Bentham, Stuart Mill)\n\nmarginal utility implies the need for some distribution (because rich citizens derive less utility from an additional consumption unit than the poors)\nit does not imply perfect redistribution because\n\nthere is a cost to redistribution\ntoo much equality can induce bad incentives which is detrimental to everybody\n\nModern version: Pareto weights \\(\\omega_i\\) \\[\\max \\sum_i \\omega_i U(c_i)\\]"
-  },
-  {
-    "objectID": "archive/old_inequality/index.html#political-philosophy-2",
-    "href": "archive/old_inequality/index.html#political-philosophy-2",
-    "title": "Inequalities",
-    "section": "Political Philosophy (2)",
-    "text": "Political Philosophy (2)\nLiberalism: the state should choose fair policies as evaluated by an objective observer hidden behind a veil of ignorance\n\nJohn Rawls proposes a mental experiment where one evaluates the rules of the society (including the economic system) from an original posiiton untainted by the ultimate place of the observer in the society\nreducing inequalities could be seen as insurance against a bad draw\nbut what is the risk? when probabilities are unknown one talks about ambiguity, or radical uncertainty\nit is not clear what is the aversion to this kind of risk\n\nRawls/Knight: one maximizes utility in the worth case (maximin criterion)\n\nmore redistribution than in the utilitarian case\n\nbut not 100% equal either"
-  },
-  {
-    "objectID": "archive/old_inequality/index.html#political-philosophy-3",
-    "href": "archive/old_inequality/index.html#political-philosophy-3",
-    "title": "Inequalities",
-    "section": "Political Philosophy (3)",
-    "text": "Political Philosophy (3)\nLibertarianism: state should punish crimes, and help secure voluntary contracts between willing individuals, but it should not redistribute income\n\ninequality is not relevant at a state’s level\n\nin the same way that granting the same grade to all students is not a valid objective\n\nit doesn’t mean libertarians are not altruistic\nstate must guarantee that the allocation procedure be legal\n\nconcretely: grant property rights"
-  },
-  {
-    "objectID": "archive/old_inequality/index.html#section-15",
-    "href": "archive/old_inequality/index.html#section-15",
-    "title": "Inequalities",
-    "section": "",
-    "text": "Among the three philosophies, what do you think is the better description of international relations between countries?"
-  },
-  {
-    "objectID": "archive/old_inequality/index.html#preferences",
-    "href": "archive/old_inequality/index.html#preferences",
-    "title": "Inequalities",
-    "section": "Preferences",
-    "text": "Preferences\nWe have seen last week, how regular human beings can have “other-regarding” preferences\n\ncf the ultimatum game\n\nA key concept here is the notion of reference group\nThere are different kinds of “other-regarding” preferences"
-  },
-  {
-    "objectID": "archive/old_inequality/index.html#other-regarding-preferences-are-not-only-about-money",
-    "href": "archive/old_inequality/index.html#other-regarding-preferences-are-not-only-about-money",
-    "title": "Inequalities",
-    "section": "Other regarding preferences are not only about money?",
-    "text": "Other regarding preferences are not only about money?\n\n\nDo you find it scandalous?\nWhat if big carbon emitters were paying for it?"
-  },
-  {
-    "objectID": "archive/old_inequality/index.html#classical-efficiency-argument",
-    "href": "archive/old_inequality/index.html#classical-efficiency-argument",
-    "title": "Inequalities",
-    "section": "Classical Efficiency Argument",
-    "text": "Classical Efficiency Argument\n\n\n\n\n\nAdam Smith and his parrot\n\n\n\nAdam Smith view (according to Debora Boucoyannis)\n\nindividuals should be paid according to their marginal productivity\n\ni.e. what they bring to the society\nmore productive individuals should be paid more to produce more\n\nbut because marginal returns are decreasing no one will get very high salary\n\nnot even entrepreneurs because profits are decreasing\n\n⇒ High inequality is a sign that markets are not functioning properly"
-  },
-  {
-    "objectID": "archive/old_inequality/index.html#section-16",
-    "href": "archive/old_inequality/index.html#section-16",
-    "title": "Inequalities",
-    "section": "",
-    "text": "Of the tendencies that are harmful to sound economics, the most seductive, and in my opinion the most poisonous, is to focus on questions of distribution… The potential for improving the lives of poor people by finding different ways of distributing current production is nothing compared to the apparently limitless potential of increasing production.\n\nBob Lucas (2004)"
-  },
-  {
-    "objectID": "archive/old_inequality/index.html#inequality-and-development",
-    "href": "archive/old_inequality/index.html#inequality-and-development",
-    "title": "Inequalities",
-    "section": "Inequality and Development",
-    "text": "Inequality and Development\n\n\n\n\nKusnetz has studied the relationship between the level of development and inequality.\nHe asserted that countries develop in two phases:\n\nin developing economies: entrepreneurs accumulate wealth by hiring cheap workers migrating from the country-side to the cities\nin mature economies: salaries rise and growth in human capital becomes central to economic growth"
-  },
-  {
-    "objectID": "archive/old_inequality/index.html#inequality-and-growth-1",
-    "href": "archive/old_inequality/index.html#inequality-and-growth-1",
-    "title": "Inequalities",
-    "section": "Inequality and Growth (1)",
-    "text": "Inequality and Growth (1)\nWhat if there was trade-off between growth and inequality:\n\ntrickle-down economics:\n\ntransferring money to the riches benefits everyone because it is reinvested in the economy\npopular with some conservative politicians\n…but not defended by any serious economist\n\nsome growth economists (Paul Romer, Philippe Aghion) have studied how growth induces more inequality\n\nthrough skill-biased technical changes\nthrough the unequal of the rents from innovation"
-  },
-  {
-    "objectID": "archive/old_inequality/index.html#inequality-and-growth-2",
-    "href": "archive/old_inequality/index.html#inequality-and-growth-2",
-    "title": "Inequalities",
-    "section": "Inequality and Growth (2)",
-    "text": "Inequality and Growth (2)\n\nEmpirically, several studies have been carried out see whether there was a systematic relationship between growth of inequalities.\n\nDeininger and Squire 1998, Barro 2000, Forbes 2000, …: inconclusive\nBanerjee and Duflo 2003: inverted U-shape"
-  },
-  {
-    "objectID": "archive/old_inequality/index.html#section-17",
-    "href": "archive/old_inequality/index.html#section-17",
-    "title": "Inequalities",
-    "section": "",
-    "text": "Response to Lucas\n\nIt’s fairly common for conservative economists to try and shout down any discussion of income distribution by claiming that distribution is a trivial matter compared with the huge gains from economic growth. For example, Robert Lucas: “Of the tendencies that are harmful to sound economics, the most seductive, and in my opinion the most poisonous, is to focus on questions of distribution.” The usual answer to this is to point out that we don’t actually know much about how to produce rapid economic growth — conservatives may think they know (low taxes and all that), but there is no evidence to back up their certainty. And on the other hand, we know how to make a big difference to income distribution, especially how to reduce extreme poverty. So why not work on what we know, as at least part of our economic strategy?\n\nKrugman"
-  },
-  {
-    "objectID": "archive/old_inequality/index.html#modern-version-mankiws-defense-of-the-top-1",
-    "href": "archive/old_inequality/index.html#modern-version-mankiws-defense-of-the-top-1",
-    "title": "Inequalities",
-    "section": "Modern version: Mankiw’s defense of the top 1%",
-    "text": "Modern version: Mankiw’s defense of the top 1%\n\n\n\nGreg Mankiw:\n\nNew Keynesian\nconservative\nauthor of the (very consensual) textbook “Principles of Economics”\n\nMost economists today belong to the classical school of thought.\n\n\n\n\n\n💦: Defending the One Percent in Journal of Economic Perspectives, 2013\n\n\n\n\nKrugman Response"
-  },
-  {
-    "objectID": "archive/old_inequality/index.html#why-is-it-crucial-to-control-inequalities-now",
-    "href": "archive/old_inequality/index.html#why-is-it-crucial-to-control-inequalities-now",
-    "title": "Inequalities",
-    "section": "Why is it crucial to control inequalities now?",
-    "text": "Why is it crucial to control inequalities now?\nThere are two big reasons why not tackling inequalities could have huge impact\n\nin an unequal society, negative shocks are borne disporportionnately by the bottom of the distribution\nactual and perceived changes in inequalities are strong drivers for doing / undoing coalitions\n\nfor big reforms we need strong coalitions\n\nex: pension reforms, carbon tax, international climate coalition"
-  },
-  {
-    "objectID": "archive/old_inequality/index.html#can-we-do-more",
-    "href": "archive/old_inequality/index.html#can-we-do-more",
-    "title": "Inequalities",
-    "section": "Can we do more?",
-    "text": "Can we do more?"
-  },
-  {
-    "objectID": "archive/old_inequality/index.html#can-we-do-more-2",
-    "href": "archive/old_inequality/index.html#can-we-do-more-2",
-    "title": "Inequalities",
-    "section": "Can we do more? (2)",
-    "text": "Can we do more? (2)"
-  },
-  {
-    "objectID": "archive/old_inequality/assets/inequalities.html",
-    "href": "archive/old_inequality/assets/inequalities.html",
-    "title": "Topics in Economics",
-    "section": "",
-    "text": "import dbnomics\nfrom matplotlib import pyplot as plt\nplt.style.use('ggplot')\nplt.rcParams['axes.facecolor']='w'\nplt.rcParams.update({\"axes.grid\" : True, \"grid.color\": \"grey\"})\nimport pandas as pd\nimport numpy as np\n\n\n\nls gid-excel-2018\n\n\ngid-codebook.txt  gid-previewexcel.csv  __MACOSX/\n\n\n\n\n\nimport pandas as pd\n\n\nfilename =\"gid-excel-2018/gid-previewexcel.csv\"\n\n\ndf = pd.read_csv(filename, engine=\"python\")\n\n\nimport altair as alt\n\n\ndf.columns\n\nIndex(['country', 'coun3', 'year', 'atkinson2', 'gini', 'm2mratio',\n       'palmaratio', 'income1', 'income2', 'income3', 'income4', 'income5',\n       'income6', 'income7', 'income8', 'income9', 'income10', 'incomeatperc1',\n       'incomeatperc10', 'incomeatperc20', 'incomeatperc30', 'incomeatperc40',\n       'incomeatperc50', 'incomeatperc60', 'incomeatperc70', 'incomeatperc80',\n       'incomeatperc90', 'incomeatperc95', 'incomeatperc99', 'incomeatperc100',\n       'mean', 'mean2011PPP', 'mld', 'ratio90to10levels', 'share1', 'share2',\n       'share3', 'share4', 'share5', 'share6', 'share7', 'share8', 'share9',\n       'share10', 'growthrate', 'incdefn', 'population', 'databasesource',\n       'sharetop1', 'sharetop5', 'source1', 'sqcoeffvariation',\n       'surveysource2', 'surveyyears', 'consumptionsurvey', 'theil'],\n      dtype='object')\n\n\n\ndef get_value(country, year, name):\n    dd = df[(df['country']==country) & (df['year']==(year))]\n    return float(dd[name])\n\n\n\ndef get_gini(country, year):\n    dd = df[(df['country']==country) & (df['year']==(year))]\n    return float(dd[\"gini\"])\n\n\ndef get_series(country, year):\n    dd = df[(df['country']==country) & (df['year']==(year))]\n    avg_inc = float(dd['mean2011PPP'])\n    shares = [float(dd[f\"share{i}\"]) for i in range(1,11)]\n    income = [avg_inc*float(e)*10 for e in shares]\n    return shares, income\n    \n\n\nqts = [0.1*i for i in range(1,11)]\n\n\nget_series(\"France\", 2011)[1]\n\n[510.4986655176001,\n 727.3399498380002,\n 905.8840429176001,\n 1068.2271030276002,\n 1228.3058492892,\n 1399.0707211716003,\n 1598.4519968700001,\n 1862.1965167956002,\n 2298.2995205244,\n 4283.845316406]\n\n\n\nget_gini(\"France\", 2011)\n\nFrance\n\n\n0.33292484\n\n\n\ncountries = [\"France\", \"China\", \"United States\", \"United Kingdom\", \"Brazil\"]\nincome_per_quantile = {c: get_series(c, 2011)[1] for c in countries}\nshare_per_quantile = {c: get_series(c, 2011)[0] for c in countries}\n\n# Source Core Econ\n\nFrance\nChina\nUnited States\nUnited Kingdom\nBrazil\nFrance\nChina\nUnited States\nUnited Kingdom\nBrazil\n\n\n\nquantiles = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7 , 0.8,  0.9, 1.0]\n\n\ninc = np.array(income_per_quantile['France'])\ncs = inc.cumsum()\n\ninc_US = np.array(income_per_quantile['United States'])\n# cs_US = inc.cumsum()\n\nfig = plt.figure(figsize=(8, 6))\nplt.bar([e-0.1 for e in quantiles], inc, width=0.09, align='center', tick_label=[f'{e*100:.0f}%' for e in quantiles], alpha=0.5)\nplt.ylim(0)\nplt.xlim(-0.1,1.2)\nplt.grid( axis='x')\nplt.xlabel(\"Quantile\")\nplt.ylabel(\"Income\")\nplt.savefig(\"income_inequality_1.png\")\ndisplay(fig)\n\n\nfig = plt.figure(figsize=(8, 6))\nplt.bar([e-0.1 for e in quantiles], inc, width=0.09, align='center', tick_label=[f'{e*100:.0f}%' for e in quantiles], alpha=0.5, label='France')\nplt.bar([e-0.1 for e in quantiles], inc_US, width=0.09, align='center', tick_label=[f'{e*100:.0f}%' for e in quantiles], alpha=0.5, label= 'US')\nplt.ylim(0)\nplt.xlim(-0.1,1.2)\nplt.grid( axis='x')\nplt.xlabel(\"Quantile\")\nplt.ylabel(\"Income\")\nplt.legend(loc='upper left')\nplt.savefig(\"income_inequality_1_comparison.png\")\ndisplay(fig)\n\n\n\n\nfig = plt.figure(figsize=(8, 6))\nplt.bar([e-0. for e in quantiles], cs, width=0.09, align='center', tick_label=[f'{e*100:.0f}%' for e in quantiles], alpha=0.5)\nplt.ylim(0)\nplt.xlim(-0.1,1.2)\nplt.grid( axis='x')\nplt.xlabel(\"Quantile\")\nplt.ylabel(\"Cumulated Income\")\nplt.savefig(\"income_inequality_2.png\")\ndisplay(fig)\n\n## inequality measure : top 10% over bottom 10%\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nsh = cs/cs[-1]\nfig3 = plt.figure(figsize=(8, 6))\nplt.bar([e for e in quantiles],(cs/cs[-1]).tolist(), width=0.09, align='center', tick_label=[f'{e*100:.0f}%' for e in quantiles], alpha=0.5)\nplt.plot([0.0]+quantiles,  [0.0]+ (cs/cs[-1]).tolist(), color='C1')\nplt.ylim(0, 1.1)\nplt.xlim(-0.1,1.2)\nplt.grid( axis='x')\nplt.xlabel(\"Quantile\")\nplt.ylabel(\"Cumulated Income\")\nplt.savefig(\"income_inequality_3.png\")\nfig3\n\n# we can read the 10% poorest have 3.1%\n# while the 10% richest earn 25%\n# inequality measure: top10% over top20% = \n\n\n\n\n\n\n\n\n\nsh = cs/cs[-1]\nfig3 = plt.figure(figsize=(8, 6))\n# plt.bar([e for e in quantiles],(cs/cs[-1]).tolist(), width=0.09, align='center', tick_label=[f'{e*100:.0f}%' for e in quantiles], alpha=0.5)\nplt.plot([0.0]+quantiles,  [0.0]+quantiles, color='black', linestyle='--')\nplt.fill_between([0.0]+quantiles,  [e*0 for e in ([0.0]+quantiles)], [0.0]+quantiles, color='black', alpha=0.1)\nplt.plot([0.0]+quantiles,  [0.0]+ (cs/cs[-1]).tolist(), color='C1')\nplt.fill_between([0.0]+quantiles,  [e*0 for e in ([0.0]+quantiles)], [0.0]+ (cs/cs[-1]).tolist(), color='C1', alpha=0.2)\n\nplt.ylim(0, 1.1)\nplt.xlim(-0.1,1.2)\nplt.grid( axis='x')\nplt.xlabel(\"Quantile\")\nplt.ylabel(\"Cumulated Income\")\nplt.savefig(\"gini.png\")\nplt.text(0.55, 0.45, \"A\", fontdict={\"size\": 16})\nplt.text(0.7, 0.3, \"B\", fontdict={\"size\": 16})\nB = sum( [0.0]+ (cs/cs[-1]).tolist() )/1\nprint('Gini: ', (1-2*B ))\nprint(\"it should be 0.33\")\nfig3\n\n\nGini:  -6.757369935147398\nit should be 0.33\n\n\n\n\n\n\n\n\n\n\nincome_per_quantile\n\n{'France': [510.4986655176001,\n  727.3399498380002,\n  905.8840429176001,\n  1068.2271030276002,\n  1228.3058492892,\n  1399.0707211716003,\n  1598.4519968700001,\n  1862.1965167956002,\n  2298.2995205244,\n  4283.845316406],\n 'China': [45.92616406559999,\n  95.07738346080001,\n  147.76284945240002,\n  206.01037747679996,\n  272.8685765208,\n  353.4260517216,\n  457.32411165480005,\n  606.4540846728,\n  869.3027064227999,\n  1917.5676945516],\n 'United States': [350.7690341904,\n  619.9808561568001,\n  864.7120830168001,\n  1102.2915414408,\n  1347.5906722512002,\n  1618.1163159816003,\n  1941.5423451144002,\n  2375.6458925328006,\n  3093.4462178064005,\n  5603.425230684001],\n 'United Kingdom': [406.6649287554,\n  620.1000463248,\n  800.425416867,\n  966.9183441114001,\n  1132.6065687429,\n  1310.1921632253002,\n  1517.6133321312,\n  1790.3849683071003,\n  2232.0367535079,\n  3677.9274780270002],\n 'Brazil': [57.832885405439995,\n  116.12704198464,\n  164.25351435455997,\n  213.53656694976,\n  268.78778410175994,\n  335.4778012032,\n  422.87455794816,\n  551.49833850624,\n  785.9866597113601,\n  2050.47270082944]}\n\n\n\nplt.clf()\nfig3 = plt.figure(figsize=(8, 6))\nfor c in countries:\n    sh = np.array(share_per_quantile[c]).cumsum()\n    gini = get_gini(c, 2011)\n    plt.plot([0.0]+quantiles,  [0.0]+ sh.tolist(), label=f\"{c} | Gini: {gini:.2f}\")\n\n# plt.bar([e for e in quantiles],(cs/cs[-1]).tolist(), width=0.09, align='center', tick_label=[f'{e*100:.0f}%' for e in quantiles], alpha=0.5)\nplt.plot([0, 1], [0, 1], color='black', linestyle='--')\n\nplt.ylim(0, 1.1)\nplt.xlim(-0.,1.)\nplt.grid( axis='x')\nplt.xlabel(\"Quantile\")\nplt.ylabel(\"Cumulated Income\")\nplt.legend(loc='upper left')\nplt.savefig(\"income_inequality_comparison.png\", transparent=True, bbox_inches='tight')\n\n&lt;Figure size 432x288 with 0 Axes&gt;\n\n\n\n\n\n\n\n\n\n\nsh9 = get_value(\"France\", 2010, \"share9\")\nsh10 = get_value(\"France\", 2010, 'share10')\nt5 = get_value(\"France\", 2010, 'sharetop5')\nt1 = get_value(\"France\", 2010, 'sharetop1')\n# get_value(\"France\", 2010, 'sharetop10')\n\nFrance\nFrance\nFrance\nFrance\n\n\n\ntotal = sh9 + sh10\n\n\nx = np.array([0.0, 10, 15, 19, 20])/20\ny = np.array([0.0, sh9/total, (sh10-t5)/total, (t5-t1)/total, t1/total])\nc = y.cumsum()\n\n\nsh = np.array(share_per_quantile[\"France\"]).cumsum()\nplt.plot([0.0]+quantiles,  [0.0]+ sh.tolist(), label=f\"Full Distribution\")\nplt.plot(x,c, label=\"Top 20%\")\nplt.legend(loc='upper left')\n\n\n\n\n\n\n\n\n\ndef get_all_gini(country):\n    dates = []\n    indices = []\n    for year in range(1900, 2020):\n        try:\n            gin = get_gini(country, year)\n            dates.append(year)\n            indices.append(gin)\n        except:\n            pass\n    return dates, indices\n\n\ndates0, indices0 = get_all_gini(\"France\")\ndates1, indices1 = get_all_gini(\"United States\")\n\n\nplt.plot(dates0, indices0)\nplt.plot(dates1, indices1)\nplt.xlim(1970)\n\n\n\n\n\n\n\n\nINSEE: Gini index\n\ngini_france = [[1970, 0.337],\n[1975, 0.323],\n[1979, 0.303],\n[1984, 0.297],\n[1990, 0.283],\n[1996, 0.282],\n[1997, 0.281],\n[1998, 0.279],\n[1999, 0.286],\n[2000, 0.289],\n[2001, 0.288],\n[2002, 0.284],\n[2003, 0.283],\n[2004, 0.283],\n[2005, 0.289],\n[2006, 0.293],\n[2007, 0.292],\n[2008, 0.292],\n[2009, 0.293],\n[2010, 0.302],\n[2011, 0.305],\n[2012, 0.302],\n[2013, 0.288],\n[2014, 0.289],\n[2015, 0.292],\n[2016, 0.288],\n[2017, 0.289]]\n\n\ndates, gini = [*zip(*gini_france)]\n\n\nginis_us = [[1974, 35.3],\n[1979, 34.6],\n[1986, 37.5],\n[1991, 38.2],\n[1994, 40.2],\n[1997, 40.7],\n[2000, 40.3],\n[2004, 40.5],\n[2007, 41.0],\n[2010, 40.3],\n[2013, 41.0],\n[2016, 41.4]]\ndates_us, gini_us = [*zip(*ginis_us)]\ngini_us  = np.array(gini_us)/100\n\n\nplt.figure(figsize=(12, 6))\nplt.plot(dates, gini, label='France')\nplt.plot(dates_us, gini_us, label='United states')\nplt.legend(loc='upper left')\nplt.savefig(\"gini_evolution.png\", transparent=True, bbox_inches='tight')"
   },
   {
     "objectID": "archive/old_nudges/sources copy.html",
