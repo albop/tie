@@ -1,0 +1,297 @@
+---
+title: "Inflation 2026: the new challenges after the peak"
+subtitle: "Affordability, sticky services, and the policy tightrope"
+author: "30-minute briefing"
+date: "2026-02-08"
+format:
+  revealjs:
+    slide-number: true
+    progress: true
+    transition: fade
+    incremental: true
+    incremental-style: appear
+    center: false
+    width: 1280
+    height: 720
+    self-contained: false
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+## How to use this deck
+
+- Designed for ~30 minutes (\~2 minutes/slide, plus 5 minutes Q&A)
+- Slide text is intentionally light; talk track is in speaker notes
+- Visuals are in `images/` (bundled)
+
+::: notes
+Timing suggestion:
+
+- Slides 1–3 (setup): 6 min
+- Slides 4–11 (challenges): 16–18 min
+- Slides 12–14 (what to do + close): 6–8 min
+
+Sources are listed in notes throughout; last slide has a source list.
+:::
+
+## Challenge #3 — energy, geopolitics & trade policy volatility
+
+- Energy can swing headline inflation quickly (down *or* up)
+- Geopolitical shocks hit commodities and supply chains first
+- Trade policy and tariffs can reintroduce price pressure (and uncertainty)
+
+::: notes
+Talk track (2 minutes):
+
+- In the euro area flash estimate for Jan 2026, energy is negative while services is still high: that’s the “headline looks fine, underlying still sticky” pattern.
+- Even if inflation is near target, energy and trade shocks are still *tail risks* that force central banks to stay cautious.
+
+Sources:
+
+- Eurostat flash estimate shows energy inflation at -4.1% y/y and services at 3.2% y/y in Jan 2026.
+  https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-04022026-ap
+- IMF WEO Update (Jan 2026) highlights that geopolitical tensions and trade measures can disrupt supply chains and commodity prices.
+  https://www.imf.org/en/publications/weo/issues/2026/01/19/world-economic-outlook-update-january-2026
+:::
+
+## Challenge #4 — food prices, climate shocks, and “renewed” inflation risk
+
+- Food inflation is socially and politically high-stakes
+- Climate patterns (e.g., El Niño) can hit harvests and global food prices
+- Even if overall markets are well supplied, shocks can be sharp and localized
+
+::: notes
+Talk track (2 minutes):
+
+- Treat food and energy as “fast-moving” inflation components: the macro trend can be down while household experience jumps month-to-month.
+
+Sources:
+
+- ECB Economic Bulletin focus box discusses how El Niño can affect global food commodities and prices.
+  https://www.ecb.europa.eu/press/economic-bulletin/focus/2023/html/ecb.ebbox202306_01~36e78cc75e.en.html
+- Guardian (Feb 2026) reports on forecasts for a possible El Niño in 2026.
+  https://www.theguardian.com/environment/2026/feb/08/global-weather-el-nino-pacific-ocean-high-temperatures-2027
+- World Bank food security update summarizes recent commodity market conditions and ongoing input-cost issues.
+  https://www.worldbank.org/en/topic/agriculture/brief/food-security-update
+:::
+
+## Challenge #5 — business stress: margins, refinancing, insolvencies
+
+- The inflation hangover shows up in **cash flow** (input costs) and **credit** (refinancing at higher rates)
+- A slowdown + tight credit conditions tend to hit SMEs first
+- Rising bankruptcies create second-round effects: job losses, supplier defaults, tighter lending
+
+::: notes
+Talk track (2–3 minutes):
+
+- Emphasize that “inflation problems” aren’t only about CPI prints; they show up in business failures and labor-market scarring.
+
+Source:
+
+- Allianz Global Insolvency Outlook 2026-27 expects global business insolvencies to rise +6% in 2025 and +5% in 2026, reaching record highs, with higher interest rates straining debt-heavy firms.
+  https://www.allianz.com/en/economic_research/insights/publications/specials_fmo/251021-insolvency-outlook.html
+:::
+
+## Challenge #6 — fiscal pressure: the “interest bill” problem
+
+- Governments face tighter trade-offs: debt service vs. investment vs. social support
+- Broad subsidies can reduce pain *now* but may worsen inflation or debt sustainability
+- Fiscal-monetary mix matters more when inflation is close to target
+
+::: notes
+Talk track (2 minutes):
+
+- The 2021–2023 inflation episode left higher price levels, and the response left higher interest rates for longer.
+- That makes the cost of debt a constraint, and it feeds back into growth and social cohesion.
+
+Sources:
+
+- IMF blog (Apr 2025) notes rising debt levels and that high interest rates can limit essential spending on social programs and public investment.
+  https://www.imf.org/en/blogs/articles/2025/04/23/rising-global-debt-requires-countries-to-put-their-fiscal-house-in-order
+- IMF Fiscal Monitor media center notes that interest rates have increased considerably and the interest bill outlook is uncertain.
+  https://mediacenter.imf.org/news/imf---october-2025-fiscal-monitor/s/a770da3b-295d-41ec-b133-41ba455e02b0
+:::
+
+## Central banks in 2026: disinflation, but no victory lap
+
+- **Fed:** holding **3.5%–3.75%**, with inflation “somewhat elevated”
+- **BoE:** Bank Rate **3.75%**; sees inflation returning near target, but watches wage/services persistence
+- **ECB:** deposit facility **2.00%** (current operational anchor)
+
+![](images/imf_inflation_dynamics_diverge_fig5.png){width=75% fig-alt="IMF WEO Update (Jan 2026) Figure 5: Inflation dynamics diverge"}
+
+::: notes
+Talk track (2–3 minutes):
+
+- This is the “tightrope”: cut too early and risk persistence; wait too long and risk unnecessary slowdown + financial stress.
+- Use the IMF chart to highlight that inflation paths differ by economy—so policy is less synchronized than in the early post-pandemic tightening phase.
+
+Sources:
+
+- Fed FOMC statement (Jan 28, 2026): target range 3-1/2 to 3-3/4 percent; inflation remains somewhat elevated.
+  https://www.federalreserve.gov/newsevents/pressreleases/monetary20260128a.htm
+- Bank of England Monetary Policy Report (Feb 2026): vote 5–4 to hold at 3.75; discussion of inflation returning around target and services/wage pressures.
+  https://www.bankofengland.co.uk/monetary-policy-report/2026/february-2026
+- ECB official interest rates table shows deposit facility rate at 2.00% (effective 11 Jun 2025).
+  https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html
+- IMF WEO Update (Jan 2026) figure and inflation discussion.
+  https://financing.desa.un.org/sites/default/files/2026-01/IMF%20World%20Economic%20outlook%20update%202026JAN.pdf
+:::
+
+## Disinflation ≠ relief: the price level is the problem
+
+- People experience *levels* (rent, groceries, energy bills), not just *rates*
+- High-price essentials crowd out discretionary spending
+- Perceived unfairness (“prices imposed”) becomes a political and workplace issue
+
+::: notes
+Talk track (2 minutes):
+
+- Inflation falling from 8% to 2% does not rewind prices — it slows the *rate of further increases*.
+- That helps central banks, but households still face a higher baseline for necessities.
+
+Good prompt for discussion: “What costs feel *structural* for your team/customers?”
+
+Sources:
+
+- TIME affordability article provides examples of persistent level effects (housing, energy, food) and ongoing salience even as inflation cools.
+  https://time.com/collections/davos-2026/7339214/global-affordability-crisis-cost-of-living-inflation-politics/
+- UNCTAD WESP 2026 emphasizes that high prices continue to erode real incomes and increase inequality even as inflation eases.
+  https://unctad.org/publication/world-economic-situation-and-prospects-2026
+:::
+
+## Challenge #1 — the “last mile”: services inflation & wages
+
+- Services inflation is still high in many advanced economies
+- Wage growth and inflation expectations matter more when goods disinflation fades
+- Policy risk: easing too soon can re-ignite persistence
+
+::: notes
+Talk track (2 minutes):
+
+- Goods prices normalized as supply chains healed; now the remaining pressure is often “domestic” (services + labor costs).
+- Services is also where measurement and lags can be trickier.
+
+Anchors:
+
+- Eurostat flash: services inflation in the euro area was 3.2% in Jan 2026.
+  https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-04022026-ap
+- ECB speech (Jun 2025): headline around target, but services inflation “still has some distance to travel” for sustainable target stabilization.
+  https://www.ecb.europa.eu/press/key/date/2025/html/ecb.sp250624~6bc6bae5ac.en.html
+- Bank of England MPR (Feb 2026): notes services price inflation and wage growth still need to fall further for confidence about sustainable 2%.
+  https://www.bankofengland.co.uk/monetary-policy-report/2026/february-2026
+:::
+
+## Challenge #2 — housing: the slow-moving inflation engine
+
+- Housing is both a price-level shock *and* a monetary-policy transmission channel
+- Supply constraints make housing inflation “sticky”
+- Higher rates can cool demand, but can also suppress new supply (construction) and keep rents elevated
+
+::: notes
+Talk track (2–3 minutes):
+
+- In many places, housing is the dominant driver of “unaffordability,” even when headline inflation is near target.
+- Housing also links directly to wage bargaining and labor mobility.
+
+Use one concrete statistic to make the point:
+
+- TIME cites U.S. home prices up about 45% since 2020 as a key driver of affordability stress.
+  https://time.com/collections/davos-2026/7339214/global-affordability-crisis-cost-of-living-inflation-politics/
+
+If you want a UK-focused angle:
+
+- Bank of England discusses how restrictive policy continues to weigh on interest-rate-sensitive consumption/investment (transmission lags still matter).
+  https://www.bankofengland.co.uk/monetary-policy-report/2026/february-2026
+:::
+
+## Where inflation stands right now (Jan/Feb 2026 snapshot)
+
+- **Euro area:** headline **1.7%** y/y (flash, Jan 2026)
+- **UK:** CPI inflation **3.4%** (Dec) — expected back around **2%** from April
+- **US:** Fed funds target range held at **3.5%–3.75%** (Jan FOMC)
+- **Global:** headline inflation expected to decline from **4.1% (2025)** → **3.8% (2026)**
+
+::: notes
+Keep this fast: you just need to anchor the room.
+
+Sources:
+
+- Euro area flash estimate (headline 1.7% in Jan 2026; plus component detail used later):
+  https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-04022026-ap
+- Bank of England Monetary Policy Report (Feb 2026) for CPI 3.4% (Dec), expected back near target from April, and Bank Rate context:
+  https://www.bankofengland.co.uk/monetary-policy-report/2026/february-2026
+- Federal Reserve FOMC statement (Jan 28, 2026) for target range 3-1/2 to 3-3/4 percent:
+  https://www.federalreserve.gov/newsevents/pressreleases/monetary20260128a.htm
+- IMF WEO Update (Jan 2026) for global inflation path 4.1% (2025) → 3.8% (2026) → 3.4% (2027):
+  https://www.imf.org/en/publications/weo/issues/2026/01/19/world-economic-outlook-update-january-2026
+:::
+
+## A quick picture: what’s driving euro-area inflation now?
+
+![](images/eurostat_hicp_components_jan2026.png){width=85% fig-alt="Euro area inflation components, January 2026 (Eurostat)"}
+
+::: notes
+Use this slide to make the key point: energy can drag headline down, while services stays elevated.
+
+What to say:
+
+- Headline can look “solved,” but underlying domestically-driven components (especially services) can stay sticky.
+
+Source (image and component rates):
+
+- Eurostat flash estimate and chart:
+  https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-04022026-ap
+:::
+
+## Practical playbook (what to do with this)
+
+- **Pricing & contracts:** shorten price locks, use indexation where acceptable, monitor competitor resets
+- **Wages & retention:** focus on essentials (housing/transport/childcare), communicate total rewards clearly
+- **Procurement & supply:** dual-source critical inputs; build “shock clauses” for energy/transport
+- **Finance:** review debt maturities; stress-test cash flow under “rates stay high” + “growth slows” scenarios
+- **Customer & citizen empathy:** redesign journeys around affordability (smaller packs, cheaper tiers, flexible plans)
+
+::: notes
+This is the “so what” slide. Invite the room to pick one action per area.
+
+Prompt: “If inflation stays near target but prices remain high, what do we change first?”
+:::
+
+## Five takeaways to land
+
+1. Lower inflation doesn’t mean lower prices — affordability can stay politically and economically dominant.
+2. The remaining inflation risk is increasingly *domestic*: services, wages, housing.
+3. “Shockable” components (energy/food/trade) still drive volatility and policy caution.
+4. Higher rates are now part of the inflation story: refinancing stress, insolvencies, and fiscal constraints.
+5. The winning strategy is resilience: scenario planning + flexibility in pricing, supply, and balance sheets.
+
+::: notes
+If you have time for Q&A, ask:
+
+- Which challenge is biggest for *your* sector: housing, labor, energy, or financing?
+:::
+
+## Sources (selected)
+
+- Eurostat (flash HICP + component chart): https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-04022026-ap
+- Bank of England (Monetary Policy Report, Feb 2026): https://www.bankofengland.co.uk/monetary-policy-report/2026/february-2026
+- Federal Reserve (FOMC statement, Jan 28 2026): https://www.federalreserve.gov/newsevents/pressreleases/monetary20260128a.htm
+- ECB (key interest rates table): https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html
+- IMF (WEO Update, Jan 2026): https://www.imf.org/en/publications/weo/issues/2026/01/19/world-economic-outlook-update-january-2026
+- UNCTAD (World Economic Situation and Prospects 2026): https://unctad.org/publication/world-economic-situation-and-prospects-2026
+- Allianz (Global Insolvency Outlook 2026-27): https://www.allianz.com/en/economic_research/insights/publications/specials_fmo/251021-insolvency-outlook.html
+- IMF (debt + higher-rate fiscal constraints blog): https://www.imf.org/en/blogs/articles/2025/04/23/rising-global-debt-requires-countries-to-put-their-fiscal-house-in-order
+- World Bank (Food Security Update): https://www.worldbank.org/en/topic/agriculture/brief/food-security-update
+- ECB (El Niño and food prices): https://www.ecb.europa.eu/press/economic-bulletin/focus/2023/html/ecb.ebbox202306_01~36e78cc75e.en.html
+- Guardian (Feb 2026 El Niño risk reporting): https://www.theguardian.com/environment/2026/feb/08/global-weather-el-nino-pacific-ocean-high-temperatures-2027
+- TIME (Davos 2026 affordability squeeze essay): https://time.com/collections/davos-2026/7339214/global-affordability-crisis-cost-of-living-inflation-politics/
+
+::: notes
+Rendering:
+
+- In this folder, run: `quarto render inflation-challenges-2026.qmd`
+- Reveal.js output will be in `_site/` or alongside the source depending on your Quarto settings.
+:::
